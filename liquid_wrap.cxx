@@ -255,7 +255,7 @@ static void* Swig_malloc(int c) {
 extern "C" {
 #endif
 
-void _wrap_Swig_free_liquid_24d78331e3228d7c(void *_swig_go_0) {
+void _wrap_Swig_free_liquid_7b08cc538ffcb585(void *_swig_go_0) {
   void *arg1 = (void *) 0 ;
   
   arg1 = *(void **)&_swig_go_0; 
@@ -265,7 +265,7 @@ void _wrap_Swig_free_liquid_24d78331e3228d7c(void *_swig_go_0) {
 }
 
 
-void *_wrap_Swig_malloc_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+void *_wrap_Swig_malloc_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   int arg1 ;
   void *result = 0 ;
   void *_swig_go_result;
@@ -278,7 +278,7 @@ void *_wrap_Swig_malloc_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-_gostring_ _wrap_liquid_version_get_liquid_24d78331e3228d7c() {
+_gostring_ _wrap_LiquidVersion_get_liquid_7b08cc538ffcb585() {
   char *result = 0 ;
   _gostring_ _swig_go_result;
   
@@ -289,7 +289,7 @@ _gostring_ _wrap_liquid_version_get_liquid_24d78331e3228d7c() {
 }
 
 
-_gostring_ _wrap_liquid_libversion_liquid_24d78331e3228d7c() {
+_gostring_ _wrap_LiquidLibversion_liquid_7b08cc538ffcb585() {
   char *result = 0 ;
   _gostring_ _swig_go_result;
   
@@ -300,7 +300,7 @@ _gostring_ _wrap_liquid_libversion_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_liquid_libversion_number_liquid_24d78331e3228d7c() {
+intgo _wrap_LiquidLibversionNumber_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -311,7 +311,7 @@ intgo _wrap_liquid_libversion_number_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_liquid_float_complex_real_set_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, float _swig_go_1) {
+void _wrap_LiquidFloatComplex_Real_set_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, float _swig_go_1) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   float arg2 ;
   
@@ -323,7 +323,7 @@ void _wrap_liquid_float_complex_real_set_liquid_24d78331e3228d7c(liquid_float_co
 }
 
 
-float _wrap_liquid_float_complex_real_get_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0) {
+float _wrap_LiquidFloatComplex_Real_get_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   float result;
   float _swig_go_result;
@@ -336,7 +336,7 @@ float _wrap_liquid_float_complex_real_get_liquid_24d78331e3228d7c(liquid_float_c
 }
 
 
-void _wrap_liquid_float_complex_imag_set_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, float _swig_go_1) {
+void _wrap_LiquidFloatComplex_Imag_set_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, float _swig_go_1) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   float arg2 ;
   
@@ -348,7 +348,7 @@ void _wrap_liquid_float_complex_imag_set_liquid_24d78331e3228d7c(liquid_float_co
 }
 
 
-float _wrap_liquid_float_complex_imag_get_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0) {
+float _wrap_LiquidFloatComplex_Imag_get_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   float result;
   float _swig_go_result;
@@ -361,7 +361,7 @@ float _wrap_liquid_float_complex_imag_get_liquid_24d78331e3228d7c(liquid_float_c
 }
 
 
-liquid_float_complex *_wrap_new_liquid_float_complex_liquid_24d78331e3228d7c() {
+liquid_float_complex *_wrap_new_LiquidFloatComplex_liquid_7b08cc538ffcb585() {
   liquid_float_complex *result = 0 ;
   liquid_float_complex *_swig_go_result;
   
@@ -372,7 +372,7 @@ liquid_float_complex *_wrap_new_liquid_float_complex_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_delete_liquid_float_complex_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0) {
+void _wrap_delete_LiquidFloatComplex_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   
   arg1 = *(liquid_float_complex **)&_swig_go_0; 
@@ -382,7 +382,7 @@ void _wrap_delete_liquid_float_complex_liquid_24d78331e3228d7c(liquid_float_comp
 }
 
 
-void _wrap_liquid_double_complex_real_set_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, double _swig_go_1) {
+void _wrap_LiquidDoubleComplex_Real_set_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, double _swig_go_1) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   double arg2 ;
   
@@ -394,7 +394,7 @@ void _wrap_liquid_double_complex_real_set_liquid_24d78331e3228d7c(liquid_double_
 }
 
 
-double _wrap_liquid_double_complex_real_get_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0) {
+double _wrap_LiquidDoubleComplex_Real_get_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   double result;
   double _swig_go_result;
@@ -407,7 +407,7 @@ double _wrap_liquid_double_complex_real_get_liquid_24d78331e3228d7c(liquid_doubl
 }
 
 
-void _wrap_liquid_double_complex_imag_set_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, double _swig_go_1) {
+void _wrap_LiquidDoubleComplex_Imag_set_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, double _swig_go_1) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   double arg2 ;
   
@@ -419,7 +419,7 @@ void _wrap_liquid_double_complex_imag_set_liquid_24d78331e3228d7c(liquid_double_
 }
 
 
-double _wrap_liquid_double_complex_imag_get_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0) {
+double _wrap_LiquidDoubleComplex_Imag_get_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   double result;
   double _swig_go_result;
@@ -432,7 +432,7 @@ double _wrap_liquid_double_complex_imag_get_liquid_24d78331e3228d7c(liquid_doubl
 }
 
 
-liquid_double_complex *_wrap_new_liquid_double_complex_liquid_24d78331e3228d7c() {
+liquid_double_complex *_wrap_new_LiquidDoubleComplex_liquid_7b08cc538ffcb585() {
   liquid_double_complex *result = 0 ;
   liquid_double_complex *_swig_go_result;
   
@@ -443,7 +443,7 @@ liquid_double_complex *_wrap_new_liquid_double_complex_liquid_24d78331e3228d7c()
 }
 
 
-void _wrap_delete_liquid_double_complex_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0) {
+void _wrap_delete_LiquidDoubleComplex_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   
   arg1 = *(liquid_double_complex **)&_swig_go_0; 
@@ -453,7 +453,7 @@ void _wrap_delete_liquid_double_complex_liquid_24d78331e3228d7c(liquid_double_co
 }
 
 
-intgo _wrap_LIQUID_AGC_SQUELCH_UNKNOWN_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDAGCSQUELCHUNKNOWN_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -465,7 +465,7 @@ intgo _wrap_LIQUID_AGC_SQUELCH_UNKNOWN_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_AGC_SQUELCH_ENABLED_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDAGCSQUELCHENABLED_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -477,7 +477,7 @@ intgo _wrap_LIQUID_AGC_SQUELCH_ENABLED_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_AGC_SQUELCH_RISE_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDAGCSQUELCHRISE_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -489,7 +489,7 @@ intgo _wrap_LIQUID_AGC_SQUELCH_RISE_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_AGC_SQUELCH_SIGNALHI_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDAGCSQUELCHSIGNALHI_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -501,7 +501,7 @@ intgo _wrap_LIQUID_AGC_SQUELCH_SIGNALHI_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_AGC_SQUELCH_FALL_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDAGCSQUELCHFALL_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -513,7 +513,7 @@ intgo _wrap_LIQUID_AGC_SQUELCH_FALL_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_AGC_SQUELCH_SIGNALLO_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDAGCSQUELCHSIGNALLO_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -525,7 +525,7 @@ intgo _wrap_LIQUID_AGC_SQUELCH_SIGNALLO_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_AGC_SQUELCH_TIMEOUT_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDAGCSQUELCHTIMEOUT_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -537,7 +537,7 @@ intgo _wrap_LIQUID_AGC_SQUELCH_TIMEOUT_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_AGC_SQUELCH_DISABLED_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDAGCSQUELCHDISABLED_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -549,7 +549,7 @@ intgo _wrap_LIQUID_AGC_SQUELCH_DISABLED_liquid_24d78331e3228d7c() {
 }
 
 
-agc_crcf_s *_wrap_agc_crcf_create_liquid_24d78331e3228d7c() {
+agc_crcf_s *_wrap_AgcCrcfCreate_liquid_7b08cc538ffcb585() {
   agc_crcf result;
   agc_crcf_s *_swig_go_result;
   
@@ -560,7 +560,7 @@ agc_crcf_s *_wrap_agc_crcf_create_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_agc_crcf_destroy_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0) {
+void _wrap_AgcCrcfDestroy_liquid_7b08cc538ffcb585(agc_crcf_s *_swig_go_0) {
   agc_crcf arg1 = (agc_crcf) 0 ;
   
   arg1 = *(agc_crcf *)&_swig_go_0; 
@@ -570,7 +570,7 @@ void _wrap_agc_crcf_destroy_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0) {
 }
 
 
-void _wrap_agc_crcf_print_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0) {
+void _wrap_AgcCrcfPrint_liquid_7b08cc538ffcb585(agc_crcf_s *_swig_go_0) {
   agc_crcf arg1 = (agc_crcf) 0 ;
   
   arg1 = *(agc_crcf *)&_swig_go_0; 
@@ -580,7 +580,7 @@ void _wrap_agc_crcf_print_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0) {
 }
 
 
-void _wrap_agc_crcf_reset_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0) {
+void _wrap_AgcCrcfReset_liquid_7b08cc538ffcb585(agc_crcf_s *_swig_go_0) {
   agc_crcf arg1 = (agc_crcf) 0 ;
   
   arg1 = *(agc_crcf *)&_swig_go_0; 
@@ -590,7 +590,7 @@ void _wrap_agc_crcf_reset_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0) {
 }
 
 
-void _wrap_agc_crcf_execute_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_AgcCrcfExecute_liquid_7b08cc538ffcb585(agc_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   agc_crcf arg1 = (agc_crcf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -611,7 +611,7 @@ void _wrap_agc_crcf_execute_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0, liqu
 }
 
 
-void _wrap_agc_crcf_execute_block_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_AgcCrcfExecuteBlock_liquid_7b08cc538ffcb585(agc_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   agc_crcf arg1 = (agc_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -627,7 +627,7 @@ void _wrap_agc_crcf_execute_block_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0
 }
 
 
-void _wrap_agc_crcf_lock_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0) {
+void _wrap_AgcCrcfLock_liquid_7b08cc538ffcb585(agc_crcf_s *_swig_go_0) {
   agc_crcf arg1 = (agc_crcf) 0 ;
   
   arg1 = *(agc_crcf *)&_swig_go_0; 
@@ -637,7 +637,7 @@ void _wrap_agc_crcf_lock_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0) {
 }
 
 
-void _wrap_agc_crcf_unlock_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0) {
+void _wrap_AgcCrcfUnlock_liquid_7b08cc538ffcb585(agc_crcf_s *_swig_go_0) {
   agc_crcf arg1 = (agc_crcf) 0 ;
   
   arg1 = *(agc_crcf *)&_swig_go_0; 
@@ -647,7 +647,7 @@ void _wrap_agc_crcf_unlock_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0) {
 }
 
 
-void _wrap_agc_crcf_set_bandwidth_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_AgcCrcfSetBandwidth_liquid_7b08cc538ffcb585(agc_crcf_s *_swig_go_0, float _swig_go_1) {
   agc_crcf arg1 = (agc_crcf) 0 ;
   float arg2 ;
   
@@ -659,7 +659,7 @@ void _wrap_agc_crcf_set_bandwidth_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0
 }
 
 
-float _wrap_agc_crcf_get_bandwidth_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0) {
+float _wrap_AgcCrcfGetBandwidth_liquid_7b08cc538ffcb585(agc_crcf_s *_swig_go_0) {
   agc_crcf arg1 = (agc_crcf) 0 ;
   float result;
   float _swig_go_result;
@@ -672,7 +672,7 @@ float _wrap_agc_crcf_get_bandwidth_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_
 }
 
 
-float _wrap_agc_crcf_get_signal_level_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0) {
+float _wrap_AgcCrcfGetSignalLevel_liquid_7b08cc538ffcb585(agc_crcf_s *_swig_go_0) {
   agc_crcf arg1 = (agc_crcf) 0 ;
   float result;
   float _swig_go_result;
@@ -685,7 +685,7 @@ float _wrap_agc_crcf_get_signal_level_liquid_24d78331e3228d7c(agc_crcf_s *_swig_
 }
 
 
-void _wrap_agc_crcf_set_signal_level_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_AgcCrcfSetSignalLevel_liquid_7b08cc538ffcb585(agc_crcf_s *_swig_go_0, float _swig_go_1) {
   agc_crcf arg1 = (agc_crcf) 0 ;
   float arg2 ;
   
@@ -697,7 +697,7 @@ void _wrap_agc_crcf_set_signal_level_liquid_24d78331e3228d7c(agc_crcf_s *_swig_g
 }
 
 
-float _wrap_agc_crcf_get_rssi_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0) {
+float _wrap_AgcCrcfGetRssi_liquid_7b08cc538ffcb585(agc_crcf_s *_swig_go_0) {
   agc_crcf arg1 = (agc_crcf) 0 ;
   float result;
   float _swig_go_result;
@@ -710,7 +710,7 @@ float _wrap_agc_crcf_get_rssi_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0) {
 }
 
 
-void _wrap_agc_crcf_set_rssi_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_AgcCrcfSetRssi_liquid_7b08cc538ffcb585(agc_crcf_s *_swig_go_0, float _swig_go_1) {
   agc_crcf arg1 = (agc_crcf) 0 ;
   float arg2 ;
   
@@ -722,7 +722,7 @@ void _wrap_agc_crcf_set_rssi_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0, flo
 }
 
 
-float _wrap_agc_crcf_get_gain_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0) {
+float _wrap_AgcCrcfGetGain_liquid_7b08cc538ffcb585(agc_crcf_s *_swig_go_0) {
   agc_crcf arg1 = (agc_crcf) 0 ;
   float result;
   float _swig_go_result;
@@ -735,7 +735,7 @@ float _wrap_agc_crcf_get_gain_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0) {
 }
 
 
-void _wrap_agc_crcf_set_gain_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_AgcCrcfSetGain_liquid_7b08cc538ffcb585(agc_crcf_s *_swig_go_0, float _swig_go_1) {
   agc_crcf arg1 = (agc_crcf) 0 ;
   float arg2 ;
   
@@ -747,7 +747,7 @@ void _wrap_agc_crcf_set_gain_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0, flo
 }
 
 
-float _wrap_agc_crcf_get_scale_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0) {
+float _wrap_AgcCrcfGetScale_liquid_7b08cc538ffcb585(agc_crcf_s *_swig_go_0) {
   agc_crcf arg1 = (agc_crcf) 0 ;
   float result;
   float _swig_go_result;
@@ -760,7 +760,7 @@ float _wrap_agc_crcf_get_scale_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0) {
 }
 
 
-void _wrap_agc_crcf_set_scale_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_AgcCrcfSetScale_liquid_7b08cc538ffcb585(agc_crcf_s *_swig_go_0, float _swig_go_1) {
   agc_crcf arg1 = (agc_crcf) 0 ;
   float arg2 ;
   
@@ -772,7 +772,7 @@ void _wrap_agc_crcf_set_scale_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0, fl
 }
 
 
-void _wrap_agc_crcf_init_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+void _wrap_AgcCrcfInit_liquid_7b08cc538ffcb585(agc_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   agc_crcf arg1 = (agc_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -786,7 +786,7 @@ void _wrap_agc_crcf_init_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0, liquid_
 }
 
 
-void _wrap_agc_crcf_squelch_enable_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0) {
+void _wrap_AgcCrcfSquelchEnable_liquid_7b08cc538ffcb585(agc_crcf_s *_swig_go_0) {
   agc_crcf arg1 = (agc_crcf) 0 ;
   
   arg1 = *(agc_crcf *)&_swig_go_0; 
@@ -796,7 +796,7 @@ void _wrap_agc_crcf_squelch_enable_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_
 }
 
 
-void _wrap_agc_crcf_squelch_disable_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0) {
+void _wrap_AgcCrcfSquelchDisable_liquid_7b08cc538ffcb585(agc_crcf_s *_swig_go_0) {
   agc_crcf arg1 = (agc_crcf) 0 ;
   
   arg1 = *(agc_crcf *)&_swig_go_0; 
@@ -806,7 +806,7 @@ void _wrap_agc_crcf_squelch_disable_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go
 }
 
 
-intgo _wrap_agc_crcf_squelch_is_enabled_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0) {
+intgo _wrap_AgcCrcfSquelchIsEnabled_liquid_7b08cc538ffcb585(agc_crcf_s *_swig_go_0) {
   agc_crcf arg1 = (agc_crcf) 0 ;
   int result;
   intgo _swig_go_result;
@@ -819,7 +819,7 @@ intgo _wrap_agc_crcf_squelch_is_enabled_liquid_24d78331e3228d7c(agc_crcf_s *_swi
 }
 
 
-void _wrap_agc_crcf_squelch_set_threshold_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_AgcCrcfSquelchSetThreshold_liquid_7b08cc538ffcb585(agc_crcf_s *_swig_go_0, float _swig_go_1) {
   agc_crcf arg1 = (agc_crcf) 0 ;
   float arg2 ;
   
@@ -831,7 +831,7 @@ void _wrap_agc_crcf_squelch_set_threshold_liquid_24d78331e3228d7c(agc_crcf_s *_s
 }
 
 
-float _wrap_agc_crcf_squelch_get_threshold_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0) {
+float _wrap_AgcCrcfSquelchGetThreshold_liquid_7b08cc538ffcb585(agc_crcf_s *_swig_go_0) {
   agc_crcf arg1 = (agc_crcf) 0 ;
   float result;
   float _swig_go_result;
@@ -844,7 +844,7 @@ float _wrap_agc_crcf_squelch_get_threshold_liquid_24d78331e3228d7c(agc_crcf_s *_
 }
 
 
-void _wrap_agc_crcf_squelch_set_timeout_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_AgcCrcfSquelchSetTimeout_liquid_7b08cc538ffcb585(agc_crcf_s *_swig_go_0, intgo _swig_go_1) {
   agc_crcf arg1 = (agc_crcf) 0 ;
   unsigned int arg2 ;
   
@@ -856,7 +856,7 @@ void _wrap_agc_crcf_squelch_set_timeout_liquid_24d78331e3228d7c(agc_crcf_s *_swi
 }
 
 
-intgo _wrap_agc_crcf_squelch_get_timeout_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0) {
+intgo _wrap_AgcCrcfSquelchGetTimeout_liquid_7b08cc538ffcb585(agc_crcf_s *_swig_go_0) {
   agc_crcf arg1 = (agc_crcf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -869,7 +869,7 @@ intgo _wrap_agc_crcf_squelch_get_timeout_liquid_24d78331e3228d7c(agc_crcf_s *_sw
 }
 
 
-intgo _wrap_agc_crcf_squelch_get_status_liquid_24d78331e3228d7c(agc_crcf_s *_swig_go_0) {
+intgo _wrap_AgcCrcfSquelchGetStatus_liquid_7b08cc538ffcb585(agc_crcf_s *_swig_go_0) {
   agc_crcf arg1 = (agc_crcf) 0 ;
   int result;
   intgo _swig_go_result;
@@ -882,7 +882,7 @@ intgo _wrap_agc_crcf_squelch_get_status_liquid_24d78331e3228d7c(agc_crcf_s *_swi
 }
 
 
-agc_rrrf_s *_wrap_agc_rrrf_create_liquid_24d78331e3228d7c() {
+agc_rrrf_s *_wrap_AgcRrrfCreate_liquid_7b08cc538ffcb585() {
   agc_rrrf result;
   agc_rrrf_s *_swig_go_result;
   
@@ -893,7 +893,7 @@ agc_rrrf_s *_wrap_agc_rrrf_create_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_agc_rrrf_destroy_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0) {
+void _wrap_AgcRrrfDestroy_liquid_7b08cc538ffcb585(agc_rrrf_s *_swig_go_0) {
   agc_rrrf arg1 = (agc_rrrf) 0 ;
   
   arg1 = *(agc_rrrf *)&_swig_go_0; 
@@ -903,7 +903,7 @@ void _wrap_agc_rrrf_destroy_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0) {
 }
 
 
-void _wrap_agc_rrrf_print_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0) {
+void _wrap_AgcRrrfPrint_liquid_7b08cc538ffcb585(agc_rrrf_s *_swig_go_0) {
   agc_rrrf arg1 = (agc_rrrf) 0 ;
   
   arg1 = *(agc_rrrf *)&_swig_go_0; 
@@ -913,7 +913,7 @@ void _wrap_agc_rrrf_print_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0) {
 }
 
 
-void _wrap_agc_rrrf_reset_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0) {
+void _wrap_AgcRrrfReset_liquid_7b08cc538ffcb585(agc_rrrf_s *_swig_go_0) {
   agc_rrrf arg1 = (agc_rrrf) 0 ;
   
   arg1 = *(agc_rrrf *)&_swig_go_0; 
@@ -923,7 +923,7 @@ void _wrap_agc_rrrf_reset_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0) {
 }
 
 
-void _wrap_agc_rrrf_execute_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0, float _swig_go_1, float *_swig_go_2) {
+void _wrap_AgcRrrfExecute_liquid_7b08cc538ffcb585(agc_rrrf_s *_swig_go_0, float _swig_go_1, float *_swig_go_2) {
   agc_rrrf arg1 = (agc_rrrf) 0 ;
   float arg2 ;
   float *arg3 = (float *) 0 ;
@@ -937,7 +937,7 @@ void _wrap_agc_rrrf_execute_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0, floa
 }
 
 
-void _wrap_agc_rrrf_execute_block_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_AgcRrrfExecuteBlock_liquid_7b08cc538ffcb585(agc_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   agc_rrrf arg1 = (agc_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -953,7 +953,7 @@ void _wrap_agc_rrrf_execute_block_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0
 }
 
 
-void _wrap_agc_rrrf_lock_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0) {
+void _wrap_AgcRrrfLock_liquid_7b08cc538ffcb585(agc_rrrf_s *_swig_go_0) {
   agc_rrrf arg1 = (agc_rrrf) 0 ;
   
   arg1 = *(agc_rrrf *)&_swig_go_0; 
@@ -963,7 +963,7 @@ void _wrap_agc_rrrf_lock_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0) {
 }
 
 
-void _wrap_agc_rrrf_unlock_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0) {
+void _wrap_AgcRrrfUnlock_liquid_7b08cc538ffcb585(agc_rrrf_s *_swig_go_0) {
   agc_rrrf arg1 = (agc_rrrf) 0 ;
   
   arg1 = *(agc_rrrf *)&_swig_go_0; 
@@ -973,7 +973,7 @@ void _wrap_agc_rrrf_unlock_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0) {
 }
 
 
-void _wrap_agc_rrrf_set_bandwidth_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_AgcRrrfSetBandwidth_liquid_7b08cc538ffcb585(agc_rrrf_s *_swig_go_0, float _swig_go_1) {
   agc_rrrf arg1 = (agc_rrrf) 0 ;
   float arg2 ;
   
@@ -985,7 +985,7 @@ void _wrap_agc_rrrf_set_bandwidth_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0
 }
 
 
-float _wrap_agc_rrrf_get_bandwidth_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0) {
+float _wrap_AgcRrrfGetBandwidth_liquid_7b08cc538ffcb585(agc_rrrf_s *_swig_go_0) {
   agc_rrrf arg1 = (agc_rrrf) 0 ;
   float result;
   float _swig_go_result;
@@ -998,7 +998,7 @@ float _wrap_agc_rrrf_get_bandwidth_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_
 }
 
 
-float _wrap_agc_rrrf_get_signal_level_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0) {
+float _wrap_AgcRrrfGetSignalLevel_liquid_7b08cc538ffcb585(agc_rrrf_s *_swig_go_0) {
   agc_rrrf arg1 = (agc_rrrf) 0 ;
   float result;
   float _swig_go_result;
@@ -1011,7 +1011,7 @@ float _wrap_agc_rrrf_get_signal_level_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_
 }
 
 
-void _wrap_agc_rrrf_set_signal_level_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_AgcRrrfSetSignalLevel_liquid_7b08cc538ffcb585(agc_rrrf_s *_swig_go_0, float _swig_go_1) {
   agc_rrrf arg1 = (agc_rrrf) 0 ;
   float arg2 ;
   
@@ -1023,7 +1023,7 @@ void _wrap_agc_rrrf_set_signal_level_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_g
 }
 
 
-float _wrap_agc_rrrf_get_rssi_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0) {
+float _wrap_AgcRrrfGetRssi_liquid_7b08cc538ffcb585(agc_rrrf_s *_swig_go_0) {
   agc_rrrf arg1 = (agc_rrrf) 0 ;
   float result;
   float _swig_go_result;
@@ -1036,7 +1036,7 @@ float _wrap_agc_rrrf_get_rssi_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0) {
 }
 
 
-void _wrap_agc_rrrf_set_rssi_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_AgcRrrfSetRssi_liquid_7b08cc538ffcb585(agc_rrrf_s *_swig_go_0, float _swig_go_1) {
   agc_rrrf arg1 = (agc_rrrf) 0 ;
   float arg2 ;
   
@@ -1048,7 +1048,7 @@ void _wrap_agc_rrrf_set_rssi_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0, flo
 }
 
 
-float _wrap_agc_rrrf_get_gain_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0) {
+float _wrap_AgcRrrfGetGain_liquid_7b08cc538ffcb585(agc_rrrf_s *_swig_go_0) {
   agc_rrrf arg1 = (agc_rrrf) 0 ;
   float result;
   float _swig_go_result;
@@ -1061,7 +1061,7 @@ float _wrap_agc_rrrf_get_gain_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0) {
 }
 
 
-void _wrap_agc_rrrf_set_gain_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_AgcRrrfSetGain_liquid_7b08cc538ffcb585(agc_rrrf_s *_swig_go_0, float _swig_go_1) {
   agc_rrrf arg1 = (agc_rrrf) 0 ;
   float arg2 ;
   
@@ -1073,7 +1073,7 @@ void _wrap_agc_rrrf_set_gain_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0, flo
 }
 
 
-float _wrap_agc_rrrf_get_scale_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0) {
+float _wrap_AgcRrrfGetScale_liquid_7b08cc538ffcb585(agc_rrrf_s *_swig_go_0) {
   agc_rrrf arg1 = (agc_rrrf) 0 ;
   float result;
   float _swig_go_result;
@@ -1086,7 +1086,7 @@ float _wrap_agc_rrrf_get_scale_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0) {
 }
 
 
-void _wrap_agc_rrrf_set_scale_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_AgcRrrfSetScale_liquid_7b08cc538ffcb585(agc_rrrf_s *_swig_go_0, float _swig_go_1) {
   agc_rrrf arg1 = (agc_rrrf) 0 ;
   float arg2 ;
   
@@ -1098,7 +1098,7 @@ void _wrap_agc_rrrf_set_scale_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0, fl
 }
 
 
-void _wrap_agc_rrrf_init_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+void _wrap_AgcRrrfInit_liquid_7b08cc538ffcb585(agc_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   agc_rrrf arg1 = (agc_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -1112,7 +1112,7 @@ void _wrap_agc_rrrf_init_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0, float *
 }
 
 
-void _wrap_agc_rrrf_squelch_enable_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0) {
+void _wrap_AgcRrrfSquelchEnable_liquid_7b08cc538ffcb585(agc_rrrf_s *_swig_go_0) {
   agc_rrrf arg1 = (agc_rrrf) 0 ;
   
   arg1 = *(agc_rrrf *)&_swig_go_0; 
@@ -1122,7 +1122,7 @@ void _wrap_agc_rrrf_squelch_enable_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_
 }
 
 
-void _wrap_agc_rrrf_squelch_disable_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0) {
+void _wrap_AgcRrrfSquelchDisable_liquid_7b08cc538ffcb585(agc_rrrf_s *_swig_go_0) {
   agc_rrrf arg1 = (agc_rrrf) 0 ;
   
   arg1 = *(agc_rrrf *)&_swig_go_0; 
@@ -1132,7 +1132,7 @@ void _wrap_agc_rrrf_squelch_disable_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go
 }
 
 
-intgo _wrap_agc_rrrf_squelch_is_enabled_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0) {
+intgo _wrap_AgcRrrfSquelchIsEnabled_liquid_7b08cc538ffcb585(agc_rrrf_s *_swig_go_0) {
   agc_rrrf arg1 = (agc_rrrf) 0 ;
   int result;
   intgo _swig_go_result;
@@ -1145,7 +1145,7 @@ intgo _wrap_agc_rrrf_squelch_is_enabled_liquid_24d78331e3228d7c(agc_rrrf_s *_swi
 }
 
 
-void _wrap_agc_rrrf_squelch_set_threshold_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_AgcRrrfSquelchSetThreshold_liquid_7b08cc538ffcb585(agc_rrrf_s *_swig_go_0, float _swig_go_1) {
   agc_rrrf arg1 = (agc_rrrf) 0 ;
   float arg2 ;
   
@@ -1157,7 +1157,7 @@ void _wrap_agc_rrrf_squelch_set_threshold_liquid_24d78331e3228d7c(agc_rrrf_s *_s
 }
 
 
-float _wrap_agc_rrrf_squelch_get_threshold_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0) {
+float _wrap_AgcRrrfSquelchGetThreshold_liquid_7b08cc538ffcb585(agc_rrrf_s *_swig_go_0) {
   agc_rrrf arg1 = (agc_rrrf) 0 ;
   float result;
   float _swig_go_result;
@@ -1170,7 +1170,7 @@ float _wrap_agc_rrrf_squelch_get_threshold_liquid_24d78331e3228d7c(agc_rrrf_s *_
 }
 
 
-void _wrap_agc_rrrf_squelch_set_timeout_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_AgcRrrfSquelchSetTimeout_liquid_7b08cc538ffcb585(agc_rrrf_s *_swig_go_0, intgo _swig_go_1) {
   agc_rrrf arg1 = (agc_rrrf) 0 ;
   unsigned int arg2 ;
   
@@ -1182,7 +1182,7 @@ void _wrap_agc_rrrf_squelch_set_timeout_liquid_24d78331e3228d7c(agc_rrrf_s *_swi
 }
 
 
-intgo _wrap_agc_rrrf_squelch_get_timeout_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0) {
+intgo _wrap_AgcRrrfSquelchGetTimeout_liquid_7b08cc538ffcb585(agc_rrrf_s *_swig_go_0) {
   agc_rrrf arg1 = (agc_rrrf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -1195,7 +1195,7 @@ intgo _wrap_agc_rrrf_squelch_get_timeout_liquid_24d78331e3228d7c(agc_rrrf_s *_sw
 }
 
 
-intgo _wrap_agc_rrrf_squelch_get_status_liquid_24d78331e3228d7c(agc_rrrf_s *_swig_go_0) {
+intgo _wrap_AgcRrrfSquelchGetStatus_liquid_7b08cc538ffcb585(agc_rrrf_s *_swig_go_0) {
   agc_rrrf arg1 = (agc_rrrf) 0 ;
   int result;
   intgo _swig_go_result;
@@ -1208,7 +1208,7 @@ intgo _wrap_agc_rrrf_squelch_get_status_liquid_24d78331e3228d7c(agc_rrrf_s *_swi
 }
 
 
-cvsd_s *_wrap_cvsd_create_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1, float _swig_go_2) {
+cvsd_s *_wrap_CvsdCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1, float _swig_go_2) {
   unsigned int arg1 ;
   float arg2 ;
   float arg3 ;
@@ -1225,7 +1225,7 @@ cvsd_s *_wrap_cvsd_create_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_
 }
 
 
-void _wrap_cvsd_destroy_liquid_24d78331e3228d7c(cvsd_s *_swig_go_0) {
+void _wrap_CvsdDestroy_liquid_7b08cc538ffcb585(cvsd_s *_swig_go_0) {
   cvsd arg1 = (cvsd) 0 ;
   
   arg1 = *(cvsd *)&_swig_go_0; 
@@ -1235,7 +1235,7 @@ void _wrap_cvsd_destroy_liquid_24d78331e3228d7c(cvsd_s *_swig_go_0) {
 }
 
 
-void _wrap_cvsd_print_liquid_24d78331e3228d7c(cvsd_s *_swig_go_0) {
+void _wrap_CvsdPrint_liquid_7b08cc538ffcb585(cvsd_s *_swig_go_0) {
   cvsd arg1 = (cvsd) 0 ;
   
   arg1 = *(cvsd *)&_swig_go_0; 
@@ -1245,7 +1245,7 @@ void _wrap_cvsd_print_liquid_24d78331e3228d7c(cvsd_s *_swig_go_0) {
 }
 
 
-char _wrap_cvsd_encode_liquid_24d78331e3228d7c(cvsd_s *_swig_go_0, float _swig_go_1) {
+char _wrap_CvsdEncode_liquid_7b08cc538ffcb585(cvsd_s *_swig_go_0, float _swig_go_1) {
   cvsd arg1 = (cvsd) 0 ;
   float arg2 ;
   unsigned char result;
@@ -1260,7 +1260,7 @@ char _wrap_cvsd_encode_liquid_24d78331e3228d7c(cvsd_s *_swig_go_0, float _swig_g
 }
 
 
-float _wrap_cvsd_decode_liquid_24d78331e3228d7c(cvsd_s *_swig_go_0, char _swig_go_1) {
+float _wrap_CvsdDecode_liquid_7b08cc538ffcb585(cvsd_s *_swig_go_0, char _swig_go_1) {
   cvsd arg1 = (cvsd) 0 ;
   unsigned char arg2 ;
   float result;
@@ -1275,7 +1275,7 @@ float _wrap_cvsd_decode_liquid_24d78331e3228d7c(cvsd_s *_swig_go_0, char _swig_g
 }
 
 
-void _wrap_cvsd_encode8_liquid_24d78331e3228d7c(cvsd_s *_swig_go_0, float *_swig_go_1, char *_swig_go_2) {
+void _wrap_CvsdEncode8_liquid_7b08cc538ffcb585(cvsd_s *_swig_go_0, float *_swig_go_1, char *_swig_go_2) {
   cvsd arg1 = (cvsd) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -1289,7 +1289,7 @@ void _wrap_cvsd_encode8_liquid_24d78331e3228d7c(cvsd_s *_swig_go_0, float *_swig
 }
 
 
-void _wrap_cvsd_decode8_liquid_24d78331e3228d7c(cvsd_s *_swig_go_0, char _swig_go_1, float *_swig_go_2) {
+void _wrap_CvsdDecode8_liquid_7b08cc538ffcb585(cvsd_s *_swig_go_0, char _swig_go_1, float *_swig_go_2) {
   cvsd arg1 = (cvsd) 0 ;
   unsigned char arg2 ;
   float *arg3 = (float *) 0 ;
@@ -1303,7 +1303,7 @@ void _wrap_cvsd_decode8_liquid_24d78331e3228d7c(cvsd_s *_swig_go_0, char _swig_g
 }
 
 
-cbufferf_s *_wrap_cbufferf_create_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+cbufferf_s *_wrap_CbufferfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   cbufferf result;
   cbufferf_s *_swig_go_result;
@@ -1316,7 +1316,7 @@ cbufferf_s *_wrap_cbufferf_create_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-cbufferf_s *_wrap_cbufferf_create_max_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+cbufferf_s *_wrap_CbufferfCreateMax_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   cbufferf result;
@@ -1331,7 +1331,7 @@ cbufferf_s *_wrap_cbufferf_create_max_liquid_24d78331e3228d7c(intgo _swig_go_0, 
 }
 
 
-void _wrap_cbufferf_destroy_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0) {
+void _wrap_CbufferfDestroy_liquid_7b08cc538ffcb585(cbufferf_s *_swig_go_0) {
   cbufferf arg1 = (cbufferf) 0 ;
   
   arg1 = *(cbufferf *)&_swig_go_0; 
@@ -1341,7 +1341,7 @@ void _wrap_cbufferf_destroy_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0) {
 }
 
 
-void _wrap_cbufferf_print_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0) {
+void _wrap_CbufferfPrint_liquid_7b08cc538ffcb585(cbufferf_s *_swig_go_0) {
   cbufferf arg1 = (cbufferf) 0 ;
   
   arg1 = *(cbufferf *)&_swig_go_0; 
@@ -1351,7 +1351,7 @@ void _wrap_cbufferf_print_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0) {
 }
 
 
-void _wrap_cbufferf_debug_print_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0) {
+void _wrap_CbufferfDebugPrint_liquid_7b08cc538ffcb585(cbufferf_s *_swig_go_0) {
   cbufferf arg1 = (cbufferf) 0 ;
   
   arg1 = *(cbufferf *)&_swig_go_0; 
@@ -1361,7 +1361,7 @@ void _wrap_cbufferf_debug_print_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0) 
 }
 
 
-void _wrap_cbufferf_reset_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0) {
+void _wrap_CbufferfReset_liquid_7b08cc538ffcb585(cbufferf_s *_swig_go_0) {
   cbufferf arg1 = (cbufferf) 0 ;
   
   arg1 = *(cbufferf *)&_swig_go_0; 
@@ -1371,7 +1371,7 @@ void _wrap_cbufferf_reset_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0) {
 }
 
 
-intgo _wrap_cbufferf_size_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0) {
+intgo _wrap_CbufferfSize_liquid_7b08cc538ffcb585(cbufferf_s *_swig_go_0) {
   cbufferf arg1 = (cbufferf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -1384,7 +1384,7 @@ intgo _wrap_cbufferf_size_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0) {
 }
 
 
-intgo _wrap_cbufferf_max_size_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0) {
+intgo _wrap_CbufferfMaxSize_liquid_7b08cc538ffcb585(cbufferf_s *_swig_go_0) {
   cbufferf arg1 = (cbufferf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -1397,7 +1397,7 @@ intgo _wrap_cbufferf_max_size_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0) {
 }
 
 
-intgo _wrap_cbufferf_max_read_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0) {
+intgo _wrap_CbufferfMaxRead_liquid_7b08cc538ffcb585(cbufferf_s *_swig_go_0) {
   cbufferf arg1 = (cbufferf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -1410,7 +1410,7 @@ intgo _wrap_cbufferf_max_read_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0) {
 }
 
 
-intgo _wrap_cbufferf_space_available_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0) {
+intgo _wrap_CbufferfSpaceAvailable_liquid_7b08cc538ffcb585(cbufferf_s *_swig_go_0) {
   cbufferf arg1 = (cbufferf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -1423,7 +1423,7 @@ intgo _wrap_cbufferf_space_available_liquid_24d78331e3228d7c(cbufferf_s *_swig_g
 }
 
 
-intgo _wrap_cbufferf_is_full_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0) {
+intgo _wrap_CbufferfIsFull_liquid_7b08cc538ffcb585(cbufferf_s *_swig_go_0) {
   cbufferf arg1 = (cbufferf) 0 ;
   int result;
   intgo _swig_go_result;
@@ -1436,7 +1436,7 @@ intgo _wrap_cbufferf_is_full_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0) {
 }
 
 
-void _wrap_cbufferf_push_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_CbufferfPush_liquid_7b08cc538ffcb585(cbufferf_s *_swig_go_0, float _swig_go_1) {
   cbufferf arg1 = (cbufferf) 0 ;
   float arg2 ;
   
@@ -1448,7 +1448,7 @@ void _wrap_cbufferf_push_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0, float _
 }
 
 
-void _wrap_cbufferf_write_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+void _wrap_CbufferfWrite_liquid_7b08cc538ffcb585(cbufferf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   cbufferf arg1 = (cbufferf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -1462,7 +1462,7 @@ void _wrap_cbufferf_write_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0, float 
 }
 
 
-void _wrap_cbufferf_pop_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_CbufferfPop_liquid_7b08cc538ffcb585(cbufferf_s *_swig_go_0, float *_swig_go_1) {
   cbufferf arg1 = (cbufferf) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -1474,7 +1474,7 @@ void _wrap_cbufferf_pop_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0, float *_
 }
 
 
-void _wrap_cbufferf_read_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0, intgo _swig_go_1, float **_swig_go_2, intgo *_swig_go_3) {
+void _wrap_CbufferfRead_liquid_7b08cc538ffcb585(cbufferf_s *_swig_go_0, intgo _swig_go_1, float **_swig_go_2, intgo *_swig_go_3) {
   cbufferf arg1 = (cbufferf) 0 ;
   unsigned int arg2 ;
   float **arg3 = (float **) 0 ;
@@ -1490,7 +1490,7 @@ void _wrap_cbufferf_read_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0, intgo _
 }
 
 
-void _wrap_cbufferf_release_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_CbufferfRelease_liquid_7b08cc538ffcb585(cbufferf_s *_swig_go_0, intgo _swig_go_1) {
   cbufferf arg1 = (cbufferf) 0 ;
   unsigned int arg2 ;
   
@@ -1502,7 +1502,7 @@ void _wrap_cbufferf_release_liquid_24d78331e3228d7c(cbufferf_s *_swig_go_0, intg
 }
 
 
-cbuffercf_s *_wrap_cbuffercf_create_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+cbuffercf_s *_wrap_CbuffercfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   cbuffercf result;
   cbuffercf_s *_swig_go_result;
@@ -1515,7 +1515,7 @@ cbuffercf_s *_wrap_cbuffercf_create_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-cbuffercf_s *_wrap_cbuffercf_create_max_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+cbuffercf_s *_wrap_CbuffercfCreateMax_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   cbuffercf result;
@@ -1530,7 +1530,7 @@ cbuffercf_s *_wrap_cbuffercf_create_max_liquid_24d78331e3228d7c(intgo _swig_go_0
 }
 
 
-void _wrap_cbuffercf_destroy_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0) {
+void _wrap_CbuffercfDestroy_liquid_7b08cc538ffcb585(cbuffercf_s *_swig_go_0) {
   cbuffercf arg1 = (cbuffercf) 0 ;
   
   arg1 = *(cbuffercf *)&_swig_go_0; 
@@ -1540,7 +1540,7 @@ void _wrap_cbuffercf_destroy_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0) {
 }
 
 
-void _wrap_cbuffercf_print_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0) {
+void _wrap_CbuffercfPrint_liquid_7b08cc538ffcb585(cbuffercf_s *_swig_go_0) {
   cbuffercf arg1 = (cbuffercf) 0 ;
   
   arg1 = *(cbuffercf *)&_swig_go_0; 
@@ -1550,7 +1550,7 @@ void _wrap_cbuffercf_print_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0) {
 }
 
 
-void _wrap_cbuffercf_debug_print_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0) {
+void _wrap_CbuffercfDebugPrint_liquid_7b08cc538ffcb585(cbuffercf_s *_swig_go_0) {
   cbuffercf arg1 = (cbuffercf) 0 ;
   
   arg1 = *(cbuffercf *)&_swig_go_0; 
@@ -1560,7 +1560,7 @@ void _wrap_cbuffercf_debug_print_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0
 }
 
 
-void _wrap_cbuffercf_reset_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0) {
+void _wrap_CbuffercfReset_liquid_7b08cc538ffcb585(cbuffercf_s *_swig_go_0) {
   cbuffercf arg1 = (cbuffercf) 0 ;
   
   arg1 = *(cbuffercf *)&_swig_go_0; 
@@ -1570,7 +1570,7 @@ void _wrap_cbuffercf_reset_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0) {
 }
 
 
-intgo _wrap_cbuffercf_size_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0) {
+intgo _wrap_CbuffercfSize_liquid_7b08cc538ffcb585(cbuffercf_s *_swig_go_0) {
   cbuffercf arg1 = (cbuffercf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -1583,7 +1583,7 @@ intgo _wrap_cbuffercf_size_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0) {
 }
 
 
-intgo _wrap_cbuffercf_max_size_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0) {
+intgo _wrap_CbuffercfMaxSize_liquid_7b08cc538ffcb585(cbuffercf_s *_swig_go_0) {
   cbuffercf arg1 = (cbuffercf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -1596,7 +1596,7 @@ intgo _wrap_cbuffercf_max_size_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0) 
 }
 
 
-intgo _wrap_cbuffercf_max_read_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0) {
+intgo _wrap_CbuffercfMaxRead_liquid_7b08cc538ffcb585(cbuffercf_s *_swig_go_0) {
   cbuffercf arg1 = (cbuffercf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -1609,7 +1609,7 @@ intgo _wrap_cbuffercf_max_read_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0) 
 }
 
 
-intgo _wrap_cbuffercf_space_available_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0) {
+intgo _wrap_CbuffercfSpaceAvailable_liquid_7b08cc538ffcb585(cbuffercf_s *_swig_go_0) {
   cbuffercf arg1 = (cbuffercf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -1622,7 +1622,7 @@ intgo _wrap_cbuffercf_space_available_liquid_24d78331e3228d7c(cbuffercf_s *_swig
 }
 
 
-intgo _wrap_cbuffercf_is_full_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0) {
+intgo _wrap_CbuffercfIsFull_liquid_7b08cc538ffcb585(cbuffercf_s *_swig_go_0) {
   cbuffercf arg1 = (cbuffercf) 0 ;
   int result;
   intgo _swig_go_result;
@@ -1635,7 +1635,7 @@ intgo _wrap_cbuffercf_is_full_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0) {
 }
 
 
-void _wrap_cbuffercf_push_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_CbuffercfPush_liquid_7b08cc538ffcb585(cbuffercf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   cbuffercf arg1 = (cbuffercf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -1654,7 +1654,7 @@ void _wrap_cbuffercf_push_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0, liqui
 }
 
 
-void _wrap_cbuffercf_write_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+void _wrap_CbuffercfWrite_liquid_7b08cc538ffcb585(cbuffercf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   cbuffercf arg1 = (cbuffercf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -1668,7 +1668,7 @@ void _wrap_cbuffercf_write_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0, liqu
 }
 
 
-void _wrap_cbuffercf_pop_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_CbuffercfPop_liquid_7b08cc538ffcb585(cbuffercf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   cbuffercf arg1 = (cbuffercf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -1680,7 +1680,7 @@ void _wrap_cbuffercf_pop_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0, liquid
 }
 
 
-void _wrap_cbuffercf_read_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0, intgo _swig_go_1, liquid_float_complex **_swig_go_2, intgo *_swig_go_3) {
+void _wrap_CbuffercfRead_liquid_7b08cc538ffcb585(cbuffercf_s *_swig_go_0, intgo _swig_go_1, liquid_float_complex **_swig_go_2, intgo *_swig_go_3) {
   cbuffercf arg1 = (cbuffercf) 0 ;
   unsigned int arg2 ;
   liquid_float_complex **arg3 = (liquid_float_complex **) 0 ;
@@ -1696,7 +1696,7 @@ void _wrap_cbuffercf_read_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0, intgo
 }
 
 
-void _wrap_cbuffercf_release_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_CbuffercfRelease_liquid_7b08cc538ffcb585(cbuffercf_s *_swig_go_0, intgo _swig_go_1) {
   cbuffercf arg1 = (cbuffercf) 0 ;
   unsigned int arg2 ;
   
@@ -1708,7 +1708,7 @@ void _wrap_cbuffercf_release_liquid_24d78331e3228d7c(cbuffercf_s *_swig_go_0, in
 }
 
 
-windowf_s *_wrap_windowf_create_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+windowf_s *_wrap_WindowfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   windowf result;
   windowf_s *_swig_go_result;
@@ -1721,7 +1721,7 @@ windowf_s *_wrap_windowf_create_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-windowf_s *_wrap_windowf_recreate_liquid_24d78331e3228d7c(windowf_s *_swig_go_0, intgo _swig_go_1) {
+windowf_s *_wrap_WindowfRecreate_liquid_7b08cc538ffcb585(windowf_s *_swig_go_0, intgo _swig_go_1) {
   windowf arg1 = (windowf) 0 ;
   unsigned int arg2 ;
   windowf result;
@@ -1736,7 +1736,7 @@ windowf_s *_wrap_windowf_recreate_liquid_24d78331e3228d7c(windowf_s *_swig_go_0,
 }
 
 
-void _wrap_windowf_destroy_liquid_24d78331e3228d7c(windowf_s *_swig_go_0) {
+void _wrap_WindowfDestroy_liquid_7b08cc538ffcb585(windowf_s *_swig_go_0) {
   windowf arg1 = (windowf) 0 ;
   
   arg1 = *(windowf *)&_swig_go_0; 
@@ -1746,7 +1746,7 @@ void _wrap_windowf_destroy_liquid_24d78331e3228d7c(windowf_s *_swig_go_0) {
 }
 
 
-void _wrap_windowf_print_liquid_24d78331e3228d7c(windowf_s *_swig_go_0) {
+void _wrap_WindowfPrint_liquid_7b08cc538ffcb585(windowf_s *_swig_go_0) {
   windowf arg1 = (windowf) 0 ;
   
   arg1 = *(windowf *)&_swig_go_0; 
@@ -1756,7 +1756,7 @@ void _wrap_windowf_print_liquid_24d78331e3228d7c(windowf_s *_swig_go_0) {
 }
 
 
-void _wrap_windowf_debug_print_liquid_24d78331e3228d7c(windowf_s *_swig_go_0) {
+void _wrap_WindowfDebugPrint_liquid_7b08cc538ffcb585(windowf_s *_swig_go_0) {
   windowf arg1 = (windowf) 0 ;
   
   arg1 = *(windowf *)&_swig_go_0; 
@@ -1766,7 +1766,7 @@ void _wrap_windowf_debug_print_liquid_24d78331e3228d7c(windowf_s *_swig_go_0) {
 }
 
 
-void _wrap_windowf_reset_liquid_24d78331e3228d7c(windowf_s *_swig_go_0) {
+void _wrap_WindowfReset_liquid_7b08cc538ffcb585(windowf_s *_swig_go_0) {
   windowf arg1 = (windowf) 0 ;
   
   arg1 = *(windowf *)&_swig_go_0; 
@@ -1776,7 +1776,7 @@ void _wrap_windowf_reset_liquid_24d78331e3228d7c(windowf_s *_swig_go_0) {
 }
 
 
-void _wrap_windowf_read_liquid_24d78331e3228d7c(windowf_s *_swig_go_0, float **_swig_go_1) {
+void _wrap_WindowfRead_liquid_7b08cc538ffcb585(windowf_s *_swig_go_0, float **_swig_go_1) {
   windowf arg1 = (windowf) 0 ;
   float **arg2 = (float **) 0 ;
   
@@ -1788,7 +1788,7 @@ void _wrap_windowf_read_liquid_24d78331e3228d7c(windowf_s *_swig_go_0, float **_
 }
 
 
-void _wrap_windowf_index_liquid_24d78331e3228d7c(windowf_s *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
+void _wrap_WindowfIndex_liquid_7b08cc538ffcb585(windowf_s *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
   windowf arg1 = (windowf) 0 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -1802,7 +1802,7 @@ void _wrap_windowf_index_liquid_24d78331e3228d7c(windowf_s *_swig_go_0, intgo _s
 }
 
 
-void _wrap_windowf_push_liquid_24d78331e3228d7c(windowf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_WindowfPush_liquid_7b08cc538ffcb585(windowf_s *_swig_go_0, float _swig_go_1) {
   windowf arg1 = (windowf) 0 ;
   float arg2 ;
   
@@ -1814,7 +1814,7 @@ void _wrap_windowf_push_liquid_24d78331e3228d7c(windowf_s *_swig_go_0, float _sw
 }
 
 
-void _wrap_windowf_write_liquid_24d78331e3228d7c(windowf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+void _wrap_WindowfWrite_liquid_7b08cc538ffcb585(windowf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   windowf arg1 = (windowf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -1828,7 +1828,7 @@ void _wrap_windowf_write_liquid_24d78331e3228d7c(windowf_s *_swig_go_0, float *_
 }
 
 
-windowcf_s *_wrap_windowcf_create_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+windowcf_s *_wrap_WindowcfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   windowcf result;
   windowcf_s *_swig_go_result;
@@ -1841,7 +1841,7 @@ windowcf_s *_wrap_windowcf_create_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-windowcf_s *_wrap_windowcf_recreate_liquid_24d78331e3228d7c(windowcf_s *_swig_go_0, intgo _swig_go_1) {
+windowcf_s *_wrap_WindowcfRecreate_liquid_7b08cc538ffcb585(windowcf_s *_swig_go_0, intgo _swig_go_1) {
   windowcf arg1 = (windowcf) 0 ;
   unsigned int arg2 ;
   windowcf result;
@@ -1856,7 +1856,7 @@ windowcf_s *_wrap_windowcf_recreate_liquid_24d78331e3228d7c(windowcf_s *_swig_go
 }
 
 
-void _wrap_windowcf_destroy_liquid_24d78331e3228d7c(windowcf_s *_swig_go_0) {
+void _wrap_WindowcfDestroy_liquid_7b08cc538ffcb585(windowcf_s *_swig_go_0) {
   windowcf arg1 = (windowcf) 0 ;
   
   arg1 = *(windowcf *)&_swig_go_0; 
@@ -1866,7 +1866,7 @@ void _wrap_windowcf_destroy_liquid_24d78331e3228d7c(windowcf_s *_swig_go_0) {
 }
 
 
-void _wrap_windowcf_print_liquid_24d78331e3228d7c(windowcf_s *_swig_go_0) {
+void _wrap_WindowcfPrint_liquid_7b08cc538ffcb585(windowcf_s *_swig_go_0) {
   windowcf arg1 = (windowcf) 0 ;
   
   arg1 = *(windowcf *)&_swig_go_0; 
@@ -1876,7 +1876,7 @@ void _wrap_windowcf_print_liquid_24d78331e3228d7c(windowcf_s *_swig_go_0) {
 }
 
 
-void _wrap_windowcf_debug_print_liquid_24d78331e3228d7c(windowcf_s *_swig_go_0) {
+void _wrap_WindowcfDebugPrint_liquid_7b08cc538ffcb585(windowcf_s *_swig_go_0) {
   windowcf arg1 = (windowcf) 0 ;
   
   arg1 = *(windowcf *)&_swig_go_0; 
@@ -1886,7 +1886,7 @@ void _wrap_windowcf_debug_print_liquid_24d78331e3228d7c(windowcf_s *_swig_go_0) 
 }
 
 
-void _wrap_windowcf_reset_liquid_24d78331e3228d7c(windowcf_s *_swig_go_0) {
+void _wrap_WindowcfReset_liquid_7b08cc538ffcb585(windowcf_s *_swig_go_0) {
   windowcf arg1 = (windowcf) 0 ;
   
   arg1 = *(windowcf *)&_swig_go_0; 
@@ -1896,7 +1896,7 @@ void _wrap_windowcf_reset_liquid_24d78331e3228d7c(windowcf_s *_swig_go_0) {
 }
 
 
-void _wrap_windowcf_read_liquid_24d78331e3228d7c(windowcf_s *_swig_go_0, liquid_float_complex **_swig_go_1) {
+void _wrap_WindowcfRead_liquid_7b08cc538ffcb585(windowcf_s *_swig_go_0, liquid_float_complex **_swig_go_1) {
   windowcf arg1 = (windowcf) 0 ;
   liquid_float_complex **arg2 = (liquid_float_complex **) 0 ;
   
@@ -1908,7 +1908,7 @@ void _wrap_windowcf_read_liquid_24d78331e3228d7c(windowcf_s *_swig_go_0, liquid_
 }
 
 
-void _wrap_windowcf_index_liquid_24d78331e3228d7c(windowcf_s *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_WindowcfIndex_liquid_7b08cc538ffcb585(windowcf_s *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
   windowcf arg1 = (windowcf) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -1922,7 +1922,7 @@ void _wrap_windowcf_index_liquid_24d78331e3228d7c(windowcf_s *_swig_go_0, intgo 
 }
 
 
-void _wrap_windowcf_push_liquid_24d78331e3228d7c(windowcf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_WindowcfPush_liquid_7b08cc538ffcb585(windowcf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   windowcf arg1 = (windowcf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -1941,7 +1941,7 @@ void _wrap_windowcf_push_liquid_24d78331e3228d7c(windowcf_s *_swig_go_0, liquid_
 }
 
 
-void _wrap_windowcf_write_liquid_24d78331e3228d7c(windowcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+void _wrap_WindowcfWrite_liquid_7b08cc538ffcb585(windowcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   windowcf arg1 = (windowcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -1955,7 +1955,7 @@ void _wrap_windowcf_write_liquid_24d78331e3228d7c(windowcf_s *_swig_go_0, liquid
 }
 
 
-wdelayf_s *_wrap_wdelayf_create_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+wdelayf_s *_wrap_WdelayfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   wdelayf result;
   wdelayf_s *_swig_go_result;
@@ -1968,7 +1968,7 @@ wdelayf_s *_wrap_wdelayf_create_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-wdelayf_s *_wrap_wdelayf_recreate_liquid_24d78331e3228d7c(wdelayf_s *_swig_go_0, intgo _swig_go_1) {
+wdelayf_s *_wrap_WdelayfRecreate_liquid_7b08cc538ffcb585(wdelayf_s *_swig_go_0, intgo _swig_go_1) {
   wdelayf arg1 = (wdelayf) 0 ;
   unsigned int arg2 ;
   wdelayf result;
@@ -1983,7 +1983,7 @@ wdelayf_s *_wrap_wdelayf_recreate_liquid_24d78331e3228d7c(wdelayf_s *_swig_go_0,
 }
 
 
-void _wrap_wdelayf_destroy_liquid_24d78331e3228d7c(wdelayf_s *_swig_go_0) {
+void _wrap_WdelayfDestroy_liquid_7b08cc538ffcb585(wdelayf_s *_swig_go_0) {
   wdelayf arg1 = (wdelayf) 0 ;
   
   arg1 = *(wdelayf *)&_swig_go_0; 
@@ -1993,7 +1993,7 @@ void _wrap_wdelayf_destroy_liquid_24d78331e3228d7c(wdelayf_s *_swig_go_0) {
 }
 
 
-void _wrap_wdelayf_print_liquid_24d78331e3228d7c(wdelayf_s *_swig_go_0) {
+void _wrap_WdelayfPrint_liquid_7b08cc538ffcb585(wdelayf_s *_swig_go_0) {
   wdelayf arg1 = (wdelayf) 0 ;
   
   arg1 = *(wdelayf *)&_swig_go_0; 
@@ -2003,7 +2003,7 @@ void _wrap_wdelayf_print_liquid_24d78331e3228d7c(wdelayf_s *_swig_go_0) {
 }
 
 
-void _wrap_wdelayf_reset_liquid_24d78331e3228d7c(wdelayf_s *_swig_go_0) {
+void _wrap_WdelayfReset_liquid_7b08cc538ffcb585(wdelayf_s *_swig_go_0) {
   wdelayf arg1 = (wdelayf) 0 ;
   
   arg1 = *(wdelayf *)&_swig_go_0; 
@@ -2013,7 +2013,7 @@ void _wrap_wdelayf_reset_liquid_24d78331e3228d7c(wdelayf_s *_swig_go_0) {
 }
 
 
-void _wrap_wdelayf_read_liquid_24d78331e3228d7c(wdelayf_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_WdelayfRead_liquid_7b08cc538ffcb585(wdelayf_s *_swig_go_0, float *_swig_go_1) {
   wdelayf arg1 = (wdelayf) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -2025,7 +2025,7 @@ void _wrap_wdelayf_read_liquid_24d78331e3228d7c(wdelayf_s *_swig_go_0, float *_s
 }
 
 
-void _wrap_wdelayf_push_liquid_24d78331e3228d7c(wdelayf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_WdelayfPush_liquid_7b08cc538ffcb585(wdelayf_s *_swig_go_0, float _swig_go_1) {
   wdelayf arg1 = (wdelayf) 0 ;
   float arg2 ;
   
@@ -2037,7 +2037,7 @@ void _wrap_wdelayf_push_liquid_24d78331e3228d7c(wdelayf_s *_swig_go_0, float _sw
 }
 
 
-wdelaycf_s *_wrap_wdelaycf_create_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+wdelaycf_s *_wrap_WdelaycfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   wdelaycf result;
   wdelaycf_s *_swig_go_result;
@@ -2050,7 +2050,7 @@ wdelaycf_s *_wrap_wdelaycf_create_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-wdelaycf_s *_wrap_wdelaycf_recreate_liquid_24d78331e3228d7c(wdelaycf_s *_swig_go_0, intgo _swig_go_1) {
+wdelaycf_s *_wrap_WdelaycfRecreate_liquid_7b08cc538ffcb585(wdelaycf_s *_swig_go_0, intgo _swig_go_1) {
   wdelaycf arg1 = (wdelaycf) 0 ;
   unsigned int arg2 ;
   wdelaycf result;
@@ -2065,7 +2065,7 @@ wdelaycf_s *_wrap_wdelaycf_recreate_liquid_24d78331e3228d7c(wdelaycf_s *_swig_go
 }
 
 
-void _wrap_wdelaycf_destroy_liquid_24d78331e3228d7c(wdelaycf_s *_swig_go_0) {
+void _wrap_WdelaycfDestroy_liquid_7b08cc538ffcb585(wdelaycf_s *_swig_go_0) {
   wdelaycf arg1 = (wdelaycf) 0 ;
   
   arg1 = *(wdelaycf *)&_swig_go_0; 
@@ -2075,7 +2075,7 @@ void _wrap_wdelaycf_destroy_liquid_24d78331e3228d7c(wdelaycf_s *_swig_go_0) {
 }
 
 
-void _wrap_wdelaycf_print_liquid_24d78331e3228d7c(wdelaycf_s *_swig_go_0) {
+void _wrap_WdelaycfPrint_liquid_7b08cc538ffcb585(wdelaycf_s *_swig_go_0) {
   wdelaycf arg1 = (wdelaycf) 0 ;
   
   arg1 = *(wdelaycf *)&_swig_go_0; 
@@ -2085,7 +2085,7 @@ void _wrap_wdelaycf_print_liquid_24d78331e3228d7c(wdelaycf_s *_swig_go_0) {
 }
 
 
-void _wrap_wdelaycf_reset_liquid_24d78331e3228d7c(wdelaycf_s *_swig_go_0) {
+void _wrap_WdelaycfReset_liquid_7b08cc538ffcb585(wdelaycf_s *_swig_go_0) {
   wdelaycf arg1 = (wdelaycf) 0 ;
   
   arg1 = *(wdelaycf *)&_swig_go_0; 
@@ -2095,7 +2095,7 @@ void _wrap_wdelaycf_reset_liquid_24d78331e3228d7c(wdelaycf_s *_swig_go_0) {
 }
 
 
-void _wrap_wdelaycf_read_liquid_24d78331e3228d7c(wdelaycf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_WdelaycfRead_liquid_7b08cc538ffcb585(wdelaycf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   wdelaycf arg1 = (wdelaycf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -2107,7 +2107,7 @@ void _wrap_wdelaycf_read_liquid_24d78331e3228d7c(wdelaycf_s *_swig_go_0, liquid_
 }
 
 
-void _wrap_wdelaycf_push_liquid_24d78331e3228d7c(wdelaycf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_WdelaycfPush_liquid_7b08cc538ffcb585(wdelaycf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   wdelaycf arg1 = (wdelaycf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -2126,7 +2126,7 @@ void _wrap_wdelaycf_push_liquid_24d78331e3228d7c(wdelaycf_s *_swig_go_0, liquid_
 }
 
 
-channel_cccf_s *_wrap_channel_cccf_create_liquid_24d78331e3228d7c() {
+channel_cccf_s *_wrap_ChannelCccfCreate_liquid_7b08cc538ffcb585() {
   channel_cccf result;
   channel_cccf_s *_swig_go_result;
   
@@ -2137,7 +2137,7 @@ channel_cccf_s *_wrap_channel_cccf_create_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_channel_cccf_destroy_liquid_24d78331e3228d7c(channel_cccf_s *_swig_go_0) {
+void _wrap_ChannelCccfDestroy_liquid_7b08cc538ffcb585(channel_cccf_s *_swig_go_0) {
   channel_cccf arg1 = (channel_cccf) 0 ;
   
   arg1 = *(channel_cccf *)&_swig_go_0; 
@@ -2147,7 +2147,7 @@ void _wrap_channel_cccf_destroy_liquid_24d78331e3228d7c(channel_cccf_s *_swig_go
 }
 
 
-void _wrap_channel_cccf_print_liquid_24d78331e3228d7c(channel_cccf_s *_swig_go_0) {
+void _wrap_ChannelCccfPrint_liquid_7b08cc538ffcb585(channel_cccf_s *_swig_go_0) {
   channel_cccf arg1 = (channel_cccf) 0 ;
   
   arg1 = *(channel_cccf *)&_swig_go_0; 
@@ -2157,7 +2157,7 @@ void _wrap_channel_cccf_print_liquid_24d78331e3228d7c(channel_cccf_s *_swig_go_0
 }
 
 
-void _wrap_channel_cccf_add_awgn_liquid_24d78331e3228d7c(channel_cccf_s *_swig_go_0, float _swig_go_1, float _swig_go_2) {
+void _wrap_ChannelCccfAddAwgn_liquid_7b08cc538ffcb585(channel_cccf_s *_swig_go_0, float _swig_go_1, float _swig_go_2) {
   channel_cccf arg1 = (channel_cccf) 0 ;
   float arg2 ;
   float arg3 ;
@@ -2171,7 +2171,7 @@ void _wrap_channel_cccf_add_awgn_liquid_24d78331e3228d7c(channel_cccf_s *_swig_g
 }
 
 
-void _wrap_channel_cccf_add_carrier_offset_liquid_24d78331e3228d7c(channel_cccf_s *_swig_go_0, float _swig_go_1, float _swig_go_2) {
+void _wrap_ChannelCccfAddCarrierOffset_liquid_7b08cc538ffcb585(channel_cccf_s *_swig_go_0, float _swig_go_1, float _swig_go_2) {
   channel_cccf arg1 = (channel_cccf) 0 ;
   float arg2 ;
   float arg3 ;
@@ -2185,7 +2185,7 @@ void _wrap_channel_cccf_add_carrier_offset_liquid_24d78331e3228d7c(channel_cccf_
 }
 
 
-void _wrap_channel_cccf_add_multipath_liquid_24d78331e3228d7c(channel_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+void _wrap_ChannelCccfAddMultipath_liquid_7b08cc538ffcb585(channel_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   channel_cccf arg1 = (channel_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -2199,7 +2199,7 @@ void _wrap_channel_cccf_add_multipath_liquid_24d78331e3228d7c(channel_cccf_s *_s
 }
 
 
-void _wrap_channel_cccf_add_shadowing_liquid_24d78331e3228d7c(channel_cccf_s *_swig_go_0, float _swig_go_1, float _swig_go_2) {
+void _wrap_ChannelCccfAddShadowing_liquid_7b08cc538ffcb585(channel_cccf_s *_swig_go_0, float _swig_go_1, float _swig_go_2) {
   channel_cccf arg1 = (channel_cccf) 0 ;
   float arg2 ;
   float arg3 ;
@@ -2213,7 +2213,7 @@ void _wrap_channel_cccf_add_shadowing_liquid_24d78331e3228d7c(channel_cccf_s *_s
 }
 
 
-void _wrap_channel_cccf_execute_liquid_24d78331e3228d7c(channel_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_ChannelCccfExecute_liquid_7b08cc538ffcb585(channel_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   channel_cccf arg1 = (channel_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -2234,7 +2234,7 @@ void _wrap_channel_cccf_execute_liquid_24d78331e3228d7c(channel_cccf_s *_swig_go
 }
 
 
-void _wrap_channel_cccf_execute_block_liquid_24d78331e3228d7c(channel_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_ChannelCccfExecuteBlock_liquid_7b08cc538ffcb585(channel_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   channel_cccf arg1 = (channel_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -2250,7 +2250,7 @@ void _wrap_channel_cccf_execute_block_liquid_24d78331e3228d7c(channel_cccf_s *_s
 }
 
 
-tvmpch_cccf_s *_wrap_tvmpch_cccf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1, float _swig_go_2) {
+tvmpch_cccf_s *_wrap_TvmpchCccfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1, float _swig_go_2) {
   unsigned int arg1 ;
   float arg2 ;
   float arg3 ;
@@ -2267,7 +2267,7 @@ tvmpch_cccf_s *_wrap_tvmpch_cccf_create_liquid_24d78331e3228d7c(intgo _swig_go_0
 }
 
 
-void _wrap_tvmpch_cccf_destroy_liquid_24d78331e3228d7c(tvmpch_cccf_s *_swig_go_0) {
+void _wrap_TvmpchCccfDestroy_liquid_7b08cc538ffcb585(tvmpch_cccf_s *_swig_go_0) {
   tvmpch_cccf arg1 = (tvmpch_cccf) 0 ;
   
   arg1 = *(tvmpch_cccf *)&_swig_go_0; 
@@ -2277,7 +2277,7 @@ void _wrap_tvmpch_cccf_destroy_liquid_24d78331e3228d7c(tvmpch_cccf_s *_swig_go_0
 }
 
 
-void _wrap_tvmpch_cccf_reset_liquid_24d78331e3228d7c(tvmpch_cccf_s *_swig_go_0) {
+void _wrap_TvmpchCccfReset_liquid_7b08cc538ffcb585(tvmpch_cccf_s *_swig_go_0) {
   tvmpch_cccf arg1 = (tvmpch_cccf) 0 ;
   
   arg1 = *(tvmpch_cccf *)&_swig_go_0; 
@@ -2287,7 +2287,7 @@ void _wrap_tvmpch_cccf_reset_liquid_24d78331e3228d7c(tvmpch_cccf_s *_swig_go_0) 
 }
 
 
-void _wrap_tvmpch_cccf_print_liquid_24d78331e3228d7c(tvmpch_cccf_s *_swig_go_0) {
+void _wrap_TvmpchCccfPrint_liquid_7b08cc538ffcb585(tvmpch_cccf_s *_swig_go_0) {
   tvmpch_cccf arg1 = (tvmpch_cccf) 0 ;
   
   arg1 = *(tvmpch_cccf *)&_swig_go_0; 
@@ -2297,7 +2297,7 @@ void _wrap_tvmpch_cccf_print_liquid_24d78331e3228d7c(tvmpch_cccf_s *_swig_go_0) 
 }
 
 
-void _wrap_tvmpch_cccf_push_liquid_24d78331e3228d7c(tvmpch_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_TvmpchCccfPush_liquid_7b08cc538ffcb585(tvmpch_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   tvmpch_cccf arg1 = (tvmpch_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -2316,7 +2316,7 @@ void _wrap_tvmpch_cccf_push_liquid_24d78331e3228d7c(tvmpch_cccf_s *_swig_go_0, l
 }
 
 
-void _wrap_tvmpch_cccf_execute_liquid_24d78331e3228d7c(tvmpch_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_TvmpchCccfExecute_liquid_7b08cc538ffcb585(tvmpch_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   tvmpch_cccf arg1 = (tvmpch_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -2328,7 +2328,7 @@ void _wrap_tvmpch_cccf_execute_liquid_24d78331e3228d7c(tvmpch_cccf_s *_swig_go_0
 }
 
 
-void _wrap_tvmpch_cccf_execute_block_liquid_24d78331e3228d7c(tvmpch_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_TvmpchCccfExecuteBlock_liquid_7b08cc538ffcb585(tvmpch_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   tvmpch_cccf arg1 = (tvmpch_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -2344,7 +2344,7 @@ void _wrap_tvmpch_cccf_execute_block_liquid_24d78331e3228d7c(tvmpch_cccf_s *_swi
 }
 
 
-void _wrap_dotprod_rrrf_run_liquid_24d78331e3228d7c(float *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_DotprodRrrfRun_liquid_7b08cc538ffcb585(float *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   float *arg1 = (float *) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -2360,7 +2360,7 @@ void _wrap_dotprod_rrrf_run_liquid_24d78331e3228d7c(float *_swig_go_0, float *_s
 }
 
 
-void _wrap_dotprod_rrrf_run4_liquid_24d78331e3228d7c(float *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_DotprodRrrfRun4_liquid_7b08cc538ffcb585(float *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   float *arg1 = (float *) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -2376,7 +2376,7 @@ void _wrap_dotprod_rrrf_run4_liquid_24d78331e3228d7c(float *_swig_go_0, float *_
 }
 
 
-dotprod_rrrf_s *_wrap_dotprod_rrrf_create_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1) {
+dotprod_rrrf_s *_wrap_DotprodRrrfCreate_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   dotprod_rrrf result;
@@ -2391,7 +2391,7 @@ dotprod_rrrf_s *_wrap_dotprod_rrrf_create_liquid_24d78331e3228d7c(float *_swig_g
 }
 
 
-dotprod_rrrf_s *_wrap_dotprod_rrrf_recreate_liquid_24d78331e3228d7c(dotprod_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+dotprod_rrrf_s *_wrap_DotprodRrrfRecreate_liquid_7b08cc538ffcb585(dotprod_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   dotprod_rrrf arg1 = (dotprod_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -2408,7 +2408,7 @@ dotprod_rrrf_s *_wrap_dotprod_rrrf_recreate_liquid_24d78331e3228d7c(dotprod_rrrf
 }
 
 
-void _wrap_dotprod_rrrf_destroy_liquid_24d78331e3228d7c(dotprod_rrrf_s *_swig_go_0) {
+void _wrap_DotprodRrrfDestroy_liquid_7b08cc538ffcb585(dotprod_rrrf_s *_swig_go_0) {
   dotprod_rrrf arg1 = (dotprod_rrrf) 0 ;
   
   arg1 = *(dotprod_rrrf *)&_swig_go_0; 
@@ -2418,7 +2418,7 @@ void _wrap_dotprod_rrrf_destroy_liquid_24d78331e3228d7c(dotprod_rrrf_s *_swig_go
 }
 
 
-void _wrap_dotprod_rrrf_print_liquid_24d78331e3228d7c(dotprod_rrrf_s *_swig_go_0) {
+void _wrap_DotprodRrrfPrint_liquid_7b08cc538ffcb585(dotprod_rrrf_s *_swig_go_0) {
   dotprod_rrrf arg1 = (dotprod_rrrf) 0 ;
   
   arg1 = *(dotprod_rrrf *)&_swig_go_0; 
@@ -2428,7 +2428,7 @@ void _wrap_dotprod_rrrf_print_liquid_24d78331e3228d7c(dotprod_rrrf_s *_swig_go_0
 }
 
 
-void _wrap_dotprod_rrrf_execute_liquid_24d78331e3228d7c(dotprod_rrrf_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2) {
+void _wrap_DotprodRrrfExecute_liquid_7b08cc538ffcb585(dotprod_rrrf_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2) {
   dotprod_rrrf arg1 = (dotprod_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -2442,7 +2442,7 @@ void _wrap_dotprod_rrrf_execute_liquid_24d78331e3228d7c(dotprod_rrrf_s *_swig_go
 }
 
 
-void _wrap_dotprod_cccf_run_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_DotprodCccfRun_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -2458,7 +2458,7 @@ void _wrap_dotprod_cccf_run_liquid_24d78331e3228d7c(liquid_float_complex *_swig_
 }
 
 
-void _wrap_dotprod_cccf_run4_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_DotprodCccfRun4_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -2474,7 +2474,7 @@ void _wrap_dotprod_cccf_run4_liquid_24d78331e3228d7c(liquid_float_complex *_swig
 }
 
 
-dotprod_cccf_s *_wrap_dotprod_cccf_create_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1) {
+dotprod_cccf_s *_wrap_DotprodCccfCreate_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   dotprod_cccf result;
@@ -2489,7 +2489,7 @@ dotprod_cccf_s *_wrap_dotprod_cccf_create_liquid_24d78331e3228d7c(liquid_float_c
 }
 
 
-dotprod_cccf_s *_wrap_dotprod_cccf_recreate_liquid_24d78331e3228d7c(dotprod_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+dotprod_cccf_s *_wrap_DotprodCccfRecreate_liquid_7b08cc538ffcb585(dotprod_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   dotprod_cccf arg1 = (dotprod_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -2506,7 +2506,7 @@ dotprod_cccf_s *_wrap_dotprod_cccf_recreate_liquid_24d78331e3228d7c(dotprod_cccf
 }
 
 
-void _wrap_dotprod_cccf_destroy_liquid_24d78331e3228d7c(dotprod_cccf_s *_swig_go_0) {
+void _wrap_DotprodCccfDestroy_liquid_7b08cc538ffcb585(dotprod_cccf_s *_swig_go_0) {
   dotprod_cccf arg1 = (dotprod_cccf) 0 ;
   
   arg1 = *(dotprod_cccf *)&_swig_go_0; 
@@ -2516,7 +2516,7 @@ void _wrap_dotprod_cccf_destroy_liquid_24d78331e3228d7c(dotprod_cccf_s *_swig_go
 }
 
 
-void _wrap_dotprod_cccf_print_liquid_24d78331e3228d7c(dotprod_cccf_s *_swig_go_0) {
+void _wrap_DotprodCccfPrint_liquid_7b08cc538ffcb585(dotprod_cccf_s *_swig_go_0) {
   dotprod_cccf arg1 = (dotprod_cccf) 0 ;
   
   arg1 = *(dotprod_cccf *)&_swig_go_0; 
@@ -2526,7 +2526,7 @@ void _wrap_dotprod_cccf_print_liquid_24d78331e3228d7c(dotprod_cccf_s *_swig_go_0
 }
 
 
-void _wrap_dotprod_cccf_execute_liquid_24d78331e3228d7c(dotprod_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_DotprodCccfExecute_liquid_7b08cc538ffcb585(dotprod_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   dotprod_cccf arg1 = (dotprod_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -2540,7 +2540,7 @@ void _wrap_dotprod_cccf_execute_liquid_24d78331e3228d7c(dotprod_cccf_s *_swig_go
 }
 
 
-void _wrap_dotprod_crcf_run_liquid_24d78331e3228d7c(float *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_DotprodCrcfRun_liquid_7b08cc538ffcb585(float *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   float *arg1 = (float *) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -2556,7 +2556,7 @@ void _wrap_dotprod_crcf_run_liquid_24d78331e3228d7c(float *_swig_go_0, liquid_fl
 }
 
 
-void _wrap_dotprod_crcf_run4_liquid_24d78331e3228d7c(float *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_DotprodCrcfRun4_liquid_7b08cc538ffcb585(float *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   float *arg1 = (float *) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -2572,7 +2572,7 @@ void _wrap_dotprod_crcf_run4_liquid_24d78331e3228d7c(float *_swig_go_0, liquid_f
 }
 
 
-dotprod_crcf_s *_wrap_dotprod_crcf_create_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1) {
+dotprod_crcf_s *_wrap_DotprodCrcfCreate_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   dotprod_crcf result;
@@ -2587,7 +2587,7 @@ dotprod_crcf_s *_wrap_dotprod_crcf_create_liquid_24d78331e3228d7c(float *_swig_g
 }
 
 
-dotprod_crcf_s *_wrap_dotprod_crcf_recreate_liquid_24d78331e3228d7c(dotprod_crcf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+dotprod_crcf_s *_wrap_DotprodCrcfRecreate_liquid_7b08cc538ffcb585(dotprod_crcf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   dotprod_crcf arg1 = (dotprod_crcf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -2604,7 +2604,7 @@ dotprod_crcf_s *_wrap_dotprod_crcf_recreate_liquid_24d78331e3228d7c(dotprod_crcf
 }
 
 
-void _wrap_dotprod_crcf_destroy_liquid_24d78331e3228d7c(dotprod_crcf_s *_swig_go_0) {
+void _wrap_DotprodCrcfDestroy_liquid_7b08cc538ffcb585(dotprod_crcf_s *_swig_go_0) {
   dotprod_crcf arg1 = (dotprod_crcf) 0 ;
   
   arg1 = *(dotprod_crcf *)&_swig_go_0; 
@@ -2614,7 +2614,7 @@ void _wrap_dotprod_crcf_destroy_liquid_24d78331e3228d7c(dotprod_crcf_s *_swig_go
 }
 
 
-void _wrap_dotprod_crcf_print_liquid_24d78331e3228d7c(dotprod_crcf_s *_swig_go_0) {
+void _wrap_DotprodCrcfPrint_liquid_7b08cc538ffcb585(dotprod_crcf_s *_swig_go_0) {
   dotprod_crcf arg1 = (dotprod_crcf) 0 ;
   
   arg1 = *(dotprod_crcf *)&_swig_go_0; 
@@ -2624,7 +2624,7 @@ void _wrap_dotprod_crcf_print_liquid_24d78331e3228d7c(dotprod_crcf_s *_swig_go_0
 }
 
 
-void _wrap_dotprod_crcf_execute_liquid_24d78331e3228d7c(dotprod_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_DotprodCrcfExecute_liquid_7b08cc538ffcb585(dotprod_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   dotprod_crcf arg1 = (dotprod_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -2638,7 +2638,7 @@ void _wrap_dotprod_crcf_execute_liquid_24d78331e3228d7c(dotprod_crcf_s *_swig_go
 }
 
 
-float _wrap_liquid_sumsqf_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1) {
+float _wrap_LiquidSumsqf_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   float result;
@@ -2653,7 +2653,7 @@ float _wrap_liquid_sumsqf_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig
 }
 
 
-float _wrap_liquid_sumsqcf_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1) {
+float _wrap_LiquidSumsqcf_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   float result;
@@ -2668,7 +2668,7 @@ float _wrap_liquid_sumsqcf_liquid_24d78331e3228d7c(liquid_float_complex *_swig_g
 }
 
 
-eqlms_rrrf_s *_wrap_eqlms_rrrf_create_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1) {
+eqlms_rrrf_s *_wrap_EqlmsRrrfCreate_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   eqlms_rrrf result;
@@ -2683,7 +2683,7 @@ eqlms_rrrf_s *_wrap_eqlms_rrrf_create_liquid_24d78331e3228d7c(float *_swig_go_0,
 }
 
 
-eqlms_rrrf_s *_wrap_eqlms_rrrf_create_rnyquist_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
+eqlms_rrrf_s *_wrap_EqlmsRrrfCreateRnyquist_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -2704,7 +2704,7 @@ eqlms_rrrf_s *_wrap_eqlms_rrrf_create_rnyquist_liquid_24d78331e3228d7c(intgo _sw
 }
 
 
-eqlms_rrrf_s *_wrap_eqlms_rrrf_create_lowpass_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1) {
+eqlms_rrrf_s *_wrap_EqlmsRrrfCreateLowpass_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1) {
   unsigned int arg1 ;
   float arg2 ;
   eqlms_rrrf result;
@@ -2719,7 +2719,7 @@ eqlms_rrrf_s *_wrap_eqlms_rrrf_create_lowpass_liquid_24d78331e3228d7c(intgo _swi
 }
 
 
-eqlms_rrrf_s *_wrap_eqlms_rrrf_recreate_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+eqlms_rrrf_s *_wrap_EqlmsRrrfRecreate_liquid_7b08cc538ffcb585(eqlms_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   eqlms_rrrf arg1 = (eqlms_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -2736,7 +2736,7 @@ eqlms_rrrf_s *_wrap_eqlms_rrrf_recreate_liquid_24d78331e3228d7c(eqlms_rrrf_s *_s
 }
 
 
-void _wrap_eqlms_rrrf_destroy_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_go_0) {
+void _wrap_EqlmsRrrfDestroy_liquid_7b08cc538ffcb585(eqlms_rrrf_s *_swig_go_0) {
   eqlms_rrrf arg1 = (eqlms_rrrf) 0 ;
   
   arg1 = *(eqlms_rrrf *)&_swig_go_0; 
@@ -2746,7 +2746,7 @@ void _wrap_eqlms_rrrf_destroy_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_go_0) 
 }
 
 
-void _wrap_eqlms_rrrf_reset_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_go_0) {
+void _wrap_EqlmsRrrfReset_liquid_7b08cc538ffcb585(eqlms_rrrf_s *_swig_go_0) {
   eqlms_rrrf arg1 = (eqlms_rrrf) 0 ;
   
   arg1 = *(eqlms_rrrf *)&_swig_go_0; 
@@ -2756,7 +2756,7 @@ void _wrap_eqlms_rrrf_reset_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_go_0) {
 }
 
 
-void _wrap_eqlms_rrrf_print_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_go_0) {
+void _wrap_EqlmsRrrfPrint_liquid_7b08cc538ffcb585(eqlms_rrrf_s *_swig_go_0) {
   eqlms_rrrf arg1 = (eqlms_rrrf) 0 ;
   
   arg1 = *(eqlms_rrrf *)&_swig_go_0; 
@@ -2766,7 +2766,7 @@ void _wrap_eqlms_rrrf_print_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_go_0) {
 }
 
 
-float _wrap_eqlms_rrrf_get_bw_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_go_0) {
+float _wrap_EqlmsRrrfGetBw_liquid_7b08cc538ffcb585(eqlms_rrrf_s *_swig_go_0) {
   eqlms_rrrf arg1 = (eqlms_rrrf) 0 ;
   float result;
   float _swig_go_result;
@@ -2779,7 +2779,7 @@ float _wrap_eqlms_rrrf_get_bw_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_go_0) 
 }
 
 
-void _wrap_eqlms_rrrf_set_bw_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_EqlmsRrrfSetBw_liquid_7b08cc538ffcb585(eqlms_rrrf_s *_swig_go_0, float _swig_go_1) {
   eqlms_rrrf arg1 = (eqlms_rrrf) 0 ;
   float arg2 ;
   
@@ -2791,7 +2791,7 @@ void _wrap_eqlms_rrrf_set_bw_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_go_0, f
 }
 
 
-void _wrap_eqlms_rrrf_push_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_EqlmsRrrfPush_liquid_7b08cc538ffcb585(eqlms_rrrf_s *_swig_go_0, float _swig_go_1) {
   eqlms_rrrf arg1 = (eqlms_rrrf) 0 ;
   float arg2 ;
   
@@ -2803,7 +2803,7 @@ void _wrap_eqlms_rrrf_push_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_go_0, flo
 }
 
 
-void _wrap_eqlms_rrrf_push_block_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+void _wrap_EqlmsRrrfPushBlock_liquid_7b08cc538ffcb585(eqlms_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   eqlms_rrrf arg1 = (eqlms_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -2817,7 +2817,7 @@ void _wrap_eqlms_rrrf_push_block_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_go_
 }
 
 
-void _wrap_eqlms_rrrf_execute_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_EqlmsRrrfExecute_liquid_7b08cc538ffcb585(eqlms_rrrf_s *_swig_go_0, float *_swig_go_1) {
   eqlms_rrrf arg1 = (eqlms_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -2829,7 +2829,7 @@ void _wrap_eqlms_rrrf_execute_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_go_0, 
 }
 
 
-void _wrap_eqlms_rrrf_execute_block_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_go_0, intgo _swig_go_1, float *_swig_go_2, intgo _swig_go_3, float *_swig_go_4) {
+void _wrap_EqlmsRrrfExecuteBlock_liquid_7b08cc538ffcb585(eqlms_rrrf_s *_swig_go_0, intgo _swig_go_1, float *_swig_go_2, intgo _swig_go_3, float *_swig_go_4) {
   eqlms_rrrf arg1 = (eqlms_rrrf) 0 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -2847,7 +2847,7 @@ void _wrap_eqlms_rrrf_execute_block_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_
 }
 
 
-void _wrap_eqlms_rrrf_step_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_go_0, float _swig_go_1, float _swig_go_2) {
+void _wrap_EqlmsRrrfStep_liquid_7b08cc538ffcb585(eqlms_rrrf_s *_swig_go_0, float _swig_go_1, float _swig_go_2) {
   eqlms_rrrf arg1 = (eqlms_rrrf) 0 ;
   float arg2 ;
   float arg3 ;
@@ -2861,7 +2861,7 @@ void _wrap_eqlms_rrrf_step_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_go_0, flo
 }
 
 
-void _wrap_eqlms_rrrf_step_blind_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_EqlmsRrrfStepBlind_liquid_7b08cc538ffcb585(eqlms_rrrf_s *_swig_go_0, float _swig_go_1) {
   eqlms_rrrf arg1 = (eqlms_rrrf) 0 ;
   float arg2 ;
   
@@ -2873,7 +2873,7 @@ void _wrap_eqlms_rrrf_step_blind_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_go_
 }
 
 
-void _wrap_eqlms_rrrf_get_weights_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_EqlmsRrrfGetWeights_liquid_7b08cc538ffcb585(eqlms_rrrf_s *_swig_go_0, float *_swig_go_1) {
   eqlms_rrrf arg1 = (eqlms_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -2885,7 +2885,7 @@ void _wrap_eqlms_rrrf_get_weights_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_go
 }
 
 
-void _wrap_eqlms_rrrf_train_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2, float *_swig_go_3, intgo _swig_go_4) {
+void _wrap_EqlmsRrrfTrain_liquid_7b08cc538ffcb585(eqlms_rrrf_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2, float *_swig_go_3, intgo _swig_go_4) {
   eqlms_rrrf arg1 = (eqlms_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -2903,7 +2903,7 @@ void _wrap_eqlms_rrrf_train_liquid_24d78331e3228d7c(eqlms_rrrf_s *_swig_go_0, fl
 }
 
 
-eqlms_cccf_s *_wrap_eqlms_cccf_create_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1) {
+eqlms_cccf_s *_wrap_EqlmsCccfCreate_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   eqlms_cccf result;
@@ -2918,7 +2918,7 @@ eqlms_cccf_s *_wrap_eqlms_cccf_create_liquid_24d78331e3228d7c(liquid_float_compl
 }
 
 
-eqlms_cccf_s *_wrap_eqlms_cccf_create_rnyquist_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
+eqlms_cccf_s *_wrap_EqlmsCccfCreateRnyquist_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -2939,7 +2939,7 @@ eqlms_cccf_s *_wrap_eqlms_cccf_create_rnyquist_liquid_24d78331e3228d7c(intgo _sw
 }
 
 
-eqlms_cccf_s *_wrap_eqlms_cccf_create_lowpass_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1) {
+eqlms_cccf_s *_wrap_EqlmsCccfCreateLowpass_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1) {
   unsigned int arg1 ;
   float arg2 ;
   eqlms_cccf result;
@@ -2954,7 +2954,7 @@ eqlms_cccf_s *_wrap_eqlms_cccf_create_lowpass_liquid_24d78331e3228d7c(intgo _swi
 }
 
 
-eqlms_cccf_s *_wrap_eqlms_cccf_recreate_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+eqlms_cccf_s *_wrap_EqlmsCccfRecreate_liquid_7b08cc538ffcb585(eqlms_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   eqlms_cccf arg1 = (eqlms_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -2971,7 +2971,7 @@ eqlms_cccf_s *_wrap_eqlms_cccf_recreate_liquid_24d78331e3228d7c(eqlms_cccf_s *_s
 }
 
 
-void _wrap_eqlms_cccf_destroy_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_go_0) {
+void _wrap_EqlmsCccfDestroy_liquid_7b08cc538ffcb585(eqlms_cccf_s *_swig_go_0) {
   eqlms_cccf arg1 = (eqlms_cccf) 0 ;
   
   arg1 = *(eqlms_cccf *)&_swig_go_0; 
@@ -2981,7 +2981,7 @@ void _wrap_eqlms_cccf_destroy_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_go_0) 
 }
 
 
-void _wrap_eqlms_cccf_reset_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_go_0) {
+void _wrap_EqlmsCccfReset_liquid_7b08cc538ffcb585(eqlms_cccf_s *_swig_go_0) {
   eqlms_cccf arg1 = (eqlms_cccf) 0 ;
   
   arg1 = *(eqlms_cccf *)&_swig_go_0; 
@@ -2991,7 +2991,7 @@ void _wrap_eqlms_cccf_reset_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_go_0) {
 }
 
 
-void _wrap_eqlms_cccf_print_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_go_0) {
+void _wrap_EqlmsCccfPrint_liquid_7b08cc538ffcb585(eqlms_cccf_s *_swig_go_0) {
   eqlms_cccf arg1 = (eqlms_cccf) 0 ;
   
   arg1 = *(eqlms_cccf *)&_swig_go_0; 
@@ -3001,7 +3001,7 @@ void _wrap_eqlms_cccf_print_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_go_0) {
 }
 
 
-float _wrap_eqlms_cccf_get_bw_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_go_0) {
+float _wrap_EqlmsCccfGetBw_liquid_7b08cc538ffcb585(eqlms_cccf_s *_swig_go_0) {
   eqlms_cccf arg1 = (eqlms_cccf) 0 ;
   float result;
   float _swig_go_result;
@@ -3014,7 +3014,7 @@ float _wrap_eqlms_cccf_get_bw_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_go_0) 
 }
 
 
-void _wrap_eqlms_cccf_set_bw_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_EqlmsCccfSetBw_liquid_7b08cc538ffcb585(eqlms_cccf_s *_swig_go_0, float _swig_go_1) {
   eqlms_cccf arg1 = (eqlms_cccf) 0 ;
   float arg2 ;
   
@@ -3026,7 +3026,7 @@ void _wrap_eqlms_cccf_set_bw_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_go_0, f
 }
 
 
-void _wrap_eqlms_cccf_push_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_EqlmsCccfPush_liquid_7b08cc538ffcb585(eqlms_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   eqlms_cccf arg1 = (eqlms_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -3045,7 +3045,7 @@ void _wrap_eqlms_cccf_push_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_go_0, liq
 }
 
 
-void _wrap_eqlms_cccf_push_block_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+void _wrap_EqlmsCccfPushBlock_liquid_7b08cc538ffcb585(eqlms_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   eqlms_cccf arg1 = (eqlms_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -3059,7 +3059,7 @@ void _wrap_eqlms_cccf_push_block_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_go_
 }
 
 
-void _wrap_eqlms_cccf_execute_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_EqlmsCccfExecute_liquid_7b08cc538ffcb585(eqlms_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   eqlms_cccf arg1 = (eqlms_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -3071,7 +3071,7 @@ void _wrap_eqlms_cccf_execute_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_go_0, 
 }
 
 
-void _wrap_eqlms_cccf_execute_block_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3, liquid_float_complex *_swig_go_4) {
+void _wrap_EqlmsCccfExecuteBlock_liquid_7b08cc538ffcb585(eqlms_cccf_s *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3, liquid_float_complex *_swig_go_4) {
   eqlms_cccf arg1 = (eqlms_cccf) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -3089,7 +3089,7 @@ void _wrap_eqlms_cccf_execute_block_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_
 }
 
 
-void _wrap_eqlms_cccf_step_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_EqlmsCccfStep_liquid_7b08cc538ffcb585(eqlms_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   eqlms_cccf arg1 = (eqlms_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex arg3 ;
@@ -3117,7 +3117,7 @@ void _wrap_eqlms_cccf_step_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_go_0, liq
 }
 
 
-void _wrap_eqlms_cccf_step_blind_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_EqlmsCccfStepBlind_liquid_7b08cc538ffcb585(eqlms_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   eqlms_cccf arg1 = (eqlms_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -3136,7 +3136,7 @@ void _wrap_eqlms_cccf_step_blind_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_go_
 }
 
 
-void _wrap_eqlms_cccf_get_weights_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_EqlmsCccfGetWeights_liquid_7b08cc538ffcb585(eqlms_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   eqlms_cccf arg1 = (eqlms_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -3148,7 +3148,7 @@ void _wrap_eqlms_cccf_get_weights_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_go
 }
 
 
-void _wrap_eqlms_cccf_train_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3, intgo _swig_go_4) {
+void _wrap_EqlmsCccfTrain_liquid_7b08cc538ffcb585(eqlms_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3, intgo _swig_go_4) {
   eqlms_cccf arg1 = (eqlms_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -3166,7 +3166,7 @@ void _wrap_eqlms_cccf_train_liquid_24d78331e3228d7c(eqlms_cccf_s *_swig_go_0, li
 }
 
 
-eqrls_rrrf_s *_wrap_eqrls_rrrf_create_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1) {
+eqrls_rrrf_s *_wrap_EqrlsRrrfCreate_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   eqrls_rrrf result;
@@ -3181,7 +3181,7 @@ eqrls_rrrf_s *_wrap_eqrls_rrrf_create_liquid_24d78331e3228d7c(float *_swig_go_0,
 }
 
 
-eqrls_rrrf_s *_wrap_eqrls_rrrf_recreate_liquid_24d78331e3228d7c(eqrls_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+eqrls_rrrf_s *_wrap_EqrlsRrrfRecreate_liquid_7b08cc538ffcb585(eqrls_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   eqrls_rrrf arg1 = (eqrls_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -3198,7 +3198,7 @@ eqrls_rrrf_s *_wrap_eqrls_rrrf_recreate_liquid_24d78331e3228d7c(eqrls_rrrf_s *_s
 }
 
 
-void _wrap_eqrls_rrrf_destroy_liquid_24d78331e3228d7c(eqrls_rrrf_s *_swig_go_0) {
+void _wrap_EqrlsRrrfDestroy_liquid_7b08cc538ffcb585(eqrls_rrrf_s *_swig_go_0) {
   eqrls_rrrf arg1 = (eqrls_rrrf) 0 ;
   
   arg1 = *(eqrls_rrrf *)&_swig_go_0; 
@@ -3208,7 +3208,7 @@ void _wrap_eqrls_rrrf_destroy_liquid_24d78331e3228d7c(eqrls_rrrf_s *_swig_go_0) 
 }
 
 
-void _wrap_eqrls_rrrf_reset_liquid_24d78331e3228d7c(eqrls_rrrf_s *_swig_go_0) {
+void _wrap_EqrlsRrrfReset_liquid_7b08cc538ffcb585(eqrls_rrrf_s *_swig_go_0) {
   eqrls_rrrf arg1 = (eqrls_rrrf) 0 ;
   
   arg1 = *(eqrls_rrrf *)&_swig_go_0; 
@@ -3218,7 +3218,7 @@ void _wrap_eqrls_rrrf_reset_liquid_24d78331e3228d7c(eqrls_rrrf_s *_swig_go_0) {
 }
 
 
-void _wrap_eqrls_rrrf_print_liquid_24d78331e3228d7c(eqrls_rrrf_s *_swig_go_0) {
+void _wrap_EqrlsRrrfPrint_liquid_7b08cc538ffcb585(eqrls_rrrf_s *_swig_go_0) {
   eqrls_rrrf arg1 = (eqrls_rrrf) 0 ;
   
   arg1 = *(eqrls_rrrf *)&_swig_go_0; 
@@ -3228,7 +3228,7 @@ void _wrap_eqrls_rrrf_print_liquid_24d78331e3228d7c(eqrls_rrrf_s *_swig_go_0) {
 }
 
 
-float _wrap_eqrls_rrrf_get_bw_liquid_24d78331e3228d7c(eqrls_rrrf_s *_swig_go_0) {
+float _wrap_EqrlsRrrfGetBw_liquid_7b08cc538ffcb585(eqrls_rrrf_s *_swig_go_0) {
   eqrls_rrrf arg1 = (eqrls_rrrf) 0 ;
   float result;
   float _swig_go_result;
@@ -3241,7 +3241,7 @@ float _wrap_eqrls_rrrf_get_bw_liquid_24d78331e3228d7c(eqrls_rrrf_s *_swig_go_0) 
 }
 
 
-void _wrap_eqrls_rrrf_set_bw_liquid_24d78331e3228d7c(eqrls_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_EqrlsRrrfSetBw_liquid_7b08cc538ffcb585(eqrls_rrrf_s *_swig_go_0, float _swig_go_1) {
   eqrls_rrrf arg1 = (eqrls_rrrf) 0 ;
   float arg2 ;
   
@@ -3253,7 +3253,7 @@ void _wrap_eqrls_rrrf_set_bw_liquid_24d78331e3228d7c(eqrls_rrrf_s *_swig_go_0, f
 }
 
 
-void _wrap_eqrls_rrrf_push_liquid_24d78331e3228d7c(eqrls_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_EqrlsRrrfPush_liquid_7b08cc538ffcb585(eqrls_rrrf_s *_swig_go_0, float _swig_go_1) {
   eqrls_rrrf arg1 = (eqrls_rrrf) 0 ;
   float arg2 ;
   
@@ -3265,7 +3265,7 @@ void _wrap_eqrls_rrrf_push_liquid_24d78331e3228d7c(eqrls_rrrf_s *_swig_go_0, flo
 }
 
 
-void _wrap_eqrls_rrrf_execute_liquid_24d78331e3228d7c(eqrls_rrrf_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_EqrlsRrrfExecute_liquid_7b08cc538ffcb585(eqrls_rrrf_s *_swig_go_0, float *_swig_go_1) {
   eqrls_rrrf arg1 = (eqrls_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -3277,7 +3277,7 @@ void _wrap_eqrls_rrrf_execute_liquid_24d78331e3228d7c(eqrls_rrrf_s *_swig_go_0, 
 }
 
 
-void _wrap_eqrls_rrrf_step_liquid_24d78331e3228d7c(eqrls_rrrf_s *_swig_go_0, float _swig_go_1, float _swig_go_2) {
+void _wrap_EqrlsRrrfStep_liquid_7b08cc538ffcb585(eqrls_rrrf_s *_swig_go_0, float _swig_go_1, float _swig_go_2) {
   eqrls_rrrf arg1 = (eqrls_rrrf) 0 ;
   float arg2 ;
   float arg3 ;
@@ -3291,7 +3291,7 @@ void _wrap_eqrls_rrrf_step_liquid_24d78331e3228d7c(eqrls_rrrf_s *_swig_go_0, flo
 }
 
 
-void _wrap_eqrls_rrrf_get_weights_liquid_24d78331e3228d7c(eqrls_rrrf_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_EqrlsRrrfGetWeights_liquid_7b08cc538ffcb585(eqrls_rrrf_s *_swig_go_0, float *_swig_go_1) {
   eqrls_rrrf arg1 = (eqrls_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -3303,7 +3303,7 @@ void _wrap_eqrls_rrrf_get_weights_liquid_24d78331e3228d7c(eqrls_rrrf_s *_swig_go
 }
 
 
-void _wrap_eqrls_rrrf_train_liquid_24d78331e3228d7c(eqrls_rrrf_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2, float *_swig_go_3, intgo _swig_go_4) {
+void _wrap_EqrlsRrrfTrain_liquid_7b08cc538ffcb585(eqrls_rrrf_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2, float *_swig_go_3, intgo _swig_go_4) {
   eqrls_rrrf arg1 = (eqrls_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -3321,7 +3321,7 @@ void _wrap_eqrls_rrrf_train_liquid_24d78331e3228d7c(eqrls_rrrf_s *_swig_go_0, fl
 }
 
 
-eqrls_cccf_s *_wrap_eqrls_cccf_create_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1) {
+eqrls_cccf_s *_wrap_EqrlsCccfCreate_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   eqrls_cccf result;
@@ -3336,7 +3336,7 @@ eqrls_cccf_s *_wrap_eqrls_cccf_create_liquid_24d78331e3228d7c(liquid_float_compl
 }
 
 
-eqrls_cccf_s *_wrap_eqrls_cccf_recreate_liquid_24d78331e3228d7c(eqrls_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+eqrls_cccf_s *_wrap_EqrlsCccfRecreate_liquid_7b08cc538ffcb585(eqrls_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   eqrls_cccf arg1 = (eqrls_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -3353,7 +3353,7 @@ eqrls_cccf_s *_wrap_eqrls_cccf_recreate_liquid_24d78331e3228d7c(eqrls_cccf_s *_s
 }
 
 
-void _wrap_eqrls_cccf_destroy_liquid_24d78331e3228d7c(eqrls_cccf_s *_swig_go_0) {
+void _wrap_EqrlsCccfDestroy_liquid_7b08cc538ffcb585(eqrls_cccf_s *_swig_go_0) {
   eqrls_cccf arg1 = (eqrls_cccf) 0 ;
   
   arg1 = *(eqrls_cccf *)&_swig_go_0; 
@@ -3363,7 +3363,7 @@ void _wrap_eqrls_cccf_destroy_liquid_24d78331e3228d7c(eqrls_cccf_s *_swig_go_0) 
 }
 
 
-void _wrap_eqrls_cccf_reset_liquid_24d78331e3228d7c(eqrls_cccf_s *_swig_go_0) {
+void _wrap_EqrlsCccfReset_liquid_7b08cc538ffcb585(eqrls_cccf_s *_swig_go_0) {
   eqrls_cccf arg1 = (eqrls_cccf) 0 ;
   
   arg1 = *(eqrls_cccf *)&_swig_go_0; 
@@ -3373,7 +3373,7 @@ void _wrap_eqrls_cccf_reset_liquid_24d78331e3228d7c(eqrls_cccf_s *_swig_go_0) {
 }
 
 
-void _wrap_eqrls_cccf_print_liquid_24d78331e3228d7c(eqrls_cccf_s *_swig_go_0) {
+void _wrap_EqrlsCccfPrint_liquid_7b08cc538ffcb585(eqrls_cccf_s *_swig_go_0) {
   eqrls_cccf arg1 = (eqrls_cccf) 0 ;
   
   arg1 = *(eqrls_cccf *)&_swig_go_0; 
@@ -3383,7 +3383,7 @@ void _wrap_eqrls_cccf_print_liquid_24d78331e3228d7c(eqrls_cccf_s *_swig_go_0) {
 }
 
 
-float _wrap_eqrls_cccf_get_bw_liquid_24d78331e3228d7c(eqrls_cccf_s *_swig_go_0) {
+float _wrap_EqrlsCccfGetBw_liquid_7b08cc538ffcb585(eqrls_cccf_s *_swig_go_0) {
   eqrls_cccf arg1 = (eqrls_cccf) 0 ;
   float result;
   float _swig_go_result;
@@ -3396,7 +3396,7 @@ float _wrap_eqrls_cccf_get_bw_liquid_24d78331e3228d7c(eqrls_cccf_s *_swig_go_0) 
 }
 
 
-void _wrap_eqrls_cccf_set_bw_liquid_24d78331e3228d7c(eqrls_cccf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_EqrlsCccfSetBw_liquid_7b08cc538ffcb585(eqrls_cccf_s *_swig_go_0, float _swig_go_1) {
   eqrls_cccf arg1 = (eqrls_cccf) 0 ;
   float arg2 ;
   
@@ -3408,7 +3408,7 @@ void _wrap_eqrls_cccf_set_bw_liquid_24d78331e3228d7c(eqrls_cccf_s *_swig_go_0, f
 }
 
 
-void _wrap_eqrls_cccf_push_liquid_24d78331e3228d7c(eqrls_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_EqrlsCccfPush_liquid_7b08cc538ffcb585(eqrls_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   eqrls_cccf arg1 = (eqrls_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -3427,7 +3427,7 @@ void _wrap_eqrls_cccf_push_liquid_24d78331e3228d7c(eqrls_cccf_s *_swig_go_0, liq
 }
 
 
-void _wrap_eqrls_cccf_execute_liquid_24d78331e3228d7c(eqrls_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_EqrlsCccfExecute_liquid_7b08cc538ffcb585(eqrls_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   eqrls_cccf arg1 = (eqrls_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -3439,7 +3439,7 @@ void _wrap_eqrls_cccf_execute_liquid_24d78331e3228d7c(eqrls_cccf_s *_swig_go_0, 
 }
 
 
-void _wrap_eqrls_cccf_step_liquid_24d78331e3228d7c(eqrls_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_EqrlsCccfStep_liquid_7b08cc538ffcb585(eqrls_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   eqrls_cccf arg1 = (eqrls_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex arg3 ;
@@ -3467,7 +3467,7 @@ void _wrap_eqrls_cccf_step_liquid_24d78331e3228d7c(eqrls_cccf_s *_swig_go_0, liq
 }
 
 
-void _wrap_eqrls_cccf_get_weights_liquid_24d78331e3228d7c(eqrls_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_EqrlsCccfGetWeights_liquid_7b08cc538ffcb585(eqrls_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   eqrls_cccf arg1 = (eqrls_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -3479,7 +3479,7 @@ void _wrap_eqrls_cccf_get_weights_liquid_24d78331e3228d7c(eqrls_cccf_s *_swig_go
 }
 
 
-void _wrap_eqrls_cccf_train_liquid_24d78331e3228d7c(eqrls_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3, intgo _swig_go_4) {
+void _wrap_EqrlsCccfTrain_liquid_7b08cc538ffcb585(eqrls_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3, intgo _swig_go_4) {
   eqrls_cccf arg1 = (eqrls_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -3497,7 +3497,7 @@ void _wrap_eqrls_cccf_train_liquid_24d78331e3228d7c(eqrls_cccf_s *_swig_go_0, li
 }
 
 
-intgo _wrap_LIQUID_SOFTBIT_0_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDSOFTBIT0_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3508,7 +3508,7 @@ intgo _wrap_LIQUID_SOFTBIT_0_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_SOFTBIT_1_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDSOFTBIT1_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3519,7 +3519,7 @@ intgo _wrap_LIQUID_SOFTBIT_1_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_SOFTBIT_ERASURE_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDSOFTBITERASURE_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3530,7 +3530,7 @@ intgo _wrap_LIQUID_SOFTBIT_ERASURE_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_CRC_UNKNOWN_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDCRCUNKNOWN_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3542,7 +3542,7 @@ intgo _wrap_LIQUID_CRC_UNKNOWN_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_CRC_NONE_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDCRCNONE_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3554,7 +3554,7 @@ intgo _wrap_LIQUID_CRC_NONE_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_CRC_CHECKSUM_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDCRCCHECKSUM_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3566,7 +3566,7 @@ intgo _wrap_LIQUID_CRC_CHECKSUM_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_CRC_8_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDCRC8_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3578,7 +3578,7 @@ intgo _wrap_LIQUID_CRC_8_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_CRC_16_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDCRC16_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3590,7 +3590,7 @@ intgo _wrap_LIQUID_CRC_16_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_CRC_24_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDCRC24_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3602,7 +3602,7 @@ intgo _wrap_LIQUID_CRC_24_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_CRC_32_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDCRC32_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3614,7 +3614,7 @@ intgo _wrap_LIQUID_CRC_32_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_crc_scheme_str_set_liquid_24d78331e3228d7c(_gostring_** _swig_go_0) {
+void _wrap_CrcSchemeStr_set_liquid_7b08cc538ffcb585(_gostring_** _swig_go_0) {
   char *(*arg1)[2] ;
   
   arg1 = *(char *(**)[2])&_swig_go_0; 
@@ -3634,7 +3634,7 @@ void _wrap_crc_scheme_str_set_liquid_24d78331e3228d7c(_gostring_** _swig_go_0) {
 }
 
 
-_gostring_** _wrap_crc_scheme_str_get_liquid_24d78331e3228d7c() {
+_gostring_** _wrap_CrcSchemeStr_get_liquid_7b08cc538ffcb585() {
   char *(*result)[2] = 0 ;
   _gostring_** _swig_go_result;
   
@@ -3645,13 +3645,13 @@ _gostring_** _wrap_crc_scheme_str_get_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_liquid_print_crc_schemes_liquid_24d78331e3228d7c() {
+void _wrap_LiquidPrintCrcSchemes_liquid_7b08cc538ffcb585() {
   liquid_print_crc_schemes();
   
 }
 
 
-intgo _wrap_liquid_getopt_str2crc_liquid_24d78331e3228d7c(_gostring_ _swig_go_0) {
+intgo _wrap_LiquidGetoptStr2crc_liquid_7b08cc538ffcb585(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   crc_scheme result;
   intgo _swig_go_result;
@@ -3669,7 +3669,7 @@ intgo _wrap_liquid_getopt_str2crc_liquid_24d78331e3228d7c(_gostring_ _swig_go_0)
 }
 
 
-intgo _wrap_crc_get_length_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+intgo _wrap_CrcGetLength_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   crc_scheme arg1 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -3682,7 +3682,7 @@ intgo _wrap_crc_get_length_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-intgo _wrap_crc_generate_key_liquid_24d78331e3228d7c(intgo _swig_go_0, char *_swig_go_1, intgo _swig_go_2) {
+intgo _wrap_CrcGenerateKey_liquid_7b08cc538ffcb585(intgo _swig_go_0, char *_swig_go_1, intgo _swig_go_2) {
   crc_scheme arg1 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   unsigned int arg3 ;
@@ -3699,7 +3699,7 @@ intgo _wrap_crc_generate_key_liquid_24d78331e3228d7c(intgo _swig_go_0, char *_sw
 }
 
 
-void _wrap_crc_append_key_liquid_24d78331e3228d7c(intgo _swig_go_0, char *_swig_go_1, intgo _swig_go_2) {
+void _wrap_CrcAppendKey_liquid_7b08cc538ffcb585(intgo _swig_go_0, char *_swig_go_1, intgo _swig_go_2) {
   crc_scheme arg1 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   unsigned int arg3 ;
@@ -3713,7 +3713,7 @@ void _wrap_crc_append_key_liquid_24d78331e3228d7c(intgo _swig_go_0, char *_swig_
 }
 
 
-intgo _wrap_crc_validate_message_liquid_24d78331e3228d7c(intgo _swig_go_0, char *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
+intgo _wrap_CrcValidateMessage_liquid_7b08cc538ffcb585(intgo _swig_go_0, char *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
   crc_scheme arg1 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   unsigned int arg3 ;
@@ -3732,7 +3732,7 @@ intgo _wrap_crc_validate_message_liquid_24d78331e3228d7c(intgo _swig_go_0, char 
 }
 
 
-intgo _wrap_crc_check_key_liquid_24d78331e3228d7c(intgo _swig_go_0, char *_swig_go_1, intgo _swig_go_2) {
+intgo _wrap_CrcCheckKey_liquid_7b08cc538ffcb585(intgo _swig_go_0, char *_swig_go_1, intgo _swig_go_2) {
   crc_scheme arg1 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   unsigned int arg3 ;
@@ -3749,7 +3749,7 @@ intgo _wrap_crc_check_key_liquid_24d78331e3228d7c(intgo _swig_go_0, char *_swig_
 }
 
 
-intgo _wrap_crc_sizeof_key_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+intgo _wrap_CrcSizeofKey_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   crc_scheme arg1 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -3762,7 +3762,7 @@ intgo _wrap_crc_sizeof_key_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-intgo _wrap_LIQUID_FEC_UNKNOWN_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECUNKNOWN_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3774,7 +3774,7 @@ intgo _wrap_LIQUID_FEC_UNKNOWN_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_NONE_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECNONE_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3786,7 +3786,7 @@ intgo _wrap_LIQUID_FEC_NONE_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_REP3_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECREP3_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3798,7 +3798,7 @@ intgo _wrap_LIQUID_FEC_REP3_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_REP5_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECREP5_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3810,7 +3810,7 @@ intgo _wrap_LIQUID_FEC_REP5_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_HAMMING74_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECHAMMING74_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3822,7 +3822,7 @@ intgo _wrap_LIQUID_FEC_HAMMING74_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_HAMMING84_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECHAMMING84_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3834,7 +3834,7 @@ intgo _wrap_LIQUID_FEC_HAMMING84_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_HAMMING128_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECHAMMING128_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3846,7 +3846,7 @@ intgo _wrap_LIQUID_FEC_HAMMING128_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_GOLAY2412_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECGOLAY2412_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3858,7 +3858,7 @@ intgo _wrap_LIQUID_FEC_GOLAY2412_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_SECDED2216_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECSECDED2216_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3870,7 +3870,7 @@ intgo _wrap_LIQUID_FEC_SECDED2216_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_SECDED3932_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECSECDED3932_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3882,7 +3882,7 @@ intgo _wrap_LIQUID_FEC_SECDED3932_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_SECDED7264_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECSECDED7264_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3894,7 +3894,7 @@ intgo _wrap_LIQUID_FEC_SECDED7264_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_CONV_V27_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECCONVV27_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3906,7 +3906,7 @@ intgo _wrap_LIQUID_FEC_CONV_V27_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_CONV_V29_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECCONVV29_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3918,7 +3918,7 @@ intgo _wrap_LIQUID_FEC_CONV_V29_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_CONV_V39_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECCONVV39_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3930,7 +3930,7 @@ intgo _wrap_LIQUID_FEC_CONV_V39_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_CONV_V615_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECCONVV615_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3942,7 +3942,7 @@ intgo _wrap_LIQUID_FEC_CONV_V615_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_CONV_V27P23_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECCONVV27P23_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3954,7 +3954,7 @@ intgo _wrap_LIQUID_FEC_CONV_V27P23_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_CONV_V27P34_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECCONVV27P34_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3966,7 +3966,7 @@ intgo _wrap_LIQUID_FEC_CONV_V27P34_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_CONV_V27P45_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECCONVV27P45_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3978,7 +3978,7 @@ intgo _wrap_LIQUID_FEC_CONV_V27P45_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_CONV_V27P56_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECCONVV27P56_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -3990,7 +3990,7 @@ intgo _wrap_LIQUID_FEC_CONV_V27P56_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_CONV_V27P67_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECCONVV27P67_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -4002,7 +4002,7 @@ intgo _wrap_LIQUID_FEC_CONV_V27P67_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_CONV_V27P78_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECCONVV27P78_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -4014,7 +4014,7 @@ intgo _wrap_LIQUID_FEC_CONV_V27P78_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_CONV_V29P23_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECCONVV29P23_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -4026,7 +4026,7 @@ intgo _wrap_LIQUID_FEC_CONV_V29P23_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_CONV_V29P34_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECCONVV29P34_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -4038,7 +4038,7 @@ intgo _wrap_LIQUID_FEC_CONV_V29P34_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_CONV_V29P45_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECCONVV29P45_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -4050,7 +4050,7 @@ intgo _wrap_LIQUID_FEC_CONV_V29P45_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_CONV_V29P56_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECCONVV29P56_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -4062,7 +4062,7 @@ intgo _wrap_LIQUID_FEC_CONV_V29P56_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_CONV_V29P67_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECCONVV29P67_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -4074,7 +4074,7 @@ intgo _wrap_LIQUID_FEC_CONV_V29P67_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_CONV_V29P78_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECCONVV29P78_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -4086,7 +4086,7 @@ intgo _wrap_LIQUID_FEC_CONV_V29P78_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FEC_RS_M8_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFECRSM8_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -4098,7 +4098,7 @@ intgo _wrap_LIQUID_FEC_RS_M8_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_fec_scheme_str_set_liquid_24d78331e3228d7c(_gostring_** _swig_go_0) {
+void _wrap_FecSchemeStr_set_liquid_7b08cc538ffcb585(_gostring_** _swig_go_0) {
   char *(*arg1)[2] ;
   
   arg1 = *(char *(**)[2])&_swig_go_0; 
@@ -4118,7 +4118,7 @@ void _wrap_fec_scheme_str_set_liquid_24d78331e3228d7c(_gostring_** _swig_go_0) {
 }
 
 
-_gostring_** _wrap_fec_scheme_str_get_liquid_24d78331e3228d7c() {
+_gostring_** _wrap_FecSchemeStr_get_liquid_7b08cc538ffcb585() {
   char *(*result)[2] = 0 ;
   _gostring_** _swig_go_result;
   
@@ -4129,13 +4129,13 @@ _gostring_** _wrap_fec_scheme_str_get_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_liquid_print_fec_schemes_liquid_24d78331e3228d7c() {
+void _wrap_LiquidPrintFecSchemes_liquid_7b08cc538ffcb585() {
   liquid_print_fec_schemes();
   
 }
 
 
-intgo _wrap_liquid_getopt_str2fec_liquid_24d78331e3228d7c(_gostring_ _swig_go_0) {
+intgo _wrap_LiquidGetoptStr2fec_liquid_7b08cc538ffcb585(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   fec_scheme result;
   intgo _swig_go_result;
@@ -4153,7 +4153,7 @@ intgo _wrap_liquid_getopt_str2fec_liquid_24d78331e3228d7c(_gostring_ _swig_go_0)
 }
 
 
-intgo _wrap_fec_get_enc_msg_length_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+intgo _wrap_FecGetEncMsgLength_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   fec_scheme arg1 ;
   unsigned int arg2 ;
   unsigned int result;
@@ -4168,7 +4168,7 @@ intgo _wrap_fec_get_enc_msg_length_liquid_24d78331e3228d7c(intgo _swig_go_0, int
 }
 
 
-float _wrap_fec_get_rate_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+float _wrap_FecGetRate_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   fec_scheme arg1 ;
   float result;
   float _swig_go_result;
@@ -4181,7 +4181,7 @@ float _wrap_fec_get_rate_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-fec_s *_wrap_fec_create_liquid_24d78331e3228d7c(intgo _swig_go_0, void *_swig_go_1) {
+fec_s *_wrap_FecCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, void *_swig_go_1) {
   fec_scheme arg1 ;
   void *arg2 = (void *) 0 ;
   fec result;
@@ -4196,7 +4196,7 @@ fec_s *_wrap_fec_create_liquid_24d78331e3228d7c(intgo _swig_go_0, void *_swig_go
 }
 
 
-fec_s *_wrap_fec_recreate_liquid_24d78331e3228d7c(fec_s *_swig_go_0, intgo _swig_go_1, void *_swig_go_2) {
+fec_s *_wrap_FecRecreate_liquid_7b08cc538ffcb585(fec_s *_swig_go_0, intgo _swig_go_1, void *_swig_go_2) {
   fec arg1 = (fec) 0 ;
   fec_scheme arg2 ;
   void *arg3 = (void *) 0 ;
@@ -4213,7 +4213,7 @@ fec_s *_wrap_fec_recreate_liquid_24d78331e3228d7c(fec_s *_swig_go_0, intgo _swig
 }
 
 
-void _wrap_fec_destroy_liquid_24d78331e3228d7c(fec_s *_swig_go_0) {
+void _wrap_FecDestroy_liquid_7b08cc538ffcb585(fec_s *_swig_go_0) {
   fec arg1 = (fec) 0 ;
   
   arg1 = *(fec *)&_swig_go_0; 
@@ -4223,7 +4223,7 @@ void _wrap_fec_destroy_liquid_24d78331e3228d7c(fec_s *_swig_go_0) {
 }
 
 
-void _wrap_fec_print_liquid_24d78331e3228d7c(fec_s *_swig_go_0) {
+void _wrap_FecPrint_liquid_7b08cc538ffcb585(fec_s *_swig_go_0) {
   fec arg1 = (fec) 0 ;
   
   arg1 = *(fec *)&_swig_go_0; 
@@ -4233,7 +4233,7 @@ void _wrap_fec_print_liquid_24d78331e3228d7c(fec_s *_swig_go_0) {
 }
 
 
-void _wrap_fec_encode_liquid_24d78331e3228d7c(fec_s *_swig_go_0, intgo _swig_go_1, char *_swig_go_2, char *_swig_go_3) {
+void _wrap_FecEncode_liquid_7b08cc538ffcb585(fec_s *_swig_go_0, intgo _swig_go_1, char *_swig_go_2, char *_swig_go_3) {
   fec arg1 = (fec) 0 ;
   unsigned int arg2 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -4249,7 +4249,7 @@ void _wrap_fec_encode_liquid_24d78331e3228d7c(fec_s *_swig_go_0, intgo _swig_go_
 }
 
 
-void _wrap_fec_decode_liquid_24d78331e3228d7c(fec_s *_swig_go_0, intgo _swig_go_1, char *_swig_go_2, char *_swig_go_3) {
+void _wrap_FecDecode_liquid_7b08cc538ffcb585(fec_s *_swig_go_0, intgo _swig_go_1, char *_swig_go_2, char *_swig_go_3) {
   fec arg1 = (fec) 0 ;
   unsigned int arg2 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -4265,7 +4265,7 @@ void _wrap_fec_decode_liquid_24d78331e3228d7c(fec_s *_swig_go_0, intgo _swig_go_
 }
 
 
-void _wrap_fec_decode_soft_liquid_24d78331e3228d7c(fec_s *_swig_go_0, intgo _swig_go_1, char *_swig_go_2, char *_swig_go_3) {
+void _wrap_FecDecodeSoft_liquid_7b08cc538ffcb585(fec_s *_swig_go_0, intgo _swig_go_1, char *_swig_go_2, char *_swig_go_3) {
   fec arg1 = (fec) 0 ;
   unsigned int arg2 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -4281,7 +4281,7 @@ void _wrap_fec_decode_soft_liquid_24d78331e3228d7c(fec_s *_swig_go_0, intgo _swi
 }
 
 
-intgo _wrap_packetizer_compute_enc_msg_len_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
+intgo _wrap_PacketizerComputeEncMsgLen_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
   unsigned int arg1 ;
   int arg2 ;
   int arg3 ;
@@ -4300,7 +4300,7 @@ intgo _wrap_packetizer_compute_enc_msg_len_liquid_24d78331e3228d7c(intgo _swig_g
 }
 
 
-intgo _wrap_packetizer_compute_dec_msg_len_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
+intgo _wrap_PacketizerComputeDecMsgLen_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
   unsigned int arg1 ;
   int arg2 ;
   int arg3 ;
@@ -4319,7 +4319,7 @@ intgo _wrap_packetizer_compute_dec_msg_len_liquid_24d78331e3228d7c(intgo _swig_g
 }
 
 
-packetizer_s *_wrap_packetizer_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
+packetizer_s *_wrap_PacketizerCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
   unsigned int arg1 ;
   int arg2 ;
   int arg3 ;
@@ -4338,7 +4338,7 @@ packetizer_s *_wrap_packetizer_create_liquid_24d78331e3228d7c(intgo _swig_go_0, 
 }
 
 
-packetizer_s *_wrap_packetizer_recreate_liquid_24d78331e3228d7c(packetizer_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+packetizer_s *_wrap_PacketizerRecreate_liquid_7b08cc538ffcb585(packetizer_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   packetizer arg1 = (packetizer) 0 ;
   unsigned int arg2 ;
   int arg3 ;
@@ -4359,7 +4359,7 @@ packetizer_s *_wrap_packetizer_recreate_liquid_24d78331e3228d7c(packetizer_s *_s
 }
 
 
-void _wrap_packetizer_destroy_liquid_24d78331e3228d7c(packetizer_s *_swig_go_0) {
+void _wrap_PacketizerDestroy_liquid_7b08cc538ffcb585(packetizer_s *_swig_go_0) {
   packetizer arg1 = (packetizer) 0 ;
   
   arg1 = *(packetizer *)&_swig_go_0; 
@@ -4369,7 +4369,7 @@ void _wrap_packetizer_destroy_liquid_24d78331e3228d7c(packetizer_s *_swig_go_0) 
 }
 
 
-void _wrap_packetizer_print_liquid_24d78331e3228d7c(packetizer_s *_swig_go_0) {
+void _wrap_PacketizerPrint_liquid_7b08cc538ffcb585(packetizer_s *_swig_go_0) {
   packetizer arg1 = (packetizer) 0 ;
   
   arg1 = *(packetizer *)&_swig_go_0; 
@@ -4379,7 +4379,7 @@ void _wrap_packetizer_print_liquid_24d78331e3228d7c(packetizer_s *_swig_go_0) {
 }
 
 
-intgo _wrap_packetizer_get_dec_msg_len_liquid_24d78331e3228d7c(packetizer_s *_swig_go_0) {
+intgo _wrap_PacketizerGetDecMsgLen_liquid_7b08cc538ffcb585(packetizer_s *_swig_go_0) {
   packetizer arg1 = (packetizer) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -4392,7 +4392,7 @@ intgo _wrap_packetizer_get_dec_msg_len_liquid_24d78331e3228d7c(packetizer_s *_sw
 }
 
 
-intgo _wrap_packetizer_get_enc_msg_len_liquid_24d78331e3228d7c(packetizer_s *_swig_go_0) {
+intgo _wrap_PacketizerGetEncMsgLen_liquid_7b08cc538ffcb585(packetizer_s *_swig_go_0) {
   packetizer arg1 = (packetizer) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -4405,7 +4405,7 @@ intgo _wrap_packetizer_get_enc_msg_len_liquid_24d78331e3228d7c(packetizer_s *_sw
 }
 
 
-intgo _wrap_packetizer_get_crc_liquid_24d78331e3228d7c(packetizer_s *_swig_go_0) {
+intgo _wrap_PacketizerGetCrc_liquid_7b08cc538ffcb585(packetizer_s *_swig_go_0) {
   packetizer arg1 = (packetizer) 0 ;
   crc_scheme result;
   intgo _swig_go_result;
@@ -4418,7 +4418,7 @@ intgo _wrap_packetizer_get_crc_liquid_24d78331e3228d7c(packetizer_s *_swig_go_0)
 }
 
 
-intgo _wrap_packetizer_get_fec0_liquid_24d78331e3228d7c(packetizer_s *_swig_go_0) {
+intgo _wrap_PacketizerGetFec0_liquid_7b08cc538ffcb585(packetizer_s *_swig_go_0) {
   packetizer arg1 = (packetizer) 0 ;
   fec_scheme result;
   intgo _swig_go_result;
@@ -4431,7 +4431,7 @@ intgo _wrap_packetizer_get_fec0_liquid_24d78331e3228d7c(packetizer_s *_swig_go_0
 }
 
 
-intgo _wrap_packetizer_get_fec1_liquid_24d78331e3228d7c(packetizer_s *_swig_go_0) {
+intgo _wrap_PacketizerGetFec1_liquid_7b08cc538ffcb585(packetizer_s *_swig_go_0) {
   packetizer arg1 = (packetizer) 0 ;
   fec_scheme result;
   intgo _swig_go_result;
@@ -4444,7 +4444,7 @@ intgo _wrap_packetizer_get_fec1_liquid_24d78331e3228d7c(packetizer_s *_swig_go_0
 }
 
 
-void _wrap_packetizer_encode_liquid_24d78331e3228d7c(packetizer_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2) {
+void _wrap_PacketizerEncode_liquid_7b08cc538ffcb585(packetizer_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2) {
   packetizer arg1 = (packetizer) 0 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -4458,7 +4458,7 @@ void _wrap_packetizer_encode_liquid_24d78331e3228d7c(packetizer_s *_swig_go_0, c
 }
 
 
-intgo _wrap_packetizer_decode_liquid_24d78331e3228d7c(packetizer_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2) {
+intgo _wrap_PacketizerDecode_liquid_7b08cc538ffcb585(packetizer_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2) {
   packetizer arg1 = (packetizer) 0 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -4475,7 +4475,7 @@ intgo _wrap_packetizer_decode_liquid_24d78331e3228d7c(packetizer_s *_swig_go_0, 
 }
 
 
-intgo _wrap_packetizer_decode_soft_liquid_24d78331e3228d7c(packetizer_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2) {
+intgo _wrap_PacketizerDecodeSoft_liquid_7b08cc538ffcb585(packetizer_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2) {
   packetizer arg1 = (packetizer) 0 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -4492,7 +4492,7 @@ intgo _wrap_packetizer_decode_soft_liquid_24d78331e3228d7c(packetizer_s *_swig_g
 }
 
 
-interleaver_s *_wrap_interleaver_create_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+interleaver_s *_wrap_InterleaverCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   interleaver result;
   interleaver_s *_swig_go_result;
@@ -4505,7 +4505,7 @@ interleaver_s *_wrap_interleaver_create_liquid_24d78331e3228d7c(intgo _swig_go_0
 }
 
 
-void _wrap_interleaver_destroy_liquid_24d78331e3228d7c(interleaver_s *_swig_go_0) {
+void _wrap_InterleaverDestroy_liquid_7b08cc538ffcb585(interleaver_s *_swig_go_0) {
   interleaver arg1 = (interleaver) 0 ;
   
   arg1 = *(interleaver *)&_swig_go_0; 
@@ -4515,7 +4515,7 @@ void _wrap_interleaver_destroy_liquid_24d78331e3228d7c(interleaver_s *_swig_go_0
 }
 
 
-void _wrap_interleaver_print_liquid_24d78331e3228d7c(interleaver_s *_swig_go_0) {
+void _wrap_InterleaverPrint_liquid_7b08cc538ffcb585(interleaver_s *_swig_go_0) {
   interleaver arg1 = (interleaver) 0 ;
   
   arg1 = *(interleaver *)&_swig_go_0; 
@@ -4525,7 +4525,7 @@ void _wrap_interleaver_print_liquid_24d78331e3228d7c(interleaver_s *_swig_go_0) 
 }
 
 
-void _wrap_interleaver_set_depth_liquid_24d78331e3228d7c(interleaver_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_InterleaverSetDepth_liquid_7b08cc538ffcb585(interleaver_s *_swig_go_0, intgo _swig_go_1) {
   interleaver arg1 = (interleaver) 0 ;
   unsigned int arg2 ;
   
@@ -4537,7 +4537,7 @@ void _wrap_interleaver_set_depth_liquid_24d78331e3228d7c(interleaver_s *_swig_go
 }
 
 
-void _wrap_interleaver_encode_liquid_24d78331e3228d7c(interleaver_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2) {
+void _wrap_InterleaverEncode_liquid_7b08cc538ffcb585(interleaver_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2) {
   interleaver arg1 = (interleaver) 0 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -4551,7 +4551,7 @@ void _wrap_interleaver_encode_liquid_24d78331e3228d7c(interleaver_s *_swig_go_0,
 }
 
 
-void _wrap_interleaver_encode_soft_liquid_24d78331e3228d7c(interleaver_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2) {
+void _wrap_InterleaverEncodeSoft_liquid_7b08cc538ffcb585(interleaver_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2) {
   interleaver arg1 = (interleaver) 0 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -4565,7 +4565,7 @@ void _wrap_interleaver_encode_soft_liquid_24d78331e3228d7c(interleaver_s *_swig_
 }
 
 
-void _wrap_interleaver_decode_liquid_24d78331e3228d7c(interleaver_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2) {
+void _wrap_InterleaverDecode_liquid_7b08cc538ffcb585(interleaver_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2) {
   interleaver arg1 = (interleaver) 0 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -4579,7 +4579,7 @@ void _wrap_interleaver_decode_liquid_24d78331e3228d7c(interleaver_s *_swig_go_0,
 }
 
 
-void _wrap_interleaver_decode_soft_liquid_24d78331e3228d7c(interleaver_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2) {
+void _wrap_InterleaverDecodeSoft_liquid_7b08cc538ffcb585(interleaver_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2) {
   interleaver arg1 = (interleaver) 0 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -4593,7 +4593,7 @@ void _wrap_interleaver_decode_soft_liquid_24d78331e3228d7c(interleaver_s *_swig_
 }
 
 
-intgo _wrap_LIQUID_FFT_UNKNOWN_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFFTUNKNOWN_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -4605,7 +4605,7 @@ intgo _wrap_LIQUID_FFT_UNKNOWN_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FFT_FORWARD_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFFTFORWARD_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -4617,7 +4617,7 @@ intgo _wrap_LIQUID_FFT_FORWARD_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FFT_BACKWARD_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFFTBACKWARD_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -4629,7 +4629,7 @@ intgo _wrap_LIQUID_FFT_BACKWARD_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FFT_REDFT00_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFFTREDFT00_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -4641,7 +4641,7 @@ intgo _wrap_LIQUID_FFT_REDFT00_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FFT_REDFT10_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFFTREDFT10_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -4653,7 +4653,7 @@ intgo _wrap_LIQUID_FFT_REDFT10_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FFT_REDFT01_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFFTREDFT01_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -4665,7 +4665,7 @@ intgo _wrap_LIQUID_FFT_REDFT01_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FFT_REDFT11_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFFTREDFT11_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -4677,7 +4677,7 @@ intgo _wrap_LIQUID_FFT_REDFT11_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FFT_RODFT00_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFFTRODFT00_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -4689,7 +4689,7 @@ intgo _wrap_LIQUID_FFT_RODFT00_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FFT_RODFT10_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFFTRODFT10_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -4701,7 +4701,7 @@ intgo _wrap_LIQUID_FFT_RODFT10_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FFT_RODFT01_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFFTRODFT01_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -4713,7 +4713,7 @@ intgo _wrap_LIQUID_FFT_RODFT01_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FFT_RODFT11_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFFTRODFT11_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -4725,7 +4725,7 @@ intgo _wrap_LIQUID_FFT_RODFT11_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FFT_MDCT_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFFTMDCT_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -4737,7 +4737,7 @@ intgo _wrap_LIQUID_FFT_MDCT_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FFT_IMDCT_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFFTIMDCT_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -4749,7 +4749,7 @@ intgo _wrap_LIQUID_FFT_IMDCT_liquid_24d78331e3228d7c() {
 }
 
 
-fftplan_s *_wrap_fft_create_plan_liquid_24d78331e3228d7c(intgo _swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+fftplan_s *_wrap_FftCreatePlan_liquid_7b08cc538ffcb585(intgo _swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   unsigned int arg1 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -4770,7 +4770,7 @@ fftplan_s *_wrap_fft_create_plan_liquid_24d78331e3228d7c(intgo _swig_go_0, liqui
 }
 
 
-fftplan_s *_wrap_fft_create_plan_r2r_1d_liquid_24d78331e3228d7c(intgo _swig_go_0, float *_swig_go_1, float *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+fftplan_s *_wrap_FftCreatePlanR2r1d_liquid_7b08cc538ffcb585(intgo _swig_go_0, float *_swig_go_1, float *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   unsigned int arg1 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -4791,7 +4791,7 @@ fftplan_s *_wrap_fft_create_plan_r2r_1d_liquid_24d78331e3228d7c(intgo _swig_go_0
 }
 
 
-void _wrap_fft_destroy_plan_liquid_24d78331e3228d7c(fftplan_s *_swig_go_0) {
+void _wrap_FftDestroyPlan_liquid_7b08cc538ffcb585(fftplan_s *_swig_go_0) {
   fftplan arg1 = (fftplan) 0 ;
   
   arg1 = *(fftplan *)&_swig_go_0; 
@@ -4801,7 +4801,7 @@ void _wrap_fft_destroy_plan_liquid_24d78331e3228d7c(fftplan_s *_swig_go_0) {
 }
 
 
-void _wrap_fft_print_plan_liquid_24d78331e3228d7c(fftplan_s *_swig_go_0) {
+void _wrap_FftPrintPlan_liquid_7b08cc538ffcb585(fftplan_s *_swig_go_0) {
   fftplan arg1 = (fftplan) 0 ;
   
   arg1 = *(fftplan *)&_swig_go_0; 
@@ -4811,7 +4811,7 @@ void _wrap_fft_print_plan_liquid_24d78331e3228d7c(fftplan_s *_swig_go_0) {
 }
 
 
-void _wrap_fft_execute_liquid_24d78331e3228d7c(fftplan_s *_swig_go_0) {
+void _wrap_FftExecute_liquid_7b08cc538ffcb585(fftplan_s *_swig_go_0) {
   fftplan arg1 = (fftplan) 0 ;
   
   arg1 = *(fftplan *)&_swig_go_0; 
@@ -4821,7 +4821,7 @@ void _wrap_fft_execute_liquid_24d78331e3228d7c(fftplan_s *_swig_go_0) {
 }
 
 
-void _wrap_fft_run_liquid_24d78331e3228d7c(intgo _swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_FftRun_liquid_7b08cc538ffcb585(intgo _swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   unsigned int arg1 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -4839,7 +4839,7 @@ void _wrap_fft_run_liquid_24d78331e3228d7c(intgo _swig_go_0, liquid_float_comple
 }
 
 
-void _wrap_fft_r2r_1d_run_liquid_24d78331e3228d7c(intgo _swig_go_0, float *_swig_go_1, float *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_FftR2r1dRun_liquid_7b08cc538ffcb585(intgo _swig_go_0, float *_swig_go_1, float *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   unsigned int arg1 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -4857,7 +4857,7 @@ void _wrap_fft_r2r_1d_run_liquid_24d78331e3228d7c(intgo _swig_go_0, float *_swig
 }
 
 
-void _wrap_fft_shift_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1) {
+void _wrap_FftShift_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   
@@ -4869,7 +4869,7 @@ void _wrap_fft_shift_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, i
 }
 
 
-spgramcf_s *_wrap_spgramcf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
+spgramcf_s *_wrap_SpgramcfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
   unsigned int arg1 ;
   int arg2 ;
   unsigned int arg3 ;
@@ -4888,7 +4888,7 @@ spgramcf_s *_wrap_spgramcf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intg
 }
 
 
-spgramcf_s *_wrap_spgramcf_create_default_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+spgramcf_s *_wrap_SpgramcfCreateDefault_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   spgramcf result;
   spgramcf_s *_swig_go_result;
@@ -4901,7 +4901,7 @@ spgramcf_s *_wrap_spgramcf_create_default_liquid_24d78331e3228d7c(intgo _swig_go
 }
 
 
-void _wrap_spgramcf_destroy_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0) {
+void _wrap_SpgramcfDestroy_liquid_7b08cc538ffcb585(spgramcf_s *_swig_go_0) {
   spgramcf arg1 = (spgramcf) 0 ;
   
   arg1 = *(spgramcf *)&_swig_go_0; 
@@ -4911,7 +4911,7 @@ void _wrap_spgramcf_destroy_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0) {
 }
 
 
-void _wrap_spgramcf_clear_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0) {
+void _wrap_SpgramcfClear_liquid_7b08cc538ffcb585(spgramcf_s *_swig_go_0) {
   spgramcf arg1 = (spgramcf) 0 ;
   
   arg1 = *(spgramcf *)&_swig_go_0; 
@@ -4921,7 +4921,7 @@ void _wrap_spgramcf_clear_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0) {
 }
 
 
-void _wrap_spgramcf_reset_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0) {
+void _wrap_SpgramcfReset_liquid_7b08cc538ffcb585(spgramcf_s *_swig_go_0) {
   spgramcf arg1 = (spgramcf) 0 ;
   
   arg1 = *(spgramcf *)&_swig_go_0; 
@@ -4931,7 +4931,7 @@ void _wrap_spgramcf_reset_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0) {
 }
 
 
-void _wrap_spgramcf_print_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0) {
+void _wrap_SpgramcfPrint_liquid_7b08cc538ffcb585(spgramcf_s *_swig_go_0) {
   spgramcf arg1 = (spgramcf) 0 ;
   
   arg1 = *(spgramcf *)&_swig_go_0; 
@@ -4941,7 +4941,7 @@ void _wrap_spgramcf_print_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0) {
 }
 
 
-intgo _wrap_spgramcf_set_alpha_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0, float _swig_go_1) {
+intgo _wrap_SpgramcfSetAlpha_liquid_7b08cc538ffcb585(spgramcf_s *_swig_go_0, float _swig_go_1) {
   spgramcf arg1 = (spgramcf) 0 ;
   float arg2 ;
   int result;
@@ -4956,7 +4956,7 @@ intgo _wrap_spgramcf_set_alpha_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0, f
 }
 
 
-intgo _wrap_spgramcf_set_freq_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0, float _swig_go_1) {
+intgo _wrap_SpgramcfSetFreq_liquid_7b08cc538ffcb585(spgramcf_s *_swig_go_0, float _swig_go_1) {
   spgramcf arg1 = (spgramcf) 0 ;
   float arg2 ;
   int result;
@@ -4971,7 +4971,7 @@ intgo _wrap_spgramcf_set_freq_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0, fl
 }
 
 
-intgo _wrap_spgramcf_set_rate_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0, float _swig_go_1) {
+intgo _wrap_SpgramcfSetRate_liquid_7b08cc538ffcb585(spgramcf_s *_swig_go_0, float _swig_go_1) {
   spgramcf arg1 = (spgramcf) 0 ;
   float arg2 ;
   int result;
@@ -4986,7 +4986,7 @@ intgo _wrap_spgramcf_set_rate_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0, fl
 }
 
 
-intgo _wrap_spgramcf_get_nfft_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0) {
+intgo _wrap_SpgramcfGetNfft_liquid_7b08cc538ffcb585(spgramcf_s *_swig_go_0) {
   spgramcf arg1 = (spgramcf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -4999,7 +4999,7 @@ intgo _wrap_spgramcf_get_nfft_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0) {
 }
 
 
-intgo _wrap_spgramcf_get_window_len_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0) {
+intgo _wrap_SpgramcfGetWindowLen_liquid_7b08cc538ffcb585(spgramcf_s *_swig_go_0) {
   spgramcf arg1 = (spgramcf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -5012,7 +5012,7 @@ intgo _wrap_spgramcf_get_window_len_liquid_24d78331e3228d7c(spgramcf_s *_swig_go
 }
 
 
-intgo _wrap_spgramcf_get_delay_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0) {
+intgo _wrap_SpgramcfGetDelay_liquid_7b08cc538ffcb585(spgramcf_s *_swig_go_0) {
   spgramcf arg1 = (spgramcf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -5025,7 +5025,7 @@ intgo _wrap_spgramcf_get_delay_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0) {
 }
 
 
-long long _wrap_spgramcf_get_num_samples_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0) {
+long long _wrap_SpgramcfGetNumSamples_liquid_7b08cc538ffcb585(spgramcf_s *_swig_go_0) {
   spgramcf arg1 = (spgramcf) 0 ;
   unsigned long long result;
   long long _swig_go_result;
@@ -5038,7 +5038,7 @@ long long _wrap_spgramcf_get_num_samples_liquid_24d78331e3228d7c(spgramcf_s *_sw
 }
 
 
-long long _wrap_spgramcf_get_num_samples_total_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0) {
+long long _wrap_SpgramcfGetNumSamplesTotal_liquid_7b08cc538ffcb585(spgramcf_s *_swig_go_0) {
   spgramcf arg1 = (spgramcf) 0 ;
   unsigned long long result;
   long long _swig_go_result;
@@ -5051,7 +5051,7 @@ long long _wrap_spgramcf_get_num_samples_total_liquid_24d78331e3228d7c(spgramcf_
 }
 
 
-long long _wrap_spgramcf_get_num_transforms_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0) {
+long long _wrap_SpgramcfGetNumTransforms_liquid_7b08cc538ffcb585(spgramcf_s *_swig_go_0) {
   spgramcf arg1 = (spgramcf) 0 ;
   unsigned long long result;
   long long _swig_go_result;
@@ -5064,7 +5064,7 @@ long long _wrap_spgramcf_get_num_transforms_liquid_24d78331e3228d7c(spgramcf_s *
 }
 
 
-long long _wrap_spgramcf_get_num_transforms_total_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0) {
+long long _wrap_SpgramcfGetNumTransformsTotal_liquid_7b08cc538ffcb585(spgramcf_s *_swig_go_0) {
   spgramcf arg1 = (spgramcf) 0 ;
   unsigned long long result;
   long long _swig_go_result;
@@ -5077,7 +5077,7 @@ long long _wrap_spgramcf_get_num_transforms_total_liquid_24d78331e3228d7c(spgram
 }
 
 
-void _wrap_spgramcf_push_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_SpgramcfPush_liquid_7b08cc538ffcb585(spgramcf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   spgramcf arg1 = (spgramcf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -5096,7 +5096,7 @@ void _wrap_spgramcf_push_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0, liquid_
 }
 
 
-void _wrap_spgramcf_write_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+void _wrap_SpgramcfWrite_liquid_7b08cc538ffcb585(spgramcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   spgramcf arg1 = (spgramcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -5110,7 +5110,7 @@ void _wrap_spgramcf_write_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0, liquid
 }
 
 
-void _wrap_spgramcf_get_psd_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_SpgramcfGetPsd_liquid_7b08cc538ffcb585(spgramcf_s *_swig_go_0, float *_swig_go_1) {
   spgramcf arg1 = (spgramcf) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -5122,7 +5122,7 @@ void _wrap_spgramcf_get_psd_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0, floa
 }
 
 
-intgo _wrap_spgramcf_export_gnuplot_liquid_24d78331e3228d7c(spgramcf_s *_swig_go_0, _gostring_ _swig_go_1) {
+intgo _wrap_SpgramcfExportGnuplot_liquid_7b08cc538ffcb585(spgramcf_s *_swig_go_0, _gostring_ _swig_go_1) {
   spgramcf arg1 = (spgramcf) 0 ;
   char *arg2 = (char *) 0 ;
   int result;
@@ -5142,7 +5142,7 @@ intgo _wrap_spgramcf_export_gnuplot_liquid_24d78331e3228d7c(spgramcf_s *_swig_go
 }
 
 
-void _wrap_spgramcf_estimate_psd_liquid_24d78331e3228d7c(intgo _swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_SpgramcfEstimatePsd_liquid_7b08cc538ffcb585(intgo _swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   unsigned int arg1 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -5158,7 +5158,7 @@ void _wrap_spgramcf_estimate_psd_liquid_24d78331e3228d7c(intgo _swig_go_0, liqui
 }
 
 
-spgramf_s *_wrap_spgramf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
+spgramf_s *_wrap_SpgramfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
   unsigned int arg1 ;
   int arg2 ;
   unsigned int arg3 ;
@@ -5177,7 +5177,7 @@ spgramf_s *_wrap_spgramf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo 
 }
 
 
-spgramf_s *_wrap_spgramf_create_default_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+spgramf_s *_wrap_SpgramfCreateDefault_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   spgramf result;
   spgramf_s *_swig_go_result;
@@ -5190,7 +5190,7 @@ spgramf_s *_wrap_spgramf_create_default_liquid_24d78331e3228d7c(intgo _swig_go_0
 }
 
 
-void _wrap_spgramf_destroy_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0) {
+void _wrap_SpgramfDestroy_liquid_7b08cc538ffcb585(spgramf_s *_swig_go_0) {
   spgramf arg1 = (spgramf) 0 ;
   
   arg1 = *(spgramf *)&_swig_go_0; 
@@ -5200,7 +5200,7 @@ void _wrap_spgramf_destroy_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0) {
 }
 
 
-void _wrap_spgramf_clear_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0) {
+void _wrap_SpgramfClear_liquid_7b08cc538ffcb585(spgramf_s *_swig_go_0) {
   spgramf arg1 = (spgramf) 0 ;
   
   arg1 = *(spgramf *)&_swig_go_0; 
@@ -5210,7 +5210,7 @@ void _wrap_spgramf_clear_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0) {
 }
 
 
-void _wrap_spgramf_reset_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0) {
+void _wrap_SpgramfReset_liquid_7b08cc538ffcb585(spgramf_s *_swig_go_0) {
   spgramf arg1 = (spgramf) 0 ;
   
   arg1 = *(spgramf *)&_swig_go_0; 
@@ -5220,7 +5220,7 @@ void _wrap_spgramf_reset_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0) {
 }
 
 
-void _wrap_spgramf_print_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0) {
+void _wrap_SpgramfPrint_liquid_7b08cc538ffcb585(spgramf_s *_swig_go_0) {
   spgramf arg1 = (spgramf) 0 ;
   
   arg1 = *(spgramf *)&_swig_go_0; 
@@ -5230,7 +5230,7 @@ void _wrap_spgramf_print_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0) {
 }
 
 
-intgo _wrap_spgramf_set_alpha_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0, float _swig_go_1) {
+intgo _wrap_SpgramfSetAlpha_liquid_7b08cc538ffcb585(spgramf_s *_swig_go_0, float _swig_go_1) {
   spgramf arg1 = (spgramf) 0 ;
   float arg2 ;
   int result;
@@ -5245,7 +5245,7 @@ intgo _wrap_spgramf_set_alpha_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0, flo
 }
 
 
-intgo _wrap_spgramf_set_freq_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0, float _swig_go_1) {
+intgo _wrap_SpgramfSetFreq_liquid_7b08cc538ffcb585(spgramf_s *_swig_go_0, float _swig_go_1) {
   spgramf arg1 = (spgramf) 0 ;
   float arg2 ;
   int result;
@@ -5260,7 +5260,7 @@ intgo _wrap_spgramf_set_freq_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0, floa
 }
 
 
-intgo _wrap_spgramf_set_rate_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0, float _swig_go_1) {
+intgo _wrap_SpgramfSetRate_liquid_7b08cc538ffcb585(spgramf_s *_swig_go_0, float _swig_go_1) {
   spgramf arg1 = (spgramf) 0 ;
   float arg2 ;
   int result;
@@ -5275,7 +5275,7 @@ intgo _wrap_spgramf_set_rate_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0, floa
 }
 
 
-intgo _wrap_spgramf_get_nfft_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0) {
+intgo _wrap_SpgramfGetNfft_liquid_7b08cc538ffcb585(spgramf_s *_swig_go_0) {
   spgramf arg1 = (spgramf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -5288,7 +5288,7 @@ intgo _wrap_spgramf_get_nfft_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0) {
 }
 
 
-intgo _wrap_spgramf_get_window_len_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0) {
+intgo _wrap_SpgramfGetWindowLen_liquid_7b08cc538ffcb585(spgramf_s *_swig_go_0) {
   spgramf arg1 = (spgramf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -5301,7 +5301,7 @@ intgo _wrap_spgramf_get_window_len_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0
 }
 
 
-intgo _wrap_spgramf_get_delay_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0) {
+intgo _wrap_SpgramfGetDelay_liquid_7b08cc538ffcb585(spgramf_s *_swig_go_0) {
   spgramf arg1 = (spgramf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -5314,7 +5314,7 @@ intgo _wrap_spgramf_get_delay_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0) {
 }
 
 
-long long _wrap_spgramf_get_num_samples_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0) {
+long long _wrap_SpgramfGetNumSamples_liquid_7b08cc538ffcb585(spgramf_s *_swig_go_0) {
   spgramf arg1 = (spgramf) 0 ;
   unsigned long long result;
   long long _swig_go_result;
@@ -5327,7 +5327,7 @@ long long _wrap_spgramf_get_num_samples_liquid_24d78331e3228d7c(spgramf_s *_swig
 }
 
 
-long long _wrap_spgramf_get_num_samples_total_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0) {
+long long _wrap_SpgramfGetNumSamplesTotal_liquid_7b08cc538ffcb585(spgramf_s *_swig_go_0) {
   spgramf arg1 = (spgramf) 0 ;
   unsigned long long result;
   long long _swig_go_result;
@@ -5340,7 +5340,7 @@ long long _wrap_spgramf_get_num_samples_total_liquid_24d78331e3228d7c(spgramf_s 
 }
 
 
-long long _wrap_spgramf_get_num_transforms_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0) {
+long long _wrap_SpgramfGetNumTransforms_liquid_7b08cc538ffcb585(spgramf_s *_swig_go_0) {
   spgramf arg1 = (spgramf) 0 ;
   unsigned long long result;
   long long _swig_go_result;
@@ -5353,7 +5353,7 @@ long long _wrap_spgramf_get_num_transforms_liquid_24d78331e3228d7c(spgramf_s *_s
 }
 
 
-long long _wrap_spgramf_get_num_transforms_total_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0) {
+long long _wrap_SpgramfGetNumTransformsTotal_liquid_7b08cc538ffcb585(spgramf_s *_swig_go_0) {
   spgramf arg1 = (spgramf) 0 ;
   unsigned long long result;
   long long _swig_go_result;
@@ -5366,7 +5366,7 @@ long long _wrap_spgramf_get_num_transforms_total_liquid_24d78331e3228d7c(spgramf
 }
 
 
-void _wrap_spgramf_push_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_SpgramfPush_liquid_7b08cc538ffcb585(spgramf_s *_swig_go_0, float _swig_go_1) {
   spgramf arg1 = (spgramf) 0 ;
   float arg2 ;
   
@@ -5378,7 +5378,7 @@ void _wrap_spgramf_push_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0, float _sw
 }
 
 
-void _wrap_spgramf_write_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+void _wrap_SpgramfWrite_liquid_7b08cc538ffcb585(spgramf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   spgramf arg1 = (spgramf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -5392,7 +5392,7 @@ void _wrap_spgramf_write_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0, float *_
 }
 
 
-void _wrap_spgramf_get_psd_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_SpgramfGetPsd_liquid_7b08cc538ffcb585(spgramf_s *_swig_go_0, float *_swig_go_1) {
   spgramf arg1 = (spgramf) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -5404,7 +5404,7 @@ void _wrap_spgramf_get_psd_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0, float 
 }
 
 
-intgo _wrap_spgramf_export_gnuplot_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0, _gostring_ _swig_go_1) {
+intgo _wrap_SpgramfExportGnuplot_liquid_7b08cc538ffcb585(spgramf_s *_swig_go_0, _gostring_ _swig_go_1) {
   spgramf arg1 = (spgramf) 0 ;
   char *arg2 = (char *) 0 ;
   int result;
@@ -5424,7 +5424,7 @@ intgo _wrap_spgramf_export_gnuplot_liquid_24d78331e3228d7c(spgramf_s *_swig_go_0
 }
 
 
-void _wrap_spgramf_estimate_psd_liquid_24d78331e3228d7c(intgo _swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_SpgramfEstimatePsd_liquid_7b08cc538ffcb585(intgo _swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   unsigned int arg1 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -5440,7 +5440,7 @@ void _wrap_spgramf_estimate_psd_liquid_24d78331e3228d7c(intgo _swig_go_0, float 
 }
 
 
-asgramcf_s *_wrap_asgramcf_create_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+asgramcf_s *_wrap_AsgramcfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   asgramcf result;
   asgramcf_s *_swig_go_result;
@@ -5453,7 +5453,7 @@ asgramcf_s *_wrap_asgramcf_create_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-void _wrap_asgramcf_destroy_liquid_24d78331e3228d7c(asgramcf_s *_swig_go_0) {
+void _wrap_AsgramcfDestroy_liquid_7b08cc538ffcb585(asgramcf_s *_swig_go_0) {
   asgramcf arg1 = (asgramcf) 0 ;
   
   arg1 = *(asgramcf *)&_swig_go_0; 
@@ -5463,7 +5463,7 @@ void _wrap_asgramcf_destroy_liquid_24d78331e3228d7c(asgramcf_s *_swig_go_0) {
 }
 
 
-void _wrap_asgramcf_reset_liquid_24d78331e3228d7c(asgramcf_s *_swig_go_0) {
+void _wrap_AsgramcfReset_liquid_7b08cc538ffcb585(asgramcf_s *_swig_go_0) {
   asgramcf arg1 = (asgramcf) 0 ;
   
   arg1 = *(asgramcf *)&_swig_go_0; 
@@ -5473,7 +5473,7 @@ void _wrap_asgramcf_reset_liquid_24d78331e3228d7c(asgramcf_s *_swig_go_0) {
 }
 
 
-void _wrap_asgramcf_set_scale_liquid_24d78331e3228d7c(asgramcf_s *_swig_go_0, float _swig_go_1, float _swig_go_2) {
+void _wrap_AsgramcfSetScale_liquid_7b08cc538ffcb585(asgramcf_s *_swig_go_0, float _swig_go_1, float _swig_go_2) {
   asgramcf arg1 = (asgramcf) 0 ;
   float arg2 ;
   float arg3 ;
@@ -5487,7 +5487,7 @@ void _wrap_asgramcf_set_scale_liquid_24d78331e3228d7c(asgramcf_s *_swig_go_0, fl
 }
 
 
-void _wrap_asgramcf_set_display_liquid_24d78331e3228d7c(asgramcf_s *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_AsgramcfSetDisplay_liquid_7b08cc538ffcb585(asgramcf_s *_swig_go_0, _gostring_ _swig_go_1) {
   asgramcf arg1 = (asgramcf) 0 ;
   char *arg2 = (char *) 0 ;
   
@@ -5504,7 +5504,7 @@ void _wrap_asgramcf_set_display_liquid_24d78331e3228d7c(asgramcf_s *_swig_go_0, 
 }
 
 
-void _wrap_asgramcf_push_liquid_24d78331e3228d7c(asgramcf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_AsgramcfPush_liquid_7b08cc538ffcb585(asgramcf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   asgramcf arg1 = (asgramcf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -5523,7 +5523,7 @@ void _wrap_asgramcf_push_liquid_24d78331e3228d7c(asgramcf_s *_swig_go_0, liquid_
 }
 
 
-void _wrap_asgramcf_write_liquid_24d78331e3228d7c(asgramcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+void _wrap_AsgramcfWrite_liquid_7b08cc538ffcb585(asgramcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   asgramcf arg1 = (asgramcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -5537,7 +5537,7 @@ void _wrap_asgramcf_write_liquid_24d78331e3228d7c(asgramcf_s *_swig_go_0, liquid
 }
 
 
-void _wrap_asgramcf_execute_liquid_24d78331e3228d7c(asgramcf_s *_swig_go_0, _gostring_ _swig_go_1, float *_swig_go_2, float *_swig_go_3) {
+void _wrap_AsgramcfExecute_liquid_7b08cc538ffcb585(asgramcf_s *_swig_go_0, _gostring_ _swig_go_1, float *_swig_go_2, float *_swig_go_3) {
   asgramcf arg1 = (asgramcf) 0 ;
   char *arg2 = (char *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -5558,7 +5558,7 @@ void _wrap_asgramcf_execute_liquid_24d78331e3228d7c(asgramcf_s *_swig_go_0, _gos
 }
 
 
-void _wrap_asgramcf_print_liquid_24d78331e3228d7c(asgramcf_s *_swig_go_0) {
+void _wrap_AsgramcfPrint_liquid_7b08cc538ffcb585(asgramcf_s *_swig_go_0) {
   asgramcf arg1 = (asgramcf) 0 ;
   
   arg1 = *(asgramcf *)&_swig_go_0; 
@@ -5568,7 +5568,7 @@ void _wrap_asgramcf_print_liquid_24d78331e3228d7c(asgramcf_s *_swig_go_0) {
 }
 
 
-asgramf_s *_wrap_asgramf_create_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+asgramf_s *_wrap_AsgramfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   asgramf result;
   asgramf_s *_swig_go_result;
@@ -5581,7 +5581,7 @@ asgramf_s *_wrap_asgramf_create_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-void _wrap_asgramf_destroy_liquid_24d78331e3228d7c(asgramf_s *_swig_go_0) {
+void _wrap_AsgramfDestroy_liquid_7b08cc538ffcb585(asgramf_s *_swig_go_0) {
   asgramf arg1 = (asgramf) 0 ;
   
   arg1 = *(asgramf *)&_swig_go_0; 
@@ -5591,7 +5591,7 @@ void _wrap_asgramf_destroy_liquid_24d78331e3228d7c(asgramf_s *_swig_go_0) {
 }
 
 
-void _wrap_asgramf_reset_liquid_24d78331e3228d7c(asgramf_s *_swig_go_0) {
+void _wrap_AsgramfReset_liquid_7b08cc538ffcb585(asgramf_s *_swig_go_0) {
   asgramf arg1 = (asgramf) 0 ;
   
   arg1 = *(asgramf *)&_swig_go_0; 
@@ -5601,7 +5601,7 @@ void _wrap_asgramf_reset_liquid_24d78331e3228d7c(asgramf_s *_swig_go_0) {
 }
 
 
-void _wrap_asgramf_set_scale_liquid_24d78331e3228d7c(asgramf_s *_swig_go_0, float _swig_go_1, float _swig_go_2) {
+void _wrap_AsgramfSetScale_liquid_7b08cc538ffcb585(asgramf_s *_swig_go_0, float _swig_go_1, float _swig_go_2) {
   asgramf arg1 = (asgramf) 0 ;
   float arg2 ;
   float arg3 ;
@@ -5615,7 +5615,7 @@ void _wrap_asgramf_set_scale_liquid_24d78331e3228d7c(asgramf_s *_swig_go_0, floa
 }
 
 
-void _wrap_asgramf_set_display_liquid_24d78331e3228d7c(asgramf_s *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_AsgramfSetDisplay_liquid_7b08cc538ffcb585(asgramf_s *_swig_go_0, _gostring_ _swig_go_1) {
   asgramf arg1 = (asgramf) 0 ;
   char *arg2 = (char *) 0 ;
   
@@ -5632,7 +5632,7 @@ void _wrap_asgramf_set_display_liquid_24d78331e3228d7c(asgramf_s *_swig_go_0, _g
 }
 
 
-void _wrap_asgramf_push_liquid_24d78331e3228d7c(asgramf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_AsgramfPush_liquid_7b08cc538ffcb585(asgramf_s *_swig_go_0, float _swig_go_1) {
   asgramf arg1 = (asgramf) 0 ;
   float arg2 ;
   
@@ -5644,7 +5644,7 @@ void _wrap_asgramf_push_liquid_24d78331e3228d7c(asgramf_s *_swig_go_0, float _sw
 }
 
 
-void _wrap_asgramf_write_liquid_24d78331e3228d7c(asgramf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+void _wrap_AsgramfWrite_liquid_7b08cc538ffcb585(asgramf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   asgramf arg1 = (asgramf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -5658,7 +5658,7 @@ void _wrap_asgramf_write_liquid_24d78331e3228d7c(asgramf_s *_swig_go_0, float *_
 }
 
 
-void _wrap_asgramf_execute_liquid_24d78331e3228d7c(asgramf_s *_swig_go_0, _gostring_ _swig_go_1, float *_swig_go_2, float *_swig_go_3) {
+void _wrap_AsgramfExecute_liquid_7b08cc538ffcb585(asgramf_s *_swig_go_0, _gostring_ _swig_go_1, float *_swig_go_2, float *_swig_go_3) {
   asgramf arg1 = (asgramf) 0 ;
   char *arg2 = (char *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -5679,7 +5679,7 @@ void _wrap_asgramf_execute_liquid_24d78331e3228d7c(asgramf_s *_swig_go_0, _gostr
 }
 
 
-void _wrap_asgramf_print_liquid_24d78331e3228d7c(asgramf_s *_swig_go_0) {
+void _wrap_AsgramfPrint_liquid_7b08cc538ffcb585(asgramf_s *_swig_go_0) {
   asgramf arg1 = (asgramf) 0 ;
   
   arg1 = *(asgramf *)&_swig_go_0; 
@@ -5689,7 +5689,7 @@ void _wrap_asgramf_print_liquid_24d78331e3228d7c(asgramf_s *_swig_go_0) {
 }
 
 
-spwaterfallcf_s *_wrap_spwaterfallcf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+spwaterfallcf_s *_wrap_SpwaterfallcfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   unsigned int arg1 ;
   int arg2 ;
   unsigned int arg3 ;
@@ -5710,7 +5710,7 @@ spwaterfallcf_s *_wrap_spwaterfallcf_create_liquid_24d78331e3228d7c(intgo _swig_
 }
 
 
-spwaterfallcf_s *_wrap_spwaterfallcf_create_default_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+spwaterfallcf_s *_wrap_SpwaterfallcfCreateDefault_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   spwaterfallcf result;
@@ -5725,7 +5725,7 @@ spwaterfallcf_s *_wrap_spwaterfallcf_create_default_liquid_24d78331e3228d7c(intg
 }
 
 
-void _wrap_spwaterfallcf_destroy_liquid_24d78331e3228d7c(spwaterfallcf_s *_swig_go_0) {
+void _wrap_SpwaterfallcfDestroy_liquid_7b08cc538ffcb585(spwaterfallcf_s *_swig_go_0) {
   spwaterfallcf arg1 = (spwaterfallcf) 0 ;
   
   arg1 = *(spwaterfallcf *)&_swig_go_0; 
@@ -5735,7 +5735,7 @@ void _wrap_spwaterfallcf_destroy_liquid_24d78331e3228d7c(spwaterfallcf_s *_swig_
 }
 
 
-void _wrap_spwaterfallcf_clear_liquid_24d78331e3228d7c(spwaterfallcf_s *_swig_go_0) {
+void _wrap_SpwaterfallcfClear_liquid_7b08cc538ffcb585(spwaterfallcf_s *_swig_go_0) {
   spwaterfallcf arg1 = (spwaterfallcf) 0 ;
   
   arg1 = *(spwaterfallcf *)&_swig_go_0; 
@@ -5745,7 +5745,7 @@ void _wrap_spwaterfallcf_clear_liquid_24d78331e3228d7c(spwaterfallcf_s *_swig_go
 }
 
 
-void _wrap_spwaterfallcf_reset_liquid_24d78331e3228d7c(spwaterfallcf_s *_swig_go_0) {
+void _wrap_SpwaterfallcfReset_liquid_7b08cc538ffcb585(spwaterfallcf_s *_swig_go_0) {
   spwaterfallcf arg1 = (spwaterfallcf) 0 ;
   
   arg1 = *(spwaterfallcf *)&_swig_go_0; 
@@ -5755,7 +5755,7 @@ void _wrap_spwaterfallcf_reset_liquid_24d78331e3228d7c(spwaterfallcf_s *_swig_go
 }
 
 
-void _wrap_spwaterfallcf_print_liquid_24d78331e3228d7c(spwaterfallcf_s *_swig_go_0) {
+void _wrap_SpwaterfallcfPrint_liquid_7b08cc538ffcb585(spwaterfallcf_s *_swig_go_0) {
   spwaterfallcf arg1 = (spwaterfallcf) 0 ;
   
   arg1 = *(spwaterfallcf *)&_swig_go_0; 
@@ -5765,7 +5765,7 @@ void _wrap_spwaterfallcf_print_liquid_24d78331e3228d7c(spwaterfallcf_s *_swig_go
 }
 
 
-uint64_t *_wrap_spwaterfallcf_get_num_samples_total_liquid_24d78331e3228d7c(spwaterfallcf_s *_swig_go_0) {
+uint64_t *_wrap_SpwaterfallcfGetNumSamplesTotal_liquid_7b08cc538ffcb585(spwaterfallcf_s *_swig_go_0) {
   spwaterfallcf arg1 = (spwaterfallcf) 0 ;
   uint64_t result;
   uint64_t *_swig_go_result;
@@ -5778,7 +5778,7 @@ uint64_t *_wrap_spwaterfallcf_get_num_samples_total_liquid_24d78331e3228d7c(spwa
 }
 
 
-intgo _wrap_spwaterfallcf_get_num_freq_liquid_24d78331e3228d7c(spwaterfallcf_s *_swig_go_0) {
+intgo _wrap_SpwaterfallcfGetNumFreq_liquid_7b08cc538ffcb585(spwaterfallcf_s *_swig_go_0) {
   spwaterfallcf arg1 = (spwaterfallcf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -5791,7 +5791,7 @@ intgo _wrap_spwaterfallcf_get_num_freq_liquid_24d78331e3228d7c(spwaterfallcf_s *
 }
 
 
-intgo _wrap_spwaterfallcf_get_num_time_liquid_24d78331e3228d7c(spwaterfallcf_s *_swig_go_0) {
+intgo _wrap_SpwaterfallcfGetNumTime_liquid_7b08cc538ffcb585(spwaterfallcf_s *_swig_go_0) {
   spwaterfallcf arg1 = (spwaterfallcf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -5804,7 +5804,7 @@ intgo _wrap_spwaterfallcf_get_num_time_liquid_24d78331e3228d7c(spwaterfallcf_s *
 }
 
 
-float *_wrap_spwaterfallcf_get_psd_liquid_24d78331e3228d7c(spwaterfallcf_s *_swig_go_0) {
+float *_wrap_SpwaterfallcfGetPsd_liquid_7b08cc538ffcb585(spwaterfallcf_s *_swig_go_0) {
   spwaterfallcf arg1 = (spwaterfallcf) 0 ;
   float *result = 0 ;
   float *_swig_go_result;
@@ -5817,7 +5817,7 @@ float *_wrap_spwaterfallcf_get_psd_liquid_24d78331e3228d7c(spwaterfallcf_s *_swi
 }
 
 
-intgo _wrap_spwaterfallcf_set_freq_liquid_24d78331e3228d7c(spwaterfallcf_s *_swig_go_0, float _swig_go_1) {
+intgo _wrap_SpwaterfallcfSetFreq_liquid_7b08cc538ffcb585(spwaterfallcf_s *_swig_go_0, float _swig_go_1) {
   spwaterfallcf arg1 = (spwaterfallcf) 0 ;
   float arg2 ;
   int result;
@@ -5832,7 +5832,7 @@ intgo _wrap_spwaterfallcf_set_freq_liquid_24d78331e3228d7c(spwaterfallcf_s *_swi
 }
 
 
-intgo _wrap_spwaterfallcf_set_rate_liquid_24d78331e3228d7c(spwaterfallcf_s *_swig_go_0, float _swig_go_1) {
+intgo _wrap_SpwaterfallcfSetRate_liquid_7b08cc538ffcb585(spwaterfallcf_s *_swig_go_0, float _swig_go_1) {
   spwaterfallcf arg1 = (spwaterfallcf) 0 ;
   float arg2 ;
   int result;
@@ -5847,7 +5847,7 @@ intgo _wrap_spwaterfallcf_set_rate_liquid_24d78331e3228d7c(spwaterfallcf_s *_swi
 }
 
 
-intgo _wrap_spwaterfallcf_set_dims_liquid_24d78331e3228d7c(spwaterfallcf_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+intgo _wrap_SpwaterfallcfSetDims_liquid_7b08cc538ffcb585(spwaterfallcf_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   spwaterfallcf arg1 = (spwaterfallcf) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -5864,7 +5864,7 @@ intgo _wrap_spwaterfallcf_set_dims_liquid_24d78331e3228d7c(spwaterfallcf_s *_swi
 }
 
 
-intgo _wrap_spwaterfallcf_set_commands_liquid_24d78331e3228d7c(spwaterfallcf_s *_swig_go_0, _gostring_ _swig_go_1) {
+intgo _wrap_SpwaterfallcfSetCommands_liquid_7b08cc538ffcb585(spwaterfallcf_s *_swig_go_0, _gostring_ _swig_go_1) {
   spwaterfallcf arg1 = (spwaterfallcf) 0 ;
   char *arg2 = (char *) 0 ;
   int result;
@@ -5884,7 +5884,7 @@ intgo _wrap_spwaterfallcf_set_commands_liquid_24d78331e3228d7c(spwaterfallcf_s *
 }
 
 
-void _wrap_spwaterfallcf_push_liquid_24d78331e3228d7c(spwaterfallcf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_SpwaterfallcfPush_liquid_7b08cc538ffcb585(spwaterfallcf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   spwaterfallcf arg1 = (spwaterfallcf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -5903,7 +5903,7 @@ void _wrap_spwaterfallcf_push_liquid_24d78331e3228d7c(spwaterfallcf_s *_swig_go_
 }
 
 
-void _wrap_spwaterfallcf_write_liquid_24d78331e3228d7c(spwaterfallcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+void _wrap_SpwaterfallcfWrite_liquid_7b08cc538ffcb585(spwaterfallcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   spwaterfallcf arg1 = (spwaterfallcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -5917,7 +5917,7 @@ void _wrap_spwaterfallcf_write_liquid_24d78331e3228d7c(spwaterfallcf_s *_swig_go
 }
 
 
-intgo _wrap_spwaterfallcf_export_liquid_24d78331e3228d7c(spwaterfallcf_s *_swig_go_0, _gostring_ _swig_go_1) {
+intgo _wrap_SpwaterfallcfExport_liquid_7b08cc538ffcb585(spwaterfallcf_s *_swig_go_0, _gostring_ _swig_go_1) {
   spwaterfallcf arg1 = (spwaterfallcf) 0 ;
   char *arg2 = (char *) 0 ;
   int result;
@@ -5937,7 +5937,7 @@ intgo _wrap_spwaterfallcf_export_liquid_24d78331e3228d7c(spwaterfallcf_s *_swig_
 }
 
 
-spwaterfallf_s *_wrap_spwaterfallf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+spwaterfallf_s *_wrap_SpwaterfallfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   unsigned int arg1 ;
   int arg2 ;
   unsigned int arg3 ;
@@ -5958,7 +5958,7 @@ spwaterfallf_s *_wrap_spwaterfallf_create_liquid_24d78331e3228d7c(intgo _swig_go
 }
 
 
-spwaterfallf_s *_wrap_spwaterfallf_create_default_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+spwaterfallf_s *_wrap_SpwaterfallfCreateDefault_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   spwaterfallf result;
@@ -5973,7 +5973,7 @@ spwaterfallf_s *_wrap_spwaterfallf_create_default_liquid_24d78331e3228d7c(intgo 
 }
 
 
-void _wrap_spwaterfallf_destroy_liquid_24d78331e3228d7c(spwaterfallf_s *_swig_go_0) {
+void _wrap_SpwaterfallfDestroy_liquid_7b08cc538ffcb585(spwaterfallf_s *_swig_go_0) {
   spwaterfallf arg1 = (spwaterfallf) 0 ;
   
   arg1 = *(spwaterfallf *)&_swig_go_0; 
@@ -5983,7 +5983,7 @@ void _wrap_spwaterfallf_destroy_liquid_24d78331e3228d7c(spwaterfallf_s *_swig_go
 }
 
 
-void _wrap_spwaterfallf_clear_liquid_24d78331e3228d7c(spwaterfallf_s *_swig_go_0) {
+void _wrap_SpwaterfallfClear_liquid_7b08cc538ffcb585(spwaterfallf_s *_swig_go_0) {
   spwaterfallf arg1 = (spwaterfallf) 0 ;
   
   arg1 = *(spwaterfallf *)&_swig_go_0; 
@@ -5993,7 +5993,7 @@ void _wrap_spwaterfallf_clear_liquid_24d78331e3228d7c(spwaterfallf_s *_swig_go_0
 }
 
 
-void _wrap_spwaterfallf_reset_liquid_24d78331e3228d7c(spwaterfallf_s *_swig_go_0) {
+void _wrap_SpwaterfallfReset_liquid_7b08cc538ffcb585(spwaterfallf_s *_swig_go_0) {
   spwaterfallf arg1 = (spwaterfallf) 0 ;
   
   arg1 = *(spwaterfallf *)&_swig_go_0; 
@@ -6003,7 +6003,7 @@ void _wrap_spwaterfallf_reset_liquid_24d78331e3228d7c(spwaterfallf_s *_swig_go_0
 }
 
 
-void _wrap_spwaterfallf_print_liquid_24d78331e3228d7c(spwaterfallf_s *_swig_go_0) {
+void _wrap_SpwaterfallfPrint_liquid_7b08cc538ffcb585(spwaterfallf_s *_swig_go_0) {
   spwaterfallf arg1 = (spwaterfallf) 0 ;
   
   arg1 = *(spwaterfallf *)&_swig_go_0; 
@@ -6013,7 +6013,7 @@ void _wrap_spwaterfallf_print_liquid_24d78331e3228d7c(spwaterfallf_s *_swig_go_0
 }
 
 
-uint64_t *_wrap_spwaterfallf_get_num_samples_total_liquid_24d78331e3228d7c(spwaterfallf_s *_swig_go_0) {
+uint64_t *_wrap_SpwaterfallfGetNumSamplesTotal_liquid_7b08cc538ffcb585(spwaterfallf_s *_swig_go_0) {
   spwaterfallf arg1 = (spwaterfallf) 0 ;
   uint64_t result;
   uint64_t *_swig_go_result;
@@ -6026,7 +6026,7 @@ uint64_t *_wrap_spwaterfallf_get_num_samples_total_liquid_24d78331e3228d7c(spwat
 }
 
 
-intgo _wrap_spwaterfallf_get_num_freq_liquid_24d78331e3228d7c(spwaterfallf_s *_swig_go_0) {
+intgo _wrap_SpwaterfallfGetNumFreq_liquid_7b08cc538ffcb585(spwaterfallf_s *_swig_go_0) {
   spwaterfallf arg1 = (spwaterfallf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -6039,7 +6039,7 @@ intgo _wrap_spwaterfallf_get_num_freq_liquid_24d78331e3228d7c(spwaterfallf_s *_s
 }
 
 
-intgo _wrap_spwaterfallf_get_num_time_liquid_24d78331e3228d7c(spwaterfallf_s *_swig_go_0) {
+intgo _wrap_SpwaterfallfGetNumTime_liquid_7b08cc538ffcb585(spwaterfallf_s *_swig_go_0) {
   spwaterfallf arg1 = (spwaterfallf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -6052,7 +6052,7 @@ intgo _wrap_spwaterfallf_get_num_time_liquid_24d78331e3228d7c(spwaterfallf_s *_s
 }
 
 
-float *_wrap_spwaterfallf_get_psd_liquid_24d78331e3228d7c(spwaterfallf_s *_swig_go_0) {
+float *_wrap_SpwaterfallfGetPsd_liquid_7b08cc538ffcb585(spwaterfallf_s *_swig_go_0) {
   spwaterfallf arg1 = (spwaterfallf) 0 ;
   float *result = 0 ;
   float *_swig_go_result;
@@ -6065,7 +6065,7 @@ float *_wrap_spwaterfallf_get_psd_liquid_24d78331e3228d7c(spwaterfallf_s *_swig_
 }
 
 
-intgo _wrap_spwaterfallf_set_freq_liquid_24d78331e3228d7c(spwaterfallf_s *_swig_go_0, float _swig_go_1) {
+intgo _wrap_SpwaterfallfSetFreq_liquid_7b08cc538ffcb585(spwaterfallf_s *_swig_go_0, float _swig_go_1) {
   spwaterfallf arg1 = (spwaterfallf) 0 ;
   float arg2 ;
   int result;
@@ -6080,7 +6080,7 @@ intgo _wrap_spwaterfallf_set_freq_liquid_24d78331e3228d7c(spwaterfallf_s *_swig_
 }
 
 
-intgo _wrap_spwaterfallf_set_rate_liquid_24d78331e3228d7c(spwaterfallf_s *_swig_go_0, float _swig_go_1) {
+intgo _wrap_SpwaterfallfSetRate_liquid_7b08cc538ffcb585(spwaterfallf_s *_swig_go_0, float _swig_go_1) {
   spwaterfallf arg1 = (spwaterfallf) 0 ;
   float arg2 ;
   int result;
@@ -6095,7 +6095,7 @@ intgo _wrap_spwaterfallf_set_rate_liquid_24d78331e3228d7c(spwaterfallf_s *_swig_
 }
 
 
-intgo _wrap_spwaterfallf_set_dims_liquid_24d78331e3228d7c(spwaterfallf_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+intgo _wrap_SpwaterfallfSetDims_liquid_7b08cc538ffcb585(spwaterfallf_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   spwaterfallf arg1 = (spwaterfallf) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -6112,7 +6112,7 @@ intgo _wrap_spwaterfallf_set_dims_liquid_24d78331e3228d7c(spwaterfallf_s *_swig_
 }
 
 
-intgo _wrap_spwaterfallf_set_commands_liquid_24d78331e3228d7c(spwaterfallf_s *_swig_go_0, _gostring_ _swig_go_1) {
+intgo _wrap_SpwaterfallfSetCommands_liquid_7b08cc538ffcb585(spwaterfallf_s *_swig_go_0, _gostring_ _swig_go_1) {
   spwaterfallf arg1 = (spwaterfallf) 0 ;
   char *arg2 = (char *) 0 ;
   int result;
@@ -6132,7 +6132,7 @@ intgo _wrap_spwaterfallf_set_commands_liquid_24d78331e3228d7c(spwaterfallf_s *_s
 }
 
 
-void _wrap_spwaterfallf_push_liquid_24d78331e3228d7c(spwaterfallf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_SpwaterfallfPush_liquid_7b08cc538ffcb585(spwaterfallf_s *_swig_go_0, float _swig_go_1) {
   spwaterfallf arg1 = (spwaterfallf) 0 ;
   float arg2 ;
   
@@ -6144,7 +6144,7 @@ void _wrap_spwaterfallf_push_liquid_24d78331e3228d7c(spwaterfallf_s *_swig_go_0,
 }
 
 
-void _wrap_spwaterfallf_write_liquid_24d78331e3228d7c(spwaterfallf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+void _wrap_SpwaterfallfWrite_liquid_7b08cc538ffcb585(spwaterfallf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   spwaterfallf arg1 = (spwaterfallf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -6158,7 +6158,7 @@ void _wrap_spwaterfallf_write_liquid_24d78331e3228d7c(spwaterfallf_s *_swig_go_0
 }
 
 
-intgo _wrap_spwaterfallf_export_liquid_24d78331e3228d7c(spwaterfallf_s *_swig_go_0, _gostring_ _swig_go_1) {
+intgo _wrap_SpwaterfallfExport_liquid_7b08cc538ffcb585(spwaterfallf_s *_swig_go_0, _gostring_ _swig_go_1) {
   spwaterfallf arg1 = (spwaterfallf) 0 ;
   char *arg2 = (char *) 0 ;
   int result;
@@ -6178,7 +6178,7 @@ intgo _wrap_spwaterfallf_export_liquid_24d78331e3228d7c(spwaterfallf_s *_swig_go
 }
 
 
-intgo _wrap_LIQUID_FIRFILT_UNKNOWN_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFIRFILTUNKNOWN_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -6190,7 +6190,7 @@ intgo _wrap_LIQUID_FIRFILT_UNKNOWN_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FIRFILT_KAISER_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFIRFILTKAISER_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -6202,7 +6202,7 @@ intgo _wrap_LIQUID_FIRFILT_KAISER_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FIRFILT_PM_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFIRFILTPM_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -6214,7 +6214,7 @@ intgo _wrap_LIQUID_FIRFILT_PM_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FIRFILT_RCOS_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFIRFILTRCOS_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -6226,7 +6226,7 @@ intgo _wrap_LIQUID_FIRFILT_RCOS_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FIRFILT_FEXP_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFIRFILTFEXP_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -6238,7 +6238,7 @@ intgo _wrap_LIQUID_FIRFILT_FEXP_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FIRFILT_FSECH_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFIRFILTFSECH_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -6250,7 +6250,7 @@ intgo _wrap_LIQUID_FIRFILT_FSECH_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FIRFILT_FARCSECH_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFIRFILTFARCSECH_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -6262,7 +6262,7 @@ intgo _wrap_LIQUID_FIRFILT_FARCSECH_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FIRFILT_ARKAISER_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFIRFILTARKAISER_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -6274,7 +6274,7 @@ intgo _wrap_LIQUID_FIRFILT_ARKAISER_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FIRFILT_RKAISER_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFIRFILTRKAISER_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -6286,7 +6286,7 @@ intgo _wrap_LIQUID_FIRFILT_RKAISER_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FIRFILT_RRC_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFIRFILTRRC_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -6298,7 +6298,7 @@ intgo _wrap_LIQUID_FIRFILT_RRC_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FIRFILT_hM3_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFIRFILTHM3_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -6310,7 +6310,7 @@ intgo _wrap_LIQUID_FIRFILT_hM3_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FIRFILT_GMSKTX_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFIRFILTGMSKTX_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -6322,7 +6322,7 @@ intgo _wrap_LIQUID_FIRFILT_GMSKTX_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FIRFILT_GMSKRX_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFIRFILTGMSKRX_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -6334,7 +6334,7 @@ intgo _wrap_LIQUID_FIRFILT_GMSKRX_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FIRFILT_RFEXP_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFIRFILTRFEXP_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -6346,7 +6346,7 @@ intgo _wrap_LIQUID_FIRFILT_RFEXP_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FIRFILT_RFSECH_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFIRFILTRFSECH_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -6358,7 +6358,7 @@ intgo _wrap_LIQUID_FIRFILT_RFSECH_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FIRFILT_RFARCSECH_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFIRFILTRFARCSECH_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -6370,7 +6370,7 @@ intgo _wrap_LIQUID_FIRFILT_RFARCSECH_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_liquid_firdes_prototype_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4, float *_swig_go_5) {
+void _wrap_LiquidFirdesPrototype_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4, float *_swig_go_5) {
   liquid_firfilt_type arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -6390,7 +6390,7 @@ void _wrap_liquid_firdes_prototype_liquid_24d78331e3228d7c(intgo _swig_go_0, int
 }
 
 
-intgo _wrap_liquid_getopt_str2firfilt_liquid_24d78331e3228d7c(_gostring_ _swig_go_0) {
+intgo _wrap_LiquidGetoptStr2firfilt_liquid_7b08cc538ffcb585(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -6408,7 +6408,7 @@ intgo _wrap_liquid_getopt_str2firfilt_liquid_24d78331e3228d7c(_gostring_ _swig_g
 }
 
 
-intgo _wrap_estimate_req_filter_len_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1) {
+intgo _wrap_EstimateReqFilterLen_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1) {
   float arg1 ;
   float arg2 ;
   unsigned int result;
@@ -6423,7 +6423,7 @@ intgo _wrap_estimate_req_filter_len_liquid_24d78331e3228d7c(float _swig_go_0, fl
 }
 
 
-float _wrap_estimate_req_filter_As_liquid_24d78331e3228d7c(float _swig_go_0, intgo _swig_go_1) {
+float _wrap_EstimateReqFilterAs_liquid_7b08cc538ffcb585(float _swig_go_0, intgo _swig_go_1) {
   float arg1 ;
   unsigned int arg2 ;
   float result;
@@ -6438,7 +6438,7 @@ float _wrap_estimate_req_filter_As_liquid_24d78331e3228d7c(float _swig_go_0, int
 }
 
 
-float _wrap_estimate_req_filter_df_liquid_24d78331e3228d7c(float _swig_go_0, intgo _swig_go_1) {
+float _wrap_EstimateReqFilterDf_liquid_7b08cc538ffcb585(float _swig_go_0, intgo _swig_go_1) {
   float arg1 ;
   unsigned int arg2 ;
   float result;
@@ -6453,7 +6453,7 @@ float _wrap_estimate_req_filter_df_liquid_24d78331e3228d7c(float _swig_go_0, int
 }
 
 
-float _wrap_kaiser_beta_As_liquid_24d78331e3228d7c(float _swig_go_0) {
+float _wrap_KaiserBetaAs_liquid_7b08cc538ffcb585(float _swig_go_0) {
   float arg1 ;
   float result;
   float _swig_go_result;
@@ -6466,7 +6466,7 @@ float _wrap_kaiser_beta_As_liquid_24d78331e3228d7c(float _swig_go_0) {
 }
 
 
-intgo _wrap_LIQUID_FIRDESPM_BANDPASS_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFIRDESPMBANDPASS_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -6478,7 +6478,7 @@ intgo _wrap_LIQUID_FIRDESPM_BANDPASS_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FIRDESPM_DIFFERENTIATOR_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFIRDESPMDIFFERENTIATOR_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -6490,7 +6490,7 @@ intgo _wrap_LIQUID_FIRDESPM_DIFFERENTIATOR_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FIRDESPM_HILBERT_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFIRDESPMHILBERT_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -6502,7 +6502,7 @@ intgo _wrap_LIQUID_FIRDESPM_HILBERT_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FIRDESPM_FLATWEIGHT_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFIRDESPMFLATWEIGHT_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -6514,7 +6514,7 @@ intgo _wrap_LIQUID_FIRDESPM_FLATWEIGHT_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FIRDESPM_EXPWEIGHT_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFIRDESPMEXPWEIGHT_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -6526,7 +6526,7 @@ intgo _wrap_LIQUID_FIRDESPM_EXPWEIGHT_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_FIRDESPM_LINWEIGHT_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFIRDESPMLINWEIGHT_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -6538,7 +6538,7 @@ intgo _wrap_LIQUID_FIRDESPM_LINWEIGHT_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_firdespm_run_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float *_swig_go_2, float *_swig_go_3, float *_swig_go_4, liquid_firdespm_wtype *_swig_go_5, intgo _swig_go_6, float *_swig_go_7) {
+void _wrap_FirdespmRun_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float *_swig_go_2, float *_swig_go_3, float *_swig_go_4, liquid_firdespm_wtype *_swig_go_5, intgo _swig_go_6, float *_swig_go_7) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -6562,7 +6562,7 @@ void _wrap_firdespm_run_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go
 }
 
 
-void _wrap_firdespm_lowpass_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
+void _wrap_FirdespmLowpass_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
   unsigned int arg1 ;
   float arg2 ;
   float arg3 ;
@@ -6580,7 +6580,7 @@ void _wrap_firdespm_lowpass_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swi
 }
 
 
-firdespm_s *_wrap_firdespm_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float *_swig_go_2, float *_swig_go_3, float *_swig_go_4, liquid_firdespm_wtype *_swig_go_5, intgo _swig_go_6) {
+firdespm_s *_wrap_FirdespmCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float *_swig_go_2, float *_swig_go_3, float *_swig_go_4, liquid_firdespm_wtype *_swig_go_5, intgo _swig_go_6) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -6605,7 +6605,7 @@ firdespm_s *_wrap_firdespm_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intg
 }
 
 
-firdespm_s *_wrap_firdespm_create_callback_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float *_swig_go_2, intgo _swig_go_3, void* _swig_go_4, void *_swig_go_5) {
+firdespm_s *_wrap_FirdespmCreateCallback_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float *_swig_go_2, intgo _swig_go_3, void* _swig_go_4, void *_swig_go_5) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -6628,7 +6628,7 @@ firdespm_s *_wrap_firdespm_create_callback_liquid_24d78331e3228d7c(intgo _swig_g
 }
 
 
-void _wrap_firdespm_destroy_liquid_24d78331e3228d7c(firdespm_s *_swig_go_0) {
+void _wrap_FirdespmDestroy_liquid_7b08cc538ffcb585(firdespm_s *_swig_go_0) {
   firdespm arg1 = (firdespm) 0 ;
   
   arg1 = *(firdespm *)&_swig_go_0; 
@@ -6638,7 +6638,7 @@ void _wrap_firdespm_destroy_liquid_24d78331e3228d7c(firdespm_s *_swig_go_0) {
 }
 
 
-void _wrap_firdespm_print_liquid_24d78331e3228d7c(firdespm_s *_swig_go_0) {
+void _wrap_FirdespmPrint_liquid_7b08cc538ffcb585(firdespm_s *_swig_go_0) {
   firdespm arg1 = (firdespm) 0 ;
   
   arg1 = *(firdespm *)&_swig_go_0; 
@@ -6648,7 +6648,7 @@ void _wrap_firdespm_print_liquid_24d78331e3228d7c(firdespm_s *_swig_go_0) {
 }
 
 
-void _wrap_firdespm_execute_liquid_24d78331e3228d7c(firdespm_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_FirdespmExecute_liquid_7b08cc538ffcb585(firdespm_s *_swig_go_0, float *_swig_go_1) {
   firdespm arg1 = (firdespm) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -6660,7 +6660,7 @@ void _wrap_firdespm_execute_liquid_24d78331e3228d7c(firdespm_s *_swig_go_0, floa
 }
 
 
-void _wrap_liquid_firdes_kaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
+void _wrap_LiquidFirdesKaiser_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
   unsigned int arg1 ;
   float arg2 ;
   float arg3 ;
@@ -6678,7 +6678,7 @@ void _wrap_liquid_firdes_kaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, float 
 }
 
 
-void _wrap_liquid_firdes_notch_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1, float _swig_go_2, float *_swig_go_3) {
+void _wrap_LiquidFirdesNotch_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1, float _swig_go_2, float *_swig_go_3) {
   unsigned int arg1 ;
   float arg2 ;
   float arg3 ;
@@ -6694,7 +6694,7 @@ void _wrap_liquid_firdes_notch_liquid_24d78331e3228d7c(intgo _swig_go_0, float _
 }
 
 
-void _wrap_liquid_firdes_doppler_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
+void _wrap_LiquidFirdesDoppler_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
   unsigned int arg1 ;
   float arg2 ;
   float arg3 ;
@@ -6712,7 +6712,7 @@ void _wrap_liquid_firdes_doppler_liquid_24d78331e3228d7c(intgo _swig_go_0, float
 }
 
 
-void _wrap_liquid_firdes_rcos_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
+void _wrap_LiquidFirdesRcos_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -6730,7 +6730,7 @@ void _wrap_liquid_firdes_rcos_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _s
 }
 
 
-void _wrap_liquid_firdes_rrcos_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
+void _wrap_LiquidFirdesRrcos_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -6748,7 +6748,7 @@ void _wrap_liquid_firdes_rrcos_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _
 }
 
 
-void _wrap_liquid_firdes_rkaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
+void _wrap_LiquidFirdesRkaiser_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -6766,7 +6766,7 @@ void _wrap_liquid_firdes_rkaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo
 }
 
 
-void _wrap_liquid_firdes_arkaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
+void _wrap_LiquidFirdesArkaiser_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -6784,7 +6784,7 @@ void _wrap_liquid_firdes_arkaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, intg
 }
 
 
-void _wrap_liquid_firdes_hM3_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
+void _wrap_LiquidFirdesHM3_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -6802,7 +6802,7 @@ void _wrap_liquid_firdes_hM3_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _sw
 }
 
 
-void _wrap_liquid_firdes_gmsktx_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
+void _wrap_LiquidFirdesGmsktx_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -6820,7 +6820,7 @@ void _wrap_liquid_firdes_gmsktx_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo 
 }
 
 
-void _wrap_liquid_firdes_gmskrx_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
+void _wrap_LiquidFirdesGmskrx_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -6838,7 +6838,7 @@ void _wrap_liquid_firdes_gmskrx_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo 
 }
 
 
-void _wrap_liquid_firdes_fexp_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
+void _wrap_LiquidFirdesFexp_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -6856,7 +6856,7 @@ void _wrap_liquid_firdes_fexp_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _s
 }
 
 
-void _wrap_liquid_firdes_rfexp_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
+void _wrap_LiquidFirdesRfexp_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -6874,7 +6874,7 @@ void _wrap_liquid_firdes_rfexp_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _
 }
 
 
-void _wrap_liquid_firdes_fsech_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
+void _wrap_LiquidFirdesFsech_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -6892,7 +6892,7 @@ void _wrap_liquid_firdes_fsech_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _
 }
 
 
-void _wrap_liquid_firdes_rfsech_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
+void _wrap_LiquidFirdesRfsech_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -6910,7 +6910,7 @@ void _wrap_liquid_firdes_rfsech_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo 
 }
 
 
-void _wrap_liquid_firdes_farcsech_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
+void _wrap_LiquidFirdesFarcsech_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -6928,7 +6928,7 @@ void _wrap_liquid_firdes_farcsech_liquid_24d78331e3228d7c(intgo _swig_go_0, intg
 }
 
 
-void _wrap_liquid_firdes_rfarcsech_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
+void _wrap_LiquidFirdesRfarcsech_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float *_swig_go_4) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -6946,7 +6946,7 @@ void _wrap_liquid_firdes_rfarcsech_liquid_24d78331e3228d7c(intgo _swig_go_0, int
 }
 
 
-float _wrap_fir_group_delay_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, float _swig_go_2) {
+float _wrap_FirGroupDelay_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, float _swig_go_2) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -6963,7 +6963,7 @@ float _wrap_fir_group_delay_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _sw
 }
 
 
-float _wrap_iir_group_delay_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2, intgo _swig_go_3, float _swig_go_4) {
+float _wrap_IirGroupDelay_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2, intgo _swig_go_3, float _swig_go_4) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -6984,7 +6984,7 @@ float _wrap_iir_group_delay_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _sw
 }
 
 
-float _wrap_liquid_filter_autocorr_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+float _wrap_LiquidFilterAutocorr_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   int arg3 ;
@@ -7001,7 +7001,7 @@ float _wrap_liquid_filter_autocorr_liquid_24d78331e3228d7c(float *_swig_go_0, in
 }
 
 
-float _wrap_liquid_filter_crosscorr_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+float _wrap_LiquidFilterCrosscorr_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -7022,7 +7022,7 @@ float _wrap_liquid_filter_crosscorr_liquid_24d78331e3228d7c(float *_swig_go_0, i
 }
 
 
-void _wrap_liquid_filter_isi_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3, float *_swig_go_4) {
+void _wrap_LiquidFilterIsi_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3, float *_swig_go_4) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -7040,7 +7040,7 @@ void _wrap_liquid_filter_isi_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _s
 }
 
 
-float _wrap_liquid_filter_energy_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, float _swig_go_2, intgo _swig_go_3) {
+float _wrap_LiquidFilterEnergy_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, float _swig_go_2, intgo _swig_go_3) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -7059,7 +7059,7 @@ float _wrap_liquid_filter_energy_liquid_24d78331e3228d7c(float *_swig_go_0, intg
 }
 
 
-intgo _wrap_LIQUID_IIRDES_BUTTER_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDIIRDESBUTTER_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -7071,7 +7071,7 @@ intgo _wrap_LIQUID_IIRDES_BUTTER_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_IIRDES_CHEBY1_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDIIRDESCHEBY1_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -7083,7 +7083,7 @@ intgo _wrap_LIQUID_IIRDES_CHEBY1_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_IIRDES_CHEBY2_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDIIRDESCHEBY2_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -7095,7 +7095,7 @@ intgo _wrap_LIQUID_IIRDES_CHEBY2_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_IIRDES_ELLIP_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDIIRDESELLIP_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -7107,7 +7107,7 @@ intgo _wrap_LIQUID_IIRDES_ELLIP_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_IIRDES_BESSEL_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDIIRDESBESSEL_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -7119,7 +7119,7 @@ intgo _wrap_LIQUID_IIRDES_BESSEL_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_IIRDES_LOWPASS_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDIIRDESLOWPASS_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -7131,7 +7131,7 @@ intgo _wrap_LIQUID_IIRDES_LOWPASS_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_IIRDES_HIGHPASS_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDIIRDESHIGHPASS_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -7143,7 +7143,7 @@ intgo _wrap_LIQUID_IIRDES_HIGHPASS_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_IIRDES_BANDPASS_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDIIRDESBANDPASS_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -7155,7 +7155,7 @@ intgo _wrap_LIQUID_IIRDES_BANDPASS_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_IIRDES_BANDSTOP_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDIIRDESBANDSTOP_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -7167,7 +7167,7 @@ intgo _wrap_LIQUID_IIRDES_BANDSTOP_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_IIRDES_SOS_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDIIRDESSOS_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -7179,7 +7179,7 @@ intgo _wrap_LIQUID_IIRDES_SOS_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_IIRDES_TF_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDIIRDESTF_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -7191,7 +7191,7 @@ intgo _wrap_LIQUID_IIRDES_TF_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_liquid_iirdes_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4, float _swig_go_5, float _swig_go_6, float _swig_go_7, float *_swig_go_8, float *_swig_go_9) {
+void _wrap_LiquidIirdes_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4, float _swig_go_5, float _swig_go_6, float _swig_go_7, float *_swig_go_8, float *_swig_go_9) {
   liquid_iirdes_filtertype arg1 ;
   liquid_iirdes_bandtype arg2 ;
   liquid_iirdes_format arg3 ;
@@ -7219,7 +7219,7 @@ void _wrap_liquid_iirdes_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_g
 }
 
 
-void _wrap_butter_azpkf_liquid_24d78331e3228d7c(intgo _swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_ButterAzpkf_liquid_7b08cc538ffcb585(intgo _swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3) {
   unsigned int arg1 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -7235,7 +7235,7 @@ void _wrap_butter_azpkf_liquid_24d78331e3228d7c(intgo _swig_go_0, liquid_float_c
 }
 
 
-void _wrap_cheby1_azpkf_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3, liquid_float_complex *_swig_go_4) {
+void _wrap_Cheby1Azpkf_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3, liquid_float_complex *_swig_go_4) {
   unsigned int arg1 ;
   float arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -7253,7 +7253,7 @@ void _wrap_cheby1_azpkf_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go
 }
 
 
-void _wrap_cheby2_azpkf_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3, liquid_float_complex *_swig_go_4) {
+void _wrap_Cheby2Azpkf_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3, liquid_float_complex *_swig_go_4) {
   unsigned int arg1 ;
   float arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -7271,7 +7271,7 @@ void _wrap_cheby2_azpkf_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go
 }
 
 
-void _wrap_ellip_azpkf_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1, float _swig_go_2, liquid_float_complex *_swig_go_3, liquid_float_complex *_swig_go_4, liquid_float_complex *_swig_go_5) {
+void _wrap_EllipAzpkf_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1, float _swig_go_2, liquid_float_complex *_swig_go_3, liquid_float_complex *_swig_go_4, liquid_float_complex *_swig_go_5) {
   unsigned int arg1 ;
   float arg2 ;
   float arg3 ;
@@ -7291,7 +7291,7 @@ void _wrap_ellip_azpkf_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_
 }
 
 
-void _wrap_bessel_azpkf_liquid_24d78331e3228d7c(intgo _swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_BesselAzpkf_liquid_7b08cc538ffcb585(intgo _swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3) {
   unsigned int arg1 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -7307,7 +7307,7 @@ void _wrap_bessel_azpkf_liquid_24d78331e3228d7c(intgo _swig_go_0, liquid_float_c
 }
 
 
-float _wrap_iirdes_freqprewarp_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1, float _swig_go_2) {
+float _wrap_IirdesFreqprewarp_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1, float _swig_go_2) {
   liquid_iirdes_bandtype arg1 ;
   float arg2 ;
   float arg3 ;
@@ -7324,7 +7324,7 @@ float _wrap_iirdes_freqprewarp_liquid_24d78331e3228d7c(intgo _swig_go_0, float _
 }
 
 
-void _wrap_bilinear_zpkf_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3, liquid_float_complex *_swig_go_4, float _swig_go_5, liquid_float_complex *_swig_go_6, liquid_float_complex *_swig_go_7, liquid_float_complex *_swig_go_8) {
+void _wrap_BilinearZpkf_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3, liquid_float_complex *_swig_go_4, float _swig_go_5, liquid_float_complex *_swig_go_6, liquid_float_complex *_swig_go_7, liquid_float_complex *_swig_go_8) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -7357,7 +7357,7 @@ void _wrap_bilinear_zpkf_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_
 }
 
 
-void _wrap_iirdes_dzpk_lp2hp_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, liquid_float_complex *_swig_go_4) {
+void _wrap_IirdesDzpkLp2hp_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, liquid_float_complex *_swig_go_4) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -7375,7 +7375,7 @@ void _wrap_iirdes_dzpk_lp2hp_liquid_24d78331e3228d7c(liquid_float_complex *_swig
 }
 
 
-void _wrap_iirdes_dzpk_lp2bp_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, float _swig_go_3, liquid_float_complex *_swig_go_4, liquid_float_complex *_swig_go_5) {
+void _wrap_IirdesDzpkLp2bp_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, float _swig_go_3, liquid_float_complex *_swig_go_4, liquid_float_complex *_swig_go_5) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -7395,7 +7395,7 @@ void _wrap_iirdes_dzpk_lp2bp_liquid_24d78331e3228d7c(liquid_float_complex *_swig
 }
 
 
-void _wrap_iirdes_dzpk2tff_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, float *_swig_go_4, float *_swig_go_5) {
+void _wrap_IirdesDzpk2tff_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, float *_swig_go_4, float *_swig_go_5) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -7422,7 +7422,7 @@ void _wrap_iirdes_dzpk2tff_liquid_24d78331e3228d7c(liquid_float_complex *_swig_g
 }
 
 
-void _wrap_iirdes_dzpk2sosf_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, float *_swig_go_4, float *_swig_go_5) {
+void _wrap_IirdesDzpk2sosf_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, float *_swig_go_4, float *_swig_go_5) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -7449,7 +7449,7 @@ void _wrap_iirdes_dzpk2sosf_liquid_24d78331e3228d7c(liquid_float_complex *_swig_
 }
 
 
-void _wrap_iirdes_pll_active_lag_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1, float _swig_go_2, float *_swig_go_3, float *_swig_go_4) {
+void _wrap_IirdesPllActiveLag_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1, float _swig_go_2, float *_swig_go_3, float *_swig_go_4) {
   float arg1 ;
   float arg2 ;
   float arg3 ;
@@ -7467,7 +7467,7 @@ void _wrap_iirdes_pll_active_lag_liquid_24d78331e3228d7c(float _swig_go_0, float
 }
 
 
-void _wrap_iirdes_pll_active_PI_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1, float _swig_go_2, float *_swig_go_3, float *_swig_go_4) {
+void _wrap_IirdesPllActivePI_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1, float _swig_go_2, float *_swig_go_3, float *_swig_go_4) {
   float arg1 ;
   float arg2 ;
   float arg3 ;
@@ -7485,7 +7485,7 @@ void _wrap_iirdes_pll_active_PI_liquid_24d78331e3228d7c(float _swig_go_0, float 
 }
 
 
-intgo _wrap_iirdes_isstable_liquid_24d78331e3228d7c(float *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+intgo _wrap_IirdesIsstable_liquid_7b08cc538ffcb585(float *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   float *arg1 = (float *) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -7502,7 +7502,7 @@ intgo _wrap_iirdes_isstable_liquid_24d78331e3228d7c(float *_swig_go_0, float *_s
 }
 
 
-void _wrap_liquid_lpc_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3, float *_swig_go_4) {
+void _wrap_LiquidLpc_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3, float *_swig_go_4) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -7520,7 +7520,7 @@ void _wrap_liquid_lpc_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_
 }
 
 
-void _wrap_liquid_levinson_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2, float *_swig_go_3) {
+void _wrap_LiquidLevinson_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2, float *_swig_go_3) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -7536,7 +7536,7 @@ void _wrap_liquid_levinson_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swi
 }
 
 
-autocorr_cccf_s *_wrap_autocorr_cccf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+autocorr_cccf_s *_wrap_AutocorrCccfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   autocorr_cccf result;
@@ -7551,7 +7551,7 @@ autocorr_cccf_s *_wrap_autocorr_cccf_create_liquid_24d78331e3228d7c(intgo _swig_
 }
 
 
-void _wrap_autocorr_cccf_destroy_liquid_24d78331e3228d7c(autocorr_cccf_s *_swig_go_0) {
+void _wrap_AutocorrCccfDestroy_liquid_7b08cc538ffcb585(autocorr_cccf_s *_swig_go_0) {
   autocorr_cccf arg1 = (autocorr_cccf) 0 ;
   
   arg1 = *(autocorr_cccf *)&_swig_go_0; 
@@ -7561,7 +7561,7 @@ void _wrap_autocorr_cccf_destroy_liquid_24d78331e3228d7c(autocorr_cccf_s *_swig_
 }
 
 
-void _wrap_autocorr_cccf_reset_liquid_24d78331e3228d7c(autocorr_cccf_s *_swig_go_0) {
+void _wrap_AutocorrCccfReset_liquid_7b08cc538ffcb585(autocorr_cccf_s *_swig_go_0) {
   autocorr_cccf arg1 = (autocorr_cccf) 0 ;
   
   arg1 = *(autocorr_cccf *)&_swig_go_0; 
@@ -7571,7 +7571,7 @@ void _wrap_autocorr_cccf_reset_liquid_24d78331e3228d7c(autocorr_cccf_s *_swig_go
 }
 
 
-void _wrap_autocorr_cccf_print_liquid_24d78331e3228d7c(autocorr_cccf_s *_swig_go_0) {
+void _wrap_AutocorrCccfPrint_liquid_7b08cc538ffcb585(autocorr_cccf_s *_swig_go_0) {
   autocorr_cccf arg1 = (autocorr_cccf) 0 ;
   
   arg1 = *(autocorr_cccf *)&_swig_go_0; 
@@ -7581,7 +7581,7 @@ void _wrap_autocorr_cccf_print_liquid_24d78331e3228d7c(autocorr_cccf_s *_swig_go
 }
 
 
-void _wrap_autocorr_cccf_push_liquid_24d78331e3228d7c(autocorr_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_AutocorrCccfPush_liquid_7b08cc538ffcb585(autocorr_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   autocorr_cccf arg1 = (autocorr_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -7600,7 +7600,7 @@ void _wrap_autocorr_cccf_push_liquid_24d78331e3228d7c(autocorr_cccf_s *_swig_go_
 }
 
 
-void _wrap_autocorr_cccf_write_liquid_24d78331e3228d7c(autocorr_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+void _wrap_AutocorrCccfWrite_liquid_7b08cc538ffcb585(autocorr_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   autocorr_cccf arg1 = (autocorr_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -7614,7 +7614,7 @@ void _wrap_autocorr_cccf_write_liquid_24d78331e3228d7c(autocorr_cccf_s *_swig_go
 }
 
 
-void _wrap_autocorr_cccf_execute_liquid_24d78331e3228d7c(autocorr_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_AutocorrCccfExecute_liquid_7b08cc538ffcb585(autocorr_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   autocorr_cccf arg1 = (autocorr_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -7626,7 +7626,7 @@ void _wrap_autocorr_cccf_execute_liquid_24d78331e3228d7c(autocorr_cccf_s *_swig_
 }
 
 
-void _wrap_autocorr_cccf_execute_block_liquid_24d78331e3228d7c(autocorr_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_AutocorrCccfExecuteBlock_liquid_7b08cc538ffcb585(autocorr_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   autocorr_cccf arg1 = (autocorr_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -7642,7 +7642,7 @@ void _wrap_autocorr_cccf_execute_block_liquid_24d78331e3228d7c(autocorr_cccf_s *
 }
 
 
-float _wrap_autocorr_cccf_get_energy_liquid_24d78331e3228d7c(autocorr_cccf_s *_swig_go_0) {
+float _wrap_AutocorrCccfGetEnergy_liquid_7b08cc538ffcb585(autocorr_cccf_s *_swig_go_0) {
   autocorr_cccf arg1 = (autocorr_cccf) 0 ;
   float result;
   float _swig_go_result;
@@ -7655,7 +7655,7 @@ float _wrap_autocorr_cccf_get_energy_liquid_24d78331e3228d7c(autocorr_cccf_s *_s
 }
 
 
-autocorr_rrrf_s *_wrap_autocorr_rrrf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+autocorr_rrrf_s *_wrap_AutocorrRrrfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   autocorr_rrrf result;
@@ -7670,7 +7670,7 @@ autocorr_rrrf_s *_wrap_autocorr_rrrf_create_liquid_24d78331e3228d7c(intgo _swig_
 }
 
 
-void _wrap_autocorr_rrrf_destroy_liquid_24d78331e3228d7c(autocorr_rrrf_s *_swig_go_0) {
+void _wrap_AutocorrRrrfDestroy_liquid_7b08cc538ffcb585(autocorr_rrrf_s *_swig_go_0) {
   autocorr_rrrf arg1 = (autocorr_rrrf) 0 ;
   
   arg1 = *(autocorr_rrrf *)&_swig_go_0; 
@@ -7680,7 +7680,7 @@ void _wrap_autocorr_rrrf_destroy_liquid_24d78331e3228d7c(autocorr_rrrf_s *_swig_
 }
 
 
-void _wrap_autocorr_rrrf_reset_liquid_24d78331e3228d7c(autocorr_rrrf_s *_swig_go_0) {
+void _wrap_AutocorrRrrfReset_liquid_7b08cc538ffcb585(autocorr_rrrf_s *_swig_go_0) {
   autocorr_rrrf arg1 = (autocorr_rrrf) 0 ;
   
   arg1 = *(autocorr_rrrf *)&_swig_go_0; 
@@ -7690,7 +7690,7 @@ void _wrap_autocorr_rrrf_reset_liquid_24d78331e3228d7c(autocorr_rrrf_s *_swig_go
 }
 
 
-void _wrap_autocorr_rrrf_print_liquid_24d78331e3228d7c(autocorr_rrrf_s *_swig_go_0) {
+void _wrap_AutocorrRrrfPrint_liquid_7b08cc538ffcb585(autocorr_rrrf_s *_swig_go_0) {
   autocorr_rrrf arg1 = (autocorr_rrrf) 0 ;
   
   arg1 = *(autocorr_rrrf *)&_swig_go_0; 
@@ -7700,7 +7700,7 @@ void _wrap_autocorr_rrrf_print_liquid_24d78331e3228d7c(autocorr_rrrf_s *_swig_go
 }
 
 
-void _wrap_autocorr_rrrf_push_liquid_24d78331e3228d7c(autocorr_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_AutocorrRrrfPush_liquid_7b08cc538ffcb585(autocorr_rrrf_s *_swig_go_0, float _swig_go_1) {
   autocorr_rrrf arg1 = (autocorr_rrrf) 0 ;
   float arg2 ;
   
@@ -7712,7 +7712,7 @@ void _wrap_autocorr_rrrf_push_liquid_24d78331e3228d7c(autocorr_rrrf_s *_swig_go_
 }
 
 
-void _wrap_autocorr_rrrf_write_liquid_24d78331e3228d7c(autocorr_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+void _wrap_AutocorrRrrfWrite_liquid_7b08cc538ffcb585(autocorr_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   autocorr_rrrf arg1 = (autocorr_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -7726,7 +7726,7 @@ void _wrap_autocorr_rrrf_write_liquid_24d78331e3228d7c(autocorr_rrrf_s *_swig_go
 }
 
 
-void _wrap_autocorr_rrrf_execute_liquid_24d78331e3228d7c(autocorr_rrrf_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_AutocorrRrrfExecute_liquid_7b08cc538ffcb585(autocorr_rrrf_s *_swig_go_0, float *_swig_go_1) {
   autocorr_rrrf arg1 = (autocorr_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -7738,7 +7738,7 @@ void _wrap_autocorr_rrrf_execute_liquid_24d78331e3228d7c(autocorr_rrrf_s *_swig_
 }
 
 
-void _wrap_autocorr_rrrf_execute_block_liquid_24d78331e3228d7c(autocorr_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_AutocorrRrrfExecuteBlock_liquid_7b08cc538ffcb585(autocorr_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   autocorr_rrrf arg1 = (autocorr_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -7754,7 +7754,7 @@ void _wrap_autocorr_rrrf_execute_block_liquid_24d78331e3228d7c(autocorr_rrrf_s *
 }
 
 
-float _wrap_autocorr_rrrf_get_energy_liquid_24d78331e3228d7c(autocorr_rrrf_s *_swig_go_0) {
+float _wrap_AutocorrRrrfGetEnergy_liquid_7b08cc538ffcb585(autocorr_rrrf_s *_swig_go_0) {
   autocorr_rrrf arg1 = (autocorr_rrrf) 0 ;
   float result;
   float _swig_go_result;
@@ -7767,7 +7767,7 @@ float _wrap_autocorr_rrrf_get_energy_liquid_24d78331e3228d7c(autocorr_rrrf_s *_s
 }
 
 
-firfilt_rrrf_s *_wrap_firfilt_rrrf_create_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1) {
+firfilt_rrrf_s *_wrap_FirfiltRrrfCreate_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   firfilt_rrrf result;
@@ -7782,7 +7782,7 @@ firfilt_rrrf_s *_wrap_firfilt_rrrf_create_liquid_24d78331e3228d7c(float *_swig_g
 }
 
 
-firfilt_rrrf_s *_wrap_firfilt_rrrf_create_kaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
+firfilt_rrrf_s *_wrap_FirfiltRrrfCreateKaiser_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
   unsigned int arg1 ;
   float arg2 ;
   float arg3 ;
@@ -7801,7 +7801,7 @@ firfilt_rrrf_s *_wrap_firfilt_rrrf_create_kaiser_liquid_24d78331e3228d7c(intgo _
 }
 
 
-firfilt_rrrf_s *_wrap_firfilt_rrrf_create_rnyquist_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
+firfilt_rrrf_s *_wrap_FirfiltRrrfCreateRnyquist_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -7822,7 +7822,7 @@ firfilt_rrrf_s *_wrap_firfilt_rrrf_create_rnyquist_liquid_24d78331e3228d7c(intgo
 }
 
 
-firfilt_rrrf_s *_wrap_firfilt_rrrf_create_rect_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+firfilt_rrrf_s *_wrap_FirfiltRrrfCreateRect_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   firfilt_rrrf result;
   firfilt_rrrf_s *_swig_go_result;
@@ -7835,7 +7835,7 @@ firfilt_rrrf_s *_wrap_firfilt_rrrf_create_rect_liquid_24d78331e3228d7c(intgo _sw
 }
 
 
-firfilt_rrrf_s *_wrap_firfilt_rrrf_create_dc_blocker_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1) {
+firfilt_rrrf_s *_wrap_FirfiltRrrfCreateDcBlocker_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1) {
   unsigned int arg1 ;
   float arg2 ;
   firfilt_rrrf result;
@@ -7850,7 +7850,7 @@ firfilt_rrrf_s *_wrap_firfilt_rrrf_create_dc_blocker_liquid_24d78331e3228d7c(int
 }
 
 
-firfilt_rrrf_s *_wrap_firfilt_rrrf_create_notch_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1, float _swig_go_2) {
+firfilt_rrrf_s *_wrap_FirfiltRrrfCreateNotch_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1, float _swig_go_2) {
   unsigned int arg1 ;
   float arg2 ;
   float arg3 ;
@@ -7867,7 +7867,7 @@ firfilt_rrrf_s *_wrap_firfilt_rrrf_create_notch_liquid_24d78331e3228d7c(intgo _s
 }
 
 
-firfilt_rrrf_s *_wrap_firfilt_rrrf_recreate_liquid_24d78331e3228d7c(firfilt_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+firfilt_rrrf_s *_wrap_FirfiltRrrfRecreate_liquid_7b08cc538ffcb585(firfilt_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   firfilt_rrrf arg1 = (firfilt_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -7884,7 +7884,7 @@ firfilt_rrrf_s *_wrap_firfilt_rrrf_recreate_liquid_24d78331e3228d7c(firfilt_rrrf
 }
 
 
-void _wrap_firfilt_rrrf_destroy_liquid_24d78331e3228d7c(firfilt_rrrf_s *_swig_go_0) {
+void _wrap_FirfiltRrrfDestroy_liquid_7b08cc538ffcb585(firfilt_rrrf_s *_swig_go_0) {
   firfilt_rrrf arg1 = (firfilt_rrrf) 0 ;
   
   arg1 = *(firfilt_rrrf *)&_swig_go_0; 
@@ -7894,7 +7894,7 @@ void _wrap_firfilt_rrrf_destroy_liquid_24d78331e3228d7c(firfilt_rrrf_s *_swig_go
 }
 
 
-void _wrap_firfilt_rrrf_reset_liquid_24d78331e3228d7c(firfilt_rrrf_s *_swig_go_0) {
+void _wrap_FirfiltRrrfReset_liquid_7b08cc538ffcb585(firfilt_rrrf_s *_swig_go_0) {
   firfilt_rrrf arg1 = (firfilt_rrrf) 0 ;
   
   arg1 = *(firfilt_rrrf *)&_swig_go_0; 
@@ -7904,7 +7904,7 @@ void _wrap_firfilt_rrrf_reset_liquid_24d78331e3228d7c(firfilt_rrrf_s *_swig_go_0
 }
 
 
-void _wrap_firfilt_rrrf_print_liquid_24d78331e3228d7c(firfilt_rrrf_s *_swig_go_0) {
+void _wrap_FirfiltRrrfPrint_liquid_7b08cc538ffcb585(firfilt_rrrf_s *_swig_go_0) {
   firfilt_rrrf arg1 = (firfilt_rrrf) 0 ;
   
   arg1 = *(firfilt_rrrf *)&_swig_go_0; 
@@ -7914,7 +7914,7 @@ void _wrap_firfilt_rrrf_print_liquid_24d78331e3228d7c(firfilt_rrrf_s *_swig_go_0
 }
 
 
-void _wrap_firfilt_rrrf_set_scale_liquid_24d78331e3228d7c(firfilt_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_FirfiltRrrfSetScale_liquid_7b08cc538ffcb585(firfilt_rrrf_s *_swig_go_0, float _swig_go_1) {
   firfilt_rrrf arg1 = (firfilt_rrrf) 0 ;
   float arg2 ;
   
@@ -7926,7 +7926,7 @@ void _wrap_firfilt_rrrf_set_scale_liquid_24d78331e3228d7c(firfilt_rrrf_s *_swig_
 }
 
 
-void _wrap_firfilt_rrrf_get_scale_liquid_24d78331e3228d7c(firfilt_rrrf_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_FirfiltRrrfGetScale_liquid_7b08cc538ffcb585(firfilt_rrrf_s *_swig_go_0, float *_swig_go_1) {
   firfilt_rrrf arg1 = (firfilt_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -7938,7 +7938,7 @@ void _wrap_firfilt_rrrf_get_scale_liquid_24d78331e3228d7c(firfilt_rrrf_s *_swig_
 }
 
 
-void _wrap_firfilt_rrrf_push_liquid_24d78331e3228d7c(firfilt_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_FirfiltRrrfPush_liquid_7b08cc538ffcb585(firfilt_rrrf_s *_swig_go_0, float _swig_go_1) {
   firfilt_rrrf arg1 = (firfilt_rrrf) 0 ;
   float arg2 ;
   
@@ -7950,7 +7950,7 @@ void _wrap_firfilt_rrrf_push_liquid_24d78331e3228d7c(firfilt_rrrf_s *_swig_go_0,
 }
 
 
-void _wrap_firfilt_rrrf_write_liquid_24d78331e3228d7c(firfilt_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+void _wrap_FirfiltRrrfWrite_liquid_7b08cc538ffcb585(firfilt_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   firfilt_rrrf arg1 = (firfilt_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -7964,7 +7964,7 @@ void _wrap_firfilt_rrrf_write_liquid_24d78331e3228d7c(firfilt_rrrf_s *_swig_go_0
 }
 
 
-void _wrap_firfilt_rrrf_execute_liquid_24d78331e3228d7c(firfilt_rrrf_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_FirfiltRrrfExecute_liquid_7b08cc538ffcb585(firfilt_rrrf_s *_swig_go_0, float *_swig_go_1) {
   firfilt_rrrf arg1 = (firfilt_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -7976,7 +7976,7 @@ void _wrap_firfilt_rrrf_execute_liquid_24d78331e3228d7c(firfilt_rrrf_s *_swig_go
 }
 
 
-void _wrap_firfilt_rrrf_execute_block_liquid_24d78331e3228d7c(firfilt_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_FirfiltRrrfExecuteBlock_liquid_7b08cc538ffcb585(firfilt_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   firfilt_rrrf arg1 = (firfilt_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -7992,7 +7992,7 @@ void _wrap_firfilt_rrrf_execute_block_liquid_24d78331e3228d7c(firfilt_rrrf_s *_s
 }
 
 
-intgo _wrap_firfilt_rrrf_get_length_liquid_24d78331e3228d7c(firfilt_rrrf_s *_swig_go_0) {
+intgo _wrap_FirfiltRrrfGetLength_liquid_7b08cc538ffcb585(firfilt_rrrf_s *_swig_go_0) {
   firfilt_rrrf arg1 = (firfilt_rrrf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -8005,7 +8005,7 @@ intgo _wrap_firfilt_rrrf_get_length_liquid_24d78331e3228d7c(firfilt_rrrf_s *_swi
 }
 
 
-void _wrap_firfilt_rrrf_freqresponse_liquid_24d78331e3228d7c(firfilt_rrrf_s *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_FirfiltRrrfFreqresponse_liquid_7b08cc538ffcb585(firfilt_rrrf_s *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
   firfilt_rrrf arg1 = (firfilt_rrrf) 0 ;
   float arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -8019,7 +8019,7 @@ void _wrap_firfilt_rrrf_freqresponse_liquid_24d78331e3228d7c(firfilt_rrrf_s *_sw
 }
 
 
-float _wrap_firfilt_rrrf_groupdelay_liquid_24d78331e3228d7c(firfilt_rrrf_s *_swig_go_0, float _swig_go_1) {
+float _wrap_FirfiltRrrfGroupdelay_liquid_7b08cc538ffcb585(firfilt_rrrf_s *_swig_go_0, float _swig_go_1) {
   firfilt_rrrf arg1 = (firfilt_rrrf) 0 ;
   float arg2 ;
   float result;
@@ -8034,7 +8034,7 @@ float _wrap_firfilt_rrrf_groupdelay_liquid_24d78331e3228d7c(firfilt_rrrf_s *_swi
 }
 
 
-firfilt_crcf_s *_wrap_firfilt_crcf_create_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1) {
+firfilt_crcf_s *_wrap_FirfiltCrcfCreate_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   firfilt_crcf result;
@@ -8049,7 +8049,7 @@ firfilt_crcf_s *_wrap_firfilt_crcf_create_liquid_24d78331e3228d7c(float *_swig_g
 }
 
 
-firfilt_crcf_s *_wrap_firfilt_crcf_create_kaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
+firfilt_crcf_s *_wrap_FirfiltCrcfCreateKaiser_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
   unsigned int arg1 ;
   float arg2 ;
   float arg3 ;
@@ -8068,7 +8068,7 @@ firfilt_crcf_s *_wrap_firfilt_crcf_create_kaiser_liquid_24d78331e3228d7c(intgo _
 }
 
 
-firfilt_crcf_s *_wrap_firfilt_crcf_create_rnyquist_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
+firfilt_crcf_s *_wrap_FirfiltCrcfCreateRnyquist_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -8089,7 +8089,7 @@ firfilt_crcf_s *_wrap_firfilt_crcf_create_rnyquist_liquid_24d78331e3228d7c(intgo
 }
 
 
-firfilt_crcf_s *_wrap_firfilt_crcf_create_rect_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+firfilt_crcf_s *_wrap_FirfiltCrcfCreateRect_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   firfilt_crcf result;
   firfilt_crcf_s *_swig_go_result;
@@ -8102,7 +8102,7 @@ firfilt_crcf_s *_wrap_firfilt_crcf_create_rect_liquid_24d78331e3228d7c(intgo _sw
 }
 
 
-firfilt_crcf_s *_wrap_firfilt_crcf_create_dc_blocker_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1) {
+firfilt_crcf_s *_wrap_FirfiltCrcfCreateDcBlocker_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1) {
   unsigned int arg1 ;
   float arg2 ;
   firfilt_crcf result;
@@ -8117,7 +8117,7 @@ firfilt_crcf_s *_wrap_firfilt_crcf_create_dc_blocker_liquid_24d78331e3228d7c(int
 }
 
 
-firfilt_crcf_s *_wrap_firfilt_crcf_create_notch_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1, float _swig_go_2) {
+firfilt_crcf_s *_wrap_FirfiltCrcfCreateNotch_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1, float _swig_go_2) {
   unsigned int arg1 ;
   float arg2 ;
   float arg3 ;
@@ -8134,7 +8134,7 @@ firfilt_crcf_s *_wrap_firfilt_crcf_create_notch_liquid_24d78331e3228d7c(intgo _s
 }
 
 
-firfilt_crcf_s *_wrap_firfilt_crcf_recreate_liquid_24d78331e3228d7c(firfilt_crcf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+firfilt_crcf_s *_wrap_FirfiltCrcfRecreate_liquid_7b08cc538ffcb585(firfilt_crcf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   firfilt_crcf arg1 = (firfilt_crcf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -8151,7 +8151,7 @@ firfilt_crcf_s *_wrap_firfilt_crcf_recreate_liquid_24d78331e3228d7c(firfilt_crcf
 }
 
 
-void _wrap_firfilt_crcf_destroy_liquid_24d78331e3228d7c(firfilt_crcf_s *_swig_go_0) {
+void _wrap_FirfiltCrcfDestroy_liquid_7b08cc538ffcb585(firfilt_crcf_s *_swig_go_0) {
   firfilt_crcf arg1 = (firfilt_crcf) 0 ;
   
   arg1 = *(firfilt_crcf *)&_swig_go_0; 
@@ -8161,7 +8161,7 @@ void _wrap_firfilt_crcf_destroy_liquid_24d78331e3228d7c(firfilt_crcf_s *_swig_go
 }
 
 
-void _wrap_firfilt_crcf_reset_liquid_24d78331e3228d7c(firfilt_crcf_s *_swig_go_0) {
+void _wrap_FirfiltCrcfReset_liquid_7b08cc538ffcb585(firfilt_crcf_s *_swig_go_0) {
   firfilt_crcf arg1 = (firfilt_crcf) 0 ;
   
   arg1 = *(firfilt_crcf *)&_swig_go_0; 
@@ -8171,7 +8171,7 @@ void _wrap_firfilt_crcf_reset_liquid_24d78331e3228d7c(firfilt_crcf_s *_swig_go_0
 }
 
 
-void _wrap_firfilt_crcf_print_liquid_24d78331e3228d7c(firfilt_crcf_s *_swig_go_0) {
+void _wrap_FirfiltCrcfPrint_liquid_7b08cc538ffcb585(firfilt_crcf_s *_swig_go_0) {
   firfilt_crcf arg1 = (firfilt_crcf) 0 ;
   
   arg1 = *(firfilt_crcf *)&_swig_go_0; 
@@ -8181,7 +8181,7 @@ void _wrap_firfilt_crcf_print_liquid_24d78331e3228d7c(firfilt_crcf_s *_swig_go_0
 }
 
 
-void _wrap_firfilt_crcf_set_scale_liquid_24d78331e3228d7c(firfilt_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_FirfiltCrcfSetScale_liquid_7b08cc538ffcb585(firfilt_crcf_s *_swig_go_0, float _swig_go_1) {
   firfilt_crcf arg1 = (firfilt_crcf) 0 ;
   float arg2 ;
   
@@ -8193,7 +8193,7 @@ void _wrap_firfilt_crcf_set_scale_liquid_24d78331e3228d7c(firfilt_crcf_s *_swig_
 }
 
 
-void _wrap_firfilt_crcf_get_scale_liquid_24d78331e3228d7c(firfilt_crcf_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_FirfiltCrcfGetScale_liquid_7b08cc538ffcb585(firfilt_crcf_s *_swig_go_0, float *_swig_go_1) {
   firfilt_crcf arg1 = (firfilt_crcf) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -8205,7 +8205,7 @@ void _wrap_firfilt_crcf_get_scale_liquid_24d78331e3228d7c(firfilt_crcf_s *_swig_
 }
 
 
-void _wrap_firfilt_crcf_push_liquid_24d78331e3228d7c(firfilt_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_FirfiltCrcfPush_liquid_7b08cc538ffcb585(firfilt_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   firfilt_crcf arg1 = (firfilt_crcf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -8224,7 +8224,7 @@ void _wrap_firfilt_crcf_push_liquid_24d78331e3228d7c(firfilt_crcf_s *_swig_go_0,
 }
 
 
-void _wrap_firfilt_crcf_write_liquid_24d78331e3228d7c(firfilt_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+void _wrap_FirfiltCrcfWrite_liquid_7b08cc538ffcb585(firfilt_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   firfilt_crcf arg1 = (firfilt_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -8238,7 +8238,7 @@ void _wrap_firfilt_crcf_write_liquid_24d78331e3228d7c(firfilt_crcf_s *_swig_go_0
 }
 
 
-void _wrap_firfilt_crcf_execute_liquid_24d78331e3228d7c(firfilt_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_FirfiltCrcfExecute_liquid_7b08cc538ffcb585(firfilt_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   firfilt_crcf arg1 = (firfilt_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -8250,7 +8250,7 @@ void _wrap_firfilt_crcf_execute_liquid_24d78331e3228d7c(firfilt_crcf_s *_swig_go
 }
 
 
-void _wrap_firfilt_crcf_execute_block_liquid_24d78331e3228d7c(firfilt_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_FirfiltCrcfExecuteBlock_liquid_7b08cc538ffcb585(firfilt_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   firfilt_crcf arg1 = (firfilt_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -8266,7 +8266,7 @@ void _wrap_firfilt_crcf_execute_block_liquid_24d78331e3228d7c(firfilt_crcf_s *_s
 }
 
 
-intgo _wrap_firfilt_crcf_get_length_liquid_24d78331e3228d7c(firfilt_crcf_s *_swig_go_0) {
+intgo _wrap_FirfiltCrcfGetLength_liquid_7b08cc538ffcb585(firfilt_crcf_s *_swig_go_0) {
   firfilt_crcf arg1 = (firfilt_crcf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -8279,7 +8279,7 @@ intgo _wrap_firfilt_crcf_get_length_liquid_24d78331e3228d7c(firfilt_crcf_s *_swi
 }
 
 
-void _wrap_firfilt_crcf_freqresponse_liquid_24d78331e3228d7c(firfilt_crcf_s *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_FirfiltCrcfFreqresponse_liquid_7b08cc538ffcb585(firfilt_crcf_s *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
   firfilt_crcf arg1 = (firfilt_crcf) 0 ;
   float arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -8293,7 +8293,7 @@ void _wrap_firfilt_crcf_freqresponse_liquid_24d78331e3228d7c(firfilt_crcf_s *_sw
 }
 
 
-float _wrap_firfilt_crcf_groupdelay_liquid_24d78331e3228d7c(firfilt_crcf_s *_swig_go_0, float _swig_go_1) {
+float _wrap_FirfiltCrcfGroupdelay_liquid_7b08cc538ffcb585(firfilt_crcf_s *_swig_go_0, float _swig_go_1) {
   firfilt_crcf arg1 = (firfilt_crcf) 0 ;
   float arg2 ;
   float result;
@@ -8308,7 +8308,7 @@ float _wrap_firfilt_crcf_groupdelay_liquid_24d78331e3228d7c(firfilt_crcf_s *_swi
 }
 
 
-firfilt_cccf_s *_wrap_firfilt_cccf_create_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1) {
+firfilt_cccf_s *_wrap_FirfiltCccfCreate_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   firfilt_cccf result;
@@ -8323,7 +8323,7 @@ firfilt_cccf_s *_wrap_firfilt_cccf_create_liquid_24d78331e3228d7c(liquid_float_c
 }
 
 
-firfilt_cccf_s *_wrap_firfilt_cccf_create_kaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
+firfilt_cccf_s *_wrap_FirfiltCccfCreateKaiser_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
   unsigned int arg1 ;
   float arg2 ;
   float arg3 ;
@@ -8342,7 +8342,7 @@ firfilt_cccf_s *_wrap_firfilt_cccf_create_kaiser_liquid_24d78331e3228d7c(intgo _
 }
 
 
-firfilt_cccf_s *_wrap_firfilt_cccf_create_rnyquist_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
+firfilt_cccf_s *_wrap_FirfiltCccfCreateRnyquist_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -8363,7 +8363,7 @@ firfilt_cccf_s *_wrap_firfilt_cccf_create_rnyquist_liquid_24d78331e3228d7c(intgo
 }
 
 
-firfilt_cccf_s *_wrap_firfilt_cccf_create_rect_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+firfilt_cccf_s *_wrap_FirfiltCccfCreateRect_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   firfilt_cccf result;
   firfilt_cccf_s *_swig_go_result;
@@ -8376,7 +8376,7 @@ firfilt_cccf_s *_wrap_firfilt_cccf_create_rect_liquid_24d78331e3228d7c(intgo _sw
 }
 
 
-firfilt_cccf_s *_wrap_firfilt_cccf_create_dc_blocker_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1) {
+firfilt_cccf_s *_wrap_FirfiltCccfCreateDcBlocker_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1) {
   unsigned int arg1 ;
   float arg2 ;
   firfilt_cccf result;
@@ -8391,7 +8391,7 @@ firfilt_cccf_s *_wrap_firfilt_cccf_create_dc_blocker_liquid_24d78331e3228d7c(int
 }
 
 
-firfilt_cccf_s *_wrap_firfilt_cccf_create_notch_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1, float _swig_go_2) {
+firfilt_cccf_s *_wrap_FirfiltCccfCreateNotch_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1, float _swig_go_2) {
   unsigned int arg1 ;
   float arg2 ;
   float arg3 ;
@@ -8408,7 +8408,7 @@ firfilt_cccf_s *_wrap_firfilt_cccf_create_notch_liquid_24d78331e3228d7c(intgo _s
 }
 
 
-firfilt_cccf_s *_wrap_firfilt_cccf_recreate_liquid_24d78331e3228d7c(firfilt_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+firfilt_cccf_s *_wrap_FirfiltCccfRecreate_liquid_7b08cc538ffcb585(firfilt_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   firfilt_cccf arg1 = (firfilt_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -8425,7 +8425,7 @@ firfilt_cccf_s *_wrap_firfilt_cccf_recreate_liquid_24d78331e3228d7c(firfilt_cccf
 }
 
 
-void _wrap_firfilt_cccf_destroy_liquid_24d78331e3228d7c(firfilt_cccf_s *_swig_go_0) {
+void _wrap_FirfiltCccfDestroy_liquid_7b08cc538ffcb585(firfilt_cccf_s *_swig_go_0) {
   firfilt_cccf arg1 = (firfilt_cccf) 0 ;
   
   arg1 = *(firfilt_cccf *)&_swig_go_0; 
@@ -8435,7 +8435,7 @@ void _wrap_firfilt_cccf_destroy_liquid_24d78331e3228d7c(firfilt_cccf_s *_swig_go
 }
 
 
-void _wrap_firfilt_cccf_reset_liquid_24d78331e3228d7c(firfilt_cccf_s *_swig_go_0) {
+void _wrap_FirfiltCccfReset_liquid_7b08cc538ffcb585(firfilt_cccf_s *_swig_go_0) {
   firfilt_cccf arg1 = (firfilt_cccf) 0 ;
   
   arg1 = *(firfilt_cccf *)&_swig_go_0; 
@@ -8445,7 +8445,7 @@ void _wrap_firfilt_cccf_reset_liquid_24d78331e3228d7c(firfilt_cccf_s *_swig_go_0
 }
 
 
-void _wrap_firfilt_cccf_print_liquid_24d78331e3228d7c(firfilt_cccf_s *_swig_go_0) {
+void _wrap_FirfiltCccfPrint_liquid_7b08cc538ffcb585(firfilt_cccf_s *_swig_go_0) {
   firfilt_cccf arg1 = (firfilt_cccf) 0 ;
   
   arg1 = *(firfilt_cccf *)&_swig_go_0; 
@@ -8455,7 +8455,7 @@ void _wrap_firfilt_cccf_print_liquid_24d78331e3228d7c(firfilt_cccf_s *_swig_go_0
 }
 
 
-void _wrap_firfilt_cccf_set_scale_liquid_24d78331e3228d7c(firfilt_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_FirfiltCccfSetScale_liquid_7b08cc538ffcb585(firfilt_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   firfilt_cccf arg1 = (firfilt_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -8474,7 +8474,7 @@ void _wrap_firfilt_cccf_set_scale_liquid_24d78331e3228d7c(firfilt_cccf_s *_swig_
 }
 
 
-void _wrap_firfilt_cccf_get_scale_liquid_24d78331e3228d7c(firfilt_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_FirfiltCccfGetScale_liquid_7b08cc538ffcb585(firfilt_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   firfilt_cccf arg1 = (firfilt_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -8486,7 +8486,7 @@ void _wrap_firfilt_cccf_get_scale_liquid_24d78331e3228d7c(firfilt_cccf_s *_swig_
 }
 
 
-void _wrap_firfilt_cccf_push_liquid_24d78331e3228d7c(firfilt_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_FirfiltCccfPush_liquid_7b08cc538ffcb585(firfilt_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   firfilt_cccf arg1 = (firfilt_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -8505,7 +8505,7 @@ void _wrap_firfilt_cccf_push_liquid_24d78331e3228d7c(firfilt_cccf_s *_swig_go_0,
 }
 
 
-void _wrap_firfilt_cccf_write_liquid_24d78331e3228d7c(firfilt_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+void _wrap_FirfiltCccfWrite_liquid_7b08cc538ffcb585(firfilt_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   firfilt_cccf arg1 = (firfilt_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -8519,7 +8519,7 @@ void _wrap_firfilt_cccf_write_liquid_24d78331e3228d7c(firfilt_cccf_s *_swig_go_0
 }
 
 
-void _wrap_firfilt_cccf_execute_liquid_24d78331e3228d7c(firfilt_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_FirfiltCccfExecute_liquid_7b08cc538ffcb585(firfilt_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   firfilt_cccf arg1 = (firfilt_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -8531,7 +8531,7 @@ void _wrap_firfilt_cccf_execute_liquid_24d78331e3228d7c(firfilt_cccf_s *_swig_go
 }
 
 
-void _wrap_firfilt_cccf_execute_block_liquid_24d78331e3228d7c(firfilt_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_FirfiltCccfExecuteBlock_liquid_7b08cc538ffcb585(firfilt_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   firfilt_cccf arg1 = (firfilt_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -8547,7 +8547,7 @@ void _wrap_firfilt_cccf_execute_block_liquid_24d78331e3228d7c(firfilt_cccf_s *_s
 }
 
 
-intgo _wrap_firfilt_cccf_get_length_liquid_24d78331e3228d7c(firfilt_cccf_s *_swig_go_0) {
+intgo _wrap_FirfiltCccfGetLength_liquid_7b08cc538ffcb585(firfilt_cccf_s *_swig_go_0) {
   firfilt_cccf arg1 = (firfilt_cccf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -8560,7 +8560,7 @@ intgo _wrap_firfilt_cccf_get_length_liquid_24d78331e3228d7c(firfilt_cccf_s *_swi
 }
 
 
-void _wrap_firfilt_cccf_freqresponse_liquid_24d78331e3228d7c(firfilt_cccf_s *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_FirfiltCccfFreqresponse_liquid_7b08cc538ffcb585(firfilt_cccf_s *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
   firfilt_cccf arg1 = (firfilt_cccf) 0 ;
   float arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -8574,7 +8574,7 @@ void _wrap_firfilt_cccf_freqresponse_liquid_24d78331e3228d7c(firfilt_cccf_s *_sw
 }
 
 
-float _wrap_firfilt_cccf_groupdelay_liquid_24d78331e3228d7c(firfilt_cccf_s *_swig_go_0, float _swig_go_1) {
+float _wrap_FirfiltCccfGroupdelay_liquid_7b08cc538ffcb585(firfilt_cccf_s *_swig_go_0, float _swig_go_1) {
   firfilt_cccf arg1 = (firfilt_cccf) 0 ;
   float arg2 ;
   float result;
@@ -8589,7 +8589,7 @@ float _wrap_firfilt_cccf_groupdelay_liquid_24d78331e3228d7c(firfilt_cccf_s *_swi
 }
 
 
-firhilbf_s *_wrap_firhilbf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1) {
+firhilbf_s *_wrap_FirhilbfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1) {
   unsigned int arg1 ;
   float arg2 ;
   firhilbf result;
@@ -8604,7 +8604,7 @@ firhilbf_s *_wrap_firhilbf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, floa
 }
 
 
-void _wrap_firhilbf_destroy_liquid_24d78331e3228d7c(firhilbf_s *_swig_go_0) {
+void _wrap_FirhilbfDestroy_liquid_7b08cc538ffcb585(firhilbf_s *_swig_go_0) {
   firhilbf arg1 = (firhilbf) 0 ;
   
   arg1 = *(firhilbf *)&_swig_go_0; 
@@ -8614,7 +8614,7 @@ void _wrap_firhilbf_destroy_liquid_24d78331e3228d7c(firhilbf_s *_swig_go_0) {
 }
 
 
-void _wrap_firhilbf_print_liquid_24d78331e3228d7c(firhilbf_s *_swig_go_0) {
+void _wrap_FirhilbfPrint_liquid_7b08cc538ffcb585(firhilbf_s *_swig_go_0) {
   firhilbf arg1 = (firhilbf) 0 ;
   
   arg1 = *(firhilbf *)&_swig_go_0; 
@@ -8624,7 +8624,7 @@ void _wrap_firhilbf_print_liquid_24d78331e3228d7c(firhilbf_s *_swig_go_0) {
 }
 
 
-void _wrap_firhilbf_reset_liquid_24d78331e3228d7c(firhilbf_s *_swig_go_0) {
+void _wrap_FirhilbfReset_liquid_7b08cc538ffcb585(firhilbf_s *_swig_go_0) {
   firhilbf arg1 = (firhilbf) 0 ;
   
   arg1 = *(firhilbf *)&_swig_go_0; 
@@ -8634,7 +8634,7 @@ void _wrap_firhilbf_reset_liquid_24d78331e3228d7c(firhilbf_s *_swig_go_0) {
 }
 
 
-void _wrap_firhilbf_r2c_execute_liquid_24d78331e3228d7c(firhilbf_s *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_FirhilbfR2cExecute_liquid_7b08cc538ffcb585(firhilbf_s *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
   firhilbf arg1 = (firhilbf) 0 ;
   float arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -8648,7 +8648,7 @@ void _wrap_firhilbf_r2c_execute_liquid_24d78331e3228d7c(firhilbf_s *_swig_go_0, 
 }
 
 
-void _wrap_firhilbf_c2r_execute_liquid_24d78331e3228d7c(firhilbf_s *_swig_go_0, liquid_float_complex *_swig_go_1, float *_swig_go_2, float *_swig_go_3) {
+void _wrap_FirhilbfC2rExecute_liquid_7b08cc538ffcb585(firhilbf_s *_swig_go_0, liquid_float_complex *_swig_go_1, float *_swig_go_2, float *_swig_go_3) {
   firhilbf arg1 = (firhilbf) 0 ;
   liquid_float_complex arg2 ;
   float *arg3 = (float *) 0 ;
@@ -8671,7 +8671,7 @@ void _wrap_firhilbf_c2r_execute_liquid_24d78331e3228d7c(firhilbf_s *_swig_go_0, 
 }
 
 
-void _wrap_firhilbf_decim_execute_liquid_24d78331e3228d7c(firhilbf_s *_swig_go_0, float *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_FirhilbfDecimExecute_liquid_7b08cc538ffcb585(firhilbf_s *_swig_go_0, float *_swig_go_1, liquid_float_complex *_swig_go_2) {
   firhilbf arg1 = (firhilbf) 0 ;
   float *arg2 = (float *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -8685,7 +8685,7 @@ void _wrap_firhilbf_decim_execute_liquid_24d78331e3228d7c(firhilbf_s *_swig_go_0
 }
 
 
-void _wrap_firhilbf_decim_execute_block_liquid_24d78331e3228d7c(firhilbf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_FirhilbfDecimExecuteBlock_liquid_7b08cc538ffcb585(firhilbf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   firhilbf arg1 = (firhilbf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -8701,7 +8701,7 @@ void _wrap_firhilbf_decim_execute_block_liquid_24d78331e3228d7c(firhilbf_s *_swi
 }
 
 
-void _wrap_firhilbf_interp_execute_liquid_24d78331e3228d7c(firhilbf_s *_swig_go_0, liquid_float_complex *_swig_go_1, float *_swig_go_2) {
+void _wrap_FirhilbfInterpExecute_liquid_7b08cc538ffcb585(firhilbf_s *_swig_go_0, liquid_float_complex *_swig_go_1, float *_swig_go_2) {
   firhilbf arg1 = (firhilbf) 0 ;
   liquid_float_complex arg2 ;
   float *arg3 = (float *) 0 ;
@@ -8722,7 +8722,7 @@ void _wrap_firhilbf_interp_execute_liquid_24d78331e3228d7c(firhilbf_s *_swig_go_
 }
 
 
-void _wrap_firhilbf_interp_execute_block_liquid_24d78331e3228d7c(firhilbf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_FirhilbfInterpExecuteBlock_liquid_7b08cc538ffcb585(firhilbf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   firhilbf arg1 = (firhilbf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -8738,7 +8738,7 @@ void _wrap_firhilbf_interp_execute_block_liquid_24d78331e3228d7c(firhilbf_s *_sw
 }
 
 
-iirhilbf_s *_wrap_iirhilbf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3) {
+iirhilbf_s *_wrap_IirhilbfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3) {
   liquid_iirdes_filtertype arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -8757,7 +8757,7 @@ iirhilbf_s *_wrap_iirhilbf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intg
 }
 
 
-iirhilbf_s *_wrap_iirhilbf_create_default_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+iirhilbf_s *_wrap_IirhilbfCreateDefault_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   iirhilbf result;
   iirhilbf_s *_swig_go_result;
@@ -8770,7 +8770,7 @@ iirhilbf_s *_wrap_iirhilbf_create_default_liquid_24d78331e3228d7c(intgo _swig_go
 }
 
 
-void _wrap_iirhilbf_destroy_liquid_24d78331e3228d7c(iirhilbf_s *_swig_go_0) {
+void _wrap_IirhilbfDestroy_liquid_7b08cc538ffcb585(iirhilbf_s *_swig_go_0) {
   iirhilbf arg1 = (iirhilbf) 0 ;
   
   arg1 = *(iirhilbf *)&_swig_go_0; 
@@ -8780,7 +8780,7 @@ void _wrap_iirhilbf_destroy_liquid_24d78331e3228d7c(iirhilbf_s *_swig_go_0) {
 }
 
 
-void _wrap_iirhilbf_print_liquid_24d78331e3228d7c(iirhilbf_s *_swig_go_0) {
+void _wrap_IirhilbfPrint_liquid_7b08cc538ffcb585(iirhilbf_s *_swig_go_0) {
   iirhilbf arg1 = (iirhilbf) 0 ;
   
   arg1 = *(iirhilbf *)&_swig_go_0; 
@@ -8790,7 +8790,7 @@ void _wrap_iirhilbf_print_liquid_24d78331e3228d7c(iirhilbf_s *_swig_go_0) {
 }
 
 
-void _wrap_iirhilbf_reset_liquid_24d78331e3228d7c(iirhilbf_s *_swig_go_0) {
+void _wrap_IirhilbfReset_liquid_7b08cc538ffcb585(iirhilbf_s *_swig_go_0) {
   iirhilbf arg1 = (iirhilbf) 0 ;
   
   arg1 = *(iirhilbf *)&_swig_go_0; 
@@ -8800,7 +8800,7 @@ void _wrap_iirhilbf_reset_liquid_24d78331e3228d7c(iirhilbf_s *_swig_go_0) {
 }
 
 
-void _wrap_iirhilbf_r2c_execute_liquid_24d78331e3228d7c(iirhilbf_s *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_IirhilbfR2cExecute_liquid_7b08cc538ffcb585(iirhilbf_s *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
   iirhilbf arg1 = (iirhilbf) 0 ;
   float arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -8814,7 +8814,7 @@ void _wrap_iirhilbf_r2c_execute_liquid_24d78331e3228d7c(iirhilbf_s *_swig_go_0, 
 }
 
 
-void _wrap_iirhilbf_c2r_execute_liquid_24d78331e3228d7c(iirhilbf_s *_swig_go_0, liquid_float_complex *_swig_go_1, float *_swig_go_2) {
+void _wrap_IirhilbfC2rExecute_liquid_7b08cc538ffcb585(iirhilbf_s *_swig_go_0, liquid_float_complex *_swig_go_1, float *_swig_go_2) {
   iirhilbf arg1 = (iirhilbf) 0 ;
   liquid_float_complex arg2 ;
   float *arg3 = (float *) 0 ;
@@ -8835,7 +8835,7 @@ void _wrap_iirhilbf_c2r_execute_liquid_24d78331e3228d7c(iirhilbf_s *_swig_go_0, 
 }
 
 
-void _wrap_iirhilbf_decim_execute_liquid_24d78331e3228d7c(iirhilbf_s *_swig_go_0, float *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_IirhilbfDecimExecute_liquid_7b08cc538ffcb585(iirhilbf_s *_swig_go_0, float *_swig_go_1, liquid_float_complex *_swig_go_2) {
   iirhilbf arg1 = (iirhilbf) 0 ;
   float *arg2 = (float *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -8849,7 +8849,7 @@ void _wrap_iirhilbf_decim_execute_liquid_24d78331e3228d7c(iirhilbf_s *_swig_go_0
 }
 
 
-void _wrap_iirhilbf_decim_execute_block_liquid_24d78331e3228d7c(iirhilbf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_IirhilbfDecimExecuteBlock_liquid_7b08cc538ffcb585(iirhilbf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   iirhilbf arg1 = (iirhilbf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -8865,7 +8865,7 @@ void _wrap_iirhilbf_decim_execute_block_liquid_24d78331e3228d7c(iirhilbf_s *_swi
 }
 
 
-void _wrap_iirhilbf_interp_execute_liquid_24d78331e3228d7c(iirhilbf_s *_swig_go_0, liquid_float_complex *_swig_go_1, float *_swig_go_2) {
+void _wrap_IirhilbfInterpExecute_liquid_7b08cc538ffcb585(iirhilbf_s *_swig_go_0, liquid_float_complex *_swig_go_1, float *_swig_go_2) {
   iirhilbf arg1 = (iirhilbf) 0 ;
   liquid_float_complex arg2 ;
   float *arg3 = (float *) 0 ;
@@ -8886,7 +8886,7 @@ void _wrap_iirhilbf_interp_execute_liquid_24d78331e3228d7c(iirhilbf_s *_swig_go_
 }
 
 
-void _wrap_iirhilbf_interp_execute_block_liquid_24d78331e3228d7c(iirhilbf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_IirhilbfInterpExecuteBlock_liquid_7b08cc538ffcb585(iirhilbf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   iirhilbf arg1 = (iirhilbf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -8902,7 +8902,7 @@ void _wrap_iirhilbf_interp_execute_block_liquid_24d78331e3228d7c(iirhilbf_s *_sw
 }
 
 
-fftfilt_rrrf_s *_wrap_fftfilt_rrrf_create_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+fftfilt_rrrf_s *_wrap_FftfiltRrrfCreate_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -8919,7 +8919,7 @@ fftfilt_rrrf_s *_wrap_fftfilt_rrrf_create_liquid_24d78331e3228d7c(float *_swig_g
 }
 
 
-void _wrap_fftfilt_rrrf_destroy_liquid_24d78331e3228d7c(fftfilt_rrrf_s *_swig_go_0) {
+void _wrap_FftfiltRrrfDestroy_liquid_7b08cc538ffcb585(fftfilt_rrrf_s *_swig_go_0) {
   fftfilt_rrrf arg1 = (fftfilt_rrrf) 0 ;
   
   arg1 = *(fftfilt_rrrf *)&_swig_go_0; 
@@ -8929,7 +8929,7 @@ void _wrap_fftfilt_rrrf_destroy_liquid_24d78331e3228d7c(fftfilt_rrrf_s *_swig_go
 }
 
 
-void _wrap_fftfilt_rrrf_reset_liquid_24d78331e3228d7c(fftfilt_rrrf_s *_swig_go_0) {
+void _wrap_FftfiltRrrfReset_liquid_7b08cc538ffcb585(fftfilt_rrrf_s *_swig_go_0) {
   fftfilt_rrrf arg1 = (fftfilt_rrrf) 0 ;
   
   arg1 = *(fftfilt_rrrf *)&_swig_go_0; 
@@ -8939,7 +8939,7 @@ void _wrap_fftfilt_rrrf_reset_liquid_24d78331e3228d7c(fftfilt_rrrf_s *_swig_go_0
 }
 
 
-void _wrap_fftfilt_rrrf_print_liquid_24d78331e3228d7c(fftfilt_rrrf_s *_swig_go_0) {
+void _wrap_FftfiltRrrfPrint_liquid_7b08cc538ffcb585(fftfilt_rrrf_s *_swig_go_0) {
   fftfilt_rrrf arg1 = (fftfilt_rrrf) 0 ;
   
   arg1 = *(fftfilt_rrrf *)&_swig_go_0; 
@@ -8949,7 +8949,7 @@ void _wrap_fftfilt_rrrf_print_liquid_24d78331e3228d7c(fftfilt_rrrf_s *_swig_go_0
 }
 
 
-void _wrap_fftfilt_rrrf_set_scale_liquid_24d78331e3228d7c(fftfilt_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_FftfiltRrrfSetScale_liquid_7b08cc538ffcb585(fftfilt_rrrf_s *_swig_go_0, float _swig_go_1) {
   fftfilt_rrrf arg1 = (fftfilt_rrrf) 0 ;
   float arg2 ;
   
@@ -8961,7 +8961,7 @@ void _wrap_fftfilt_rrrf_set_scale_liquid_24d78331e3228d7c(fftfilt_rrrf_s *_swig_
 }
 
 
-void _wrap_fftfilt_rrrf_get_scale_liquid_24d78331e3228d7c(fftfilt_rrrf_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_FftfiltRrrfGetScale_liquid_7b08cc538ffcb585(fftfilt_rrrf_s *_swig_go_0, float *_swig_go_1) {
   fftfilt_rrrf arg1 = (fftfilt_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -8973,7 +8973,7 @@ void _wrap_fftfilt_rrrf_get_scale_liquid_24d78331e3228d7c(fftfilt_rrrf_s *_swig_
 }
 
 
-void _wrap_fftfilt_rrrf_execute_liquid_24d78331e3228d7c(fftfilt_rrrf_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2) {
+void _wrap_FftfiltRrrfExecute_liquid_7b08cc538ffcb585(fftfilt_rrrf_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2) {
   fftfilt_rrrf arg1 = (fftfilt_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -8987,7 +8987,7 @@ void _wrap_fftfilt_rrrf_execute_liquid_24d78331e3228d7c(fftfilt_rrrf_s *_swig_go
 }
 
 
-intgo _wrap_fftfilt_rrrf_get_length_liquid_24d78331e3228d7c(fftfilt_rrrf_s *_swig_go_0) {
+intgo _wrap_FftfiltRrrfGetLength_liquid_7b08cc538ffcb585(fftfilt_rrrf_s *_swig_go_0) {
   fftfilt_rrrf arg1 = (fftfilt_rrrf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -9000,7 +9000,7 @@ intgo _wrap_fftfilt_rrrf_get_length_liquid_24d78331e3228d7c(fftfilt_rrrf_s *_swi
 }
 
 
-fftfilt_crcf_s *_wrap_fftfilt_crcf_create_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+fftfilt_crcf_s *_wrap_FftfiltCrcfCreate_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -9017,7 +9017,7 @@ fftfilt_crcf_s *_wrap_fftfilt_crcf_create_liquid_24d78331e3228d7c(float *_swig_g
 }
 
 
-void _wrap_fftfilt_crcf_destroy_liquid_24d78331e3228d7c(fftfilt_crcf_s *_swig_go_0) {
+void _wrap_FftfiltCrcfDestroy_liquid_7b08cc538ffcb585(fftfilt_crcf_s *_swig_go_0) {
   fftfilt_crcf arg1 = (fftfilt_crcf) 0 ;
   
   arg1 = *(fftfilt_crcf *)&_swig_go_0; 
@@ -9027,7 +9027,7 @@ void _wrap_fftfilt_crcf_destroy_liquid_24d78331e3228d7c(fftfilt_crcf_s *_swig_go
 }
 
 
-void _wrap_fftfilt_crcf_reset_liquid_24d78331e3228d7c(fftfilt_crcf_s *_swig_go_0) {
+void _wrap_FftfiltCrcfReset_liquid_7b08cc538ffcb585(fftfilt_crcf_s *_swig_go_0) {
   fftfilt_crcf arg1 = (fftfilt_crcf) 0 ;
   
   arg1 = *(fftfilt_crcf *)&_swig_go_0; 
@@ -9037,7 +9037,7 @@ void _wrap_fftfilt_crcf_reset_liquid_24d78331e3228d7c(fftfilt_crcf_s *_swig_go_0
 }
 
 
-void _wrap_fftfilt_crcf_print_liquid_24d78331e3228d7c(fftfilt_crcf_s *_swig_go_0) {
+void _wrap_FftfiltCrcfPrint_liquid_7b08cc538ffcb585(fftfilt_crcf_s *_swig_go_0) {
   fftfilt_crcf arg1 = (fftfilt_crcf) 0 ;
   
   arg1 = *(fftfilt_crcf *)&_swig_go_0; 
@@ -9047,7 +9047,7 @@ void _wrap_fftfilt_crcf_print_liquid_24d78331e3228d7c(fftfilt_crcf_s *_swig_go_0
 }
 
 
-void _wrap_fftfilt_crcf_set_scale_liquid_24d78331e3228d7c(fftfilt_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_FftfiltCrcfSetScale_liquid_7b08cc538ffcb585(fftfilt_crcf_s *_swig_go_0, float _swig_go_1) {
   fftfilt_crcf arg1 = (fftfilt_crcf) 0 ;
   float arg2 ;
   
@@ -9059,7 +9059,7 @@ void _wrap_fftfilt_crcf_set_scale_liquid_24d78331e3228d7c(fftfilt_crcf_s *_swig_
 }
 
 
-void _wrap_fftfilt_crcf_get_scale_liquid_24d78331e3228d7c(fftfilt_crcf_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_FftfiltCrcfGetScale_liquid_7b08cc538ffcb585(fftfilt_crcf_s *_swig_go_0, float *_swig_go_1) {
   fftfilt_crcf arg1 = (fftfilt_crcf) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -9071,7 +9071,7 @@ void _wrap_fftfilt_crcf_get_scale_liquid_24d78331e3228d7c(fftfilt_crcf_s *_swig_
 }
 
 
-void _wrap_fftfilt_crcf_execute_liquid_24d78331e3228d7c(fftfilt_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_FftfiltCrcfExecute_liquid_7b08cc538ffcb585(fftfilt_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   fftfilt_crcf arg1 = (fftfilt_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -9085,7 +9085,7 @@ void _wrap_fftfilt_crcf_execute_liquid_24d78331e3228d7c(fftfilt_crcf_s *_swig_go
 }
 
 
-intgo _wrap_fftfilt_crcf_get_length_liquid_24d78331e3228d7c(fftfilt_crcf_s *_swig_go_0) {
+intgo _wrap_FftfiltCrcfGetLength_liquid_7b08cc538ffcb585(fftfilt_crcf_s *_swig_go_0) {
   fftfilt_crcf arg1 = (fftfilt_crcf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -9098,7 +9098,7 @@ intgo _wrap_fftfilt_crcf_get_length_liquid_24d78331e3228d7c(fftfilt_crcf_s *_swi
 }
 
 
-fftfilt_cccf_s *_wrap_fftfilt_cccf_create_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+fftfilt_cccf_s *_wrap_FftfiltCccfCreate_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -9115,7 +9115,7 @@ fftfilt_cccf_s *_wrap_fftfilt_cccf_create_liquid_24d78331e3228d7c(liquid_float_c
 }
 
 
-void _wrap_fftfilt_cccf_destroy_liquid_24d78331e3228d7c(fftfilt_cccf_s *_swig_go_0) {
+void _wrap_FftfiltCccfDestroy_liquid_7b08cc538ffcb585(fftfilt_cccf_s *_swig_go_0) {
   fftfilt_cccf arg1 = (fftfilt_cccf) 0 ;
   
   arg1 = *(fftfilt_cccf *)&_swig_go_0; 
@@ -9125,7 +9125,7 @@ void _wrap_fftfilt_cccf_destroy_liquid_24d78331e3228d7c(fftfilt_cccf_s *_swig_go
 }
 
 
-void _wrap_fftfilt_cccf_reset_liquid_24d78331e3228d7c(fftfilt_cccf_s *_swig_go_0) {
+void _wrap_FftfiltCccfReset_liquid_7b08cc538ffcb585(fftfilt_cccf_s *_swig_go_0) {
   fftfilt_cccf arg1 = (fftfilt_cccf) 0 ;
   
   arg1 = *(fftfilt_cccf *)&_swig_go_0; 
@@ -9135,7 +9135,7 @@ void _wrap_fftfilt_cccf_reset_liquid_24d78331e3228d7c(fftfilt_cccf_s *_swig_go_0
 }
 
 
-void _wrap_fftfilt_cccf_print_liquid_24d78331e3228d7c(fftfilt_cccf_s *_swig_go_0) {
+void _wrap_FftfiltCccfPrint_liquid_7b08cc538ffcb585(fftfilt_cccf_s *_swig_go_0) {
   fftfilt_cccf arg1 = (fftfilt_cccf) 0 ;
   
   arg1 = *(fftfilt_cccf *)&_swig_go_0; 
@@ -9145,7 +9145,7 @@ void _wrap_fftfilt_cccf_print_liquid_24d78331e3228d7c(fftfilt_cccf_s *_swig_go_0
 }
 
 
-void _wrap_fftfilt_cccf_set_scale_liquid_24d78331e3228d7c(fftfilt_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_FftfiltCccfSetScale_liquid_7b08cc538ffcb585(fftfilt_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   fftfilt_cccf arg1 = (fftfilt_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -9164,7 +9164,7 @@ void _wrap_fftfilt_cccf_set_scale_liquid_24d78331e3228d7c(fftfilt_cccf_s *_swig_
 }
 
 
-void _wrap_fftfilt_cccf_get_scale_liquid_24d78331e3228d7c(fftfilt_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_FftfiltCccfGetScale_liquid_7b08cc538ffcb585(fftfilt_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   fftfilt_cccf arg1 = (fftfilt_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -9176,7 +9176,7 @@ void _wrap_fftfilt_cccf_get_scale_liquid_24d78331e3228d7c(fftfilt_cccf_s *_swig_
 }
 
 
-void _wrap_fftfilt_cccf_execute_liquid_24d78331e3228d7c(fftfilt_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_FftfiltCccfExecute_liquid_7b08cc538ffcb585(fftfilt_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   fftfilt_cccf arg1 = (fftfilt_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -9190,7 +9190,7 @@ void _wrap_fftfilt_cccf_execute_liquid_24d78331e3228d7c(fftfilt_cccf_s *_swig_go
 }
 
 
-intgo _wrap_fftfilt_cccf_get_length_liquid_24d78331e3228d7c(fftfilt_cccf_s *_swig_go_0) {
+intgo _wrap_FftfiltCccfGetLength_liquid_7b08cc538ffcb585(fftfilt_cccf_s *_swig_go_0) {
   fftfilt_cccf arg1 = (fftfilt_cccf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -9203,7 +9203,7 @@ intgo _wrap_fftfilt_cccf_get_length_liquid_24d78331e3228d7c(fftfilt_cccf_s *_swi
 }
 
 
-iirfilt_rrrf_s *_wrap_iirfilt_rrrf_create_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2, intgo _swig_go_3) {
+iirfilt_rrrf_s *_wrap_IirfiltRrrfCreate_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2, intgo _swig_go_3) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -9222,7 +9222,7 @@ iirfilt_rrrf_s *_wrap_iirfilt_rrrf_create_liquid_24d78331e3228d7c(float *_swig_g
 }
 
 
-iirfilt_rrrf_s *_wrap_iirfilt_rrrf_create_sos_liquid_24d78331e3228d7c(float *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+iirfilt_rrrf_s *_wrap_IirfiltRrrfCreateSos_liquid_7b08cc538ffcb585(float *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   float *arg1 = (float *) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -9239,7 +9239,7 @@ iirfilt_rrrf_s *_wrap_iirfilt_rrrf_create_sos_liquid_24d78331e3228d7c(float *_sw
 }
 
 
-iirfilt_rrrf_s *_wrap_iirfilt_rrrf_create_prototype_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4, float _swig_go_5, float _swig_go_6, float _swig_go_7) {
+iirfilt_rrrf_s *_wrap_IirfiltRrrfCreatePrototype_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4, float _swig_go_5, float _swig_go_6, float _swig_go_7) {
   liquid_iirdes_filtertype arg1 ;
   liquid_iirdes_bandtype arg2 ;
   liquid_iirdes_format arg3 ;
@@ -9266,7 +9266,7 @@ iirfilt_rrrf_s *_wrap_iirfilt_rrrf_create_prototype_liquid_24d78331e3228d7c(intg
 }
 
 
-iirfilt_rrrf_s *_wrap_iirfilt_rrrf_create_lowpass_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1) {
+iirfilt_rrrf_s *_wrap_IirfiltRrrfCreateLowpass_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1) {
   unsigned int arg1 ;
   float arg2 ;
   iirfilt_rrrf result;
@@ -9281,7 +9281,7 @@ iirfilt_rrrf_s *_wrap_iirfilt_rrrf_create_lowpass_liquid_24d78331e3228d7c(intgo 
 }
 
 
-iirfilt_rrrf_s *_wrap_iirfilt_rrrf_create_integrator_liquid_24d78331e3228d7c() {
+iirfilt_rrrf_s *_wrap_IirfiltRrrfCreateIntegrator_liquid_7b08cc538ffcb585() {
   iirfilt_rrrf result;
   iirfilt_rrrf_s *_swig_go_result;
   
@@ -9292,7 +9292,7 @@ iirfilt_rrrf_s *_wrap_iirfilt_rrrf_create_integrator_liquid_24d78331e3228d7c() {
 }
 
 
-iirfilt_rrrf_s *_wrap_iirfilt_rrrf_create_differentiator_liquid_24d78331e3228d7c() {
+iirfilt_rrrf_s *_wrap_IirfiltRrrfCreateDifferentiator_liquid_7b08cc538ffcb585() {
   iirfilt_rrrf result;
   iirfilt_rrrf_s *_swig_go_result;
   
@@ -9303,7 +9303,7 @@ iirfilt_rrrf_s *_wrap_iirfilt_rrrf_create_differentiator_liquid_24d78331e3228d7c
 }
 
 
-iirfilt_rrrf_s *_wrap_iirfilt_rrrf_create_dc_blocker_liquid_24d78331e3228d7c(float _swig_go_0) {
+iirfilt_rrrf_s *_wrap_IirfiltRrrfCreateDcBlocker_liquid_7b08cc538ffcb585(float _swig_go_0) {
   float arg1 ;
   iirfilt_rrrf result;
   iirfilt_rrrf_s *_swig_go_result;
@@ -9316,7 +9316,7 @@ iirfilt_rrrf_s *_wrap_iirfilt_rrrf_create_dc_blocker_liquid_24d78331e3228d7c(flo
 }
 
 
-iirfilt_rrrf_s *_wrap_iirfilt_rrrf_create_pll_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
+iirfilt_rrrf_s *_wrap_IirfiltRrrfCreatePll_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
   float arg1 ;
   float arg2 ;
   float arg3 ;
@@ -9333,7 +9333,7 @@ iirfilt_rrrf_s *_wrap_iirfilt_rrrf_create_pll_liquid_24d78331e3228d7c(float _swi
 }
 
 
-void _wrap_iirfilt_rrrf_destroy_liquid_24d78331e3228d7c(iirfilt_rrrf_s *_swig_go_0) {
+void _wrap_IirfiltRrrfDestroy_liquid_7b08cc538ffcb585(iirfilt_rrrf_s *_swig_go_0) {
   iirfilt_rrrf arg1 = (iirfilt_rrrf) 0 ;
   
   arg1 = *(iirfilt_rrrf *)&_swig_go_0; 
@@ -9343,7 +9343,7 @@ void _wrap_iirfilt_rrrf_destroy_liquid_24d78331e3228d7c(iirfilt_rrrf_s *_swig_go
 }
 
 
-void _wrap_iirfilt_rrrf_print_liquid_24d78331e3228d7c(iirfilt_rrrf_s *_swig_go_0) {
+void _wrap_IirfiltRrrfPrint_liquid_7b08cc538ffcb585(iirfilt_rrrf_s *_swig_go_0) {
   iirfilt_rrrf arg1 = (iirfilt_rrrf) 0 ;
   
   arg1 = *(iirfilt_rrrf *)&_swig_go_0; 
@@ -9353,7 +9353,7 @@ void _wrap_iirfilt_rrrf_print_liquid_24d78331e3228d7c(iirfilt_rrrf_s *_swig_go_0
 }
 
 
-void _wrap_iirfilt_rrrf_reset_liquid_24d78331e3228d7c(iirfilt_rrrf_s *_swig_go_0) {
+void _wrap_IirfiltRrrfReset_liquid_7b08cc538ffcb585(iirfilt_rrrf_s *_swig_go_0) {
   iirfilt_rrrf arg1 = (iirfilt_rrrf) 0 ;
   
   arg1 = *(iirfilt_rrrf *)&_swig_go_0; 
@@ -9363,7 +9363,7 @@ void _wrap_iirfilt_rrrf_reset_liquid_24d78331e3228d7c(iirfilt_rrrf_s *_swig_go_0
 }
 
 
-void _wrap_iirfilt_rrrf_execute_liquid_24d78331e3228d7c(iirfilt_rrrf_s *_swig_go_0, float _swig_go_1, float *_swig_go_2) {
+void _wrap_IirfiltRrrfExecute_liquid_7b08cc538ffcb585(iirfilt_rrrf_s *_swig_go_0, float _swig_go_1, float *_swig_go_2) {
   iirfilt_rrrf arg1 = (iirfilt_rrrf) 0 ;
   float arg2 ;
   float *arg3 = (float *) 0 ;
@@ -9377,7 +9377,7 @@ void _wrap_iirfilt_rrrf_execute_liquid_24d78331e3228d7c(iirfilt_rrrf_s *_swig_go
 }
 
 
-void _wrap_iirfilt_rrrf_execute_block_liquid_24d78331e3228d7c(iirfilt_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_IirfiltRrrfExecuteBlock_liquid_7b08cc538ffcb585(iirfilt_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   iirfilt_rrrf arg1 = (iirfilt_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -9393,7 +9393,7 @@ void _wrap_iirfilt_rrrf_execute_block_liquid_24d78331e3228d7c(iirfilt_rrrf_s *_s
 }
 
 
-intgo _wrap_iirfilt_rrrf_get_length_liquid_24d78331e3228d7c(iirfilt_rrrf_s *_swig_go_0) {
+intgo _wrap_IirfiltRrrfGetLength_liquid_7b08cc538ffcb585(iirfilt_rrrf_s *_swig_go_0) {
   iirfilt_rrrf arg1 = (iirfilt_rrrf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -9406,7 +9406,7 @@ intgo _wrap_iirfilt_rrrf_get_length_liquid_24d78331e3228d7c(iirfilt_rrrf_s *_swi
 }
 
 
-void _wrap_iirfilt_rrrf_freqresponse_liquid_24d78331e3228d7c(iirfilt_rrrf_s *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_IirfiltRrrfFreqresponse_liquid_7b08cc538ffcb585(iirfilt_rrrf_s *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
   iirfilt_rrrf arg1 = (iirfilt_rrrf) 0 ;
   float arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -9420,7 +9420,7 @@ void _wrap_iirfilt_rrrf_freqresponse_liquid_24d78331e3228d7c(iirfilt_rrrf_s *_sw
 }
 
 
-float _wrap_iirfilt_rrrf_groupdelay_liquid_24d78331e3228d7c(iirfilt_rrrf_s *_swig_go_0, float _swig_go_1) {
+float _wrap_IirfiltRrrfGroupdelay_liquid_7b08cc538ffcb585(iirfilt_rrrf_s *_swig_go_0, float _swig_go_1) {
   iirfilt_rrrf arg1 = (iirfilt_rrrf) 0 ;
   float arg2 ;
   float result;
@@ -9435,7 +9435,7 @@ float _wrap_iirfilt_rrrf_groupdelay_liquid_24d78331e3228d7c(iirfilt_rrrf_s *_swi
 }
 
 
-iirfilt_crcf_s *_wrap_iirfilt_crcf_create_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2, intgo _swig_go_3) {
+iirfilt_crcf_s *_wrap_IirfiltCrcfCreate_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2, intgo _swig_go_3) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -9454,7 +9454,7 @@ iirfilt_crcf_s *_wrap_iirfilt_crcf_create_liquid_24d78331e3228d7c(float *_swig_g
 }
 
 
-iirfilt_crcf_s *_wrap_iirfilt_crcf_create_sos_liquid_24d78331e3228d7c(float *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+iirfilt_crcf_s *_wrap_IirfiltCrcfCreateSos_liquid_7b08cc538ffcb585(float *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   float *arg1 = (float *) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -9471,7 +9471,7 @@ iirfilt_crcf_s *_wrap_iirfilt_crcf_create_sos_liquid_24d78331e3228d7c(float *_sw
 }
 
 
-iirfilt_crcf_s *_wrap_iirfilt_crcf_create_prototype_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4, float _swig_go_5, float _swig_go_6, float _swig_go_7) {
+iirfilt_crcf_s *_wrap_IirfiltCrcfCreatePrototype_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4, float _swig_go_5, float _swig_go_6, float _swig_go_7) {
   liquid_iirdes_filtertype arg1 ;
   liquid_iirdes_bandtype arg2 ;
   liquid_iirdes_format arg3 ;
@@ -9498,7 +9498,7 @@ iirfilt_crcf_s *_wrap_iirfilt_crcf_create_prototype_liquid_24d78331e3228d7c(intg
 }
 
 
-iirfilt_crcf_s *_wrap_iirfilt_crcf_create_lowpass_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1) {
+iirfilt_crcf_s *_wrap_IirfiltCrcfCreateLowpass_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1) {
   unsigned int arg1 ;
   float arg2 ;
   iirfilt_crcf result;
@@ -9513,7 +9513,7 @@ iirfilt_crcf_s *_wrap_iirfilt_crcf_create_lowpass_liquid_24d78331e3228d7c(intgo 
 }
 
 
-iirfilt_crcf_s *_wrap_iirfilt_crcf_create_integrator_liquid_24d78331e3228d7c() {
+iirfilt_crcf_s *_wrap_IirfiltCrcfCreateIntegrator_liquid_7b08cc538ffcb585() {
   iirfilt_crcf result;
   iirfilt_crcf_s *_swig_go_result;
   
@@ -9524,7 +9524,7 @@ iirfilt_crcf_s *_wrap_iirfilt_crcf_create_integrator_liquid_24d78331e3228d7c() {
 }
 
 
-iirfilt_crcf_s *_wrap_iirfilt_crcf_create_differentiator_liquid_24d78331e3228d7c() {
+iirfilt_crcf_s *_wrap_IirfiltCrcfCreateDifferentiator_liquid_7b08cc538ffcb585() {
   iirfilt_crcf result;
   iirfilt_crcf_s *_swig_go_result;
   
@@ -9535,7 +9535,7 @@ iirfilt_crcf_s *_wrap_iirfilt_crcf_create_differentiator_liquid_24d78331e3228d7c
 }
 
 
-iirfilt_crcf_s *_wrap_iirfilt_crcf_create_dc_blocker_liquid_24d78331e3228d7c(float _swig_go_0) {
+iirfilt_crcf_s *_wrap_IirfiltCrcfCreateDcBlocker_liquid_7b08cc538ffcb585(float _swig_go_0) {
   float arg1 ;
   iirfilt_crcf result;
   iirfilt_crcf_s *_swig_go_result;
@@ -9548,7 +9548,7 @@ iirfilt_crcf_s *_wrap_iirfilt_crcf_create_dc_blocker_liquid_24d78331e3228d7c(flo
 }
 
 
-iirfilt_crcf_s *_wrap_iirfilt_crcf_create_pll_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
+iirfilt_crcf_s *_wrap_IirfiltCrcfCreatePll_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
   float arg1 ;
   float arg2 ;
   float arg3 ;
@@ -9565,7 +9565,7 @@ iirfilt_crcf_s *_wrap_iirfilt_crcf_create_pll_liquid_24d78331e3228d7c(float _swi
 }
 
 
-void _wrap_iirfilt_crcf_destroy_liquid_24d78331e3228d7c(iirfilt_crcf_s *_swig_go_0) {
+void _wrap_IirfiltCrcfDestroy_liquid_7b08cc538ffcb585(iirfilt_crcf_s *_swig_go_0) {
   iirfilt_crcf arg1 = (iirfilt_crcf) 0 ;
   
   arg1 = *(iirfilt_crcf *)&_swig_go_0; 
@@ -9575,7 +9575,7 @@ void _wrap_iirfilt_crcf_destroy_liquid_24d78331e3228d7c(iirfilt_crcf_s *_swig_go
 }
 
 
-void _wrap_iirfilt_crcf_print_liquid_24d78331e3228d7c(iirfilt_crcf_s *_swig_go_0) {
+void _wrap_IirfiltCrcfPrint_liquid_7b08cc538ffcb585(iirfilt_crcf_s *_swig_go_0) {
   iirfilt_crcf arg1 = (iirfilt_crcf) 0 ;
   
   arg1 = *(iirfilt_crcf *)&_swig_go_0; 
@@ -9585,7 +9585,7 @@ void _wrap_iirfilt_crcf_print_liquid_24d78331e3228d7c(iirfilt_crcf_s *_swig_go_0
 }
 
 
-void _wrap_iirfilt_crcf_reset_liquid_24d78331e3228d7c(iirfilt_crcf_s *_swig_go_0) {
+void _wrap_IirfiltCrcfReset_liquid_7b08cc538ffcb585(iirfilt_crcf_s *_swig_go_0) {
   iirfilt_crcf arg1 = (iirfilt_crcf) 0 ;
   
   arg1 = *(iirfilt_crcf *)&_swig_go_0; 
@@ -9595,7 +9595,7 @@ void _wrap_iirfilt_crcf_reset_liquid_24d78331e3228d7c(iirfilt_crcf_s *_swig_go_0
 }
 
 
-void _wrap_iirfilt_crcf_execute_liquid_24d78331e3228d7c(iirfilt_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_IirfiltCrcfExecute_liquid_7b08cc538ffcb585(iirfilt_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   iirfilt_crcf arg1 = (iirfilt_crcf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -9616,7 +9616,7 @@ void _wrap_iirfilt_crcf_execute_liquid_24d78331e3228d7c(iirfilt_crcf_s *_swig_go
 }
 
 
-void _wrap_iirfilt_crcf_execute_block_liquid_24d78331e3228d7c(iirfilt_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_IirfiltCrcfExecuteBlock_liquid_7b08cc538ffcb585(iirfilt_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   iirfilt_crcf arg1 = (iirfilt_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -9632,7 +9632,7 @@ void _wrap_iirfilt_crcf_execute_block_liquid_24d78331e3228d7c(iirfilt_crcf_s *_s
 }
 
 
-intgo _wrap_iirfilt_crcf_get_length_liquid_24d78331e3228d7c(iirfilt_crcf_s *_swig_go_0) {
+intgo _wrap_IirfiltCrcfGetLength_liquid_7b08cc538ffcb585(iirfilt_crcf_s *_swig_go_0) {
   iirfilt_crcf arg1 = (iirfilt_crcf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -9645,7 +9645,7 @@ intgo _wrap_iirfilt_crcf_get_length_liquid_24d78331e3228d7c(iirfilt_crcf_s *_swi
 }
 
 
-void _wrap_iirfilt_crcf_freqresponse_liquid_24d78331e3228d7c(iirfilt_crcf_s *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_IirfiltCrcfFreqresponse_liquid_7b08cc538ffcb585(iirfilt_crcf_s *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
   iirfilt_crcf arg1 = (iirfilt_crcf) 0 ;
   float arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -9659,7 +9659,7 @@ void _wrap_iirfilt_crcf_freqresponse_liquid_24d78331e3228d7c(iirfilt_crcf_s *_sw
 }
 
 
-float _wrap_iirfilt_crcf_groupdelay_liquid_24d78331e3228d7c(iirfilt_crcf_s *_swig_go_0, float _swig_go_1) {
+float _wrap_IirfiltCrcfGroupdelay_liquid_7b08cc538ffcb585(iirfilt_crcf_s *_swig_go_0, float _swig_go_1) {
   iirfilt_crcf arg1 = (iirfilt_crcf) 0 ;
   float arg2 ;
   float result;
@@ -9674,7 +9674,7 @@ float _wrap_iirfilt_crcf_groupdelay_liquid_24d78331e3228d7c(iirfilt_crcf_s *_swi
 }
 
 
-iirfilt_cccf_s *_wrap_iirfilt_cccf_create_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3) {
+iirfilt_cccf_s *_wrap_IirfiltCccfCreate_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -9693,7 +9693,7 @@ iirfilt_cccf_s *_wrap_iirfilt_cccf_create_liquid_24d78331e3228d7c(liquid_float_c
 }
 
 
-iirfilt_cccf_s *_wrap_iirfilt_cccf_create_sos_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+iirfilt_cccf_s *_wrap_IirfiltCccfCreateSos_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -9710,7 +9710,7 @@ iirfilt_cccf_s *_wrap_iirfilt_cccf_create_sos_liquid_24d78331e3228d7c(liquid_flo
 }
 
 
-iirfilt_cccf_s *_wrap_iirfilt_cccf_create_prototype_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4, float _swig_go_5, float _swig_go_6, float _swig_go_7) {
+iirfilt_cccf_s *_wrap_IirfiltCccfCreatePrototype_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4, float _swig_go_5, float _swig_go_6, float _swig_go_7) {
   liquid_iirdes_filtertype arg1 ;
   liquid_iirdes_bandtype arg2 ;
   liquid_iirdes_format arg3 ;
@@ -9737,7 +9737,7 @@ iirfilt_cccf_s *_wrap_iirfilt_cccf_create_prototype_liquid_24d78331e3228d7c(intg
 }
 
 
-iirfilt_cccf_s *_wrap_iirfilt_cccf_create_lowpass_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1) {
+iirfilt_cccf_s *_wrap_IirfiltCccfCreateLowpass_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1) {
   unsigned int arg1 ;
   float arg2 ;
   iirfilt_cccf result;
@@ -9752,7 +9752,7 @@ iirfilt_cccf_s *_wrap_iirfilt_cccf_create_lowpass_liquid_24d78331e3228d7c(intgo 
 }
 
 
-iirfilt_cccf_s *_wrap_iirfilt_cccf_create_integrator_liquid_24d78331e3228d7c() {
+iirfilt_cccf_s *_wrap_IirfiltCccfCreateIntegrator_liquid_7b08cc538ffcb585() {
   iirfilt_cccf result;
   iirfilt_cccf_s *_swig_go_result;
   
@@ -9763,7 +9763,7 @@ iirfilt_cccf_s *_wrap_iirfilt_cccf_create_integrator_liquid_24d78331e3228d7c() {
 }
 
 
-iirfilt_cccf_s *_wrap_iirfilt_cccf_create_differentiator_liquid_24d78331e3228d7c() {
+iirfilt_cccf_s *_wrap_IirfiltCccfCreateDifferentiator_liquid_7b08cc538ffcb585() {
   iirfilt_cccf result;
   iirfilt_cccf_s *_swig_go_result;
   
@@ -9774,7 +9774,7 @@ iirfilt_cccf_s *_wrap_iirfilt_cccf_create_differentiator_liquid_24d78331e3228d7c
 }
 
 
-iirfilt_cccf_s *_wrap_iirfilt_cccf_create_dc_blocker_liquid_24d78331e3228d7c(float _swig_go_0) {
+iirfilt_cccf_s *_wrap_IirfiltCccfCreateDcBlocker_liquid_7b08cc538ffcb585(float _swig_go_0) {
   float arg1 ;
   iirfilt_cccf result;
   iirfilt_cccf_s *_swig_go_result;
@@ -9787,7 +9787,7 @@ iirfilt_cccf_s *_wrap_iirfilt_cccf_create_dc_blocker_liquid_24d78331e3228d7c(flo
 }
 
 
-iirfilt_cccf_s *_wrap_iirfilt_cccf_create_pll_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
+iirfilt_cccf_s *_wrap_IirfiltCccfCreatePll_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
   float arg1 ;
   float arg2 ;
   float arg3 ;
@@ -9804,7 +9804,7 @@ iirfilt_cccf_s *_wrap_iirfilt_cccf_create_pll_liquid_24d78331e3228d7c(float _swi
 }
 
 
-void _wrap_iirfilt_cccf_destroy_liquid_24d78331e3228d7c(iirfilt_cccf_s *_swig_go_0) {
+void _wrap_IirfiltCccfDestroy_liquid_7b08cc538ffcb585(iirfilt_cccf_s *_swig_go_0) {
   iirfilt_cccf arg1 = (iirfilt_cccf) 0 ;
   
   arg1 = *(iirfilt_cccf *)&_swig_go_0; 
@@ -9814,7 +9814,7 @@ void _wrap_iirfilt_cccf_destroy_liquid_24d78331e3228d7c(iirfilt_cccf_s *_swig_go
 }
 
 
-void _wrap_iirfilt_cccf_print_liquid_24d78331e3228d7c(iirfilt_cccf_s *_swig_go_0) {
+void _wrap_IirfiltCccfPrint_liquid_7b08cc538ffcb585(iirfilt_cccf_s *_swig_go_0) {
   iirfilt_cccf arg1 = (iirfilt_cccf) 0 ;
   
   arg1 = *(iirfilt_cccf *)&_swig_go_0; 
@@ -9824,7 +9824,7 @@ void _wrap_iirfilt_cccf_print_liquid_24d78331e3228d7c(iirfilt_cccf_s *_swig_go_0
 }
 
 
-void _wrap_iirfilt_cccf_reset_liquid_24d78331e3228d7c(iirfilt_cccf_s *_swig_go_0) {
+void _wrap_IirfiltCccfReset_liquid_7b08cc538ffcb585(iirfilt_cccf_s *_swig_go_0) {
   iirfilt_cccf arg1 = (iirfilt_cccf) 0 ;
   
   arg1 = *(iirfilt_cccf *)&_swig_go_0; 
@@ -9834,7 +9834,7 @@ void _wrap_iirfilt_cccf_reset_liquid_24d78331e3228d7c(iirfilt_cccf_s *_swig_go_0
 }
 
 
-void _wrap_iirfilt_cccf_execute_liquid_24d78331e3228d7c(iirfilt_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_IirfiltCccfExecute_liquid_7b08cc538ffcb585(iirfilt_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   iirfilt_cccf arg1 = (iirfilt_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -9855,7 +9855,7 @@ void _wrap_iirfilt_cccf_execute_liquid_24d78331e3228d7c(iirfilt_cccf_s *_swig_go
 }
 
 
-void _wrap_iirfilt_cccf_execute_block_liquid_24d78331e3228d7c(iirfilt_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_IirfiltCccfExecuteBlock_liquid_7b08cc538ffcb585(iirfilt_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   iirfilt_cccf arg1 = (iirfilt_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -9871,7 +9871,7 @@ void _wrap_iirfilt_cccf_execute_block_liquid_24d78331e3228d7c(iirfilt_cccf_s *_s
 }
 
 
-intgo _wrap_iirfilt_cccf_get_length_liquid_24d78331e3228d7c(iirfilt_cccf_s *_swig_go_0) {
+intgo _wrap_IirfiltCccfGetLength_liquid_7b08cc538ffcb585(iirfilt_cccf_s *_swig_go_0) {
   iirfilt_cccf arg1 = (iirfilt_cccf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -9884,7 +9884,7 @@ intgo _wrap_iirfilt_cccf_get_length_liquid_24d78331e3228d7c(iirfilt_cccf_s *_swi
 }
 
 
-void _wrap_iirfilt_cccf_freqresponse_liquid_24d78331e3228d7c(iirfilt_cccf_s *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_IirfiltCccfFreqresponse_liquid_7b08cc538ffcb585(iirfilt_cccf_s *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
   iirfilt_cccf arg1 = (iirfilt_cccf) 0 ;
   float arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -9898,7 +9898,7 @@ void _wrap_iirfilt_cccf_freqresponse_liquid_24d78331e3228d7c(iirfilt_cccf_s *_sw
 }
 
 
-float _wrap_iirfilt_cccf_groupdelay_liquid_24d78331e3228d7c(iirfilt_cccf_s *_swig_go_0, float _swig_go_1) {
+float _wrap_IirfiltCccfGroupdelay_liquid_7b08cc538ffcb585(iirfilt_cccf_s *_swig_go_0, float _swig_go_1) {
   iirfilt_cccf arg1 = (iirfilt_cccf) 0 ;
   float arg2 ;
   float result;
@@ -9913,7 +9913,7 @@ float _wrap_iirfilt_cccf_groupdelay_liquid_24d78331e3228d7c(iirfilt_cccf_s *_swi
 }
 
 
-firpfb_rrrf_s *_wrap_firpfb_rrrf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+firpfb_rrrf_s *_wrap_FirpfbRrrfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   unsigned int arg1 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -9930,7 +9930,7 @@ firpfb_rrrf_s *_wrap_firpfb_rrrf_create_liquid_24d78331e3228d7c(intgo _swig_go_0
 }
 
 
-firpfb_rrrf_s *_wrap_firpfb_rrrf_create_kaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3) {
+firpfb_rrrf_s *_wrap_FirpfbRrrfCreateKaiser_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -9949,7 +9949,7 @@ firpfb_rrrf_s *_wrap_firpfb_rrrf_create_kaiser_liquid_24d78331e3228d7c(intgo _sw
 }
 
 
-firpfb_rrrf_s *_wrap_firpfb_rrrf_create_rnyquist_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4) {
+firpfb_rrrf_s *_wrap_FirpfbRrrfCreateRnyquist_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -9970,7 +9970,7 @@ firpfb_rrrf_s *_wrap_firpfb_rrrf_create_rnyquist_liquid_24d78331e3228d7c(intgo _
 }
 
 
-firpfb_rrrf_s *_wrap_firpfb_rrrf_create_drnyquist_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4) {
+firpfb_rrrf_s *_wrap_FirpfbRrrfCreateDrnyquist_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -9991,7 +9991,7 @@ firpfb_rrrf_s *_wrap_firpfb_rrrf_create_drnyquist_liquid_24d78331e3228d7c(intgo 
 }
 
 
-firpfb_rrrf_s *_wrap_firpfb_rrrf_recreate_liquid_24d78331e3228d7c(firpfb_rrrf_s *_swig_go_0, intgo _swig_go_1, float *_swig_go_2, intgo _swig_go_3) {
+firpfb_rrrf_s *_wrap_FirpfbRrrfRecreate_liquid_7b08cc538ffcb585(firpfb_rrrf_s *_swig_go_0, intgo _swig_go_1, float *_swig_go_2, intgo _swig_go_3) {
   firpfb_rrrf arg1 = (firpfb_rrrf) 0 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -10010,7 +10010,7 @@ firpfb_rrrf_s *_wrap_firpfb_rrrf_recreate_liquid_24d78331e3228d7c(firpfb_rrrf_s 
 }
 
 
-void _wrap_firpfb_rrrf_destroy_liquid_24d78331e3228d7c(firpfb_rrrf_s *_swig_go_0) {
+void _wrap_FirpfbRrrfDestroy_liquid_7b08cc538ffcb585(firpfb_rrrf_s *_swig_go_0) {
   firpfb_rrrf arg1 = (firpfb_rrrf) 0 ;
   
   arg1 = *(firpfb_rrrf *)&_swig_go_0; 
@@ -10020,7 +10020,7 @@ void _wrap_firpfb_rrrf_destroy_liquid_24d78331e3228d7c(firpfb_rrrf_s *_swig_go_0
 }
 
 
-void _wrap_firpfb_rrrf_print_liquid_24d78331e3228d7c(firpfb_rrrf_s *_swig_go_0) {
+void _wrap_FirpfbRrrfPrint_liquid_7b08cc538ffcb585(firpfb_rrrf_s *_swig_go_0) {
   firpfb_rrrf arg1 = (firpfb_rrrf) 0 ;
   
   arg1 = *(firpfb_rrrf *)&_swig_go_0; 
@@ -10030,7 +10030,7 @@ void _wrap_firpfb_rrrf_print_liquid_24d78331e3228d7c(firpfb_rrrf_s *_swig_go_0) 
 }
 
 
-void _wrap_firpfb_rrrf_set_scale_liquid_24d78331e3228d7c(firpfb_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_FirpfbRrrfSetScale_liquid_7b08cc538ffcb585(firpfb_rrrf_s *_swig_go_0, float _swig_go_1) {
   firpfb_rrrf arg1 = (firpfb_rrrf) 0 ;
   float arg2 ;
   
@@ -10042,7 +10042,7 @@ void _wrap_firpfb_rrrf_set_scale_liquid_24d78331e3228d7c(firpfb_rrrf_s *_swig_go
 }
 
 
-void _wrap_firpfb_rrrf_get_scale_liquid_24d78331e3228d7c(firpfb_rrrf_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_FirpfbRrrfGetScale_liquid_7b08cc538ffcb585(firpfb_rrrf_s *_swig_go_0, float *_swig_go_1) {
   firpfb_rrrf arg1 = (firpfb_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -10054,7 +10054,7 @@ void _wrap_firpfb_rrrf_get_scale_liquid_24d78331e3228d7c(firpfb_rrrf_s *_swig_go
 }
 
 
-void _wrap_firpfb_rrrf_reset_liquid_24d78331e3228d7c(firpfb_rrrf_s *_swig_go_0) {
+void _wrap_FirpfbRrrfReset_liquid_7b08cc538ffcb585(firpfb_rrrf_s *_swig_go_0) {
   firpfb_rrrf arg1 = (firpfb_rrrf) 0 ;
   
   arg1 = *(firpfb_rrrf *)&_swig_go_0; 
@@ -10064,7 +10064,7 @@ void _wrap_firpfb_rrrf_reset_liquid_24d78331e3228d7c(firpfb_rrrf_s *_swig_go_0) 
 }
 
 
-void _wrap_firpfb_rrrf_push_liquid_24d78331e3228d7c(firpfb_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_FirpfbRrrfPush_liquid_7b08cc538ffcb585(firpfb_rrrf_s *_swig_go_0, float _swig_go_1) {
   firpfb_rrrf arg1 = (firpfb_rrrf) 0 ;
   float arg2 ;
   
@@ -10076,7 +10076,7 @@ void _wrap_firpfb_rrrf_push_liquid_24d78331e3228d7c(firpfb_rrrf_s *_swig_go_0, f
 }
 
 
-void _wrap_firpfb_rrrf_execute_liquid_24d78331e3228d7c(firpfb_rrrf_s *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
+void _wrap_FirpfbRrrfExecute_liquid_7b08cc538ffcb585(firpfb_rrrf_s *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
   firpfb_rrrf arg1 = (firpfb_rrrf) 0 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -10090,7 +10090,7 @@ void _wrap_firpfb_rrrf_execute_liquid_24d78331e3228d7c(firpfb_rrrf_s *_swig_go_0
 }
 
 
-void _wrap_firpfb_rrrf_execute_block_liquid_24d78331e3228d7c(firpfb_rrrf_s *_swig_go_0, intgo _swig_go_1, float *_swig_go_2, intgo _swig_go_3, float *_swig_go_4) {
+void _wrap_FirpfbRrrfExecuteBlock_liquid_7b08cc538ffcb585(firpfb_rrrf_s *_swig_go_0, intgo _swig_go_1, float *_swig_go_2, intgo _swig_go_3, float *_swig_go_4) {
   firpfb_rrrf arg1 = (firpfb_rrrf) 0 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -10108,7 +10108,7 @@ void _wrap_firpfb_rrrf_execute_block_liquid_24d78331e3228d7c(firpfb_rrrf_s *_swi
 }
 
 
-firpfb_crcf_s *_wrap_firpfb_crcf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+firpfb_crcf_s *_wrap_FirpfbCrcfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   unsigned int arg1 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -10125,7 +10125,7 @@ firpfb_crcf_s *_wrap_firpfb_crcf_create_liquid_24d78331e3228d7c(intgo _swig_go_0
 }
 
 
-firpfb_crcf_s *_wrap_firpfb_crcf_create_kaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3) {
+firpfb_crcf_s *_wrap_FirpfbCrcfCreateKaiser_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -10144,7 +10144,7 @@ firpfb_crcf_s *_wrap_firpfb_crcf_create_kaiser_liquid_24d78331e3228d7c(intgo _sw
 }
 
 
-firpfb_crcf_s *_wrap_firpfb_crcf_create_rnyquist_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4) {
+firpfb_crcf_s *_wrap_FirpfbCrcfCreateRnyquist_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -10165,7 +10165,7 @@ firpfb_crcf_s *_wrap_firpfb_crcf_create_rnyquist_liquid_24d78331e3228d7c(intgo _
 }
 
 
-firpfb_crcf_s *_wrap_firpfb_crcf_create_drnyquist_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4) {
+firpfb_crcf_s *_wrap_FirpfbCrcfCreateDrnyquist_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -10186,7 +10186,7 @@ firpfb_crcf_s *_wrap_firpfb_crcf_create_drnyquist_liquid_24d78331e3228d7c(intgo 
 }
 
 
-firpfb_crcf_s *_wrap_firpfb_crcf_recreate_liquid_24d78331e3228d7c(firpfb_crcf_s *_swig_go_0, intgo _swig_go_1, float *_swig_go_2, intgo _swig_go_3) {
+firpfb_crcf_s *_wrap_FirpfbCrcfRecreate_liquid_7b08cc538ffcb585(firpfb_crcf_s *_swig_go_0, intgo _swig_go_1, float *_swig_go_2, intgo _swig_go_3) {
   firpfb_crcf arg1 = (firpfb_crcf) 0 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -10205,7 +10205,7 @@ firpfb_crcf_s *_wrap_firpfb_crcf_recreate_liquid_24d78331e3228d7c(firpfb_crcf_s 
 }
 
 
-void _wrap_firpfb_crcf_destroy_liquid_24d78331e3228d7c(firpfb_crcf_s *_swig_go_0) {
+void _wrap_FirpfbCrcfDestroy_liquid_7b08cc538ffcb585(firpfb_crcf_s *_swig_go_0) {
   firpfb_crcf arg1 = (firpfb_crcf) 0 ;
   
   arg1 = *(firpfb_crcf *)&_swig_go_0; 
@@ -10215,7 +10215,7 @@ void _wrap_firpfb_crcf_destroy_liquid_24d78331e3228d7c(firpfb_crcf_s *_swig_go_0
 }
 
 
-void _wrap_firpfb_crcf_print_liquid_24d78331e3228d7c(firpfb_crcf_s *_swig_go_0) {
+void _wrap_FirpfbCrcfPrint_liquid_7b08cc538ffcb585(firpfb_crcf_s *_swig_go_0) {
   firpfb_crcf arg1 = (firpfb_crcf) 0 ;
   
   arg1 = *(firpfb_crcf *)&_swig_go_0; 
@@ -10225,7 +10225,7 @@ void _wrap_firpfb_crcf_print_liquid_24d78331e3228d7c(firpfb_crcf_s *_swig_go_0) 
 }
 
 
-void _wrap_firpfb_crcf_set_scale_liquid_24d78331e3228d7c(firpfb_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_FirpfbCrcfSetScale_liquid_7b08cc538ffcb585(firpfb_crcf_s *_swig_go_0, float _swig_go_1) {
   firpfb_crcf arg1 = (firpfb_crcf) 0 ;
   float arg2 ;
   
@@ -10237,7 +10237,7 @@ void _wrap_firpfb_crcf_set_scale_liquid_24d78331e3228d7c(firpfb_crcf_s *_swig_go
 }
 
 
-void _wrap_firpfb_crcf_get_scale_liquid_24d78331e3228d7c(firpfb_crcf_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_FirpfbCrcfGetScale_liquid_7b08cc538ffcb585(firpfb_crcf_s *_swig_go_0, float *_swig_go_1) {
   firpfb_crcf arg1 = (firpfb_crcf) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -10249,7 +10249,7 @@ void _wrap_firpfb_crcf_get_scale_liquid_24d78331e3228d7c(firpfb_crcf_s *_swig_go
 }
 
 
-void _wrap_firpfb_crcf_reset_liquid_24d78331e3228d7c(firpfb_crcf_s *_swig_go_0) {
+void _wrap_FirpfbCrcfReset_liquid_7b08cc538ffcb585(firpfb_crcf_s *_swig_go_0) {
   firpfb_crcf arg1 = (firpfb_crcf) 0 ;
   
   arg1 = *(firpfb_crcf *)&_swig_go_0; 
@@ -10259,7 +10259,7 @@ void _wrap_firpfb_crcf_reset_liquid_24d78331e3228d7c(firpfb_crcf_s *_swig_go_0) 
 }
 
 
-void _wrap_firpfb_crcf_push_liquid_24d78331e3228d7c(firpfb_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_FirpfbCrcfPush_liquid_7b08cc538ffcb585(firpfb_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   firpfb_crcf arg1 = (firpfb_crcf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -10278,7 +10278,7 @@ void _wrap_firpfb_crcf_push_liquid_24d78331e3228d7c(firpfb_crcf_s *_swig_go_0, l
 }
 
 
-void _wrap_firpfb_crcf_execute_liquid_24d78331e3228d7c(firpfb_crcf_s *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_FirpfbCrcfExecute_liquid_7b08cc538ffcb585(firpfb_crcf_s *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
   firpfb_crcf arg1 = (firpfb_crcf) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -10292,7 +10292,7 @@ void _wrap_firpfb_crcf_execute_liquid_24d78331e3228d7c(firpfb_crcf_s *_swig_go_0
 }
 
 
-void _wrap_firpfb_crcf_execute_block_liquid_24d78331e3228d7c(firpfb_crcf_s *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3, liquid_float_complex *_swig_go_4) {
+void _wrap_FirpfbCrcfExecuteBlock_liquid_7b08cc538ffcb585(firpfb_crcf_s *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3, liquid_float_complex *_swig_go_4) {
   firpfb_crcf arg1 = (firpfb_crcf) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -10310,7 +10310,7 @@ void _wrap_firpfb_crcf_execute_block_liquid_24d78331e3228d7c(firpfb_crcf_s *_swi
 }
 
 
-firpfb_cccf_s *_wrap_firpfb_cccf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+firpfb_cccf_s *_wrap_FirpfbCccfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   unsigned int arg1 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -10327,7 +10327,7 @@ firpfb_cccf_s *_wrap_firpfb_cccf_create_liquid_24d78331e3228d7c(intgo _swig_go_0
 }
 
 
-firpfb_cccf_s *_wrap_firpfb_cccf_create_kaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3) {
+firpfb_cccf_s *_wrap_FirpfbCccfCreateKaiser_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -10346,7 +10346,7 @@ firpfb_cccf_s *_wrap_firpfb_cccf_create_kaiser_liquid_24d78331e3228d7c(intgo _sw
 }
 
 
-firpfb_cccf_s *_wrap_firpfb_cccf_create_rnyquist_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4) {
+firpfb_cccf_s *_wrap_FirpfbCccfCreateRnyquist_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -10367,7 +10367,7 @@ firpfb_cccf_s *_wrap_firpfb_cccf_create_rnyquist_liquid_24d78331e3228d7c(intgo _
 }
 
 
-firpfb_cccf_s *_wrap_firpfb_cccf_create_drnyquist_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4) {
+firpfb_cccf_s *_wrap_FirpfbCccfCreateDrnyquist_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -10388,7 +10388,7 @@ firpfb_cccf_s *_wrap_firpfb_cccf_create_drnyquist_liquid_24d78331e3228d7c(intgo 
 }
 
 
-firpfb_cccf_s *_wrap_firpfb_cccf_recreate_liquid_24d78331e3228d7c(firpfb_cccf_s *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3) {
+firpfb_cccf_s *_wrap_FirpfbCccfRecreate_liquid_7b08cc538ffcb585(firpfb_cccf_s *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3) {
   firpfb_cccf arg1 = (firpfb_cccf) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -10407,7 +10407,7 @@ firpfb_cccf_s *_wrap_firpfb_cccf_recreate_liquid_24d78331e3228d7c(firpfb_cccf_s 
 }
 
 
-void _wrap_firpfb_cccf_destroy_liquid_24d78331e3228d7c(firpfb_cccf_s *_swig_go_0) {
+void _wrap_FirpfbCccfDestroy_liquid_7b08cc538ffcb585(firpfb_cccf_s *_swig_go_0) {
   firpfb_cccf arg1 = (firpfb_cccf) 0 ;
   
   arg1 = *(firpfb_cccf *)&_swig_go_0; 
@@ -10417,7 +10417,7 @@ void _wrap_firpfb_cccf_destroy_liquid_24d78331e3228d7c(firpfb_cccf_s *_swig_go_0
 }
 
 
-void _wrap_firpfb_cccf_print_liquid_24d78331e3228d7c(firpfb_cccf_s *_swig_go_0) {
+void _wrap_FirpfbCccfPrint_liquid_7b08cc538ffcb585(firpfb_cccf_s *_swig_go_0) {
   firpfb_cccf arg1 = (firpfb_cccf) 0 ;
   
   arg1 = *(firpfb_cccf *)&_swig_go_0; 
@@ -10427,7 +10427,7 @@ void _wrap_firpfb_cccf_print_liquid_24d78331e3228d7c(firpfb_cccf_s *_swig_go_0) 
 }
 
 
-void _wrap_firpfb_cccf_set_scale_liquid_24d78331e3228d7c(firpfb_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_FirpfbCccfSetScale_liquid_7b08cc538ffcb585(firpfb_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   firpfb_cccf arg1 = (firpfb_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -10446,7 +10446,7 @@ void _wrap_firpfb_cccf_set_scale_liquid_24d78331e3228d7c(firpfb_cccf_s *_swig_go
 }
 
 
-void _wrap_firpfb_cccf_get_scale_liquid_24d78331e3228d7c(firpfb_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_FirpfbCccfGetScale_liquid_7b08cc538ffcb585(firpfb_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   firpfb_cccf arg1 = (firpfb_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -10458,7 +10458,7 @@ void _wrap_firpfb_cccf_get_scale_liquid_24d78331e3228d7c(firpfb_cccf_s *_swig_go
 }
 
 
-void _wrap_firpfb_cccf_reset_liquid_24d78331e3228d7c(firpfb_cccf_s *_swig_go_0) {
+void _wrap_FirpfbCccfReset_liquid_7b08cc538ffcb585(firpfb_cccf_s *_swig_go_0) {
   firpfb_cccf arg1 = (firpfb_cccf) 0 ;
   
   arg1 = *(firpfb_cccf *)&_swig_go_0; 
@@ -10468,7 +10468,7 @@ void _wrap_firpfb_cccf_reset_liquid_24d78331e3228d7c(firpfb_cccf_s *_swig_go_0) 
 }
 
 
-void _wrap_firpfb_cccf_push_liquid_24d78331e3228d7c(firpfb_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_FirpfbCccfPush_liquid_7b08cc538ffcb585(firpfb_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   firpfb_cccf arg1 = (firpfb_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -10487,7 +10487,7 @@ void _wrap_firpfb_cccf_push_liquid_24d78331e3228d7c(firpfb_cccf_s *_swig_go_0, l
 }
 
 
-void _wrap_firpfb_cccf_execute_liquid_24d78331e3228d7c(firpfb_cccf_s *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_FirpfbCccfExecute_liquid_7b08cc538ffcb585(firpfb_cccf_s *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
   firpfb_cccf arg1 = (firpfb_cccf) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -10501,7 +10501,7 @@ void _wrap_firpfb_cccf_execute_liquid_24d78331e3228d7c(firpfb_cccf_s *_swig_go_0
 }
 
 
-void _wrap_firpfb_cccf_execute_block_liquid_24d78331e3228d7c(firpfb_cccf_s *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3, liquid_float_complex *_swig_go_4) {
+void _wrap_FirpfbCccfExecuteBlock_liquid_7b08cc538ffcb585(firpfb_cccf_s *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3, liquid_float_complex *_swig_go_4) {
   firpfb_cccf arg1 = (firpfb_cccf) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -10519,7 +10519,7 @@ void _wrap_firpfb_cccf_execute_block_liquid_24d78331e3228d7c(firpfb_cccf_s *_swi
 }
 
 
-firinterp_rrrf_s *_wrap_firinterp_rrrf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+firinterp_rrrf_s *_wrap_FirinterpRrrfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   unsigned int arg1 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -10536,7 +10536,7 @@ firinterp_rrrf_s *_wrap_firinterp_rrrf_create_liquid_24d78331e3228d7c(intgo _swi
 }
 
 
-firinterp_rrrf_s *_wrap_firinterp_rrrf_create_kaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2) {
+firinterp_rrrf_s *_wrap_FirinterpRrrfCreateKaiser_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -10553,7 +10553,7 @@ firinterp_rrrf_s *_wrap_firinterp_rrrf_create_kaiser_liquid_24d78331e3228d7c(int
 }
 
 
-firinterp_rrrf_s *_wrap_firinterp_rrrf_create_prototype_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
+firinterp_rrrf_s *_wrap_FirinterpRrrfCreatePrototype_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -10574,7 +10574,7 @@ firinterp_rrrf_s *_wrap_firinterp_rrrf_create_prototype_liquid_24d78331e3228d7c(
 }
 
 
-void _wrap_firinterp_rrrf_destroy_liquid_24d78331e3228d7c(firinterp_rrrf_s *_swig_go_0) {
+void _wrap_FirinterpRrrfDestroy_liquid_7b08cc538ffcb585(firinterp_rrrf_s *_swig_go_0) {
   firinterp_rrrf arg1 = (firinterp_rrrf) 0 ;
   
   arg1 = *(firinterp_rrrf *)&_swig_go_0; 
@@ -10584,7 +10584,7 @@ void _wrap_firinterp_rrrf_destroy_liquid_24d78331e3228d7c(firinterp_rrrf_s *_swi
 }
 
 
-void _wrap_firinterp_rrrf_print_liquid_24d78331e3228d7c(firinterp_rrrf_s *_swig_go_0) {
+void _wrap_FirinterpRrrfPrint_liquid_7b08cc538ffcb585(firinterp_rrrf_s *_swig_go_0) {
   firinterp_rrrf arg1 = (firinterp_rrrf) 0 ;
   
   arg1 = *(firinterp_rrrf *)&_swig_go_0; 
@@ -10594,7 +10594,7 @@ void _wrap_firinterp_rrrf_print_liquid_24d78331e3228d7c(firinterp_rrrf_s *_swig_
 }
 
 
-void _wrap_firinterp_rrrf_reset_liquid_24d78331e3228d7c(firinterp_rrrf_s *_swig_go_0) {
+void _wrap_FirinterpRrrfReset_liquid_7b08cc538ffcb585(firinterp_rrrf_s *_swig_go_0) {
   firinterp_rrrf arg1 = (firinterp_rrrf) 0 ;
   
   arg1 = *(firinterp_rrrf *)&_swig_go_0; 
@@ -10604,7 +10604,7 @@ void _wrap_firinterp_rrrf_reset_liquid_24d78331e3228d7c(firinterp_rrrf_s *_swig_
 }
 
 
-void _wrap_firinterp_rrrf_set_scale_liquid_24d78331e3228d7c(firinterp_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_FirinterpRrrfSetScale_liquid_7b08cc538ffcb585(firinterp_rrrf_s *_swig_go_0, float _swig_go_1) {
   firinterp_rrrf arg1 = (firinterp_rrrf) 0 ;
   float arg2 ;
   
@@ -10616,7 +10616,7 @@ void _wrap_firinterp_rrrf_set_scale_liquid_24d78331e3228d7c(firinterp_rrrf_s *_s
 }
 
 
-void _wrap_firinterp_rrrf_get_scale_liquid_24d78331e3228d7c(firinterp_rrrf_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_FirinterpRrrfGetScale_liquid_7b08cc538ffcb585(firinterp_rrrf_s *_swig_go_0, float *_swig_go_1) {
   firinterp_rrrf arg1 = (firinterp_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -10628,7 +10628,7 @@ void _wrap_firinterp_rrrf_get_scale_liquid_24d78331e3228d7c(firinterp_rrrf_s *_s
 }
 
 
-void _wrap_firinterp_rrrf_execute_liquid_24d78331e3228d7c(firinterp_rrrf_s *_swig_go_0, float _swig_go_1, float *_swig_go_2) {
+void _wrap_FirinterpRrrfExecute_liquid_7b08cc538ffcb585(firinterp_rrrf_s *_swig_go_0, float _swig_go_1, float *_swig_go_2) {
   firinterp_rrrf arg1 = (firinterp_rrrf) 0 ;
   float arg2 ;
   float *arg3 = (float *) 0 ;
@@ -10642,7 +10642,7 @@ void _wrap_firinterp_rrrf_execute_liquid_24d78331e3228d7c(firinterp_rrrf_s *_swi
 }
 
 
-void _wrap_firinterp_rrrf_execute_block_liquid_24d78331e3228d7c(firinterp_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_FirinterpRrrfExecuteBlock_liquid_7b08cc538ffcb585(firinterp_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   firinterp_rrrf arg1 = (firinterp_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -10658,7 +10658,7 @@ void _wrap_firinterp_rrrf_execute_block_liquid_24d78331e3228d7c(firinterp_rrrf_s
 }
 
 
-firinterp_crcf_s *_wrap_firinterp_crcf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+firinterp_crcf_s *_wrap_FirinterpCrcfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   unsigned int arg1 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -10675,7 +10675,7 @@ firinterp_crcf_s *_wrap_firinterp_crcf_create_liquid_24d78331e3228d7c(intgo _swi
 }
 
 
-firinterp_crcf_s *_wrap_firinterp_crcf_create_kaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2) {
+firinterp_crcf_s *_wrap_FirinterpCrcfCreateKaiser_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -10692,7 +10692,7 @@ firinterp_crcf_s *_wrap_firinterp_crcf_create_kaiser_liquid_24d78331e3228d7c(int
 }
 
 
-firinterp_crcf_s *_wrap_firinterp_crcf_create_prototype_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
+firinterp_crcf_s *_wrap_FirinterpCrcfCreatePrototype_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -10713,7 +10713,7 @@ firinterp_crcf_s *_wrap_firinterp_crcf_create_prototype_liquid_24d78331e3228d7c(
 }
 
 
-void _wrap_firinterp_crcf_destroy_liquid_24d78331e3228d7c(firinterp_crcf_s *_swig_go_0) {
+void _wrap_FirinterpCrcfDestroy_liquid_7b08cc538ffcb585(firinterp_crcf_s *_swig_go_0) {
   firinterp_crcf arg1 = (firinterp_crcf) 0 ;
   
   arg1 = *(firinterp_crcf *)&_swig_go_0; 
@@ -10723,7 +10723,7 @@ void _wrap_firinterp_crcf_destroy_liquid_24d78331e3228d7c(firinterp_crcf_s *_swi
 }
 
 
-void _wrap_firinterp_crcf_print_liquid_24d78331e3228d7c(firinterp_crcf_s *_swig_go_0) {
+void _wrap_FirinterpCrcfPrint_liquid_7b08cc538ffcb585(firinterp_crcf_s *_swig_go_0) {
   firinterp_crcf arg1 = (firinterp_crcf) 0 ;
   
   arg1 = *(firinterp_crcf *)&_swig_go_0; 
@@ -10733,7 +10733,7 @@ void _wrap_firinterp_crcf_print_liquid_24d78331e3228d7c(firinterp_crcf_s *_swig_
 }
 
 
-void _wrap_firinterp_crcf_reset_liquid_24d78331e3228d7c(firinterp_crcf_s *_swig_go_0) {
+void _wrap_FirinterpCrcfReset_liquid_7b08cc538ffcb585(firinterp_crcf_s *_swig_go_0) {
   firinterp_crcf arg1 = (firinterp_crcf) 0 ;
   
   arg1 = *(firinterp_crcf *)&_swig_go_0; 
@@ -10743,7 +10743,7 @@ void _wrap_firinterp_crcf_reset_liquid_24d78331e3228d7c(firinterp_crcf_s *_swig_
 }
 
 
-void _wrap_firinterp_crcf_set_scale_liquid_24d78331e3228d7c(firinterp_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_FirinterpCrcfSetScale_liquid_7b08cc538ffcb585(firinterp_crcf_s *_swig_go_0, float _swig_go_1) {
   firinterp_crcf arg1 = (firinterp_crcf) 0 ;
   float arg2 ;
   
@@ -10755,7 +10755,7 @@ void _wrap_firinterp_crcf_set_scale_liquid_24d78331e3228d7c(firinterp_crcf_s *_s
 }
 
 
-void _wrap_firinterp_crcf_get_scale_liquid_24d78331e3228d7c(firinterp_crcf_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_FirinterpCrcfGetScale_liquid_7b08cc538ffcb585(firinterp_crcf_s *_swig_go_0, float *_swig_go_1) {
   firinterp_crcf arg1 = (firinterp_crcf) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -10767,7 +10767,7 @@ void _wrap_firinterp_crcf_get_scale_liquid_24d78331e3228d7c(firinterp_crcf_s *_s
 }
 
 
-void _wrap_firinterp_crcf_execute_liquid_24d78331e3228d7c(firinterp_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_FirinterpCrcfExecute_liquid_7b08cc538ffcb585(firinterp_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   firinterp_crcf arg1 = (firinterp_crcf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -10788,7 +10788,7 @@ void _wrap_firinterp_crcf_execute_liquid_24d78331e3228d7c(firinterp_crcf_s *_swi
 }
 
 
-void _wrap_firinterp_crcf_execute_block_liquid_24d78331e3228d7c(firinterp_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_FirinterpCrcfExecuteBlock_liquid_7b08cc538ffcb585(firinterp_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   firinterp_crcf arg1 = (firinterp_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -10804,7 +10804,7 @@ void _wrap_firinterp_crcf_execute_block_liquid_24d78331e3228d7c(firinterp_crcf_s
 }
 
 
-firinterp_cccf_s *_wrap_firinterp_cccf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+firinterp_cccf_s *_wrap_FirinterpCccfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   unsigned int arg1 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -10821,7 +10821,7 @@ firinterp_cccf_s *_wrap_firinterp_cccf_create_liquid_24d78331e3228d7c(intgo _swi
 }
 
 
-firinterp_cccf_s *_wrap_firinterp_cccf_create_kaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2) {
+firinterp_cccf_s *_wrap_FirinterpCccfCreateKaiser_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -10838,7 +10838,7 @@ firinterp_cccf_s *_wrap_firinterp_cccf_create_kaiser_liquid_24d78331e3228d7c(int
 }
 
 
-firinterp_cccf_s *_wrap_firinterp_cccf_create_prototype_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
+firinterp_cccf_s *_wrap_FirinterpCccfCreatePrototype_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -10859,7 +10859,7 @@ firinterp_cccf_s *_wrap_firinterp_cccf_create_prototype_liquid_24d78331e3228d7c(
 }
 
 
-void _wrap_firinterp_cccf_destroy_liquid_24d78331e3228d7c(firinterp_cccf_s *_swig_go_0) {
+void _wrap_FirinterpCccfDestroy_liquid_7b08cc538ffcb585(firinterp_cccf_s *_swig_go_0) {
   firinterp_cccf arg1 = (firinterp_cccf) 0 ;
   
   arg1 = *(firinterp_cccf *)&_swig_go_0; 
@@ -10869,7 +10869,7 @@ void _wrap_firinterp_cccf_destroy_liquid_24d78331e3228d7c(firinterp_cccf_s *_swi
 }
 
 
-void _wrap_firinterp_cccf_print_liquid_24d78331e3228d7c(firinterp_cccf_s *_swig_go_0) {
+void _wrap_FirinterpCccfPrint_liquid_7b08cc538ffcb585(firinterp_cccf_s *_swig_go_0) {
   firinterp_cccf arg1 = (firinterp_cccf) 0 ;
   
   arg1 = *(firinterp_cccf *)&_swig_go_0; 
@@ -10879,7 +10879,7 @@ void _wrap_firinterp_cccf_print_liquid_24d78331e3228d7c(firinterp_cccf_s *_swig_
 }
 
 
-void _wrap_firinterp_cccf_reset_liquid_24d78331e3228d7c(firinterp_cccf_s *_swig_go_0) {
+void _wrap_FirinterpCccfReset_liquid_7b08cc538ffcb585(firinterp_cccf_s *_swig_go_0) {
   firinterp_cccf arg1 = (firinterp_cccf) 0 ;
   
   arg1 = *(firinterp_cccf *)&_swig_go_0; 
@@ -10889,7 +10889,7 @@ void _wrap_firinterp_cccf_reset_liquid_24d78331e3228d7c(firinterp_cccf_s *_swig_
 }
 
 
-void _wrap_firinterp_cccf_set_scale_liquid_24d78331e3228d7c(firinterp_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_FirinterpCccfSetScale_liquid_7b08cc538ffcb585(firinterp_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   firinterp_cccf arg1 = (firinterp_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -10908,7 +10908,7 @@ void _wrap_firinterp_cccf_set_scale_liquid_24d78331e3228d7c(firinterp_cccf_s *_s
 }
 
 
-void _wrap_firinterp_cccf_get_scale_liquid_24d78331e3228d7c(firinterp_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_FirinterpCccfGetScale_liquid_7b08cc538ffcb585(firinterp_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   firinterp_cccf arg1 = (firinterp_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -10920,7 +10920,7 @@ void _wrap_firinterp_cccf_get_scale_liquid_24d78331e3228d7c(firinterp_cccf_s *_s
 }
 
 
-void _wrap_firinterp_cccf_execute_liquid_24d78331e3228d7c(firinterp_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_FirinterpCccfExecute_liquid_7b08cc538ffcb585(firinterp_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   firinterp_cccf arg1 = (firinterp_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -10941,7 +10941,7 @@ void _wrap_firinterp_cccf_execute_liquid_24d78331e3228d7c(firinterp_cccf_s *_swi
 }
 
 
-void _wrap_firinterp_cccf_execute_block_liquid_24d78331e3228d7c(firinterp_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_FirinterpCccfExecuteBlock_liquid_7b08cc538ffcb585(firinterp_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   firinterp_cccf arg1 = (firinterp_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -10957,7 +10957,7 @@ void _wrap_firinterp_cccf_execute_block_liquid_24d78331e3228d7c(firinterp_cccf_s
 }
 
 
-iirinterp_rrrf_s *_wrap_iirinterp_rrrf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3, intgo _swig_go_4) {
+iirinterp_rrrf_s *_wrap_IirinterpRrrfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3, intgo _swig_go_4) {
   unsigned int arg1 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -10978,7 +10978,7 @@ iirinterp_rrrf_s *_wrap_iirinterp_rrrf_create_liquid_24d78331e3228d7c(intgo _swi
 }
 
 
-iirinterp_rrrf_s *_wrap_iirinterp_rrrf_create_default_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+iirinterp_rrrf_s *_wrap_IirinterpRrrfCreateDefault_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   iirinterp_rrrf result;
@@ -10993,7 +10993,7 @@ iirinterp_rrrf_s *_wrap_iirinterp_rrrf_create_default_liquid_24d78331e3228d7c(in
 }
 
 
-iirinterp_rrrf_s *_wrap_iirinterp_rrrf_create_prototype_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, float _swig_go_5, float _swig_go_6, float _swig_go_7, float _swig_go_8) {
+iirinterp_rrrf_s *_wrap_IirinterpRrrfCreatePrototype_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, float _swig_go_5, float _swig_go_6, float _swig_go_7, float _swig_go_8) {
   unsigned int arg1 ;
   liquid_iirdes_filtertype arg2 ;
   liquid_iirdes_bandtype arg3 ;
@@ -11022,7 +11022,7 @@ iirinterp_rrrf_s *_wrap_iirinterp_rrrf_create_prototype_liquid_24d78331e3228d7c(
 }
 
 
-void _wrap_iirinterp_rrrf_destroy_liquid_24d78331e3228d7c(iirinterp_rrrf_s *_swig_go_0) {
+void _wrap_IirinterpRrrfDestroy_liquid_7b08cc538ffcb585(iirinterp_rrrf_s *_swig_go_0) {
   iirinterp_rrrf arg1 = (iirinterp_rrrf) 0 ;
   
   arg1 = *(iirinterp_rrrf *)&_swig_go_0; 
@@ -11032,7 +11032,7 @@ void _wrap_iirinterp_rrrf_destroy_liquid_24d78331e3228d7c(iirinterp_rrrf_s *_swi
 }
 
 
-void _wrap_iirinterp_rrrf_print_liquid_24d78331e3228d7c(iirinterp_rrrf_s *_swig_go_0) {
+void _wrap_IirinterpRrrfPrint_liquid_7b08cc538ffcb585(iirinterp_rrrf_s *_swig_go_0) {
   iirinterp_rrrf arg1 = (iirinterp_rrrf) 0 ;
   
   arg1 = *(iirinterp_rrrf *)&_swig_go_0; 
@@ -11042,7 +11042,7 @@ void _wrap_iirinterp_rrrf_print_liquid_24d78331e3228d7c(iirinterp_rrrf_s *_swig_
 }
 
 
-void _wrap_iirinterp_rrrf_reset_liquid_24d78331e3228d7c(iirinterp_rrrf_s *_swig_go_0) {
+void _wrap_IirinterpRrrfReset_liquid_7b08cc538ffcb585(iirinterp_rrrf_s *_swig_go_0) {
   iirinterp_rrrf arg1 = (iirinterp_rrrf) 0 ;
   
   arg1 = *(iirinterp_rrrf *)&_swig_go_0; 
@@ -11052,7 +11052,7 @@ void _wrap_iirinterp_rrrf_reset_liquid_24d78331e3228d7c(iirinterp_rrrf_s *_swig_
 }
 
 
-void _wrap_iirinterp_rrrf_execute_liquid_24d78331e3228d7c(iirinterp_rrrf_s *_swig_go_0, float _swig_go_1, float *_swig_go_2) {
+void _wrap_IirinterpRrrfExecute_liquid_7b08cc538ffcb585(iirinterp_rrrf_s *_swig_go_0, float _swig_go_1, float *_swig_go_2) {
   iirinterp_rrrf arg1 = (iirinterp_rrrf) 0 ;
   float arg2 ;
   float *arg3 = (float *) 0 ;
@@ -11066,7 +11066,7 @@ void _wrap_iirinterp_rrrf_execute_liquid_24d78331e3228d7c(iirinterp_rrrf_s *_swi
 }
 
 
-void _wrap_iirinterp_rrrf_execute_block_liquid_24d78331e3228d7c(iirinterp_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_IirinterpRrrfExecuteBlock_liquid_7b08cc538ffcb585(iirinterp_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   iirinterp_rrrf arg1 = (iirinterp_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -11082,7 +11082,7 @@ void _wrap_iirinterp_rrrf_execute_block_liquid_24d78331e3228d7c(iirinterp_rrrf_s
 }
 
 
-float _wrap_iirinterp_rrrf_groupdelay_liquid_24d78331e3228d7c(iirinterp_rrrf_s *_swig_go_0, float _swig_go_1) {
+float _wrap_IirinterpRrrfGroupdelay_liquid_7b08cc538ffcb585(iirinterp_rrrf_s *_swig_go_0, float _swig_go_1) {
   iirinterp_rrrf arg1 = (iirinterp_rrrf) 0 ;
   float arg2 ;
   float result;
@@ -11097,7 +11097,7 @@ float _wrap_iirinterp_rrrf_groupdelay_liquid_24d78331e3228d7c(iirinterp_rrrf_s *
 }
 
 
-iirinterp_crcf_s *_wrap_iirinterp_crcf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3, intgo _swig_go_4) {
+iirinterp_crcf_s *_wrap_IirinterpCrcfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3, intgo _swig_go_4) {
   unsigned int arg1 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -11118,7 +11118,7 @@ iirinterp_crcf_s *_wrap_iirinterp_crcf_create_liquid_24d78331e3228d7c(intgo _swi
 }
 
 
-iirinterp_crcf_s *_wrap_iirinterp_crcf_create_default_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+iirinterp_crcf_s *_wrap_IirinterpCrcfCreateDefault_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   iirinterp_crcf result;
@@ -11133,7 +11133,7 @@ iirinterp_crcf_s *_wrap_iirinterp_crcf_create_default_liquid_24d78331e3228d7c(in
 }
 
 
-iirinterp_crcf_s *_wrap_iirinterp_crcf_create_prototype_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, float _swig_go_5, float _swig_go_6, float _swig_go_7, float _swig_go_8) {
+iirinterp_crcf_s *_wrap_IirinterpCrcfCreatePrototype_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, float _swig_go_5, float _swig_go_6, float _swig_go_7, float _swig_go_8) {
   unsigned int arg1 ;
   liquid_iirdes_filtertype arg2 ;
   liquid_iirdes_bandtype arg3 ;
@@ -11162,7 +11162,7 @@ iirinterp_crcf_s *_wrap_iirinterp_crcf_create_prototype_liquid_24d78331e3228d7c(
 }
 
 
-void _wrap_iirinterp_crcf_destroy_liquid_24d78331e3228d7c(iirinterp_crcf_s *_swig_go_0) {
+void _wrap_IirinterpCrcfDestroy_liquid_7b08cc538ffcb585(iirinterp_crcf_s *_swig_go_0) {
   iirinterp_crcf arg1 = (iirinterp_crcf) 0 ;
   
   arg1 = *(iirinterp_crcf *)&_swig_go_0; 
@@ -11172,7 +11172,7 @@ void _wrap_iirinterp_crcf_destroy_liquid_24d78331e3228d7c(iirinterp_crcf_s *_swi
 }
 
 
-void _wrap_iirinterp_crcf_print_liquid_24d78331e3228d7c(iirinterp_crcf_s *_swig_go_0) {
+void _wrap_IirinterpCrcfPrint_liquid_7b08cc538ffcb585(iirinterp_crcf_s *_swig_go_0) {
   iirinterp_crcf arg1 = (iirinterp_crcf) 0 ;
   
   arg1 = *(iirinterp_crcf *)&_swig_go_0; 
@@ -11182,7 +11182,7 @@ void _wrap_iirinterp_crcf_print_liquid_24d78331e3228d7c(iirinterp_crcf_s *_swig_
 }
 
 
-void _wrap_iirinterp_crcf_reset_liquid_24d78331e3228d7c(iirinterp_crcf_s *_swig_go_0) {
+void _wrap_IirinterpCrcfReset_liquid_7b08cc538ffcb585(iirinterp_crcf_s *_swig_go_0) {
   iirinterp_crcf arg1 = (iirinterp_crcf) 0 ;
   
   arg1 = *(iirinterp_crcf *)&_swig_go_0; 
@@ -11192,7 +11192,7 @@ void _wrap_iirinterp_crcf_reset_liquid_24d78331e3228d7c(iirinterp_crcf_s *_swig_
 }
 
 
-void _wrap_iirinterp_crcf_execute_liquid_24d78331e3228d7c(iirinterp_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_IirinterpCrcfExecute_liquid_7b08cc538ffcb585(iirinterp_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   iirinterp_crcf arg1 = (iirinterp_crcf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -11213,7 +11213,7 @@ void _wrap_iirinterp_crcf_execute_liquid_24d78331e3228d7c(iirinterp_crcf_s *_swi
 }
 
 
-void _wrap_iirinterp_crcf_execute_block_liquid_24d78331e3228d7c(iirinterp_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_IirinterpCrcfExecuteBlock_liquid_7b08cc538ffcb585(iirinterp_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   iirinterp_crcf arg1 = (iirinterp_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -11229,7 +11229,7 @@ void _wrap_iirinterp_crcf_execute_block_liquid_24d78331e3228d7c(iirinterp_crcf_s
 }
 
 
-float _wrap_iirinterp_crcf_groupdelay_liquid_24d78331e3228d7c(iirinterp_crcf_s *_swig_go_0, float _swig_go_1) {
+float _wrap_IirinterpCrcfGroupdelay_liquid_7b08cc538ffcb585(iirinterp_crcf_s *_swig_go_0, float _swig_go_1) {
   iirinterp_crcf arg1 = (iirinterp_crcf) 0 ;
   float arg2 ;
   float result;
@@ -11244,7 +11244,7 @@ float _wrap_iirinterp_crcf_groupdelay_liquid_24d78331e3228d7c(iirinterp_crcf_s *
 }
 
 
-iirinterp_cccf_s *_wrap_iirinterp_cccf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, intgo _swig_go_4) {
+iirinterp_cccf_s *_wrap_IirinterpCccfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, intgo _swig_go_4) {
   unsigned int arg1 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -11265,7 +11265,7 @@ iirinterp_cccf_s *_wrap_iirinterp_cccf_create_liquid_24d78331e3228d7c(intgo _swi
 }
 
 
-iirinterp_cccf_s *_wrap_iirinterp_cccf_create_default_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+iirinterp_cccf_s *_wrap_IirinterpCccfCreateDefault_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   iirinterp_cccf result;
@@ -11280,7 +11280,7 @@ iirinterp_cccf_s *_wrap_iirinterp_cccf_create_default_liquid_24d78331e3228d7c(in
 }
 
 
-iirinterp_cccf_s *_wrap_iirinterp_cccf_create_prototype_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, float _swig_go_5, float _swig_go_6, float _swig_go_7, float _swig_go_8) {
+iirinterp_cccf_s *_wrap_IirinterpCccfCreatePrototype_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, float _swig_go_5, float _swig_go_6, float _swig_go_7, float _swig_go_8) {
   unsigned int arg1 ;
   liquid_iirdes_filtertype arg2 ;
   liquid_iirdes_bandtype arg3 ;
@@ -11309,7 +11309,7 @@ iirinterp_cccf_s *_wrap_iirinterp_cccf_create_prototype_liquid_24d78331e3228d7c(
 }
 
 
-void _wrap_iirinterp_cccf_destroy_liquid_24d78331e3228d7c(iirinterp_cccf_s *_swig_go_0) {
+void _wrap_IirinterpCccfDestroy_liquid_7b08cc538ffcb585(iirinterp_cccf_s *_swig_go_0) {
   iirinterp_cccf arg1 = (iirinterp_cccf) 0 ;
   
   arg1 = *(iirinterp_cccf *)&_swig_go_0; 
@@ -11319,7 +11319,7 @@ void _wrap_iirinterp_cccf_destroy_liquid_24d78331e3228d7c(iirinterp_cccf_s *_swi
 }
 
 
-void _wrap_iirinterp_cccf_print_liquid_24d78331e3228d7c(iirinterp_cccf_s *_swig_go_0) {
+void _wrap_IirinterpCccfPrint_liquid_7b08cc538ffcb585(iirinterp_cccf_s *_swig_go_0) {
   iirinterp_cccf arg1 = (iirinterp_cccf) 0 ;
   
   arg1 = *(iirinterp_cccf *)&_swig_go_0; 
@@ -11329,7 +11329,7 @@ void _wrap_iirinterp_cccf_print_liquid_24d78331e3228d7c(iirinterp_cccf_s *_swig_
 }
 
 
-void _wrap_iirinterp_cccf_reset_liquid_24d78331e3228d7c(iirinterp_cccf_s *_swig_go_0) {
+void _wrap_IirinterpCccfReset_liquid_7b08cc538ffcb585(iirinterp_cccf_s *_swig_go_0) {
   iirinterp_cccf arg1 = (iirinterp_cccf) 0 ;
   
   arg1 = *(iirinterp_cccf *)&_swig_go_0; 
@@ -11339,7 +11339,7 @@ void _wrap_iirinterp_cccf_reset_liquid_24d78331e3228d7c(iirinterp_cccf_s *_swig_
 }
 
 
-void _wrap_iirinterp_cccf_execute_liquid_24d78331e3228d7c(iirinterp_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_IirinterpCccfExecute_liquid_7b08cc538ffcb585(iirinterp_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   iirinterp_cccf arg1 = (iirinterp_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -11360,7 +11360,7 @@ void _wrap_iirinterp_cccf_execute_liquid_24d78331e3228d7c(iirinterp_cccf_s *_swi
 }
 
 
-void _wrap_iirinterp_cccf_execute_block_liquid_24d78331e3228d7c(iirinterp_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_IirinterpCccfExecuteBlock_liquid_7b08cc538ffcb585(iirinterp_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   iirinterp_cccf arg1 = (iirinterp_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -11376,7 +11376,7 @@ void _wrap_iirinterp_cccf_execute_block_liquid_24d78331e3228d7c(iirinterp_cccf_s
 }
 
 
-float _wrap_iirinterp_cccf_groupdelay_liquid_24d78331e3228d7c(iirinterp_cccf_s *_swig_go_0, float _swig_go_1) {
+float _wrap_IirinterpCccfGroupdelay_liquid_7b08cc538ffcb585(iirinterp_cccf_s *_swig_go_0, float _swig_go_1) {
   iirinterp_cccf arg1 = (iirinterp_cccf) 0 ;
   float arg2 ;
   float result;
@@ -11391,7 +11391,7 @@ float _wrap_iirinterp_cccf_groupdelay_liquid_24d78331e3228d7c(iirinterp_cccf_s *
 }
 
 
-firdecim_rrrf_s *_wrap_firdecim_rrrf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+firdecim_rrrf_s *_wrap_FirdecimRrrfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   unsigned int arg1 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -11408,7 +11408,7 @@ firdecim_rrrf_s *_wrap_firdecim_rrrf_create_liquid_24d78331e3228d7c(intgo _swig_
 }
 
 
-firdecim_rrrf_s *_wrap_firdecim_rrrf_create_kaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2) {
+firdecim_rrrf_s *_wrap_FirdecimRrrfCreateKaiser_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -11425,7 +11425,7 @@ firdecim_rrrf_s *_wrap_firdecim_rrrf_create_kaiser_liquid_24d78331e3228d7c(intgo
 }
 
 
-firdecim_rrrf_s *_wrap_firdecim_rrrf_create_prototype_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
+firdecim_rrrf_s *_wrap_FirdecimRrrfCreatePrototype_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -11446,7 +11446,7 @@ firdecim_rrrf_s *_wrap_firdecim_rrrf_create_prototype_liquid_24d78331e3228d7c(in
 }
 
 
-void _wrap_firdecim_rrrf_destroy_liquid_24d78331e3228d7c(firdecim_rrrf_s *_swig_go_0) {
+void _wrap_FirdecimRrrfDestroy_liquid_7b08cc538ffcb585(firdecim_rrrf_s *_swig_go_0) {
   firdecim_rrrf arg1 = (firdecim_rrrf) 0 ;
   
   arg1 = *(firdecim_rrrf *)&_swig_go_0; 
@@ -11456,7 +11456,7 @@ void _wrap_firdecim_rrrf_destroy_liquid_24d78331e3228d7c(firdecim_rrrf_s *_swig_
 }
 
 
-void _wrap_firdecim_rrrf_print_liquid_24d78331e3228d7c(firdecim_rrrf_s *_swig_go_0) {
+void _wrap_FirdecimRrrfPrint_liquid_7b08cc538ffcb585(firdecim_rrrf_s *_swig_go_0) {
   firdecim_rrrf arg1 = (firdecim_rrrf) 0 ;
   
   arg1 = *(firdecim_rrrf *)&_swig_go_0; 
@@ -11466,7 +11466,7 @@ void _wrap_firdecim_rrrf_print_liquid_24d78331e3228d7c(firdecim_rrrf_s *_swig_go
 }
 
 
-void _wrap_firdecim_rrrf_reset_liquid_24d78331e3228d7c(firdecim_rrrf_s *_swig_go_0) {
+void _wrap_FirdecimRrrfReset_liquid_7b08cc538ffcb585(firdecim_rrrf_s *_swig_go_0) {
   firdecim_rrrf arg1 = (firdecim_rrrf) 0 ;
   
   arg1 = *(firdecim_rrrf *)&_swig_go_0; 
@@ -11476,7 +11476,7 @@ void _wrap_firdecim_rrrf_reset_liquid_24d78331e3228d7c(firdecim_rrrf_s *_swig_go
 }
 
 
-void _wrap_firdecim_rrrf_set_scale_liquid_24d78331e3228d7c(firdecim_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_FirdecimRrrfSetScale_liquid_7b08cc538ffcb585(firdecim_rrrf_s *_swig_go_0, float _swig_go_1) {
   firdecim_rrrf arg1 = (firdecim_rrrf) 0 ;
   float arg2 ;
   
@@ -11488,7 +11488,7 @@ void _wrap_firdecim_rrrf_set_scale_liquid_24d78331e3228d7c(firdecim_rrrf_s *_swi
 }
 
 
-void _wrap_firdecim_rrrf_get_scale_liquid_24d78331e3228d7c(firdecim_rrrf_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_FirdecimRrrfGetScale_liquid_7b08cc538ffcb585(firdecim_rrrf_s *_swig_go_0, float *_swig_go_1) {
   firdecim_rrrf arg1 = (firdecim_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -11500,7 +11500,7 @@ void _wrap_firdecim_rrrf_get_scale_liquid_24d78331e3228d7c(firdecim_rrrf_s *_swi
 }
 
 
-void _wrap_firdecim_rrrf_execute_liquid_24d78331e3228d7c(firdecim_rrrf_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2) {
+void _wrap_FirdecimRrrfExecute_liquid_7b08cc538ffcb585(firdecim_rrrf_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2) {
   firdecim_rrrf arg1 = (firdecim_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -11514,7 +11514,7 @@ void _wrap_firdecim_rrrf_execute_liquid_24d78331e3228d7c(firdecim_rrrf_s *_swig_
 }
 
 
-void _wrap_firdecim_rrrf_execute_block_liquid_24d78331e3228d7c(firdecim_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_FirdecimRrrfExecuteBlock_liquid_7b08cc538ffcb585(firdecim_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   firdecim_rrrf arg1 = (firdecim_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -11530,7 +11530,7 @@ void _wrap_firdecim_rrrf_execute_block_liquid_24d78331e3228d7c(firdecim_rrrf_s *
 }
 
 
-firdecim_crcf_s *_wrap_firdecim_crcf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+firdecim_crcf_s *_wrap_FirdecimCrcfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   unsigned int arg1 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -11547,7 +11547,7 @@ firdecim_crcf_s *_wrap_firdecim_crcf_create_liquid_24d78331e3228d7c(intgo _swig_
 }
 
 
-firdecim_crcf_s *_wrap_firdecim_crcf_create_kaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2) {
+firdecim_crcf_s *_wrap_FirdecimCrcfCreateKaiser_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -11564,7 +11564,7 @@ firdecim_crcf_s *_wrap_firdecim_crcf_create_kaiser_liquid_24d78331e3228d7c(intgo
 }
 
 
-firdecim_crcf_s *_wrap_firdecim_crcf_create_prototype_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
+firdecim_crcf_s *_wrap_FirdecimCrcfCreatePrototype_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -11585,7 +11585,7 @@ firdecim_crcf_s *_wrap_firdecim_crcf_create_prototype_liquid_24d78331e3228d7c(in
 }
 
 
-void _wrap_firdecim_crcf_destroy_liquid_24d78331e3228d7c(firdecim_crcf_s *_swig_go_0) {
+void _wrap_FirdecimCrcfDestroy_liquid_7b08cc538ffcb585(firdecim_crcf_s *_swig_go_0) {
   firdecim_crcf arg1 = (firdecim_crcf) 0 ;
   
   arg1 = *(firdecim_crcf *)&_swig_go_0; 
@@ -11595,7 +11595,7 @@ void _wrap_firdecim_crcf_destroy_liquid_24d78331e3228d7c(firdecim_crcf_s *_swig_
 }
 
 
-void _wrap_firdecim_crcf_print_liquid_24d78331e3228d7c(firdecim_crcf_s *_swig_go_0) {
+void _wrap_FirdecimCrcfPrint_liquid_7b08cc538ffcb585(firdecim_crcf_s *_swig_go_0) {
   firdecim_crcf arg1 = (firdecim_crcf) 0 ;
   
   arg1 = *(firdecim_crcf *)&_swig_go_0; 
@@ -11605,7 +11605,7 @@ void _wrap_firdecim_crcf_print_liquid_24d78331e3228d7c(firdecim_crcf_s *_swig_go
 }
 
 
-void _wrap_firdecim_crcf_reset_liquid_24d78331e3228d7c(firdecim_crcf_s *_swig_go_0) {
+void _wrap_FirdecimCrcfReset_liquid_7b08cc538ffcb585(firdecim_crcf_s *_swig_go_0) {
   firdecim_crcf arg1 = (firdecim_crcf) 0 ;
   
   arg1 = *(firdecim_crcf *)&_swig_go_0; 
@@ -11615,7 +11615,7 @@ void _wrap_firdecim_crcf_reset_liquid_24d78331e3228d7c(firdecim_crcf_s *_swig_go
 }
 
 
-void _wrap_firdecim_crcf_set_scale_liquid_24d78331e3228d7c(firdecim_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_FirdecimCrcfSetScale_liquid_7b08cc538ffcb585(firdecim_crcf_s *_swig_go_0, float _swig_go_1) {
   firdecim_crcf arg1 = (firdecim_crcf) 0 ;
   float arg2 ;
   
@@ -11627,7 +11627,7 @@ void _wrap_firdecim_crcf_set_scale_liquid_24d78331e3228d7c(firdecim_crcf_s *_swi
 }
 
 
-void _wrap_firdecim_crcf_get_scale_liquid_24d78331e3228d7c(firdecim_crcf_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_FirdecimCrcfGetScale_liquid_7b08cc538ffcb585(firdecim_crcf_s *_swig_go_0, float *_swig_go_1) {
   firdecim_crcf arg1 = (firdecim_crcf) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -11639,7 +11639,7 @@ void _wrap_firdecim_crcf_get_scale_liquid_24d78331e3228d7c(firdecim_crcf_s *_swi
 }
 
 
-void _wrap_firdecim_crcf_execute_liquid_24d78331e3228d7c(firdecim_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_FirdecimCrcfExecute_liquid_7b08cc538ffcb585(firdecim_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   firdecim_crcf arg1 = (firdecim_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -11653,7 +11653,7 @@ void _wrap_firdecim_crcf_execute_liquid_24d78331e3228d7c(firdecim_crcf_s *_swig_
 }
 
 
-void _wrap_firdecim_crcf_execute_block_liquid_24d78331e3228d7c(firdecim_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_FirdecimCrcfExecuteBlock_liquid_7b08cc538ffcb585(firdecim_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   firdecim_crcf arg1 = (firdecim_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -11669,7 +11669,7 @@ void _wrap_firdecim_crcf_execute_block_liquid_24d78331e3228d7c(firdecim_crcf_s *
 }
 
 
-firdecim_cccf_s *_wrap_firdecim_cccf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+firdecim_cccf_s *_wrap_FirdecimCccfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   unsigned int arg1 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -11686,7 +11686,7 @@ firdecim_cccf_s *_wrap_firdecim_cccf_create_liquid_24d78331e3228d7c(intgo _swig_
 }
 
 
-firdecim_cccf_s *_wrap_firdecim_cccf_create_kaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2) {
+firdecim_cccf_s *_wrap_FirdecimCccfCreateKaiser_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -11703,7 +11703,7 @@ firdecim_cccf_s *_wrap_firdecim_cccf_create_kaiser_liquid_24d78331e3228d7c(intgo
 }
 
 
-firdecim_cccf_s *_wrap_firdecim_cccf_create_prototype_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
+firdecim_cccf_s *_wrap_FirdecimCccfCreatePrototype_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -11724,7 +11724,7 @@ firdecim_cccf_s *_wrap_firdecim_cccf_create_prototype_liquid_24d78331e3228d7c(in
 }
 
 
-void _wrap_firdecim_cccf_destroy_liquid_24d78331e3228d7c(firdecim_cccf_s *_swig_go_0) {
+void _wrap_FirdecimCccfDestroy_liquid_7b08cc538ffcb585(firdecim_cccf_s *_swig_go_0) {
   firdecim_cccf arg1 = (firdecim_cccf) 0 ;
   
   arg1 = *(firdecim_cccf *)&_swig_go_0; 
@@ -11734,7 +11734,7 @@ void _wrap_firdecim_cccf_destroy_liquid_24d78331e3228d7c(firdecim_cccf_s *_swig_
 }
 
 
-void _wrap_firdecim_cccf_print_liquid_24d78331e3228d7c(firdecim_cccf_s *_swig_go_0) {
+void _wrap_FirdecimCccfPrint_liquid_7b08cc538ffcb585(firdecim_cccf_s *_swig_go_0) {
   firdecim_cccf arg1 = (firdecim_cccf) 0 ;
   
   arg1 = *(firdecim_cccf *)&_swig_go_0; 
@@ -11744,7 +11744,7 @@ void _wrap_firdecim_cccf_print_liquid_24d78331e3228d7c(firdecim_cccf_s *_swig_go
 }
 
 
-void _wrap_firdecim_cccf_reset_liquid_24d78331e3228d7c(firdecim_cccf_s *_swig_go_0) {
+void _wrap_FirdecimCccfReset_liquid_7b08cc538ffcb585(firdecim_cccf_s *_swig_go_0) {
   firdecim_cccf arg1 = (firdecim_cccf) 0 ;
   
   arg1 = *(firdecim_cccf *)&_swig_go_0; 
@@ -11754,7 +11754,7 @@ void _wrap_firdecim_cccf_reset_liquid_24d78331e3228d7c(firdecim_cccf_s *_swig_go
 }
 
 
-void _wrap_firdecim_cccf_set_scale_liquid_24d78331e3228d7c(firdecim_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_FirdecimCccfSetScale_liquid_7b08cc538ffcb585(firdecim_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   firdecim_cccf arg1 = (firdecim_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -11773,7 +11773,7 @@ void _wrap_firdecim_cccf_set_scale_liquid_24d78331e3228d7c(firdecim_cccf_s *_swi
 }
 
 
-void _wrap_firdecim_cccf_get_scale_liquid_24d78331e3228d7c(firdecim_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_FirdecimCccfGetScale_liquid_7b08cc538ffcb585(firdecim_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   firdecim_cccf arg1 = (firdecim_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -11785,7 +11785,7 @@ void _wrap_firdecim_cccf_get_scale_liquid_24d78331e3228d7c(firdecim_cccf_s *_swi
 }
 
 
-void _wrap_firdecim_cccf_execute_liquid_24d78331e3228d7c(firdecim_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_FirdecimCccfExecute_liquid_7b08cc538ffcb585(firdecim_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   firdecim_cccf arg1 = (firdecim_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -11799,7 +11799,7 @@ void _wrap_firdecim_cccf_execute_liquid_24d78331e3228d7c(firdecim_cccf_s *_swig_
 }
 
 
-void _wrap_firdecim_cccf_execute_block_liquid_24d78331e3228d7c(firdecim_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_FirdecimCccfExecuteBlock_liquid_7b08cc538ffcb585(firdecim_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   firdecim_cccf arg1 = (firdecim_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -11815,7 +11815,7 @@ void _wrap_firdecim_cccf_execute_block_liquid_24d78331e3228d7c(firdecim_cccf_s *
 }
 
 
-iirdecim_rrrf_s *_wrap_iirdecim_rrrf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3, intgo _swig_go_4) {
+iirdecim_rrrf_s *_wrap_IirdecimRrrfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3, intgo _swig_go_4) {
   unsigned int arg1 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -11836,7 +11836,7 @@ iirdecim_rrrf_s *_wrap_iirdecim_rrrf_create_liquid_24d78331e3228d7c(intgo _swig_
 }
 
 
-iirdecim_rrrf_s *_wrap_iirdecim_rrrf_create_default_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+iirdecim_rrrf_s *_wrap_IirdecimRrrfCreateDefault_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   iirdecim_rrrf result;
@@ -11851,7 +11851,7 @@ iirdecim_rrrf_s *_wrap_iirdecim_rrrf_create_default_liquid_24d78331e3228d7c(intg
 }
 
 
-iirdecim_rrrf_s *_wrap_iirdecim_rrrf_create_prototype_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, float _swig_go_5, float _swig_go_6, float _swig_go_7, float _swig_go_8) {
+iirdecim_rrrf_s *_wrap_IirdecimRrrfCreatePrototype_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, float _swig_go_5, float _swig_go_6, float _swig_go_7, float _swig_go_8) {
   unsigned int arg1 ;
   liquid_iirdes_filtertype arg2 ;
   liquid_iirdes_bandtype arg3 ;
@@ -11880,7 +11880,7 @@ iirdecim_rrrf_s *_wrap_iirdecim_rrrf_create_prototype_liquid_24d78331e3228d7c(in
 }
 
 
-void _wrap_iirdecim_rrrf_destroy_liquid_24d78331e3228d7c(iirdecim_rrrf_s *_swig_go_0) {
+void _wrap_IirdecimRrrfDestroy_liquid_7b08cc538ffcb585(iirdecim_rrrf_s *_swig_go_0) {
   iirdecim_rrrf arg1 = (iirdecim_rrrf) 0 ;
   
   arg1 = *(iirdecim_rrrf *)&_swig_go_0; 
@@ -11890,7 +11890,7 @@ void _wrap_iirdecim_rrrf_destroy_liquid_24d78331e3228d7c(iirdecim_rrrf_s *_swig_
 }
 
 
-void _wrap_iirdecim_rrrf_print_liquid_24d78331e3228d7c(iirdecim_rrrf_s *_swig_go_0) {
+void _wrap_IirdecimRrrfPrint_liquid_7b08cc538ffcb585(iirdecim_rrrf_s *_swig_go_0) {
   iirdecim_rrrf arg1 = (iirdecim_rrrf) 0 ;
   
   arg1 = *(iirdecim_rrrf *)&_swig_go_0; 
@@ -11900,7 +11900,7 @@ void _wrap_iirdecim_rrrf_print_liquid_24d78331e3228d7c(iirdecim_rrrf_s *_swig_go
 }
 
 
-void _wrap_iirdecim_rrrf_reset_liquid_24d78331e3228d7c(iirdecim_rrrf_s *_swig_go_0) {
+void _wrap_IirdecimRrrfReset_liquid_7b08cc538ffcb585(iirdecim_rrrf_s *_swig_go_0) {
   iirdecim_rrrf arg1 = (iirdecim_rrrf) 0 ;
   
   arg1 = *(iirdecim_rrrf *)&_swig_go_0; 
@@ -11910,7 +11910,7 @@ void _wrap_iirdecim_rrrf_reset_liquid_24d78331e3228d7c(iirdecim_rrrf_s *_swig_go
 }
 
 
-void _wrap_iirdecim_rrrf_execute_liquid_24d78331e3228d7c(iirdecim_rrrf_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2) {
+void _wrap_IirdecimRrrfExecute_liquid_7b08cc538ffcb585(iirdecim_rrrf_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2) {
   iirdecim_rrrf arg1 = (iirdecim_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -11924,7 +11924,7 @@ void _wrap_iirdecim_rrrf_execute_liquid_24d78331e3228d7c(iirdecim_rrrf_s *_swig_
 }
 
 
-void _wrap_iirdecim_rrrf_execute_block_liquid_24d78331e3228d7c(iirdecim_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_IirdecimRrrfExecuteBlock_liquid_7b08cc538ffcb585(iirdecim_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   iirdecim_rrrf arg1 = (iirdecim_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -11940,7 +11940,7 @@ void _wrap_iirdecim_rrrf_execute_block_liquid_24d78331e3228d7c(iirdecim_rrrf_s *
 }
 
 
-float _wrap_iirdecim_rrrf_groupdelay_liquid_24d78331e3228d7c(iirdecim_rrrf_s *_swig_go_0, float _swig_go_1) {
+float _wrap_IirdecimRrrfGroupdelay_liquid_7b08cc538ffcb585(iirdecim_rrrf_s *_swig_go_0, float _swig_go_1) {
   iirdecim_rrrf arg1 = (iirdecim_rrrf) 0 ;
   float arg2 ;
   float result;
@@ -11955,7 +11955,7 @@ float _wrap_iirdecim_rrrf_groupdelay_liquid_24d78331e3228d7c(iirdecim_rrrf_s *_s
 }
 
 
-iirdecim_crcf_s *_wrap_iirdecim_crcf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3, intgo _swig_go_4) {
+iirdecim_crcf_s *_wrap_IirdecimCrcfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3, intgo _swig_go_4) {
   unsigned int arg1 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -11976,7 +11976,7 @@ iirdecim_crcf_s *_wrap_iirdecim_crcf_create_liquid_24d78331e3228d7c(intgo _swig_
 }
 
 
-iirdecim_crcf_s *_wrap_iirdecim_crcf_create_default_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+iirdecim_crcf_s *_wrap_IirdecimCrcfCreateDefault_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   iirdecim_crcf result;
@@ -11991,7 +11991,7 @@ iirdecim_crcf_s *_wrap_iirdecim_crcf_create_default_liquid_24d78331e3228d7c(intg
 }
 
 
-iirdecim_crcf_s *_wrap_iirdecim_crcf_create_prototype_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, float _swig_go_5, float _swig_go_6, float _swig_go_7, float _swig_go_8) {
+iirdecim_crcf_s *_wrap_IirdecimCrcfCreatePrototype_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, float _swig_go_5, float _swig_go_6, float _swig_go_7, float _swig_go_8) {
   unsigned int arg1 ;
   liquid_iirdes_filtertype arg2 ;
   liquid_iirdes_bandtype arg3 ;
@@ -12020,7 +12020,7 @@ iirdecim_crcf_s *_wrap_iirdecim_crcf_create_prototype_liquid_24d78331e3228d7c(in
 }
 
 
-void _wrap_iirdecim_crcf_destroy_liquid_24d78331e3228d7c(iirdecim_crcf_s *_swig_go_0) {
+void _wrap_IirdecimCrcfDestroy_liquid_7b08cc538ffcb585(iirdecim_crcf_s *_swig_go_0) {
   iirdecim_crcf arg1 = (iirdecim_crcf) 0 ;
   
   arg1 = *(iirdecim_crcf *)&_swig_go_0; 
@@ -12030,7 +12030,7 @@ void _wrap_iirdecim_crcf_destroy_liquid_24d78331e3228d7c(iirdecim_crcf_s *_swig_
 }
 
 
-void _wrap_iirdecim_crcf_print_liquid_24d78331e3228d7c(iirdecim_crcf_s *_swig_go_0) {
+void _wrap_IirdecimCrcfPrint_liquid_7b08cc538ffcb585(iirdecim_crcf_s *_swig_go_0) {
   iirdecim_crcf arg1 = (iirdecim_crcf) 0 ;
   
   arg1 = *(iirdecim_crcf *)&_swig_go_0; 
@@ -12040,7 +12040,7 @@ void _wrap_iirdecim_crcf_print_liquid_24d78331e3228d7c(iirdecim_crcf_s *_swig_go
 }
 
 
-void _wrap_iirdecim_crcf_reset_liquid_24d78331e3228d7c(iirdecim_crcf_s *_swig_go_0) {
+void _wrap_IirdecimCrcfReset_liquid_7b08cc538ffcb585(iirdecim_crcf_s *_swig_go_0) {
   iirdecim_crcf arg1 = (iirdecim_crcf) 0 ;
   
   arg1 = *(iirdecim_crcf *)&_swig_go_0; 
@@ -12050,7 +12050,7 @@ void _wrap_iirdecim_crcf_reset_liquid_24d78331e3228d7c(iirdecim_crcf_s *_swig_go
 }
 
 
-void _wrap_iirdecim_crcf_execute_liquid_24d78331e3228d7c(iirdecim_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_IirdecimCrcfExecute_liquid_7b08cc538ffcb585(iirdecim_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   iirdecim_crcf arg1 = (iirdecim_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -12064,7 +12064,7 @@ void _wrap_iirdecim_crcf_execute_liquid_24d78331e3228d7c(iirdecim_crcf_s *_swig_
 }
 
 
-void _wrap_iirdecim_crcf_execute_block_liquid_24d78331e3228d7c(iirdecim_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_IirdecimCrcfExecuteBlock_liquid_7b08cc538ffcb585(iirdecim_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   iirdecim_crcf arg1 = (iirdecim_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -12080,7 +12080,7 @@ void _wrap_iirdecim_crcf_execute_block_liquid_24d78331e3228d7c(iirdecim_crcf_s *
 }
 
 
-float _wrap_iirdecim_crcf_groupdelay_liquid_24d78331e3228d7c(iirdecim_crcf_s *_swig_go_0, float _swig_go_1) {
+float _wrap_IirdecimCrcfGroupdelay_liquid_7b08cc538ffcb585(iirdecim_crcf_s *_swig_go_0, float _swig_go_1) {
   iirdecim_crcf arg1 = (iirdecim_crcf) 0 ;
   float arg2 ;
   float result;
@@ -12095,7 +12095,7 @@ float _wrap_iirdecim_crcf_groupdelay_liquid_24d78331e3228d7c(iirdecim_crcf_s *_s
 }
 
 
-iirdecim_cccf_s *_wrap_iirdecim_cccf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, intgo _swig_go_4) {
+iirdecim_cccf_s *_wrap_IirdecimCccfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, intgo _swig_go_4) {
   unsigned int arg1 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -12116,7 +12116,7 @@ iirdecim_cccf_s *_wrap_iirdecim_cccf_create_liquid_24d78331e3228d7c(intgo _swig_
 }
 
 
-iirdecim_cccf_s *_wrap_iirdecim_cccf_create_default_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+iirdecim_cccf_s *_wrap_IirdecimCccfCreateDefault_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   iirdecim_cccf result;
@@ -12131,7 +12131,7 @@ iirdecim_cccf_s *_wrap_iirdecim_cccf_create_default_liquid_24d78331e3228d7c(intg
 }
 
 
-iirdecim_cccf_s *_wrap_iirdecim_cccf_create_prototype_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, float _swig_go_5, float _swig_go_6, float _swig_go_7, float _swig_go_8) {
+iirdecim_cccf_s *_wrap_IirdecimCccfCreatePrototype_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, float _swig_go_5, float _swig_go_6, float _swig_go_7, float _swig_go_8) {
   unsigned int arg1 ;
   liquid_iirdes_filtertype arg2 ;
   liquid_iirdes_bandtype arg3 ;
@@ -12160,7 +12160,7 @@ iirdecim_cccf_s *_wrap_iirdecim_cccf_create_prototype_liquid_24d78331e3228d7c(in
 }
 
 
-void _wrap_iirdecim_cccf_destroy_liquid_24d78331e3228d7c(iirdecim_cccf_s *_swig_go_0) {
+void _wrap_IirdecimCccfDestroy_liquid_7b08cc538ffcb585(iirdecim_cccf_s *_swig_go_0) {
   iirdecim_cccf arg1 = (iirdecim_cccf) 0 ;
   
   arg1 = *(iirdecim_cccf *)&_swig_go_0; 
@@ -12170,7 +12170,7 @@ void _wrap_iirdecim_cccf_destroy_liquid_24d78331e3228d7c(iirdecim_cccf_s *_swig_
 }
 
 
-void _wrap_iirdecim_cccf_print_liquid_24d78331e3228d7c(iirdecim_cccf_s *_swig_go_0) {
+void _wrap_IirdecimCccfPrint_liquid_7b08cc538ffcb585(iirdecim_cccf_s *_swig_go_0) {
   iirdecim_cccf arg1 = (iirdecim_cccf) 0 ;
   
   arg1 = *(iirdecim_cccf *)&_swig_go_0; 
@@ -12180,7 +12180,7 @@ void _wrap_iirdecim_cccf_print_liquid_24d78331e3228d7c(iirdecim_cccf_s *_swig_go
 }
 
 
-void _wrap_iirdecim_cccf_reset_liquid_24d78331e3228d7c(iirdecim_cccf_s *_swig_go_0) {
+void _wrap_IirdecimCccfReset_liquid_7b08cc538ffcb585(iirdecim_cccf_s *_swig_go_0) {
   iirdecim_cccf arg1 = (iirdecim_cccf) 0 ;
   
   arg1 = *(iirdecim_cccf *)&_swig_go_0; 
@@ -12190,7 +12190,7 @@ void _wrap_iirdecim_cccf_reset_liquid_24d78331e3228d7c(iirdecim_cccf_s *_swig_go
 }
 
 
-void _wrap_iirdecim_cccf_execute_liquid_24d78331e3228d7c(iirdecim_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_IirdecimCccfExecute_liquid_7b08cc538ffcb585(iirdecim_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   iirdecim_cccf arg1 = (iirdecim_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -12204,7 +12204,7 @@ void _wrap_iirdecim_cccf_execute_liquid_24d78331e3228d7c(iirdecim_cccf_s *_swig_
 }
 
 
-void _wrap_iirdecim_cccf_execute_block_liquid_24d78331e3228d7c(iirdecim_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_IirdecimCccfExecuteBlock_liquid_7b08cc538ffcb585(iirdecim_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   iirdecim_cccf arg1 = (iirdecim_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -12220,7 +12220,7 @@ void _wrap_iirdecim_cccf_execute_block_liquid_24d78331e3228d7c(iirdecim_cccf_s *
 }
 
 
-float _wrap_iirdecim_cccf_groupdelay_liquid_24d78331e3228d7c(iirdecim_cccf_s *_swig_go_0, float _swig_go_1) {
+float _wrap_IirdecimCccfGroupdelay_liquid_7b08cc538ffcb585(iirdecim_cccf_s *_swig_go_0, float _swig_go_1) {
   iirdecim_cccf arg1 = (iirdecim_cccf) 0 ;
   float arg2 ;
   float result;
@@ -12235,7 +12235,7 @@ float _wrap_iirdecim_cccf_groupdelay_liquid_24d78331e3228d7c(iirdecim_cccf_s *_s
 }
 
 
-resamp2_rrrf_s *_wrap_resamp2_rrrf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1, float _swig_go_2) {
+resamp2_rrrf_s *_wrap_Resamp2RrrfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1, float _swig_go_2) {
   unsigned int arg1 ;
   float arg2 ;
   float arg3 ;
@@ -12252,7 +12252,7 @@ resamp2_rrrf_s *_wrap_resamp2_rrrf_create_liquid_24d78331e3228d7c(intgo _swig_go
 }
 
 
-resamp2_rrrf_s *_wrap_resamp2_rrrf_recreate_liquid_24d78331e3228d7c(resamp2_rrrf_s *_swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3) {
+resamp2_rrrf_s *_wrap_Resamp2RrrfRecreate_liquid_7b08cc538ffcb585(resamp2_rrrf_s *_swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3) {
   resamp2_rrrf arg1 = (resamp2_rrrf) 0 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -12271,7 +12271,7 @@ resamp2_rrrf_s *_wrap_resamp2_rrrf_recreate_liquid_24d78331e3228d7c(resamp2_rrrf
 }
 
 
-void _wrap_resamp2_rrrf_destroy_liquid_24d78331e3228d7c(resamp2_rrrf_s *_swig_go_0) {
+void _wrap_Resamp2RrrfDestroy_liquid_7b08cc538ffcb585(resamp2_rrrf_s *_swig_go_0) {
   resamp2_rrrf arg1 = (resamp2_rrrf) 0 ;
   
   arg1 = *(resamp2_rrrf *)&_swig_go_0; 
@@ -12281,7 +12281,7 @@ void _wrap_resamp2_rrrf_destroy_liquid_24d78331e3228d7c(resamp2_rrrf_s *_swig_go
 }
 
 
-void _wrap_resamp2_rrrf_print_liquid_24d78331e3228d7c(resamp2_rrrf_s *_swig_go_0) {
+void _wrap_Resamp2RrrfPrint_liquid_7b08cc538ffcb585(resamp2_rrrf_s *_swig_go_0) {
   resamp2_rrrf arg1 = (resamp2_rrrf) 0 ;
   
   arg1 = *(resamp2_rrrf *)&_swig_go_0; 
@@ -12291,7 +12291,7 @@ void _wrap_resamp2_rrrf_print_liquid_24d78331e3228d7c(resamp2_rrrf_s *_swig_go_0
 }
 
 
-void _wrap_resamp2_rrrf_reset_liquid_24d78331e3228d7c(resamp2_rrrf_s *_swig_go_0) {
+void _wrap_Resamp2RrrfReset_liquid_7b08cc538ffcb585(resamp2_rrrf_s *_swig_go_0) {
   resamp2_rrrf arg1 = (resamp2_rrrf) 0 ;
   
   arg1 = *(resamp2_rrrf *)&_swig_go_0; 
@@ -12301,7 +12301,7 @@ void _wrap_resamp2_rrrf_reset_liquid_24d78331e3228d7c(resamp2_rrrf_s *_swig_go_0
 }
 
 
-intgo _wrap_resamp2_rrrf_get_delay_liquid_24d78331e3228d7c(resamp2_rrrf_s *_swig_go_0) {
+intgo _wrap_Resamp2RrrfGetDelay_liquid_7b08cc538ffcb585(resamp2_rrrf_s *_swig_go_0) {
   resamp2_rrrf arg1 = (resamp2_rrrf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -12314,7 +12314,7 @@ intgo _wrap_resamp2_rrrf_get_delay_liquid_24d78331e3228d7c(resamp2_rrrf_s *_swig
 }
 
 
-void _wrap_resamp2_rrrf_filter_execute_liquid_24d78331e3228d7c(resamp2_rrrf_s *_swig_go_0, float _swig_go_1, float *_swig_go_2, float *_swig_go_3) {
+void _wrap_Resamp2RrrfFilterExecute_liquid_7b08cc538ffcb585(resamp2_rrrf_s *_swig_go_0, float _swig_go_1, float *_swig_go_2, float *_swig_go_3) {
   resamp2_rrrf arg1 = (resamp2_rrrf) 0 ;
   float arg2 ;
   float *arg3 = (float *) 0 ;
@@ -12330,7 +12330,7 @@ void _wrap_resamp2_rrrf_filter_execute_liquid_24d78331e3228d7c(resamp2_rrrf_s *_
 }
 
 
-void _wrap_resamp2_rrrf_analyzer_execute_liquid_24d78331e3228d7c(resamp2_rrrf_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2) {
+void _wrap_Resamp2RrrfAnalyzerExecute_liquid_7b08cc538ffcb585(resamp2_rrrf_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2) {
   resamp2_rrrf arg1 = (resamp2_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -12344,7 +12344,7 @@ void _wrap_resamp2_rrrf_analyzer_execute_liquid_24d78331e3228d7c(resamp2_rrrf_s 
 }
 
 
-void _wrap_resamp2_rrrf_synthesizer_execute_liquid_24d78331e3228d7c(resamp2_rrrf_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2) {
+void _wrap_Resamp2RrrfSynthesizerExecute_liquid_7b08cc538ffcb585(resamp2_rrrf_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2) {
   resamp2_rrrf arg1 = (resamp2_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -12358,7 +12358,7 @@ void _wrap_resamp2_rrrf_synthesizer_execute_liquid_24d78331e3228d7c(resamp2_rrrf
 }
 
 
-void _wrap_resamp2_rrrf_decim_execute_liquid_24d78331e3228d7c(resamp2_rrrf_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2) {
+void _wrap_Resamp2RrrfDecimExecute_liquid_7b08cc538ffcb585(resamp2_rrrf_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2) {
   resamp2_rrrf arg1 = (resamp2_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -12372,7 +12372,7 @@ void _wrap_resamp2_rrrf_decim_execute_liquid_24d78331e3228d7c(resamp2_rrrf_s *_s
 }
 
 
-void _wrap_resamp2_rrrf_interp_execute_liquid_24d78331e3228d7c(resamp2_rrrf_s *_swig_go_0, float _swig_go_1, float *_swig_go_2) {
+void _wrap_Resamp2RrrfInterpExecute_liquid_7b08cc538ffcb585(resamp2_rrrf_s *_swig_go_0, float _swig_go_1, float *_swig_go_2) {
   resamp2_rrrf arg1 = (resamp2_rrrf) 0 ;
   float arg2 ;
   float *arg3 = (float *) 0 ;
@@ -12386,7 +12386,7 @@ void _wrap_resamp2_rrrf_interp_execute_liquid_24d78331e3228d7c(resamp2_rrrf_s *_
 }
 
 
-resamp2_crcf_s *_wrap_resamp2_crcf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1, float _swig_go_2) {
+resamp2_crcf_s *_wrap_Resamp2CrcfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1, float _swig_go_2) {
   unsigned int arg1 ;
   float arg2 ;
   float arg3 ;
@@ -12403,7 +12403,7 @@ resamp2_crcf_s *_wrap_resamp2_crcf_create_liquid_24d78331e3228d7c(intgo _swig_go
 }
 
 
-resamp2_crcf_s *_wrap_resamp2_crcf_recreate_liquid_24d78331e3228d7c(resamp2_crcf_s *_swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3) {
+resamp2_crcf_s *_wrap_Resamp2CrcfRecreate_liquid_7b08cc538ffcb585(resamp2_crcf_s *_swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3) {
   resamp2_crcf arg1 = (resamp2_crcf) 0 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -12422,7 +12422,7 @@ resamp2_crcf_s *_wrap_resamp2_crcf_recreate_liquid_24d78331e3228d7c(resamp2_crcf
 }
 
 
-void _wrap_resamp2_crcf_destroy_liquid_24d78331e3228d7c(resamp2_crcf_s *_swig_go_0) {
+void _wrap_Resamp2CrcfDestroy_liquid_7b08cc538ffcb585(resamp2_crcf_s *_swig_go_0) {
   resamp2_crcf arg1 = (resamp2_crcf) 0 ;
   
   arg1 = *(resamp2_crcf *)&_swig_go_0; 
@@ -12432,7 +12432,7 @@ void _wrap_resamp2_crcf_destroy_liquid_24d78331e3228d7c(resamp2_crcf_s *_swig_go
 }
 
 
-void _wrap_resamp2_crcf_print_liquid_24d78331e3228d7c(resamp2_crcf_s *_swig_go_0) {
+void _wrap_Resamp2CrcfPrint_liquid_7b08cc538ffcb585(resamp2_crcf_s *_swig_go_0) {
   resamp2_crcf arg1 = (resamp2_crcf) 0 ;
   
   arg1 = *(resamp2_crcf *)&_swig_go_0; 
@@ -12442,7 +12442,7 @@ void _wrap_resamp2_crcf_print_liquid_24d78331e3228d7c(resamp2_crcf_s *_swig_go_0
 }
 
 
-void _wrap_resamp2_crcf_reset_liquid_24d78331e3228d7c(resamp2_crcf_s *_swig_go_0) {
+void _wrap_Resamp2CrcfReset_liquid_7b08cc538ffcb585(resamp2_crcf_s *_swig_go_0) {
   resamp2_crcf arg1 = (resamp2_crcf) 0 ;
   
   arg1 = *(resamp2_crcf *)&_swig_go_0; 
@@ -12452,7 +12452,7 @@ void _wrap_resamp2_crcf_reset_liquid_24d78331e3228d7c(resamp2_crcf_s *_swig_go_0
 }
 
 
-intgo _wrap_resamp2_crcf_get_delay_liquid_24d78331e3228d7c(resamp2_crcf_s *_swig_go_0) {
+intgo _wrap_Resamp2CrcfGetDelay_liquid_7b08cc538ffcb585(resamp2_crcf_s *_swig_go_0) {
   resamp2_crcf arg1 = (resamp2_crcf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -12465,7 +12465,7 @@ intgo _wrap_resamp2_crcf_get_delay_liquid_24d78331e3228d7c(resamp2_crcf_s *_swig
 }
 
 
-void _wrap_resamp2_crcf_filter_execute_liquid_24d78331e3228d7c(resamp2_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_Resamp2CrcfFilterExecute_liquid_7b08cc538ffcb585(resamp2_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3) {
   resamp2_crcf arg1 = (resamp2_crcf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -12488,7 +12488,7 @@ void _wrap_resamp2_crcf_filter_execute_liquid_24d78331e3228d7c(resamp2_crcf_s *_
 }
 
 
-void _wrap_resamp2_crcf_analyzer_execute_liquid_24d78331e3228d7c(resamp2_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_Resamp2CrcfAnalyzerExecute_liquid_7b08cc538ffcb585(resamp2_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   resamp2_crcf arg1 = (resamp2_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -12502,7 +12502,7 @@ void _wrap_resamp2_crcf_analyzer_execute_liquid_24d78331e3228d7c(resamp2_crcf_s 
 }
 
 
-void _wrap_resamp2_crcf_synthesizer_execute_liquid_24d78331e3228d7c(resamp2_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_Resamp2CrcfSynthesizerExecute_liquid_7b08cc538ffcb585(resamp2_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   resamp2_crcf arg1 = (resamp2_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -12516,7 +12516,7 @@ void _wrap_resamp2_crcf_synthesizer_execute_liquid_24d78331e3228d7c(resamp2_crcf
 }
 
 
-void _wrap_resamp2_crcf_decim_execute_liquid_24d78331e3228d7c(resamp2_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_Resamp2CrcfDecimExecute_liquid_7b08cc538ffcb585(resamp2_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   resamp2_crcf arg1 = (resamp2_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -12530,7 +12530,7 @@ void _wrap_resamp2_crcf_decim_execute_liquid_24d78331e3228d7c(resamp2_crcf_s *_s
 }
 
 
-void _wrap_resamp2_crcf_interp_execute_liquid_24d78331e3228d7c(resamp2_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_Resamp2CrcfInterpExecute_liquid_7b08cc538ffcb585(resamp2_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   resamp2_crcf arg1 = (resamp2_crcf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -12551,7 +12551,7 @@ void _wrap_resamp2_crcf_interp_execute_liquid_24d78331e3228d7c(resamp2_crcf_s *_
 }
 
 
-resamp2_cccf_s *_wrap_resamp2_cccf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1, float _swig_go_2) {
+resamp2_cccf_s *_wrap_Resamp2CccfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1, float _swig_go_2) {
   unsigned int arg1 ;
   float arg2 ;
   float arg3 ;
@@ -12568,7 +12568,7 @@ resamp2_cccf_s *_wrap_resamp2_cccf_create_liquid_24d78331e3228d7c(intgo _swig_go
 }
 
 
-resamp2_cccf_s *_wrap_resamp2_cccf_recreate_liquid_24d78331e3228d7c(resamp2_cccf_s *_swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3) {
+resamp2_cccf_s *_wrap_Resamp2CccfRecreate_liquid_7b08cc538ffcb585(resamp2_cccf_s *_swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3) {
   resamp2_cccf arg1 = (resamp2_cccf) 0 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -12587,7 +12587,7 @@ resamp2_cccf_s *_wrap_resamp2_cccf_recreate_liquid_24d78331e3228d7c(resamp2_cccf
 }
 
 
-void _wrap_resamp2_cccf_destroy_liquid_24d78331e3228d7c(resamp2_cccf_s *_swig_go_0) {
+void _wrap_Resamp2CccfDestroy_liquid_7b08cc538ffcb585(resamp2_cccf_s *_swig_go_0) {
   resamp2_cccf arg1 = (resamp2_cccf) 0 ;
   
   arg1 = *(resamp2_cccf *)&_swig_go_0; 
@@ -12597,7 +12597,7 @@ void _wrap_resamp2_cccf_destroy_liquid_24d78331e3228d7c(resamp2_cccf_s *_swig_go
 }
 
 
-void _wrap_resamp2_cccf_print_liquid_24d78331e3228d7c(resamp2_cccf_s *_swig_go_0) {
+void _wrap_Resamp2CccfPrint_liquid_7b08cc538ffcb585(resamp2_cccf_s *_swig_go_0) {
   resamp2_cccf arg1 = (resamp2_cccf) 0 ;
   
   arg1 = *(resamp2_cccf *)&_swig_go_0; 
@@ -12607,7 +12607,7 @@ void _wrap_resamp2_cccf_print_liquid_24d78331e3228d7c(resamp2_cccf_s *_swig_go_0
 }
 
 
-void _wrap_resamp2_cccf_reset_liquid_24d78331e3228d7c(resamp2_cccf_s *_swig_go_0) {
+void _wrap_Resamp2CccfReset_liquid_7b08cc538ffcb585(resamp2_cccf_s *_swig_go_0) {
   resamp2_cccf arg1 = (resamp2_cccf) 0 ;
   
   arg1 = *(resamp2_cccf *)&_swig_go_0; 
@@ -12617,7 +12617,7 @@ void _wrap_resamp2_cccf_reset_liquid_24d78331e3228d7c(resamp2_cccf_s *_swig_go_0
 }
 
 
-intgo _wrap_resamp2_cccf_get_delay_liquid_24d78331e3228d7c(resamp2_cccf_s *_swig_go_0) {
+intgo _wrap_Resamp2CccfGetDelay_liquid_7b08cc538ffcb585(resamp2_cccf_s *_swig_go_0) {
   resamp2_cccf arg1 = (resamp2_cccf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -12630,7 +12630,7 @@ intgo _wrap_resamp2_cccf_get_delay_liquid_24d78331e3228d7c(resamp2_cccf_s *_swig
 }
 
 
-void _wrap_resamp2_cccf_filter_execute_liquid_24d78331e3228d7c(resamp2_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_Resamp2CccfFilterExecute_liquid_7b08cc538ffcb585(resamp2_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3) {
   resamp2_cccf arg1 = (resamp2_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -12653,7 +12653,7 @@ void _wrap_resamp2_cccf_filter_execute_liquid_24d78331e3228d7c(resamp2_cccf_s *_
 }
 
 
-void _wrap_resamp2_cccf_analyzer_execute_liquid_24d78331e3228d7c(resamp2_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_Resamp2CccfAnalyzerExecute_liquid_7b08cc538ffcb585(resamp2_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   resamp2_cccf arg1 = (resamp2_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -12667,7 +12667,7 @@ void _wrap_resamp2_cccf_analyzer_execute_liquid_24d78331e3228d7c(resamp2_cccf_s 
 }
 
 
-void _wrap_resamp2_cccf_synthesizer_execute_liquid_24d78331e3228d7c(resamp2_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_Resamp2CccfSynthesizerExecute_liquid_7b08cc538ffcb585(resamp2_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   resamp2_cccf arg1 = (resamp2_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -12681,7 +12681,7 @@ void _wrap_resamp2_cccf_synthesizer_execute_liquid_24d78331e3228d7c(resamp2_cccf
 }
 
 
-void _wrap_resamp2_cccf_decim_execute_liquid_24d78331e3228d7c(resamp2_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_Resamp2CccfDecimExecute_liquid_7b08cc538ffcb585(resamp2_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   resamp2_cccf arg1 = (resamp2_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -12695,7 +12695,7 @@ void _wrap_resamp2_cccf_decim_execute_liquid_24d78331e3228d7c(resamp2_cccf_s *_s
 }
 
 
-void _wrap_resamp2_cccf_interp_execute_liquid_24d78331e3228d7c(resamp2_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_Resamp2CccfInterpExecute_liquid_7b08cc538ffcb585(resamp2_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   resamp2_cccf arg1 = (resamp2_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -12716,7 +12716,7 @@ void _wrap_resamp2_cccf_interp_execute_liquid_24d78331e3228d7c(resamp2_cccf_s *_
 }
 
 
-rresamp_rrrf_s *_wrap_rresamp_rrrf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+rresamp_rrrf_s *_wrap_RresampRrrfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -12735,7 +12735,7 @@ rresamp_rrrf_s *_wrap_rresamp_rrrf_create_liquid_24d78331e3228d7c(intgo _swig_go
 }
 
 
-rresamp_rrrf_s *_wrap_rresamp_rrrf_create_kaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
+rresamp_rrrf_s *_wrap_RresampRrrfCreateKaiser_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -12756,7 +12756,7 @@ rresamp_rrrf_s *_wrap_rresamp_rrrf_create_kaiser_liquid_24d78331e3228d7c(intgo _
 }
 
 
-rresamp_rrrf_s *_wrap_rresamp_rrrf_create_prototype_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4) {
+rresamp_rrrf_s *_wrap_RresampRrrfCreatePrototype_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -12777,7 +12777,7 @@ rresamp_rrrf_s *_wrap_rresamp_rrrf_create_prototype_liquid_24d78331e3228d7c(intg
 }
 
 
-rresamp_rrrf_s *_wrap_rresamp_rrrf_create_default_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+rresamp_rrrf_s *_wrap_RresampRrrfCreateDefault_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   rresamp_rrrf result;
@@ -12792,7 +12792,7 @@ rresamp_rrrf_s *_wrap_rresamp_rrrf_create_default_liquid_24d78331e3228d7c(intgo 
 }
 
 
-void _wrap_rresamp_rrrf_destroy_liquid_24d78331e3228d7c(rresamp_rrrf_s *_swig_go_0) {
+void _wrap_RresampRrrfDestroy_liquid_7b08cc538ffcb585(rresamp_rrrf_s *_swig_go_0) {
   rresamp_rrrf arg1 = (rresamp_rrrf) 0 ;
   
   arg1 = *(rresamp_rrrf *)&_swig_go_0; 
@@ -12802,7 +12802,7 @@ void _wrap_rresamp_rrrf_destroy_liquid_24d78331e3228d7c(rresamp_rrrf_s *_swig_go
 }
 
 
-void _wrap_rresamp_rrrf_print_liquid_24d78331e3228d7c(rresamp_rrrf_s *_swig_go_0) {
+void _wrap_RresampRrrfPrint_liquid_7b08cc538ffcb585(rresamp_rrrf_s *_swig_go_0) {
   rresamp_rrrf arg1 = (rresamp_rrrf) 0 ;
   
   arg1 = *(rresamp_rrrf *)&_swig_go_0; 
@@ -12812,7 +12812,7 @@ void _wrap_rresamp_rrrf_print_liquid_24d78331e3228d7c(rresamp_rrrf_s *_swig_go_0
 }
 
 
-void _wrap_rresamp_rrrf_reset_liquid_24d78331e3228d7c(rresamp_rrrf_s *_swig_go_0) {
+void _wrap_RresampRrrfReset_liquid_7b08cc538ffcb585(rresamp_rrrf_s *_swig_go_0) {
   rresamp_rrrf arg1 = (rresamp_rrrf) 0 ;
   
   arg1 = *(rresamp_rrrf *)&_swig_go_0; 
@@ -12822,7 +12822,7 @@ void _wrap_rresamp_rrrf_reset_liquid_24d78331e3228d7c(rresamp_rrrf_s *_swig_go_0
 }
 
 
-void _wrap_rresamp_rrrf_set_scale_liquid_24d78331e3228d7c(rresamp_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_RresampRrrfSetScale_liquid_7b08cc538ffcb585(rresamp_rrrf_s *_swig_go_0, float _swig_go_1) {
   rresamp_rrrf arg1 = (rresamp_rrrf) 0 ;
   float arg2 ;
   
@@ -12834,7 +12834,7 @@ void _wrap_rresamp_rrrf_set_scale_liquid_24d78331e3228d7c(rresamp_rrrf_s *_swig_
 }
 
 
-void _wrap_rresamp_rrrf_get_scale_liquid_24d78331e3228d7c(rresamp_rrrf_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_RresampRrrfGetScale_liquid_7b08cc538ffcb585(rresamp_rrrf_s *_swig_go_0, float *_swig_go_1) {
   rresamp_rrrf arg1 = (rresamp_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -12846,7 +12846,7 @@ void _wrap_rresamp_rrrf_get_scale_liquid_24d78331e3228d7c(rresamp_rrrf_s *_swig_
 }
 
 
-intgo _wrap_rresamp_rrrf_get_delay_liquid_24d78331e3228d7c(rresamp_rrrf_s *_swig_go_0) {
+intgo _wrap_RresampRrrfGetDelay_liquid_7b08cc538ffcb585(rresamp_rrrf_s *_swig_go_0) {
   rresamp_rrrf arg1 = (rresamp_rrrf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -12859,7 +12859,7 @@ intgo _wrap_rresamp_rrrf_get_delay_liquid_24d78331e3228d7c(rresamp_rrrf_s *_swig
 }
 
 
-intgo _wrap_rresamp_rrrf_get_P_liquid_24d78331e3228d7c(rresamp_rrrf_s *_swig_go_0) {
+intgo _wrap_RresampRrrfGetP_liquid_7b08cc538ffcb585(rresamp_rrrf_s *_swig_go_0) {
   rresamp_rrrf arg1 = (rresamp_rrrf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -12872,7 +12872,7 @@ intgo _wrap_rresamp_rrrf_get_P_liquid_24d78331e3228d7c(rresamp_rrrf_s *_swig_go_
 }
 
 
-intgo _wrap_rresamp_rrrf_get_interp_liquid_24d78331e3228d7c(rresamp_rrrf_s *_swig_go_0) {
+intgo _wrap_RresampRrrfGetInterp_liquid_7b08cc538ffcb585(rresamp_rrrf_s *_swig_go_0) {
   rresamp_rrrf arg1 = (rresamp_rrrf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -12885,7 +12885,7 @@ intgo _wrap_rresamp_rrrf_get_interp_liquid_24d78331e3228d7c(rresamp_rrrf_s *_swi
 }
 
 
-intgo _wrap_rresamp_rrrf_get_Q_liquid_24d78331e3228d7c(rresamp_rrrf_s *_swig_go_0) {
+intgo _wrap_RresampRrrfGetQ_liquid_7b08cc538ffcb585(rresamp_rrrf_s *_swig_go_0) {
   rresamp_rrrf arg1 = (rresamp_rrrf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -12898,7 +12898,7 @@ intgo _wrap_rresamp_rrrf_get_Q_liquid_24d78331e3228d7c(rresamp_rrrf_s *_swig_go_
 }
 
 
-intgo _wrap_rresamp_rrrf_get_decim_liquid_24d78331e3228d7c(rresamp_rrrf_s *_swig_go_0) {
+intgo _wrap_RresampRrrfGetDecim_liquid_7b08cc538ffcb585(rresamp_rrrf_s *_swig_go_0) {
   rresamp_rrrf arg1 = (rresamp_rrrf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -12911,7 +12911,7 @@ intgo _wrap_rresamp_rrrf_get_decim_liquid_24d78331e3228d7c(rresamp_rrrf_s *_swig
 }
 
 
-intgo _wrap_rresamp_rrrf_get_block_len_liquid_24d78331e3228d7c(rresamp_rrrf_s *_swig_go_0) {
+intgo _wrap_RresampRrrfGetBlockLen_liquid_7b08cc538ffcb585(rresamp_rrrf_s *_swig_go_0) {
   rresamp_rrrf arg1 = (rresamp_rrrf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -12924,7 +12924,7 @@ intgo _wrap_rresamp_rrrf_get_block_len_liquid_24d78331e3228d7c(rresamp_rrrf_s *_
 }
 
 
-float _wrap_rresamp_rrrf_get_rate_liquid_24d78331e3228d7c(rresamp_rrrf_s *_swig_go_0) {
+float _wrap_RresampRrrfGetRate_liquid_7b08cc538ffcb585(rresamp_rrrf_s *_swig_go_0) {
   rresamp_rrrf arg1 = (rresamp_rrrf) 0 ;
   float result;
   float _swig_go_result;
@@ -12937,7 +12937,7 @@ float _wrap_rresamp_rrrf_get_rate_liquid_24d78331e3228d7c(rresamp_rrrf_s *_swig_
 }
 
 
-void _wrap_rresamp_rrrf_execute_liquid_24d78331e3228d7c(rresamp_rrrf_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2) {
+void _wrap_RresampRrrfExecute_liquid_7b08cc538ffcb585(rresamp_rrrf_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2) {
   rresamp_rrrf arg1 = (rresamp_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -12951,7 +12951,7 @@ void _wrap_rresamp_rrrf_execute_liquid_24d78331e3228d7c(rresamp_rrrf_s *_swig_go
 }
 
 
-rresamp_crcf_s *_wrap_rresamp_crcf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+rresamp_crcf_s *_wrap_RresampCrcfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -12970,7 +12970,7 @@ rresamp_crcf_s *_wrap_rresamp_crcf_create_liquid_24d78331e3228d7c(intgo _swig_go
 }
 
 
-rresamp_crcf_s *_wrap_rresamp_crcf_create_kaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
+rresamp_crcf_s *_wrap_RresampCrcfCreateKaiser_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -12991,7 +12991,7 @@ rresamp_crcf_s *_wrap_rresamp_crcf_create_kaiser_liquid_24d78331e3228d7c(intgo _
 }
 
 
-rresamp_crcf_s *_wrap_rresamp_crcf_create_prototype_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4) {
+rresamp_crcf_s *_wrap_RresampCrcfCreatePrototype_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -13012,7 +13012,7 @@ rresamp_crcf_s *_wrap_rresamp_crcf_create_prototype_liquid_24d78331e3228d7c(intg
 }
 
 
-rresamp_crcf_s *_wrap_rresamp_crcf_create_default_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+rresamp_crcf_s *_wrap_RresampCrcfCreateDefault_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   rresamp_crcf result;
@@ -13027,7 +13027,7 @@ rresamp_crcf_s *_wrap_rresamp_crcf_create_default_liquid_24d78331e3228d7c(intgo 
 }
 
 
-void _wrap_rresamp_crcf_destroy_liquid_24d78331e3228d7c(rresamp_crcf_s *_swig_go_0) {
+void _wrap_RresampCrcfDestroy_liquid_7b08cc538ffcb585(rresamp_crcf_s *_swig_go_0) {
   rresamp_crcf arg1 = (rresamp_crcf) 0 ;
   
   arg1 = *(rresamp_crcf *)&_swig_go_0; 
@@ -13037,7 +13037,7 @@ void _wrap_rresamp_crcf_destroy_liquid_24d78331e3228d7c(rresamp_crcf_s *_swig_go
 }
 
 
-void _wrap_rresamp_crcf_print_liquid_24d78331e3228d7c(rresamp_crcf_s *_swig_go_0) {
+void _wrap_RresampCrcfPrint_liquid_7b08cc538ffcb585(rresamp_crcf_s *_swig_go_0) {
   rresamp_crcf arg1 = (rresamp_crcf) 0 ;
   
   arg1 = *(rresamp_crcf *)&_swig_go_0; 
@@ -13047,7 +13047,7 @@ void _wrap_rresamp_crcf_print_liquid_24d78331e3228d7c(rresamp_crcf_s *_swig_go_0
 }
 
 
-void _wrap_rresamp_crcf_reset_liquid_24d78331e3228d7c(rresamp_crcf_s *_swig_go_0) {
+void _wrap_RresampCrcfReset_liquid_7b08cc538ffcb585(rresamp_crcf_s *_swig_go_0) {
   rresamp_crcf arg1 = (rresamp_crcf) 0 ;
   
   arg1 = *(rresamp_crcf *)&_swig_go_0; 
@@ -13057,7 +13057,7 @@ void _wrap_rresamp_crcf_reset_liquid_24d78331e3228d7c(rresamp_crcf_s *_swig_go_0
 }
 
 
-void _wrap_rresamp_crcf_set_scale_liquid_24d78331e3228d7c(rresamp_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_RresampCrcfSetScale_liquid_7b08cc538ffcb585(rresamp_crcf_s *_swig_go_0, float _swig_go_1) {
   rresamp_crcf arg1 = (rresamp_crcf) 0 ;
   float arg2 ;
   
@@ -13069,7 +13069,7 @@ void _wrap_rresamp_crcf_set_scale_liquid_24d78331e3228d7c(rresamp_crcf_s *_swig_
 }
 
 
-void _wrap_rresamp_crcf_get_scale_liquid_24d78331e3228d7c(rresamp_crcf_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_RresampCrcfGetScale_liquid_7b08cc538ffcb585(rresamp_crcf_s *_swig_go_0, float *_swig_go_1) {
   rresamp_crcf arg1 = (rresamp_crcf) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -13081,7 +13081,7 @@ void _wrap_rresamp_crcf_get_scale_liquid_24d78331e3228d7c(rresamp_crcf_s *_swig_
 }
 
 
-intgo _wrap_rresamp_crcf_get_delay_liquid_24d78331e3228d7c(rresamp_crcf_s *_swig_go_0) {
+intgo _wrap_RresampCrcfGetDelay_liquid_7b08cc538ffcb585(rresamp_crcf_s *_swig_go_0) {
   rresamp_crcf arg1 = (rresamp_crcf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -13094,7 +13094,7 @@ intgo _wrap_rresamp_crcf_get_delay_liquid_24d78331e3228d7c(rresamp_crcf_s *_swig
 }
 
 
-intgo _wrap_rresamp_crcf_get_P_liquid_24d78331e3228d7c(rresamp_crcf_s *_swig_go_0) {
+intgo _wrap_RresampCrcfGetP_liquid_7b08cc538ffcb585(rresamp_crcf_s *_swig_go_0) {
   rresamp_crcf arg1 = (rresamp_crcf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -13107,7 +13107,7 @@ intgo _wrap_rresamp_crcf_get_P_liquid_24d78331e3228d7c(rresamp_crcf_s *_swig_go_
 }
 
 
-intgo _wrap_rresamp_crcf_get_interp_liquid_24d78331e3228d7c(rresamp_crcf_s *_swig_go_0) {
+intgo _wrap_RresampCrcfGetInterp_liquid_7b08cc538ffcb585(rresamp_crcf_s *_swig_go_0) {
   rresamp_crcf arg1 = (rresamp_crcf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -13120,7 +13120,7 @@ intgo _wrap_rresamp_crcf_get_interp_liquid_24d78331e3228d7c(rresamp_crcf_s *_swi
 }
 
 
-intgo _wrap_rresamp_crcf_get_Q_liquid_24d78331e3228d7c(rresamp_crcf_s *_swig_go_0) {
+intgo _wrap_RresampCrcfGetQ_liquid_7b08cc538ffcb585(rresamp_crcf_s *_swig_go_0) {
   rresamp_crcf arg1 = (rresamp_crcf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -13133,7 +13133,7 @@ intgo _wrap_rresamp_crcf_get_Q_liquid_24d78331e3228d7c(rresamp_crcf_s *_swig_go_
 }
 
 
-intgo _wrap_rresamp_crcf_get_decim_liquid_24d78331e3228d7c(rresamp_crcf_s *_swig_go_0) {
+intgo _wrap_RresampCrcfGetDecim_liquid_7b08cc538ffcb585(rresamp_crcf_s *_swig_go_0) {
   rresamp_crcf arg1 = (rresamp_crcf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -13146,7 +13146,7 @@ intgo _wrap_rresamp_crcf_get_decim_liquid_24d78331e3228d7c(rresamp_crcf_s *_swig
 }
 
 
-intgo _wrap_rresamp_crcf_get_block_len_liquid_24d78331e3228d7c(rresamp_crcf_s *_swig_go_0) {
+intgo _wrap_RresampCrcfGetBlockLen_liquid_7b08cc538ffcb585(rresamp_crcf_s *_swig_go_0) {
   rresamp_crcf arg1 = (rresamp_crcf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -13159,7 +13159,7 @@ intgo _wrap_rresamp_crcf_get_block_len_liquid_24d78331e3228d7c(rresamp_crcf_s *_
 }
 
 
-float _wrap_rresamp_crcf_get_rate_liquid_24d78331e3228d7c(rresamp_crcf_s *_swig_go_0) {
+float _wrap_RresampCrcfGetRate_liquid_7b08cc538ffcb585(rresamp_crcf_s *_swig_go_0) {
   rresamp_crcf arg1 = (rresamp_crcf) 0 ;
   float result;
   float _swig_go_result;
@@ -13172,7 +13172,7 @@ float _wrap_rresamp_crcf_get_rate_liquid_24d78331e3228d7c(rresamp_crcf_s *_swig_
 }
 
 
-void _wrap_rresamp_crcf_execute_liquid_24d78331e3228d7c(rresamp_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_RresampCrcfExecute_liquid_7b08cc538ffcb585(rresamp_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   rresamp_crcf arg1 = (rresamp_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -13186,7 +13186,7 @@ void _wrap_rresamp_crcf_execute_liquid_24d78331e3228d7c(rresamp_crcf_s *_swig_go
 }
 
 
-rresamp_cccf_s *_wrap_rresamp_cccf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+rresamp_cccf_s *_wrap_RresampCccfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -13205,7 +13205,7 @@ rresamp_cccf_s *_wrap_rresamp_cccf_create_liquid_24d78331e3228d7c(intgo _swig_go
 }
 
 
-rresamp_cccf_s *_wrap_rresamp_cccf_create_kaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
+rresamp_cccf_s *_wrap_RresampCccfCreateKaiser_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, float _swig_go_4) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -13226,7 +13226,7 @@ rresamp_cccf_s *_wrap_rresamp_cccf_create_kaiser_liquid_24d78331e3228d7c(intgo _
 }
 
 
-rresamp_cccf_s *_wrap_rresamp_cccf_create_prototype_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4) {
+rresamp_cccf_s *_wrap_RresampCccfCreatePrototype_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -13247,7 +13247,7 @@ rresamp_cccf_s *_wrap_rresamp_cccf_create_prototype_liquid_24d78331e3228d7c(intg
 }
 
 
-rresamp_cccf_s *_wrap_rresamp_cccf_create_default_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+rresamp_cccf_s *_wrap_RresampCccfCreateDefault_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   rresamp_cccf result;
@@ -13262,7 +13262,7 @@ rresamp_cccf_s *_wrap_rresamp_cccf_create_default_liquid_24d78331e3228d7c(intgo 
 }
 
 
-void _wrap_rresamp_cccf_destroy_liquid_24d78331e3228d7c(rresamp_cccf_s *_swig_go_0) {
+void _wrap_RresampCccfDestroy_liquid_7b08cc538ffcb585(rresamp_cccf_s *_swig_go_0) {
   rresamp_cccf arg1 = (rresamp_cccf) 0 ;
   
   arg1 = *(rresamp_cccf *)&_swig_go_0; 
@@ -13272,7 +13272,7 @@ void _wrap_rresamp_cccf_destroy_liquid_24d78331e3228d7c(rresamp_cccf_s *_swig_go
 }
 
 
-void _wrap_rresamp_cccf_print_liquid_24d78331e3228d7c(rresamp_cccf_s *_swig_go_0) {
+void _wrap_RresampCccfPrint_liquid_7b08cc538ffcb585(rresamp_cccf_s *_swig_go_0) {
   rresamp_cccf arg1 = (rresamp_cccf) 0 ;
   
   arg1 = *(rresamp_cccf *)&_swig_go_0; 
@@ -13282,7 +13282,7 @@ void _wrap_rresamp_cccf_print_liquid_24d78331e3228d7c(rresamp_cccf_s *_swig_go_0
 }
 
 
-void _wrap_rresamp_cccf_reset_liquid_24d78331e3228d7c(rresamp_cccf_s *_swig_go_0) {
+void _wrap_RresampCccfReset_liquid_7b08cc538ffcb585(rresamp_cccf_s *_swig_go_0) {
   rresamp_cccf arg1 = (rresamp_cccf) 0 ;
   
   arg1 = *(rresamp_cccf *)&_swig_go_0; 
@@ -13292,7 +13292,7 @@ void _wrap_rresamp_cccf_reset_liquid_24d78331e3228d7c(rresamp_cccf_s *_swig_go_0
 }
 
 
-void _wrap_rresamp_cccf_set_scale_liquid_24d78331e3228d7c(rresamp_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_RresampCccfSetScale_liquid_7b08cc538ffcb585(rresamp_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   rresamp_cccf arg1 = (rresamp_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -13311,7 +13311,7 @@ void _wrap_rresamp_cccf_set_scale_liquid_24d78331e3228d7c(rresamp_cccf_s *_swig_
 }
 
 
-void _wrap_rresamp_cccf_get_scale_liquid_24d78331e3228d7c(rresamp_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_RresampCccfGetScale_liquid_7b08cc538ffcb585(rresamp_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   rresamp_cccf arg1 = (rresamp_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -13323,7 +13323,7 @@ void _wrap_rresamp_cccf_get_scale_liquid_24d78331e3228d7c(rresamp_cccf_s *_swig_
 }
 
 
-intgo _wrap_rresamp_cccf_get_delay_liquid_24d78331e3228d7c(rresamp_cccf_s *_swig_go_0) {
+intgo _wrap_RresampCccfGetDelay_liquid_7b08cc538ffcb585(rresamp_cccf_s *_swig_go_0) {
   rresamp_cccf arg1 = (rresamp_cccf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -13336,7 +13336,7 @@ intgo _wrap_rresamp_cccf_get_delay_liquid_24d78331e3228d7c(rresamp_cccf_s *_swig
 }
 
 
-intgo _wrap_rresamp_cccf_get_P_liquid_24d78331e3228d7c(rresamp_cccf_s *_swig_go_0) {
+intgo _wrap_RresampCccfGetP_liquid_7b08cc538ffcb585(rresamp_cccf_s *_swig_go_0) {
   rresamp_cccf arg1 = (rresamp_cccf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -13349,7 +13349,7 @@ intgo _wrap_rresamp_cccf_get_P_liquid_24d78331e3228d7c(rresamp_cccf_s *_swig_go_
 }
 
 
-intgo _wrap_rresamp_cccf_get_interp_liquid_24d78331e3228d7c(rresamp_cccf_s *_swig_go_0) {
+intgo _wrap_RresampCccfGetInterp_liquid_7b08cc538ffcb585(rresamp_cccf_s *_swig_go_0) {
   rresamp_cccf arg1 = (rresamp_cccf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -13362,7 +13362,7 @@ intgo _wrap_rresamp_cccf_get_interp_liquid_24d78331e3228d7c(rresamp_cccf_s *_swi
 }
 
 
-intgo _wrap_rresamp_cccf_get_Q_liquid_24d78331e3228d7c(rresamp_cccf_s *_swig_go_0) {
+intgo _wrap_RresampCccfGetQ_liquid_7b08cc538ffcb585(rresamp_cccf_s *_swig_go_0) {
   rresamp_cccf arg1 = (rresamp_cccf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -13375,7 +13375,7 @@ intgo _wrap_rresamp_cccf_get_Q_liquid_24d78331e3228d7c(rresamp_cccf_s *_swig_go_
 }
 
 
-intgo _wrap_rresamp_cccf_get_decim_liquid_24d78331e3228d7c(rresamp_cccf_s *_swig_go_0) {
+intgo _wrap_RresampCccfGetDecim_liquid_7b08cc538ffcb585(rresamp_cccf_s *_swig_go_0) {
   rresamp_cccf arg1 = (rresamp_cccf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -13388,7 +13388,7 @@ intgo _wrap_rresamp_cccf_get_decim_liquid_24d78331e3228d7c(rresamp_cccf_s *_swig
 }
 
 
-intgo _wrap_rresamp_cccf_get_block_len_liquid_24d78331e3228d7c(rresamp_cccf_s *_swig_go_0) {
+intgo _wrap_RresampCccfGetBlockLen_liquid_7b08cc538ffcb585(rresamp_cccf_s *_swig_go_0) {
   rresamp_cccf arg1 = (rresamp_cccf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -13401,7 +13401,7 @@ intgo _wrap_rresamp_cccf_get_block_len_liquid_24d78331e3228d7c(rresamp_cccf_s *_
 }
 
 
-float _wrap_rresamp_cccf_get_rate_liquid_24d78331e3228d7c(rresamp_cccf_s *_swig_go_0) {
+float _wrap_RresampCccfGetRate_liquid_7b08cc538ffcb585(rresamp_cccf_s *_swig_go_0) {
   rresamp_cccf arg1 = (rresamp_cccf) 0 ;
   float result;
   float _swig_go_result;
@@ -13414,7 +13414,7 @@ float _wrap_rresamp_cccf_get_rate_liquid_24d78331e3228d7c(rresamp_cccf_s *_swig_
 }
 
 
-void _wrap_rresamp_cccf_execute_liquid_24d78331e3228d7c(rresamp_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_RresampCccfExecute_liquid_7b08cc538ffcb585(rresamp_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   rresamp_cccf arg1 = (rresamp_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -13428,7 +13428,7 @@ void _wrap_rresamp_cccf_execute_liquid_24d78331e3228d7c(rresamp_cccf_s *_swig_go
 }
 
 
-resamp_rrrf_s *_wrap_resamp_rrrf_create_liquid_24d78331e3228d7c(float _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, intgo _swig_go_4) {
+resamp_rrrf_s *_wrap_ResampRrrfCreate_liquid_7b08cc538ffcb585(float _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, intgo _swig_go_4) {
   float arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -13449,7 +13449,7 @@ resamp_rrrf_s *_wrap_resamp_rrrf_create_liquid_24d78331e3228d7c(float _swig_go_0
 }
 
 
-resamp_rrrf_s *_wrap_resamp_rrrf_create_default_liquid_24d78331e3228d7c(float _swig_go_0) {
+resamp_rrrf_s *_wrap_ResampRrrfCreateDefault_liquid_7b08cc538ffcb585(float _swig_go_0) {
   float arg1 ;
   resamp_rrrf result;
   resamp_rrrf_s *_swig_go_result;
@@ -13462,7 +13462,7 @@ resamp_rrrf_s *_wrap_resamp_rrrf_create_default_liquid_24d78331e3228d7c(float _s
 }
 
 
-void _wrap_resamp_rrrf_destroy_liquid_24d78331e3228d7c(resamp_rrrf_s *_swig_go_0) {
+void _wrap_ResampRrrfDestroy_liquid_7b08cc538ffcb585(resamp_rrrf_s *_swig_go_0) {
   resamp_rrrf arg1 = (resamp_rrrf) 0 ;
   
   arg1 = *(resamp_rrrf *)&_swig_go_0; 
@@ -13472,7 +13472,7 @@ void _wrap_resamp_rrrf_destroy_liquid_24d78331e3228d7c(resamp_rrrf_s *_swig_go_0
 }
 
 
-void _wrap_resamp_rrrf_print_liquid_24d78331e3228d7c(resamp_rrrf_s *_swig_go_0) {
+void _wrap_ResampRrrfPrint_liquid_7b08cc538ffcb585(resamp_rrrf_s *_swig_go_0) {
   resamp_rrrf arg1 = (resamp_rrrf) 0 ;
   
   arg1 = *(resamp_rrrf *)&_swig_go_0; 
@@ -13482,7 +13482,7 @@ void _wrap_resamp_rrrf_print_liquid_24d78331e3228d7c(resamp_rrrf_s *_swig_go_0) 
 }
 
 
-void _wrap_resamp_rrrf_reset_liquid_24d78331e3228d7c(resamp_rrrf_s *_swig_go_0) {
+void _wrap_ResampRrrfReset_liquid_7b08cc538ffcb585(resamp_rrrf_s *_swig_go_0) {
   resamp_rrrf arg1 = (resamp_rrrf) 0 ;
   
   arg1 = *(resamp_rrrf *)&_swig_go_0; 
@@ -13492,7 +13492,7 @@ void _wrap_resamp_rrrf_reset_liquid_24d78331e3228d7c(resamp_rrrf_s *_swig_go_0) 
 }
 
 
-intgo _wrap_resamp_rrrf_get_delay_liquid_24d78331e3228d7c(resamp_rrrf_s *_swig_go_0) {
+intgo _wrap_ResampRrrfGetDelay_liquid_7b08cc538ffcb585(resamp_rrrf_s *_swig_go_0) {
   resamp_rrrf arg1 = (resamp_rrrf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -13505,7 +13505,7 @@ intgo _wrap_resamp_rrrf_get_delay_liquid_24d78331e3228d7c(resamp_rrrf_s *_swig_g
 }
 
 
-void _wrap_resamp_rrrf_set_rate_liquid_24d78331e3228d7c(resamp_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_ResampRrrfSetRate_liquid_7b08cc538ffcb585(resamp_rrrf_s *_swig_go_0, float _swig_go_1) {
   resamp_rrrf arg1 = (resamp_rrrf) 0 ;
   float arg2 ;
   
@@ -13517,7 +13517,7 @@ void _wrap_resamp_rrrf_set_rate_liquid_24d78331e3228d7c(resamp_rrrf_s *_swig_go_
 }
 
 
-float _wrap_resamp_rrrf_get_rate_liquid_24d78331e3228d7c(resamp_rrrf_s *_swig_go_0) {
+float _wrap_ResampRrrfGetRate_liquid_7b08cc538ffcb585(resamp_rrrf_s *_swig_go_0) {
   resamp_rrrf arg1 = (resamp_rrrf) 0 ;
   float result;
   float _swig_go_result;
@@ -13530,7 +13530,7 @@ float _wrap_resamp_rrrf_get_rate_liquid_24d78331e3228d7c(resamp_rrrf_s *_swig_go
 }
 
 
-void _wrap_resamp_rrrf_adjust_rate_liquid_24d78331e3228d7c(resamp_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_ResampRrrfAdjustRate_liquid_7b08cc538ffcb585(resamp_rrrf_s *_swig_go_0, float _swig_go_1) {
   resamp_rrrf arg1 = (resamp_rrrf) 0 ;
   float arg2 ;
   
@@ -13542,7 +13542,7 @@ void _wrap_resamp_rrrf_adjust_rate_liquid_24d78331e3228d7c(resamp_rrrf_s *_swig_
 }
 
 
-void _wrap_resamp_rrrf_set_timing_phase_liquid_24d78331e3228d7c(resamp_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_ResampRrrfSetTimingPhase_liquid_7b08cc538ffcb585(resamp_rrrf_s *_swig_go_0, float _swig_go_1) {
   resamp_rrrf arg1 = (resamp_rrrf) 0 ;
   float arg2 ;
   
@@ -13554,7 +13554,7 @@ void _wrap_resamp_rrrf_set_timing_phase_liquid_24d78331e3228d7c(resamp_rrrf_s *_
 }
 
 
-void _wrap_resamp_rrrf_adjust_timing_phase_liquid_24d78331e3228d7c(resamp_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_ResampRrrfAdjustTimingPhase_liquid_7b08cc538ffcb585(resamp_rrrf_s *_swig_go_0, float _swig_go_1) {
   resamp_rrrf arg1 = (resamp_rrrf) 0 ;
   float arg2 ;
   
@@ -13566,7 +13566,7 @@ void _wrap_resamp_rrrf_adjust_timing_phase_liquid_24d78331e3228d7c(resamp_rrrf_s
 }
 
 
-void _wrap_resamp_rrrf_execute_liquid_24d78331e3228d7c(resamp_rrrf_s *_swig_go_0, float _swig_go_1, float *_swig_go_2, intgo *_swig_go_3) {
+void _wrap_ResampRrrfExecute_liquid_7b08cc538ffcb585(resamp_rrrf_s *_swig_go_0, float _swig_go_1, float *_swig_go_2, intgo *_swig_go_3) {
   resamp_rrrf arg1 = (resamp_rrrf) 0 ;
   float arg2 ;
   float *arg3 = (float *) 0 ;
@@ -13582,7 +13582,7 @@ void _wrap_resamp_rrrf_execute_liquid_24d78331e3228d7c(resamp_rrrf_s *_swig_go_0
 }
 
 
-void _wrap_resamp_rrrf_execute_block_liquid_24d78331e3228d7c(resamp_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3, intgo *_swig_go_4) {
+void _wrap_ResampRrrfExecuteBlock_liquid_7b08cc538ffcb585(resamp_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3, intgo *_swig_go_4) {
   resamp_rrrf arg1 = (resamp_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -13600,7 +13600,7 @@ void _wrap_resamp_rrrf_execute_block_liquid_24d78331e3228d7c(resamp_rrrf_s *_swi
 }
 
 
-resamp_crcf_s *_wrap_resamp_crcf_create_liquid_24d78331e3228d7c(float _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, intgo _swig_go_4) {
+resamp_crcf_s *_wrap_ResampCrcfCreate_liquid_7b08cc538ffcb585(float _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, intgo _swig_go_4) {
   float arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -13621,7 +13621,7 @@ resamp_crcf_s *_wrap_resamp_crcf_create_liquid_24d78331e3228d7c(float _swig_go_0
 }
 
 
-resamp_crcf_s *_wrap_resamp_crcf_create_default_liquid_24d78331e3228d7c(float _swig_go_0) {
+resamp_crcf_s *_wrap_ResampCrcfCreateDefault_liquid_7b08cc538ffcb585(float _swig_go_0) {
   float arg1 ;
   resamp_crcf result;
   resamp_crcf_s *_swig_go_result;
@@ -13634,7 +13634,7 @@ resamp_crcf_s *_wrap_resamp_crcf_create_default_liquid_24d78331e3228d7c(float _s
 }
 
 
-void _wrap_resamp_crcf_destroy_liquid_24d78331e3228d7c(resamp_crcf_s *_swig_go_0) {
+void _wrap_ResampCrcfDestroy_liquid_7b08cc538ffcb585(resamp_crcf_s *_swig_go_0) {
   resamp_crcf arg1 = (resamp_crcf) 0 ;
   
   arg1 = *(resamp_crcf *)&_swig_go_0; 
@@ -13644,7 +13644,7 @@ void _wrap_resamp_crcf_destroy_liquid_24d78331e3228d7c(resamp_crcf_s *_swig_go_0
 }
 
 
-void _wrap_resamp_crcf_print_liquid_24d78331e3228d7c(resamp_crcf_s *_swig_go_0) {
+void _wrap_ResampCrcfPrint_liquid_7b08cc538ffcb585(resamp_crcf_s *_swig_go_0) {
   resamp_crcf arg1 = (resamp_crcf) 0 ;
   
   arg1 = *(resamp_crcf *)&_swig_go_0; 
@@ -13654,7 +13654,7 @@ void _wrap_resamp_crcf_print_liquid_24d78331e3228d7c(resamp_crcf_s *_swig_go_0) 
 }
 
 
-void _wrap_resamp_crcf_reset_liquid_24d78331e3228d7c(resamp_crcf_s *_swig_go_0) {
+void _wrap_ResampCrcfReset_liquid_7b08cc538ffcb585(resamp_crcf_s *_swig_go_0) {
   resamp_crcf arg1 = (resamp_crcf) 0 ;
   
   arg1 = *(resamp_crcf *)&_swig_go_0; 
@@ -13664,7 +13664,7 @@ void _wrap_resamp_crcf_reset_liquid_24d78331e3228d7c(resamp_crcf_s *_swig_go_0) 
 }
 
 
-intgo _wrap_resamp_crcf_get_delay_liquid_24d78331e3228d7c(resamp_crcf_s *_swig_go_0) {
+intgo _wrap_ResampCrcfGetDelay_liquid_7b08cc538ffcb585(resamp_crcf_s *_swig_go_0) {
   resamp_crcf arg1 = (resamp_crcf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -13677,7 +13677,7 @@ intgo _wrap_resamp_crcf_get_delay_liquid_24d78331e3228d7c(resamp_crcf_s *_swig_g
 }
 
 
-void _wrap_resamp_crcf_set_rate_liquid_24d78331e3228d7c(resamp_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_ResampCrcfSetRate_liquid_7b08cc538ffcb585(resamp_crcf_s *_swig_go_0, float _swig_go_1) {
   resamp_crcf arg1 = (resamp_crcf) 0 ;
   float arg2 ;
   
@@ -13689,7 +13689,7 @@ void _wrap_resamp_crcf_set_rate_liquid_24d78331e3228d7c(resamp_crcf_s *_swig_go_
 }
 
 
-float _wrap_resamp_crcf_get_rate_liquid_24d78331e3228d7c(resamp_crcf_s *_swig_go_0) {
+float _wrap_ResampCrcfGetRate_liquid_7b08cc538ffcb585(resamp_crcf_s *_swig_go_0) {
   resamp_crcf arg1 = (resamp_crcf) 0 ;
   float result;
   float _swig_go_result;
@@ -13702,7 +13702,7 @@ float _wrap_resamp_crcf_get_rate_liquid_24d78331e3228d7c(resamp_crcf_s *_swig_go
 }
 
 
-void _wrap_resamp_crcf_adjust_rate_liquid_24d78331e3228d7c(resamp_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_ResampCrcfAdjustRate_liquid_7b08cc538ffcb585(resamp_crcf_s *_swig_go_0, float _swig_go_1) {
   resamp_crcf arg1 = (resamp_crcf) 0 ;
   float arg2 ;
   
@@ -13714,7 +13714,7 @@ void _wrap_resamp_crcf_adjust_rate_liquid_24d78331e3228d7c(resamp_crcf_s *_swig_
 }
 
 
-void _wrap_resamp_crcf_set_timing_phase_liquid_24d78331e3228d7c(resamp_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_ResampCrcfSetTimingPhase_liquid_7b08cc538ffcb585(resamp_crcf_s *_swig_go_0, float _swig_go_1) {
   resamp_crcf arg1 = (resamp_crcf) 0 ;
   float arg2 ;
   
@@ -13726,7 +13726,7 @@ void _wrap_resamp_crcf_set_timing_phase_liquid_24d78331e3228d7c(resamp_crcf_s *_
 }
 
 
-void _wrap_resamp_crcf_adjust_timing_phase_liquid_24d78331e3228d7c(resamp_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_ResampCrcfAdjustTimingPhase_liquid_7b08cc538ffcb585(resamp_crcf_s *_swig_go_0, float _swig_go_1) {
   resamp_crcf arg1 = (resamp_crcf) 0 ;
   float arg2 ;
   
@@ -13738,7 +13738,7 @@ void _wrap_resamp_crcf_adjust_timing_phase_liquid_24d78331e3228d7c(resamp_crcf_s
 }
 
 
-void _wrap_resamp_crcf_execute_liquid_24d78331e3228d7c(resamp_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo *_swig_go_3) {
+void _wrap_ResampCrcfExecute_liquid_7b08cc538ffcb585(resamp_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo *_swig_go_3) {
   resamp_crcf arg1 = (resamp_crcf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -13761,7 +13761,7 @@ void _wrap_resamp_crcf_execute_liquid_24d78331e3228d7c(resamp_crcf_s *_swig_go_0
 }
 
 
-void _wrap_resamp_crcf_execute_block_liquid_24d78331e3228d7c(resamp_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, intgo *_swig_go_4) {
+void _wrap_ResampCrcfExecuteBlock_liquid_7b08cc538ffcb585(resamp_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, intgo *_swig_go_4) {
   resamp_crcf arg1 = (resamp_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -13779,7 +13779,7 @@ void _wrap_resamp_crcf_execute_block_liquid_24d78331e3228d7c(resamp_crcf_s *_swi
 }
 
 
-resamp_cccf_s *_wrap_resamp_cccf_create_liquid_24d78331e3228d7c(float _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, intgo _swig_go_4) {
+resamp_cccf_s *_wrap_ResampCccfCreate_liquid_7b08cc538ffcb585(float _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, intgo _swig_go_4) {
   float arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -13800,7 +13800,7 @@ resamp_cccf_s *_wrap_resamp_cccf_create_liquid_24d78331e3228d7c(float _swig_go_0
 }
 
 
-resamp_cccf_s *_wrap_resamp_cccf_create_default_liquid_24d78331e3228d7c(float _swig_go_0) {
+resamp_cccf_s *_wrap_ResampCccfCreateDefault_liquid_7b08cc538ffcb585(float _swig_go_0) {
   float arg1 ;
   resamp_cccf result;
   resamp_cccf_s *_swig_go_result;
@@ -13813,7 +13813,7 @@ resamp_cccf_s *_wrap_resamp_cccf_create_default_liquid_24d78331e3228d7c(float _s
 }
 
 
-void _wrap_resamp_cccf_destroy_liquid_24d78331e3228d7c(resamp_cccf_s *_swig_go_0) {
+void _wrap_ResampCccfDestroy_liquid_7b08cc538ffcb585(resamp_cccf_s *_swig_go_0) {
   resamp_cccf arg1 = (resamp_cccf) 0 ;
   
   arg1 = *(resamp_cccf *)&_swig_go_0; 
@@ -13823,7 +13823,7 @@ void _wrap_resamp_cccf_destroy_liquid_24d78331e3228d7c(resamp_cccf_s *_swig_go_0
 }
 
 
-void _wrap_resamp_cccf_print_liquid_24d78331e3228d7c(resamp_cccf_s *_swig_go_0) {
+void _wrap_ResampCccfPrint_liquid_7b08cc538ffcb585(resamp_cccf_s *_swig_go_0) {
   resamp_cccf arg1 = (resamp_cccf) 0 ;
   
   arg1 = *(resamp_cccf *)&_swig_go_0; 
@@ -13833,7 +13833,7 @@ void _wrap_resamp_cccf_print_liquid_24d78331e3228d7c(resamp_cccf_s *_swig_go_0) 
 }
 
 
-void _wrap_resamp_cccf_reset_liquid_24d78331e3228d7c(resamp_cccf_s *_swig_go_0) {
+void _wrap_ResampCccfReset_liquid_7b08cc538ffcb585(resamp_cccf_s *_swig_go_0) {
   resamp_cccf arg1 = (resamp_cccf) 0 ;
   
   arg1 = *(resamp_cccf *)&_swig_go_0; 
@@ -13843,7 +13843,7 @@ void _wrap_resamp_cccf_reset_liquid_24d78331e3228d7c(resamp_cccf_s *_swig_go_0) 
 }
 
 
-intgo _wrap_resamp_cccf_get_delay_liquid_24d78331e3228d7c(resamp_cccf_s *_swig_go_0) {
+intgo _wrap_ResampCccfGetDelay_liquid_7b08cc538ffcb585(resamp_cccf_s *_swig_go_0) {
   resamp_cccf arg1 = (resamp_cccf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -13856,7 +13856,7 @@ intgo _wrap_resamp_cccf_get_delay_liquid_24d78331e3228d7c(resamp_cccf_s *_swig_g
 }
 
 
-void _wrap_resamp_cccf_set_rate_liquid_24d78331e3228d7c(resamp_cccf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_ResampCccfSetRate_liquid_7b08cc538ffcb585(resamp_cccf_s *_swig_go_0, float _swig_go_1) {
   resamp_cccf arg1 = (resamp_cccf) 0 ;
   float arg2 ;
   
@@ -13868,7 +13868,7 @@ void _wrap_resamp_cccf_set_rate_liquid_24d78331e3228d7c(resamp_cccf_s *_swig_go_
 }
 
 
-float _wrap_resamp_cccf_get_rate_liquid_24d78331e3228d7c(resamp_cccf_s *_swig_go_0) {
+float _wrap_ResampCccfGetRate_liquid_7b08cc538ffcb585(resamp_cccf_s *_swig_go_0) {
   resamp_cccf arg1 = (resamp_cccf) 0 ;
   float result;
   float _swig_go_result;
@@ -13881,7 +13881,7 @@ float _wrap_resamp_cccf_get_rate_liquid_24d78331e3228d7c(resamp_cccf_s *_swig_go
 }
 
 
-void _wrap_resamp_cccf_adjust_rate_liquid_24d78331e3228d7c(resamp_cccf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_ResampCccfAdjustRate_liquid_7b08cc538ffcb585(resamp_cccf_s *_swig_go_0, float _swig_go_1) {
   resamp_cccf arg1 = (resamp_cccf) 0 ;
   float arg2 ;
   
@@ -13893,7 +13893,7 @@ void _wrap_resamp_cccf_adjust_rate_liquid_24d78331e3228d7c(resamp_cccf_s *_swig_
 }
 
 
-void _wrap_resamp_cccf_set_timing_phase_liquid_24d78331e3228d7c(resamp_cccf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_ResampCccfSetTimingPhase_liquid_7b08cc538ffcb585(resamp_cccf_s *_swig_go_0, float _swig_go_1) {
   resamp_cccf arg1 = (resamp_cccf) 0 ;
   float arg2 ;
   
@@ -13905,7 +13905,7 @@ void _wrap_resamp_cccf_set_timing_phase_liquid_24d78331e3228d7c(resamp_cccf_s *_
 }
 
 
-void _wrap_resamp_cccf_adjust_timing_phase_liquid_24d78331e3228d7c(resamp_cccf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_ResampCccfAdjustTimingPhase_liquid_7b08cc538ffcb585(resamp_cccf_s *_swig_go_0, float _swig_go_1) {
   resamp_cccf arg1 = (resamp_cccf) 0 ;
   float arg2 ;
   
@@ -13917,7 +13917,7 @@ void _wrap_resamp_cccf_adjust_timing_phase_liquid_24d78331e3228d7c(resamp_cccf_s
 }
 
 
-void _wrap_resamp_cccf_execute_liquid_24d78331e3228d7c(resamp_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo *_swig_go_3) {
+void _wrap_ResampCccfExecute_liquid_7b08cc538ffcb585(resamp_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo *_swig_go_3) {
   resamp_cccf arg1 = (resamp_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -13940,7 +13940,7 @@ void _wrap_resamp_cccf_execute_liquid_24d78331e3228d7c(resamp_cccf_s *_swig_go_0
 }
 
 
-void _wrap_resamp_cccf_execute_block_liquid_24d78331e3228d7c(resamp_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, intgo *_swig_go_4) {
+void _wrap_ResampCccfExecuteBlock_liquid_7b08cc538ffcb585(resamp_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, intgo *_swig_go_4) {
   resamp_cccf arg1 = (resamp_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -13958,7 +13958,7 @@ void _wrap_resamp_cccf_execute_block_liquid_24d78331e3228d7c(resamp_cccf_s *_swi
 }
 
 
-intgo _wrap_LIQUID_RESAMP_INTERP_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDRESAMPINTERP_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -13970,7 +13970,7 @@ intgo _wrap_LIQUID_RESAMP_INTERP_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_RESAMP_DECIM_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDRESAMPDECIM_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -13982,7 +13982,7 @@ intgo _wrap_LIQUID_RESAMP_DECIM_liquid_24d78331e3228d7c() {
 }
 
 
-msresamp2_rrrf_s *_wrap_msresamp2_rrrf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4) {
+msresamp2_rrrf_s *_wrap_Msresamp2RrrfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -14003,7 +14003,7 @@ msresamp2_rrrf_s *_wrap_msresamp2_rrrf_create_liquid_24d78331e3228d7c(intgo _swi
 }
 
 
-void _wrap_msresamp2_rrrf_destroy_liquid_24d78331e3228d7c(msresamp2_rrrf_s *_swig_go_0) {
+void _wrap_Msresamp2RrrfDestroy_liquid_7b08cc538ffcb585(msresamp2_rrrf_s *_swig_go_0) {
   msresamp2_rrrf arg1 = (msresamp2_rrrf) 0 ;
   
   arg1 = *(msresamp2_rrrf *)&_swig_go_0; 
@@ -14013,7 +14013,7 @@ void _wrap_msresamp2_rrrf_destroy_liquid_24d78331e3228d7c(msresamp2_rrrf_s *_swi
 }
 
 
-void _wrap_msresamp2_rrrf_print_liquid_24d78331e3228d7c(msresamp2_rrrf_s *_swig_go_0) {
+void _wrap_Msresamp2RrrfPrint_liquid_7b08cc538ffcb585(msresamp2_rrrf_s *_swig_go_0) {
   msresamp2_rrrf arg1 = (msresamp2_rrrf) 0 ;
   
   arg1 = *(msresamp2_rrrf *)&_swig_go_0; 
@@ -14023,7 +14023,7 @@ void _wrap_msresamp2_rrrf_print_liquid_24d78331e3228d7c(msresamp2_rrrf_s *_swig_
 }
 
 
-void _wrap_msresamp2_rrrf_reset_liquid_24d78331e3228d7c(msresamp2_rrrf_s *_swig_go_0) {
+void _wrap_Msresamp2RrrfReset_liquid_7b08cc538ffcb585(msresamp2_rrrf_s *_swig_go_0) {
   msresamp2_rrrf arg1 = (msresamp2_rrrf) 0 ;
   
   arg1 = *(msresamp2_rrrf *)&_swig_go_0; 
@@ -14033,7 +14033,7 @@ void _wrap_msresamp2_rrrf_reset_liquid_24d78331e3228d7c(msresamp2_rrrf_s *_swig_
 }
 
 
-float _wrap_msresamp2_rrrf_get_rate_liquid_24d78331e3228d7c(msresamp2_rrrf_s *_swig_go_0) {
+float _wrap_Msresamp2RrrfGetRate_liquid_7b08cc538ffcb585(msresamp2_rrrf_s *_swig_go_0) {
   msresamp2_rrrf arg1 = (msresamp2_rrrf) 0 ;
   float result;
   float _swig_go_result;
@@ -14046,7 +14046,7 @@ float _wrap_msresamp2_rrrf_get_rate_liquid_24d78331e3228d7c(msresamp2_rrrf_s *_s
 }
 
 
-intgo _wrap_msresamp2_rrrf_get_num_stages_liquid_24d78331e3228d7c(msresamp2_rrrf_s *_swig_go_0) {
+intgo _wrap_Msresamp2RrrfGetNumStages_liquid_7b08cc538ffcb585(msresamp2_rrrf_s *_swig_go_0) {
   msresamp2_rrrf arg1 = (msresamp2_rrrf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -14059,7 +14059,7 @@ intgo _wrap_msresamp2_rrrf_get_num_stages_liquid_24d78331e3228d7c(msresamp2_rrrf
 }
 
 
-intgo _wrap_msresamp2_rrrf_get_type_liquid_24d78331e3228d7c(msresamp2_rrrf_s *_swig_go_0) {
+intgo _wrap_Msresamp2RrrfGetType_liquid_7b08cc538ffcb585(msresamp2_rrrf_s *_swig_go_0) {
   msresamp2_rrrf arg1 = (msresamp2_rrrf) 0 ;
   int result;
   intgo _swig_go_result;
@@ -14072,7 +14072,7 @@ intgo _wrap_msresamp2_rrrf_get_type_liquid_24d78331e3228d7c(msresamp2_rrrf_s *_s
 }
 
 
-float _wrap_msresamp2_rrrf_get_delay_liquid_24d78331e3228d7c(msresamp2_rrrf_s *_swig_go_0) {
+float _wrap_Msresamp2RrrfGetDelay_liquid_7b08cc538ffcb585(msresamp2_rrrf_s *_swig_go_0) {
   msresamp2_rrrf arg1 = (msresamp2_rrrf) 0 ;
   float result;
   float _swig_go_result;
@@ -14085,7 +14085,7 @@ float _wrap_msresamp2_rrrf_get_delay_liquid_24d78331e3228d7c(msresamp2_rrrf_s *_
 }
 
 
-void _wrap_msresamp2_rrrf_execute_liquid_24d78331e3228d7c(msresamp2_rrrf_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2) {
+void _wrap_Msresamp2RrrfExecute_liquid_7b08cc538ffcb585(msresamp2_rrrf_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2) {
   msresamp2_rrrf arg1 = (msresamp2_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -14099,7 +14099,7 @@ void _wrap_msresamp2_rrrf_execute_liquid_24d78331e3228d7c(msresamp2_rrrf_s *_swi
 }
 
 
-msresamp2_crcf_s *_wrap_msresamp2_crcf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4) {
+msresamp2_crcf_s *_wrap_Msresamp2CrcfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -14120,7 +14120,7 @@ msresamp2_crcf_s *_wrap_msresamp2_crcf_create_liquid_24d78331e3228d7c(intgo _swi
 }
 
 
-void _wrap_msresamp2_crcf_destroy_liquid_24d78331e3228d7c(msresamp2_crcf_s *_swig_go_0) {
+void _wrap_Msresamp2CrcfDestroy_liquid_7b08cc538ffcb585(msresamp2_crcf_s *_swig_go_0) {
   msresamp2_crcf arg1 = (msresamp2_crcf) 0 ;
   
   arg1 = *(msresamp2_crcf *)&_swig_go_0; 
@@ -14130,7 +14130,7 @@ void _wrap_msresamp2_crcf_destroy_liquid_24d78331e3228d7c(msresamp2_crcf_s *_swi
 }
 
 
-void _wrap_msresamp2_crcf_print_liquid_24d78331e3228d7c(msresamp2_crcf_s *_swig_go_0) {
+void _wrap_Msresamp2CrcfPrint_liquid_7b08cc538ffcb585(msresamp2_crcf_s *_swig_go_0) {
   msresamp2_crcf arg1 = (msresamp2_crcf) 0 ;
   
   arg1 = *(msresamp2_crcf *)&_swig_go_0; 
@@ -14140,7 +14140,7 @@ void _wrap_msresamp2_crcf_print_liquid_24d78331e3228d7c(msresamp2_crcf_s *_swig_
 }
 
 
-void _wrap_msresamp2_crcf_reset_liquid_24d78331e3228d7c(msresamp2_crcf_s *_swig_go_0) {
+void _wrap_Msresamp2CrcfReset_liquid_7b08cc538ffcb585(msresamp2_crcf_s *_swig_go_0) {
   msresamp2_crcf arg1 = (msresamp2_crcf) 0 ;
   
   arg1 = *(msresamp2_crcf *)&_swig_go_0; 
@@ -14150,7 +14150,7 @@ void _wrap_msresamp2_crcf_reset_liquid_24d78331e3228d7c(msresamp2_crcf_s *_swig_
 }
 
 
-float _wrap_msresamp2_crcf_get_rate_liquid_24d78331e3228d7c(msresamp2_crcf_s *_swig_go_0) {
+float _wrap_Msresamp2CrcfGetRate_liquid_7b08cc538ffcb585(msresamp2_crcf_s *_swig_go_0) {
   msresamp2_crcf arg1 = (msresamp2_crcf) 0 ;
   float result;
   float _swig_go_result;
@@ -14163,7 +14163,7 @@ float _wrap_msresamp2_crcf_get_rate_liquid_24d78331e3228d7c(msresamp2_crcf_s *_s
 }
 
 
-intgo _wrap_msresamp2_crcf_get_num_stages_liquid_24d78331e3228d7c(msresamp2_crcf_s *_swig_go_0) {
+intgo _wrap_Msresamp2CrcfGetNumStages_liquid_7b08cc538ffcb585(msresamp2_crcf_s *_swig_go_0) {
   msresamp2_crcf arg1 = (msresamp2_crcf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -14176,7 +14176,7 @@ intgo _wrap_msresamp2_crcf_get_num_stages_liquid_24d78331e3228d7c(msresamp2_crcf
 }
 
 
-intgo _wrap_msresamp2_crcf_get_type_liquid_24d78331e3228d7c(msresamp2_crcf_s *_swig_go_0) {
+intgo _wrap_Msresamp2CrcfGetType_liquid_7b08cc538ffcb585(msresamp2_crcf_s *_swig_go_0) {
   msresamp2_crcf arg1 = (msresamp2_crcf) 0 ;
   int result;
   intgo _swig_go_result;
@@ -14189,7 +14189,7 @@ intgo _wrap_msresamp2_crcf_get_type_liquid_24d78331e3228d7c(msresamp2_crcf_s *_s
 }
 
 
-float _wrap_msresamp2_crcf_get_delay_liquid_24d78331e3228d7c(msresamp2_crcf_s *_swig_go_0) {
+float _wrap_Msresamp2CrcfGetDelay_liquid_7b08cc538ffcb585(msresamp2_crcf_s *_swig_go_0) {
   msresamp2_crcf arg1 = (msresamp2_crcf) 0 ;
   float result;
   float _swig_go_result;
@@ -14202,7 +14202,7 @@ float _wrap_msresamp2_crcf_get_delay_liquid_24d78331e3228d7c(msresamp2_crcf_s *_
 }
 
 
-void _wrap_msresamp2_crcf_execute_liquid_24d78331e3228d7c(msresamp2_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_Msresamp2CrcfExecute_liquid_7b08cc538ffcb585(msresamp2_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   msresamp2_crcf arg1 = (msresamp2_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -14216,7 +14216,7 @@ void _wrap_msresamp2_crcf_execute_liquid_24d78331e3228d7c(msresamp2_crcf_s *_swi
 }
 
 
-msresamp2_cccf_s *_wrap_msresamp2_cccf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4) {
+msresamp2_cccf_s *_wrap_Msresamp2CccfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -14237,7 +14237,7 @@ msresamp2_cccf_s *_wrap_msresamp2_cccf_create_liquid_24d78331e3228d7c(intgo _swi
 }
 
 
-void _wrap_msresamp2_cccf_destroy_liquid_24d78331e3228d7c(msresamp2_cccf_s *_swig_go_0) {
+void _wrap_Msresamp2CccfDestroy_liquid_7b08cc538ffcb585(msresamp2_cccf_s *_swig_go_0) {
   msresamp2_cccf arg1 = (msresamp2_cccf) 0 ;
   
   arg1 = *(msresamp2_cccf *)&_swig_go_0; 
@@ -14247,7 +14247,7 @@ void _wrap_msresamp2_cccf_destroy_liquid_24d78331e3228d7c(msresamp2_cccf_s *_swi
 }
 
 
-void _wrap_msresamp2_cccf_print_liquid_24d78331e3228d7c(msresamp2_cccf_s *_swig_go_0) {
+void _wrap_Msresamp2CccfPrint_liquid_7b08cc538ffcb585(msresamp2_cccf_s *_swig_go_0) {
   msresamp2_cccf arg1 = (msresamp2_cccf) 0 ;
   
   arg1 = *(msresamp2_cccf *)&_swig_go_0; 
@@ -14257,7 +14257,7 @@ void _wrap_msresamp2_cccf_print_liquid_24d78331e3228d7c(msresamp2_cccf_s *_swig_
 }
 
 
-void _wrap_msresamp2_cccf_reset_liquid_24d78331e3228d7c(msresamp2_cccf_s *_swig_go_0) {
+void _wrap_Msresamp2CccfReset_liquid_7b08cc538ffcb585(msresamp2_cccf_s *_swig_go_0) {
   msresamp2_cccf arg1 = (msresamp2_cccf) 0 ;
   
   arg1 = *(msresamp2_cccf *)&_swig_go_0; 
@@ -14267,7 +14267,7 @@ void _wrap_msresamp2_cccf_reset_liquid_24d78331e3228d7c(msresamp2_cccf_s *_swig_
 }
 
 
-float _wrap_msresamp2_cccf_get_rate_liquid_24d78331e3228d7c(msresamp2_cccf_s *_swig_go_0) {
+float _wrap_Msresamp2CccfGetRate_liquid_7b08cc538ffcb585(msresamp2_cccf_s *_swig_go_0) {
   msresamp2_cccf arg1 = (msresamp2_cccf) 0 ;
   float result;
   float _swig_go_result;
@@ -14280,7 +14280,7 @@ float _wrap_msresamp2_cccf_get_rate_liquid_24d78331e3228d7c(msresamp2_cccf_s *_s
 }
 
 
-intgo _wrap_msresamp2_cccf_get_num_stages_liquid_24d78331e3228d7c(msresamp2_cccf_s *_swig_go_0) {
+intgo _wrap_Msresamp2CccfGetNumStages_liquid_7b08cc538ffcb585(msresamp2_cccf_s *_swig_go_0) {
   msresamp2_cccf arg1 = (msresamp2_cccf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -14293,7 +14293,7 @@ intgo _wrap_msresamp2_cccf_get_num_stages_liquid_24d78331e3228d7c(msresamp2_cccf
 }
 
 
-intgo _wrap_msresamp2_cccf_get_type_liquid_24d78331e3228d7c(msresamp2_cccf_s *_swig_go_0) {
+intgo _wrap_Msresamp2CccfGetType_liquid_7b08cc538ffcb585(msresamp2_cccf_s *_swig_go_0) {
   msresamp2_cccf arg1 = (msresamp2_cccf) 0 ;
   int result;
   intgo _swig_go_result;
@@ -14306,7 +14306,7 @@ intgo _wrap_msresamp2_cccf_get_type_liquid_24d78331e3228d7c(msresamp2_cccf_s *_s
 }
 
 
-float _wrap_msresamp2_cccf_get_delay_liquid_24d78331e3228d7c(msresamp2_cccf_s *_swig_go_0) {
+float _wrap_Msresamp2CccfGetDelay_liquid_7b08cc538ffcb585(msresamp2_cccf_s *_swig_go_0) {
   msresamp2_cccf arg1 = (msresamp2_cccf) 0 ;
   float result;
   float _swig_go_result;
@@ -14319,7 +14319,7 @@ float _wrap_msresamp2_cccf_get_delay_liquid_24d78331e3228d7c(msresamp2_cccf_s *_
 }
 
 
-void _wrap_msresamp2_cccf_execute_liquid_24d78331e3228d7c(msresamp2_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_Msresamp2CccfExecute_liquid_7b08cc538ffcb585(msresamp2_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   msresamp2_cccf arg1 = (msresamp2_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -14333,7 +14333,7 @@ void _wrap_msresamp2_cccf_execute_liquid_24d78331e3228d7c(msresamp2_cccf_s *_swi
 }
 
 
-msresamp_rrrf_s *_wrap_msresamp_rrrf_create_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1) {
+msresamp_rrrf_s *_wrap_MsresampRrrfCreate_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1) {
   float arg1 ;
   float arg2 ;
   msresamp_rrrf result;
@@ -14348,7 +14348,7 @@ msresamp_rrrf_s *_wrap_msresamp_rrrf_create_liquid_24d78331e3228d7c(float _swig_
 }
 
 
-void _wrap_msresamp_rrrf_destroy_liquid_24d78331e3228d7c(msresamp_rrrf_s *_swig_go_0) {
+void _wrap_MsresampRrrfDestroy_liquid_7b08cc538ffcb585(msresamp_rrrf_s *_swig_go_0) {
   msresamp_rrrf arg1 = (msresamp_rrrf) 0 ;
   
   arg1 = *(msresamp_rrrf *)&_swig_go_0; 
@@ -14358,7 +14358,7 @@ void _wrap_msresamp_rrrf_destroy_liquid_24d78331e3228d7c(msresamp_rrrf_s *_swig_
 }
 
 
-void _wrap_msresamp_rrrf_print_liquid_24d78331e3228d7c(msresamp_rrrf_s *_swig_go_0) {
+void _wrap_MsresampRrrfPrint_liquid_7b08cc538ffcb585(msresamp_rrrf_s *_swig_go_0) {
   msresamp_rrrf arg1 = (msresamp_rrrf) 0 ;
   
   arg1 = *(msresamp_rrrf *)&_swig_go_0; 
@@ -14368,7 +14368,7 @@ void _wrap_msresamp_rrrf_print_liquid_24d78331e3228d7c(msresamp_rrrf_s *_swig_go
 }
 
 
-void _wrap_msresamp_rrrf_reset_liquid_24d78331e3228d7c(msresamp_rrrf_s *_swig_go_0) {
+void _wrap_MsresampRrrfReset_liquid_7b08cc538ffcb585(msresamp_rrrf_s *_swig_go_0) {
   msresamp_rrrf arg1 = (msresamp_rrrf) 0 ;
   
   arg1 = *(msresamp_rrrf *)&_swig_go_0; 
@@ -14378,7 +14378,7 @@ void _wrap_msresamp_rrrf_reset_liquid_24d78331e3228d7c(msresamp_rrrf_s *_swig_go
 }
 
 
-float _wrap_msresamp_rrrf_get_delay_liquid_24d78331e3228d7c(msresamp_rrrf_s *_swig_go_0) {
+float _wrap_MsresampRrrfGetDelay_liquid_7b08cc538ffcb585(msresamp_rrrf_s *_swig_go_0) {
   msresamp_rrrf arg1 = (msresamp_rrrf) 0 ;
   float result;
   float _swig_go_result;
@@ -14391,7 +14391,7 @@ float _wrap_msresamp_rrrf_get_delay_liquid_24d78331e3228d7c(msresamp_rrrf_s *_sw
 }
 
 
-float _wrap_msresamp_rrrf_get_rate_liquid_24d78331e3228d7c(msresamp_rrrf_s *_swig_go_0) {
+float _wrap_MsresampRrrfGetRate_liquid_7b08cc538ffcb585(msresamp_rrrf_s *_swig_go_0) {
   msresamp_rrrf arg1 = (msresamp_rrrf) 0 ;
   float result;
   float _swig_go_result;
@@ -14404,7 +14404,7 @@ float _wrap_msresamp_rrrf_get_rate_liquid_24d78331e3228d7c(msresamp_rrrf_s *_swi
 }
 
 
-void _wrap_msresamp_rrrf_execute_liquid_24d78331e3228d7c(msresamp_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3, intgo *_swig_go_4) {
+void _wrap_MsresampRrrfExecute_liquid_7b08cc538ffcb585(msresamp_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3, intgo *_swig_go_4) {
   msresamp_rrrf arg1 = (msresamp_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -14422,7 +14422,7 @@ void _wrap_msresamp_rrrf_execute_liquid_24d78331e3228d7c(msresamp_rrrf_s *_swig_
 }
 
 
-msresamp_crcf_s *_wrap_msresamp_crcf_create_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1) {
+msresamp_crcf_s *_wrap_MsresampCrcfCreate_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1) {
   float arg1 ;
   float arg2 ;
   msresamp_crcf result;
@@ -14437,7 +14437,7 @@ msresamp_crcf_s *_wrap_msresamp_crcf_create_liquid_24d78331e3228d7c(float _swig_
 }
 
 
-void _wrap_msresamp_crcf_destroy_liquid_24d78331e3228d7c(msresamp_crcf_s *_swig_go_0) {
+void _wrap_MsresampCrcfDestroy_liquid_7b08cc538ffcb585(msresamp_crcf_s *_swig_go_0) {
   msresamp_crcf arg1 = (msresamp_crcf) 0 ;
   
   arg1 = *(msresamp_crcf *)&_swig_go_0; 
@@ -14447,7 +14447,7 @@ void _wrap_msresamp_crcf_destroy_liquid_24d78331e3228d7c(msresamp_crcf_s *_swig_
 }
 
 
-void _wrap_msresamp_crcf_print_liquid_24d78331e3228d7c(msresamp_crcf_s *_swig_go_0) {
+void _wrap_MsresampCrcfPrint_liquid_7b08cc538ffcb585(msresamp_crcf_s *_swig_go_0) {
   msresamp_crcf arg1 = (msresamp_crcf) 0 ;
   
   arg1 = *(msresamp_crcf *)&_swig_go_0; 
@@ -14457,7 +14457,7 @@ void _wrap_msresamp_crcf_print_liquid_24d78331e3228d7c(msresamp_crcf_s *_swig_go
 }
 
 
-void _wrap_msresamp_crcf_reset_liquid_24d78331e3228d7c(msresamp_crcf_s *_swig_go_0) {
+void _wrap_MsresampCrcfReset_liquid_7b08cc538ffcb585(msresamp_crcf_s *_swig_go_0) {
   msresamp_crcf arg1 = (msresamp_crcf) 0 ;
   
   arg1 = *(msresamp_crcf *)&_swig_go_0; 
@@ -14467,7 +14467,7 @@ void _wrap_msresamp_crcf_reset_liquid_24d78331e3228d7c(msresamp_crcf_s *_swig_go
 }
 
 
-float _wrap_msresamp_crcf_get_delay_liquid_24d78331e3228d7c(msresamp_crcf_s *_swig_go_0) {
+float _wrap_MsresampCrcfGetDelay_liquid_7b08cc538ffcb585(msresamp_crcf_s *_swig_go_0) {
   msresamp_crcf arg1 = (msresamp_crcf) 0 ;
   float result;
   float _swig_go_result;
@@ -14480,7 +14480,7 @@ float _wrap_msresamp_crcf_get_delay_liquid_24d78331e3228d7c(msresamp_crcf_s *_sw
 }
 
 
-float _wrap_msresamp_crcf_get_rate_liquid_24d78331e3228d7c(msresamp_crcf_s *_swig_go_0) {
+float _wrap_MsresampCrcfGetRate_liquid_7b08cc538ffcb585(msresamp_crcf_s *_swig_go_0) {
   msresamp_crcf arg1 = (msresamp_crcf) 0 ;
   float result;
   float _swig_go_result;
@@ -14493,7 +14493,7 @@ float _wrap_msresamp_crcf_get_rate_liquid_24d78331e3228d7c(msresamp_crcf_s *_swi
 }
 
 
-void _wrap_msresamp_crcf_execute_liquid_24d78331e3228d7c(msresamp_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, intgo *_swig_go_4) {
+void _wrap_MsresampCrcfExecute_liquid_7b08cc538ffcb585(msresamp_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, intgo *_swig_go_4) {
   msresamp_crcf arg1 = (msresamp_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -14511,7 +14511,7 @@ void _wrap_msresamp_crcf_execute_liquid_24d78331e3228d7c(msresamp_crcf_s *_swig_
 }
 
 
-msresamp_cccf_s *_wrap_msresamp_cccf_create_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1) {
+msresamp_cccf_s *_wrap_MsresampCccfCreate_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1) {
   float arg1 ;
   float arg2 ;
   msresamp_cccf result;
@@ -14526,7 +14526,7 @@ msresamp_cccf_s *_wrap_msresamp_cccf_create_liquid_24d78331e3228d7c(float _swig_
 }
 
 
-void _wrap_msresamp_cccf_destroy_liquid_24d78331e3228d7c(msresamp_cccf_s *_swig_go_0) {
+void _wrap_MsresampCccfDestroy_liquid_7b08cc538ffcb585(msresamp_cccf_s *_swig_go_0) {
   msresamp_cccf arg1 = (msresamp_cccf) 0 ;
   
   arg1 = *(msresamp_cccf *)&_swig_go_0; 
@@ -14536,7 +14536,7 @@ void _wrap_msresamp_cccf_destroy_liquid_24d78331e3228d7c(msresamp_cccf_s *_swig_
 }
 
 
-void _wrap_msresamp_cccf_print_liquid_24d78331e3228d7c(msresamp_cccf_s *_swig_go_0) {
+void _wrap_MsresampCccfPrint_liquid_7b08cc538ffcb585(msresamp_cccf_s *_swig_go_0) {
   msresamp_cccf arg1 = (msresamp_cccf) 0 ;
   
   arg1 = *(msresamp_cccf *)&_swig_go_0; 
@@ -14546,7 +14546,7 @@ void _wrap_msresamp_cccf_print_liquid_24d78331e3228d7c(msresamp_cccf_s *_swig_go
 }
 
 
-void _wrap_msresamp_cccf_reset_liquid_24d78331e3228d7c(msresamp_cccf_s *_swig_go_0) {
+void _wrap_MsresampCccfReset_liquid_7b08cc538ffcb585(msresamp_cccf_s *_swig_go_0) {
   msresamp_cccf arg1 = (msresamp_cccf) 0 ;
   
   arg1 = *(msresamp_cccf *)&_swig_go_0; 
@@ -14556,7 +14556,7 @@ void _wrap_msresamp_cccf_reset_liquid_24d78331e3228d7c(msresamp_cccf_s *_swig_go
 }
 
 
-float _wrap_msresamp_cccf_get_delay_liquid_24d78331e3228d7c(msresamp_cccf_s *_swig_go_0) {
+float _wrap_MsresampCccfGetDelay_liquid_7b08cc538ffcb585(msresamp_cccf_s *_swig_go_0) {
   msresamp_cccf arg1 = (msresamp_cccf) 0 ;
   float result;
   float _swig_go_result;
@@ -14569,7 +14569,7 @@ float _wrap_msresamp_cccf_get_delay_liquid_24d78331e3228d7c(msresamp_cccf_s *_sw
 }
 
 
-float _wrap_msresamp_cccf_get_rate_liquid_24d78331e3228d7c(msresamp_cccf_s *_swig_go_0) {
+float _wrap_MsresampCccfGetRate_liquid_7b08cc538ffcb585(msresamp_cccf_s *_swig_go_0) {
   msresamp_cccf arg1 = (msresamp_cccf) 0 ;
   float result;
   float _swig_go_result;
@@ -14582,7 +14582,7 @@ float _wrap_msresamp_cccf_get_rate_liquid_24d78331e3228d7c(msresamp_cccf_s *_swi
 }
 
 
-void _wrap_msresamp_cccf_execute_liquid_24d78331e3228d7c(msresamp_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, intgo *_swig_go_4) {
+void _wrap_MsresampCccfExecute_liquid_7b08cc538ffcb585(msresamp_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, intgo *_swig_go_4) {
   msresamp_cccf arg1 = (msresamp_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -14600,7 +14600,7 @@ void _wrap_msresamp_cccf_execute_liquid_24d78331e3228d7c(msresamp_cccf_s *_swig_
 }
 
 
-symsync_rrrf_s *_wrap_symsync_rrrf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float *_swig_go_2, intgo _swig_go_3) {
+symsync_rrrf_s *_wrap_SymsyncRrrfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float *_swig_go_2, intgo _swig_go_3) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -14619,7 +14619,7 @@ symsync_rrrf_s *_wrap_symsync_rrrf_create_liquid_24d78331e3228d7c(intgo _swig_go
 }
 
 
-symsync_rrrf_s *_wrap_symsync_rrrf_create_rnyquist_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, intgo _swig_go_4) {
+symsync_rrrf_s *_wrap_SymsyncRrrfCreateRnyquist_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, intgo _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -14640,7 +14640,7 @@ symsync_rrrf_s *_wrap_symsync_rrrf_create_rnyquist_liquid_24d78331e3228d7c(intgo
 }
 
 
-symsync_rrrf_s *_wrap_symsync_rrrf_create_kaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, intgo _swig_go_3) {
+symsync_rrrf_s *_wrap_SymsyncRrrfCreateKaiser_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, intgo _swig_go_3) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -14659,7 +14659,7 @@ symsync_rrrf_s *_wrap_symsync_rrrf_create_kaiser_liquid_24d78331e3228d7c(intgo _
 }
 
 
-void _wrap_symsync_rrrf_destroy_liquid_24d78331e3228d7c(symsync_rrrf_s *_swig_go_0) {
+void _wrap_SymsyncRrrfDestroy_liquid_7b08cc538ffcb585(symsync_rrrf_s *_swig_go_0) {
   symsync_rrrf arg1 = (symsync_rrrf) 0 ;
   
   arg1 = *(symsync_rrrf *)&_swig_go_0; 
@@ -14669,7 +14669,7 @@ void _wrap_symsync_rrrf_destroy_liquid_24d78331e3228d7c(symsync_rrrf_s *_swig_go
 }
 
 
-void _wrap_symsync_rrrf_print_liquid_24d78331e3228d7c(symsync_rrrf_s *_swig_go_0) {
+void _wrap_SymsyncRrrfPrint_liquid_7b08cc538ffcb585(symsync_rrrf_s *_swig_go_0) {
   symsync_rrrf arg1 = (symsync_rrrf) 0 ;
   
   arg1 = *(symsync_rrrf *)&_swig_go_0; 
@@ -14679,7 +14679,7 @@ void _wrap_symsync_rrrf_print_liquid_24d78331e3228d7c(symsync_rrrf_s *_swig_go_0
 }
 
 
-void _wrap_symsync_rrrf_reset_liquid_24d78331e3228d7c(symsync_rrrf_s *_swig_go_0) {
+void _wrap_SymsyncRrrfReset_liquid_7b08cc538ffcb585(symsync_rrrf_s *_swig_go_0) {
   symsync_rrrf arg1 = (symsync_rrrf) 0 ;
   
   arg1 = *(symsync_rrrf *)&_swig_go_0; 
@@ -14689,7 +14689,7 @@ void _wrap_symsync_rrrf_reset_liquid_24d78331e3228d7c(symsync_rrrf_s *_swig_go_0
 }
 
 
-void _wrap_symsync_rrrf_lock_liquid_24d78331e3228d7c(symsync_rrrf_s *_swig_go_0) {
+void _wrap_SymsyncRrrfLock_liquid_7b08cc538ffcb585(symsync_rrrf_s *_swig_go_0) {
   symsync_rrrf arg1 = (symsync_rrrf) 0 ;
   
   arg1 = *(symsync_rrrf *)&_swig_go_0; 
@@ -14699,7 +14699,7 @@ void _wrap_symsync_rrrf_lock_liquid_24d78331e3228d7c(symsync_rrrf_s *_swig_go_0)
 }
 
 
-void _wrap_symsync_rrrf_unlock_liquid_24d78331e3228d7c(symsync_rrrf_s *_swig_go_0) {
+void _wrap_SymsyncRrrfUnlock_liquid_7b08cc538ffcb585(symsync_rrrf_s *_swig_go_0) {
   symsync_rrrf arg1 = (symsync_rrrf) 0 ;
   
   arg1 = *(symsync_rrrf *)&_swig_go_0; 
@@ -14709,7 +14709,7 @@ void _wrap_symsync_rrrf_unlock_liquid_24d78331e3228d7c(symsync_rrrf_s *_swig_go_
 }
 
 
-void _wrap_symsync_rrrf_set_output_rate_liquid_24d78331e3228d7c(symsync_rrrf_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_SymsyncRrrfSetOutputRate_liquid_7b08cc538ffcb585(symsync_rrrf_s *_swig_go_0, intgo _swig_go_1) {
   symsync_rrrf arg1 = (symsync_rrrf) 0 ;
   unsigned int arg2 ;
   
@@ -14721,7 +14721,7 @@ void _wrap_symsync_rrrf_set_output_rate_liquid_24d78331e3228d7c(symsync_rrrf_s *
 }
 
 
-void _wrap_symsync_rrrf_set_lf_bw_liquid_24d78331e3228d7c(symsync_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_SymsyncRrrfSetLfBw_liquid_7b08cc538ffcb585(symsync_rrrf_s *_swig_go_0, float _swig_go_1) {
   symsync_rrrf arg1 = (symsync_rrrf) 0 ;
   float arg2 ;
   
@@ -14733,7 +14733,7 @@ void _wrap_symsync_rrrf_set_lf_bw_liquid_24d78331e3228d7c(symsync_rrrf_s *_swig_
 }
 
 
-float _wrap_symsync_rrrf_get_tau_liquid_24d78331e3228d7c(symsync_rrrf_s *_swig_go_0) {
+float _wrap_SymsyncRrrfGetTau_liquid_7b08cc538ffcb585(symsync_rrrf_s *_swig_go_0) {
   symsync_rrrf arg1 = (symsync_rrrf) 0 ;
   float result;
   float _swig_go_result;
@@ -14746,7 +14746,7 @@ float _wrap_symsync_rrrf_get_tau_liquid_24d78331e3228d7c(symsync_rrrf_s *_swig_g
 }
 
 
-void _wrap_symsync_rrrf_execute_liquid_24d78331e3228d7c(symsync_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3, intgo *_swig_go_4) {
+void _wrap_SymsyncRrrfExecute_liquid_7b08cc538ffcb585(symsync_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3, intgo *_swig_go_4) {
   symsync_rrrf arg1 = (symsync_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -14764,7 +14764,7 @@ void _wrap_symsync_rrrf_execute_liquid_24d78331e3228d7c(symsync_rrrf_s *_swig_go
 }
 
 
-symsync_crcf_s *_wrap_symsync_crcf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float *_swig_go_2, intgo _swig_go_3) {
+symsync_crcf_s *_wrap_SymsyncCrcfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float *_swig_go_2, intgo _swig_go_3) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -14783,7 +14783,7 @@ symsync_crcf_s *_wrap_symsync_crcf_create_liquid_24d78331e3228d7c(intgo _swig_go
 }
 
 
-symsync_crcf_s *_wrap_symsync_crcf_create_rnyquist_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, intgo _swig_go_4) {
+symsync_crcf_s *_wrap_SymsyncCrcfCreateRnyquist_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, intgo _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -14804,7 +14804,7 @@ symsync_crcf_s *_wrap_symsync_crcf_create_rnyquist_liquid_24d78331e3228d7c(intgo
 }
 
 
-symsync_crcf_s *_wrap_symsync_crcf_create_kaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, intgo _swig_go_3) {
+symsync_crcf_s *_wrap_SymsyncCrcfCreateKaiser_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, intgo _swig_go_3) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -14823,7 +14823,7 @@ symsync_crcf_s *_wrap_symsync_crcf_create_kaiser_liquid_24d78331e3228d7c(intgo _
 }
 
 
-void _wrap_symsync_crcf_destroy_liquid_24d78331e3228d7c(symsync_crcf_s *_swig_go_0) {
+void _wrap_SymsyncCrcfDestroy_liquid_7b08cc538ffcb585(symsync_crcf_s *_swig_go_0) {
   symsync_crcf arg1 = (symsync_crcf) 0 ;
   
   arg1 = *(symsync_crcf *)&_swig_go_0; 
@@ -14833,7 +14833,7 @@ void _wrap_symsync_crcf_destroy_liquid_24d78331e3228d7c(symsync_crcf_s *_swig_go
 }
 
 
-void _wrap_symsync_crcf_print_liquid_24d78331e3228d7c(symsync_crcf_s *_swig_go_0) {
+void _wrap_SymsyncCrcfPrint_liquid_7b08cc538ffcb585(symsync_crcf_s *_swig_go_0) {
   symsync_crcf arg1 = (symsync_crcf) 0 ;
   
   arg1 = *(symsync_crcf *)&_swig_go_0; 
@@ -14843,7 +14843,7 @@ void _wrap_symsync_crcf_print_liquid_24d78331e3228d7c(symsync_crcf_s *_swig_go_0
 }
 
 
-void _wrap_symsync_crcf_reset_liquid_24d78331e3228d7c(symsync_crcf_s *_swig_go_0) {
+void _wrap_SymsyncCrcfReset_liquid_7b08cc538ffcb585(symsync_crcf_s *_swig_go_0) {
   symsync_crcf arg1 = (symsync_crcf) 0 ;
   
   arg1 = *(symsync_crcf *)&_swig_go_0; 
@@ -14853,7 +14853,7 @@ void _wrap_symsync_crcf_reset_liquid_24d78331e3228d7c(symsync_crcf_s *_swig_go_0
 }
 
 
-void _wrap_symsync_crcf_lock_liquid_24d78331e3228d7c(symsync_crcf_s *_swig_go_0) {
+void _wrap_SymsyncCrcfLock_liquid_7b08cc538ffcb585(symsync_crcf_s *_swig_go_0) {
   symsync_crcf arg1 = (symsync_crcf) 0 ;
   
   arg1 = *(symsync_crcf *)&_swig_go_0; 
@@ -14863,7 +14863,7 @@ void _wrap_symsync_crcf_lock_liquid_24d78331e3228d7c(symsync_crcf_s *_swig_go_0)
 }
 
 
-void _wrap_symsync_crcf_unlock_liquid_24d78331e3228d7c(symsync_crcf_s *_swig_go_0) {
+void _wrap_SymsyncCrcfUnlock_liquid_7b08cc538ffcb585(symsync_crcf_s *_swig_go_0) {
   symsync_crcf arg1 = (symsync_crcf) 0 ;
   
   arg1 = *(symsync_crcf *)&_swig_go_0; 
@@ -14873,7 +14873,7 @@ void _wrap_symsync_crcf_unlock_liquid_24d78331e3228d7c(symsync_crcf_s *_swig_go_
 }
 
 
-void _wrap_symsync_crcf_set_output_rate_liquid_24d78331e3228d7c(symsync_crcf_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_SymsyncCrcfSetOutputRate_liquid_7b08cc538ffcb585(symsync_crcf_s *_swig_go_0, intgo _swig_go_1) {
   symsync_crcf arg1 = (symsync_crcf) 0 ;
   unsigned int arg2 ;
   
@@ -14885,7 +14885,7 @@ void _wrap_symsync_crcf_set_output_rate_liquid_24d78331e3228d7c(symsync_crcf_s *
 }
 
 
-void _wrap_symsync_crcf_set_lf_bw_liquid_24d78331e3228d7c(symsync_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_SymsyncCrcfSetLfBw_liquid_7b08cc538ffcb585(symsync_crcf_s *_swig_go_0, float _swig_go_1) {
   symsync_crcf arg1 = (symsync_crcf) 0 ;
   float arg2 ;
   
@@ -14897,7 +14897,7 @@ void _wrap_symsync_crcf_set_lf_bw_liquid_24d78331e3228d7c(symsync_crcf_s *_swig_
 }
 
 
-float _wrap_symsync_crcf_get_tau_liquid_24d78331e3228d7c(symsync_crcf_s *_swig_go_0) {
+float _wrap_SymsyncCrcfGetTau_liquid_7b08cc538ffcb585(symsync_crcf_s *_swig_go_0) {
   symsync_crcf arg1 = (symsync_crcf) 0 ;
   float result;
   float _swig_go_result;
@@ -14910,7 +14910,7 @@ float _wrap_symsync_crcf_get_tau_liquid_24d78331e3228d7c(symsync_crcf_s *_swig_g
 }
 
 
-void _wrap_symsync_crcf_execute_liquid_24d78331e3228d7c(symsync_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, intgo *_swig_go_4) {
+void _wrap_SymsyncCrcfExecute_liquid_7b08cc538ffcb585(symsync_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, intgo *_swig_go_4) {
   symsync_crcf arg1 = (symsync_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -14928,7 +14928,7 @@ void _wrap_symsync_crcf_execute_liquid_24d78331e3228d7c(symsync_crcf_s *_swig_go
 }
 
 
-firfarrow_rrrf_s *_wrap_firfarrow_rrrf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3) {
+firfarrow_rrrf_s *_wrap_FirfarrowRrrfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -14947,7 +14947,7 @@ firfarrow_rrrf_s *_wrap_firfarrow_rrrf_create_liquid_24d78331e3228d7c(intgo _swi
 }
 
 
-void _wrap_firfarrow_rrrf_destroy_liquid_24d78331e3228d7c(firfarrow_rrrf_s *_swig_go_0) {
+void _wrap_FirfarrowRrrfDestroy_liquid_7b08cc538ffcb585(firfarrow_rrrf_s *_swig_go_0) {
   firfarrow_rrrf arg1 = (firfarrow_rrrf) 0 ;
   
   arg1 = *(firfarrow_rrrf *)&_swig_go_0; 
@@ -14957,7 +14957,7 @@ void _wrap_firfarrow_rrrf_destroy_liquid_24d78331e3228d7c(firfarrow_rrrf_s *_swi
 }
 
 
-void _wrap_firfarrow_rrrf_print_liquid_24d78331e3228d7c(firfarrow_rrrf_s *_swig_go_0) {
+void _wrap_FirfarrowRrrfPrint_liquid_7b08cc538ffcb585(firfarrow_rrrf_s *_swig_go_0) {
   firfarrow_rrrf arg1 = (firfarrow_rrrf) 0 ;
   
   arg1 = *(firfarrow_rrrf *)&_swig_go_0; 
@@ -14967,7 +14967,7 @@ void _wrap_firfarrow_rrrf_print_liquid_24d78331e3228d7c(firfarrow_rrrf_s *_swig_
 }
 
 
-void _wrap_firfarrow_rrrf_reset_liquid_24d78331e3228d7c(firfarrow_rrrf_s *_swig_go_0) {
+void _wrap_FirfarrowRrrfReset_liquid_7b08cc538ffcb585(firfarrow_rrrf_s *_swig_go_0) {
   firfarrow_rrrf arg1 = (firfarrow_rrrf) 0 ;
   
   arg1 = *(firfarrow_rrrf *)&_swig_go_0; 
@@ -14977,7 +14977,7 @@ void _wrap_firfarrow_rrrf_reset_liquid_24d78331e3228d7c(firfarrow_rrrf_s *_swig_
 }
 
 
-void _wrap_firfarrow_rrrf_push_liquid_24d78331e3228d7c(firfarrow_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_FirfarrowRrrfPush_liquid_7b08cc538ffcb585(firfarrow_rrrf_s *_swig_go_0, float _swig_go_1) {
   firfarrow_rrrf arg1 = (firfarrow_rrrf) 0 ;
   float arg2 ;
   
@@ -14989,7 +14989,7 @@ void _wrap_firfarrow_rrrf_push_liquid_24d78331e3228d7c(firfarrow_rrrf_s *_swig_g
 }
 
 
-void _wrap_firfarrow_rrrf_set_delay_liquid_24d78331e3228d7c(firfarrow_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_FirfarrowRrrfSetDelay_liquid_7b08cc538ffcb585(firfarrow_rrrf_s *_swig_go_0, float _swig_go_1) {
   firfarrow_rrrf arg1 = (firfarrow_rrrf) 0 ;
   float arg2 ;
   
@@ -15001,7 +15001,7 @@ void _wrap_firfarrow_rrrf_set_delay_liquid_24d78331e3228d7c(firfarrow_rrrf_s *_s
 }
 
 
-void _wrap_firfarrow_rrrf_execute_liquid_24d78331e3228d7c(firfarrow_rrrf_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_FirfarrowRrrfExecute_liquid_7b08cc538ffcb585(firfarrow_rrrf_s *_swig_go_0, float *_swig_go_1) {
   firfarrow_rrrf arg1 = (firfarrow_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -15013,7 +15013,7 @@ void _wrap_firfarrow_rrrf_execute_liquid_24d78331e3228d7c(firfarrow_rrrf_s *_swi
 }
 
 
-void _wrap_firfarrow_rrrf_execute_block_liquid_24d78331e3228d7c(firfarrow_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_FirfarrowRrrfExecuteBlock_liquid_7b08cc538ffcb585(firfarrow_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   firfarrow_rrrf arg1 = (firfarrow_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -15029,7 +15029,7 @@ void _wrap_firfarrow_rrrf_execute_block_liquid_24d78331e3228d7c(firfarrow_rrrf_s
 }
 
 
-intgo _wrap_firfarrow_rrrf_get_length_liquid_24d78331e3228d7c(firfarrow_rrrf_s *_swig_go_0) {
+intgo _wrap_FirfarrowRrrfGetLength_liquid_7b08cc538ffcb585(firfarrow_rrrf_s *_swig_go_0) {
   firfarrow_rrrf arg1 = (firfarrow_rrrf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -15042,7 +15042,7 @@ intgo _wrap_firfarrow_rrrf_get_length_liquid_24d78331e3228d7c(firfarrow_rrrf_s *
 }
 
 
-void _wrap_firfarrow_rrrf_get_coefficients_liquid_24d78331e3228d7c(firfarrow_rrrf_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_FirfarrowRrrfGetCoefficients_liquid_7b08cc538ffcb585(firfarrow_rrrf_s *_swig_go_0, float *_swig_go_1) {
   firfarrow_rrrf arg1 = (firfarrow_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -15054,7 +15054,7 @@ void _wrap_firfarrow_rrrf_get_coefficients_liquid_24d78331e3228d7c(firfarrow_rrr
 }
 
 
-void _wrap_firfarrow_rrrf_freqresponse_liquid_24d78331e3228d7c(firfarrow_rrrf_s *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_FirfarrowRrrfFreqresponse_liquid_7b08cc538ffcb585(firfarrow_rrrf_s *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
   firfarrow_rrrf arg1 = (firfarrow_rrrf) 0 ;
   float arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -15068,7 +15068,7 @@ void _wrap_firfarrow_rrrf_freqresponse_liquid_24d78331e3228d7c(firfarrow_rrrf_s 
 }
 
 
-float _wrap_firfarrow_rrrf_groupdelay_liquid_24d78331e3228d7c(firfarrow_rrrf_s *_swig_go_0, float _swig_go_1) {
+float _wrap_FirfarrowRrrfGroupdelay_liquid_7b08cc538ffcb585(firfarrow_rrrf_s *_swig_go_0, float _swig_go_1) {
   firfarrow_rrrf arg1 = (firfarrow_rrrf) 0 ;
   float arg2 ;
   float result;
@@ -15083,7 +15083,7 @@ float _wrap_firfarrow_rrrf_groupdelay_liquid_24d78331e3228d7c(firfarrow_rrrf_s *
 }
 
 
-firfarrow_crcf_s *_wrap_firfarrow_crcf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3) {
+firfarrow_crcf_s *_wrap_FirfarrowCrcfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -15102,7 +15102,7 @@ firfarrow_crcf_s *_wrap_firfarrow_crcf_create_liquid_24d78331e3228d7c(intgo _swi
 }
 
 
-void _wrap_firfarrow_crcf_destroy_liquid_24d78331e3228d7c(firfarrow_crcf_s *_swig_go_0) {
+void _wrap_FirfarrowCrcfDestroy_liquid_7b08cc538ffcb585(firfarrow_crcf_s *_swig_go_0) {
   firfarrow_crcf arg1 = (firfarrow_crcf) 0 ;
   
   arg1 = *(firfarrow_crcf *)&_swig_go_0; 
@@ -15112,7 +15112,7 @@ void _wrap_firfarrow_crcf_destroy_liquid_24d78331e3228d7c(firfarrow_crcf_s *_swi
 }
 
 
-void _wrap_firfarrow_crcf_print_liquid_24d78331e3228d7c(firfarrow_crcf_s *_swig_go_0) {
+void _wrap_FirfarrowCrcfPrint_liquid_7b08cc538ffcb585(firfarrow_crcf_s *_swig_go_0) {
   firfarrow_crcf arg1 = (firfarrow_crcf) 0 ;
   
   arg1 = *(firfarrow_crcf *)&_swig_go_0; 
@@ -15122,7 +15122,7 @@ void _wrap_firfarrow_crcf_print_liquid_24d78331e3228d7c(firfarrow_crcf_s *_swig_
 }
 
 
-void _wrap_firfarrow_crcf_reset_liquid_24d78331e3228d7c(firfarrow_crcf_s *_swig_go_0) {
+void _wrap_FirfarrowCrcfReset_liquid_7b08cc538ffcb585(firfarrow_crcf_s *_swig_go_0) {
   firfarrow_crcf arg1 = (firfarrow_crcf) 0 ;
   
   arg1 = *(firfarrow_crcf *)&_swig_go_0; 
@@ -15132,7 +15132,7 @@ void _wrap_firfarrow_crcf_reset_liquid_24d78331e3228d7c(firfarrow_crcf_s *_swig_
 }
 
 
-void _wrap_firfarrow_crcf_push_liquid_24d78331e3228d7c(firfarrow_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_FirfarrowCrcfPush_liquid_7b08cc538ffcb585(firfarrow_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   firfarrow_crcf arg1 = (firfarrow_crcf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -15151,7 +15151,7 @@ void _wrap_firfarrow_crcf_push_liquid_24d78331e3228d7c(firfarrow_crcf_s *_swig_g
 }
 
 
-void _wrap_firfarrow_crcf_set_delay_liquid_24d78331e3228d7c(firfarrow_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_FirfarrowCrcfSetDelay_liquid_7b08cc538ffcb585(firfarrow_crcf_s *_swig_go_0, float _swig_go_1) {
   firfarrow_crcf arg1 = (firfarrow_crcf) 0 ;
   float arg2 ;
   
@@ -15163,7 +15163,7 @@ void _wrap_firfarrow_crcf_set_delay_liquid_24d78331e3228d7c(firfarrow_crcf_s *_s
 }
 
 
-void _wrap_firfarrow_crcf_execute_liquid_24d78331e3228d7c(firfarrow_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_FirfarrowCrcfExecute_liquid_7b08cc538ffcb585(firfarrow_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   firfarrow_crcf arg1 = (firfarrow_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -15175,7 +15175,7 @@ void _wrap_firfarrow_crcf_execute_liquid_24d78331e3228d7c(firfarrow_crcf_s *_swi
 }
 
 
-void _wrap_firfarrow_crcf_execute_block_liquid_24d78331e3228d7c(firfarrow_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_FirfarrowCrcfExecuteBlock_liquid_7b08cc538ffcb585(firfarrow_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   firfarrow_crcf arg1 = (firfarrow_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -15191,7 +15191,7 @@ void _wrap_firfarrow_crcf_execute_block_liquid_24d78331e3228d7c(firfarrow_crcf_s
 }
 
 
-intgo _wrap_firfarrow_crcf_get_length_liquid_24d78331e3228d7c(firfarrow_crcf_s *_swig_go_0) {
+intgo _wrap_FirfarrowCrcfGetLength_liquid_7b08cc538ffcb585(firfarrow_crcf_s *_swig_go_0) {
   firfarrow_crcf arg1 = (firfarrow_crcf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -15204,7 +15204,7 @@ intgo _wrap_firfarrow_crcf_get_length_liquid_24d78331e3228d7c(firfarrow_crcf_s *
 }
 
 
-void _wrap_firfarrow_crcf_get_coefficients_liquid_24d78331e3228d7c(firfarrow_crcf_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_FirfarrowCrcfGetCoefficients_liquid_7b08cc538ffcb585(firfarrow_crcf_s *_swig_go_0, float *_swig_go_1) {
   firfarrow_crcf arg1 = (firfarrow_crcf) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -15216,7 +15216,7 @@ void _wrap_firfarrow_crcf_get_coefficients_liquid_24d78331e3228d7c(firfarrow_crc
 }
 
 
-void _wrap_firfarrow_crcf_freqresponse_liquid_24d78331e3228d7c(firfarrow_crcf_s *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_FirfarrowCrcfFreqresponse_liquid_7b08cc538ffcb585(firfarrow_crcf_s *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
   firfarrow_crcf arg1 = (firfarrow_crcf) 0 ;
   float arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -15230,7 +15230,7 @@ void _wrap_firfarrow_crcf_freqresponse_liquid_24d78331e3228d7c(firfarrow_crcf_s 
 }
 
 
-float _wrap_firfarrow_crcf_groupdelay_liquid_24d78331e3228d7c(firfarrow_crcf_s *_swig_go_0, float _swig_go_1) {
+float _wrap_FirfarrowCrcfGroupdelay_liquid_7b08cc538ffcb585(firfarrow_crcf_s *_swig_go_0, float _swig_go_1) {
   firfarrow_crcf arg1 = (firfarrow_crcf) 0 ;
   float arg2 ;
   float result;
@@ -15245,7 +15245,7 @@ float _wrap_firfarrow_crcf_groupdelay_liquid_24d78331e3228d7c(firfarrow_crcf_s *
 }
 
 
-ordfilt_rrrf_s *_wrap_ordfilt_rrrf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+ordfilt_rrrf_s *_wrap_OrdfiltRrrfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   ordfilt_rrrf result;
@@ -15260,7 +15260,7 @@ ordfilt_rrrf_s *_wrap_ordfilt_rrrf_create_liquid_24d78331e3228d7c(intgo _swig_go
 }
 
 
-ordfilt_rrrf_s *_wrap_ordfilt_rrrf_create_medfilt_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+ordfilt_rrrf_s *_wrap_OrdfiltRrrfCreateMedfilt_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   ordfilt_rrrf result;
   ordfilt_rrrf_s *_swig_go_result;
@@ -15273,7 +15273,7 @@ ordfilt_rrrf_s *_wrap_ordfilt_rrrf_create_medfilt_liquid_24d78331e3228d7c(intgo 
 }
 
 
-void _wrap_ordfilt_rrrf_destroy_liquid_24d78331e3228d7c(ordfilt_rrrf_s *_swig_go_0) {
+void _wrap_OrdfiltRrrfDestroy_liquid_7b08cc538ffcb585(ordfilt_rrrf_s *_swig_go_0) {
   ordfilt_rrrf arg1 = (ordfilt_rrrf) 0 ;
   
   arg1 = *(ordfilt_rrrf *)&_swig_go_0; 
@@ -15283,7 +15283,7 @@ void _wrap_ordfilt_rrrf_destroy_liquid_24d78331e3228d7c(ordfilt_rrrf_s *_swig_go
 }
 
 
-void _wrap_ordfilt_rrrf_reset_liquid_24d78331e3228d7c(ordfilt_rrrf_s *_swig_go_0) {
+void _wrap_OrdfiltRrrfReset_liquid_7b08cc538ffcb585(ordfilt_rrrf_s *_swig_go_0) {
   ordfilt_rrrf arg1 = (ordfilt_rrrf) 0 ;
   
   arg1 = *(ordfilt_rrrf *)&_swig_go_0; 
@@ -15293,7 +15293,7 @@ void _wrap_ordfilt_rrrf_reset_liquid_24d78331e3228d7c(ordfilt_rrrf_s *_swig_go_0
 }
 
 
-void _wrap_ordfilt_rrrf_print_liquid_24d78331e3228d7c(ordfilt_rrrf_s *_swig_go_0) {
+void _wrap_OrdfiltRrrfPrint_liquid_7b08cc538ffcb585(ordfilt_rrrf_s *_swig_go_0) {
   ordfilt_rrrf arg1 = (ordfilt_rrrf) 0 ;
   
   arg1 = *(ordfilt_rrrf *)&_swig_go_0; 
@@ -15303,7 +15303,7 @@ void _wrap_ordfilt_rrrf_print_liquid_24d78331e3228d7c(ordfilt_rrrf_s *_swig_go_0
 }
 
 
-void _wrap_ordfilt_rrrf_push_liquid_24d78331e3228d7c(ordfilt_rrrf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_OrdfiltRrrfPush_liquid_7b08cc538ffcb585(ordfilt_rrrf_s *_swig_go_0, float _swig_go_1) {
   ordfilt_rrrf arg1 = (ordfilt_rrrf) 0 ;
   float arg2 ;
   
@@ -15315,7 +15315,7 @@ void _wrap_ordfilt_rrrf_push_liquid_24d78331e3228d7c(ordfilt_rrrf_s *_swig_go_0,
 }
 
 
-void _wrap_ordfilt_rrrf_write_liquid_24d78331e3228d7c(ordfilt_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+void _wrap_OrdfiltRrrfWrite_liquid_7b08cc538ffcb585(ordfilt_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   ordfilt_rrrf arg1 = (ordfilt_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -15329,7 +15329,7 @@ void _wrap_ordfilt_rrrf_write_liquid_24d78331e3228d7c(ordfilt_rrrf_s *_swig_go_0
 }
 
 
-void _wrap_ordfilt_rrrf_execute_liquid_24d78331e3228d7c(ordfilt_rrrf_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_OrdfiltRrrfExecute_liquid_7b08cc538ffcb585(ordfilt_rrrf_s *_swig_go_0, float *_swig_go_1) {
   ordfilt_rrrf arg1 = (ordfilt_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -15341,7 +15341,7 @@ void _wrap_ordfilt_rrrf_execute_liquid_24d78331e3228d7c(ordfilt_rrrf_s *_swig_go
 }
 
 
-void _wrap_ordfilt_rrrf_execute_block_liquid_24d78331e3228d7c(ordfilt_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_OrdfiltRrrfExecuteBlock_liquid_7b08cc538ffcb585(ordfilt_rrrf_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   ordfilt_rrrf arg1 = (ordfilt_rrrf) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -15357,7 +15357,7 @@ void _wrap_ordfilt_rrrf_execute_block_liquid_24d78331e3228d7c(ordfilt_rrrf_s *_s
 }
 
 
-void _wrap_framesyncstats_s_evm_set_liquid_24d78331e3228d7c(framesyncstats_s *_swig_go_0, float _swig_go_1) {
+void _wrap_FramesyncstatsS_Evm_set_liquid_7b08cc538ffcb585(framesyncstats_s *_swig_go_0, float _swig_go_1) {
   framesyncstats_s *arg1 = (framesyncstats_s *) 0 ;
   float arg2 ;
   
@@ -15369,7 +15369,7 @@ void _wrap_framesyncstats_s_evm_set_liquid_24d78331e3228d7c(framesyncstats_s *_s
 }
 
 
-float _wrap_framesyncstats_s_evm_get_liquid_24d78331e3228d7c(framesyncstats_s *_swig_go_0) {
+float _wrap_FramesyncstatsS_Evm_get_liquid_7b08cc538ffcb585(framesyncstats_s *_swig_go_0) {
   framesyncstats_s *arg1 = (framesyncstats_s *) 0 ;
   float result;
   float _swig_go_result;
@@ -15382,7 +15382,7 @@ float _wrap_framesyncstats_s_evm_get_liquid_24d78331e3228d7c(framesyncstats_s *_
 }
 
 
-void _wrap_framesyncstats_s_rssi_set_liquid_24d78331e3228d7c(framesyncstats_s *_swig_go_0, float _swig_go_1) {
+void _wrap_FramesyncstatsS_Rssi_set_liquid_7b08cc538ffcb585(framesyncstats_s *_swig_go_0, float _swig_go_1) {
   framesyncstats_s *arg1 = (framesyncstats_s *) 0 ;
   float arg2 ;
   
@@ -15394,7 +15394,7 @@ void _wrap_framesyncstats_s_rssi_set_liquid_24d78331e3228d7c(framesyncstats_s *_
 }
 
 
-float _wrap_framesyncstats_s_rssi_get_liquid_24d78331e3228d7c(framesyncstats_s *_swig_go_0) {
+float _wrap_FramesyncstatsS_Rssi_get_liquid_7b08cc538ffcb585(framesyncstats_s *_swig_go_0) {
   framesyncstats_s *arg1 = (framesyncstats_s *) 0 ;
   float result;
   float _swig_go_result;
@@ -15407,7 +15407,7 @@ float _wrap_framesyncstats_s_rssi_get_liquid_24d78331e3228d7c(framesyncstats_s *
 }
 
 
-void _wrap_framesyncstats_s_cfo_set_liquid_24d78331e3228d7c(framesyncstats_s *_swig_go_0, float _swig_go_1) {
+void _wrap_FramesyncstatsS_Cfo_set_liquid_7b08cc538ffcb585(framesyncstats_s *_swig_go_0, float _swig_go_1) {
   framesyncstats_s *arg1 = (framesyncstats_s *) 0 ;
   float arg2 ;
   
@@ -15419,7 +15419,7 @@ void _wrap_framesyncstats_s_cfo_set_liquid_24d78331e3228d7c(framesyncstats_s *_s
 }
 
 
-float _wrap_framesyncstats_s_cfo_get_liquid_24d78331e3228d7c(framesyncstats_s *_swig_go_0) {
+float _wrap_FramesyncstatsS_Cfo_get_liquid_7b08cc538ffcb585(framesyncstats_s *_swig_go_0) {
   framesyncstats_s *arg1 = (framesyncstats_s *) 0 ;
   float result;
   float _swig_go_result;
@@ -15432,7 +15432,7 @@ float _wrap_framesyncstats_s_cfo_get_liquid_24d78331e3228d7c(framesyncstats_s *_
 }
 
 
-void _wrap_framesyncstats_s_framesyms_set_liquid_24d78331e3228d7c(framesyncstats_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_FramesyncstatsS_Framesyms_set_liquid_7b08cc538ffcb585(framesyncstats_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   framesyncstats_s *arg1 = (framesyncstats_s *) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -15444,7 +15444,7 @@ void _wrap_framesyncstats_s_framesyms_set_liquid_24d78331e3228d7c(framesyncstats
 }
 
 
-liquid_float_complex *_wrap_framesyncstats_s_framesyms_get_liquid_24d78331e3228d7c(framesyncstats_s *_swig_go_0) {
+liquid_float_complex *_wrap_FramesyncstatsS_Framesyms_get_liquid_7b08cc538ffcb585(framesyncstats_s *_swig_go_0) {
   framesyncstats_s *arg1 = (framesyncstats_s *) 0 ;
   liquid_float_complex *result = 0 ;
   liquid_float_complex *_swig_go_result;
@@ -15457,7 +15457,7 @@ liquid_float_complex *_wrap_framesyncstats_s_framesyms_get_liquid_24d78331e3228d
 }
 
 
-void _wrap_framesyncstats_s_num_framesyms_set_liquid_24d78331e3228d7c(framesyncstats_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_FramesyncstatsS_NumFramesyms_set_liquid_7b08cc538ffcb585(framesyncstats_s *_swig_go_0, intgo _swig_go_1) {
   framesyncstats_s *arg1 = (framesyncstats_s *) 0 ;
   unsigned int arg2 ;
   
@@ -15469,7 +15469,7 @@ void _wrap_framesyncstats_s_num_framesyms_set_liquid_24d78331e3228d7c(framesyncs
 }
 
 
-intgo _wrap_framesyncstats_s_num_framesyms_get_liquid_24d78331e3228d7c(framesyncstats_s *_swig_go_0) {
+intgo _wrap_FramesyncstatsS_NumFramesyms_get_liquid_7b08cc538ffcb585(framesyncstats_s *_swig_go_0) {
   framesyncstats_s *arg1 = (framesyncstats_s *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -15482,7 +15482,7 @@ intgo _wrap_framesyncstats_s_num_framesyms_get_liquid_24d78331e3228d7c(framesync
 }
 
 
-void _wrap_framesyncstats_s_mod_scheme_set_liquid_24d78331e3228d7c(framesyncstats_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_FramesyncstatsS_ModScheme_set_liquid_7b08cc538ffcb585(framesyncstats_s *_swig_go_0, intgo _swig_go_1) {
   framesyncstats_s *arg1 = (framesyncstats_s *) 0 ;
   unsigned int arg2 ;
   
@@ -15494,7 +15494,7 @@ void _wrap_framesyncstats_s_mod_scheme_set_liquid_24d78331e3228d7c(framesyncstat
 }
 
 
-intgo _wrap_framesyncstats_s_mod_scheme_get_liquid_24d78331e3228d7c(framesyncstats_s *_swig_go_0) {
+intgo _wrap_FramesyncstatsS_ModScheme_get_liquid_7b08cc538ffcb585(framesyncstats_s *_swig_go_0) {
   framesyncstats_s *arg1 = (framesyncstats_s *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -15507,7 +15507,7 @@ intgo _wrap_framesyncstats_s_mod_scheme_get_liquid_24d78331e3228d7c(framesyncsta
 }
 
 
-void _wrap_framesyncstats_s_mod_bps_set_liquid_24d78331e3228d7c(framesyncstats_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_FramesyncstatsS_ModBps_set_liquid_7b08cc538ffcb585(framesyncstats_s *_swig_go_0, intgo _swig_go_1) {
   framesyncstats_s *arg1 = (framesyncstats_s *) 0 ;
   unsigned int arg2 ;
   
@@ -15519,7 +15519,7 @@ void _wrap_framesyncstats_s_mod_bps_set_liquid_24d78331e3228d7c(framesyncstats_s
 }
 
 
-intgo _wrap_framesyncstats_s_mod_bps_get_liquid_24d78331e3228d7c(framesyncstats_s *_swig_go_0) {
+intgo _wrap_FramesyncstatsS_ModBps_get_liquid_7b08cc538ffcb585(framesyncstats_s *_swig_go_0) {
   framesyncstats_s *arg1 = (framesyncstats_s *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -15532,7 +15532,7 @@ intgo _wrap_framesyncstats_s_mod_bps_get_liquid_24d78331e3228d7c(framesyncstats_
 }
 
 
-void _wrap_framesyncstats_s_check_set_liquid_24d78331e3228d7c(framesyncstats_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_FramesyncstatsS_Check_set_liquid_7b08cc538ffcb585(framesyncstats_s *_swig_go_0, intgo _swig_go_1) {
   framesyncstats_s *arg1 = (framesyncstats_s *) 0 ;
   unsigned int arg2 ;
   
@@ -15544,7 +15544,7 @@ void _wrap_framesyncstats_s_check_set_liquid_24d78331e3228d7c(framesyncstats_s *
 }
 
 
-intgo _wrap_framesyncstats_s_check_get_liquid_24d78331e3228d7c(framesyncstats_s *_swig_go_0) {
+intgo _wrap_FramesyncstatsS_Check_get_liquid_7b08cc538ffcb585(framesyncstats_s *_swig_go_0) {
   framesyncstats_s *arg1 = (framesyncstats_s *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -15557,7 +15557,7 @@ intgo _wrap_framesyncstats_s_check_get_liquid_24d78331e3228d7c(framesyncstats_s 
 }
 
 
-void _wrap_framesyncstats_s_fec0_set_liquid_24d78331e3228d7c(framesyncstats_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_FramesyncstatsS_Fec0_set_liquid_7b08cc538ffcb585(framesyncstats_s *_swig_go_0, intgo _swig_go_1) {
   framesyncstats_s *arg1 = (framesyncstats_s *) 0 ;
   unsigned int arg2 ;
   
@@ -15569,7 +15569,7 @@ void _wrap_framesyncstats_s_fec0_set_liquid_24d78331e3228d7c(framesyncstats_s *_
 }
 
 
-intgo _wrap_framesyncstats_s_fec0_get_liquid_24d78331e3228d7c(framesyncstats_s *_swig_go_0) {
+intgo _wrap_FramesyncstatsS_Fec0_get_liquid_7b08cc538ffcb585(framesyncstats_s *_swig_go_0) {
   framesyncstats_s *arg1 = (framesyncstats_s *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -15582,7 +15582,7 @@ intgo _wrap_framesyncstats_s_fec0_get_liquid_24d78331e3228d7c(framesyncstats_s *
 }
 
 
-void _wrap_framesyncstats_s_fec1_set_liquid_24d78331e3228d7c(framesyncstats_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_FramesyncstatsS_Fec1_set_liquid_7b08cc538ffcb585(framesyncstats_s *_swig_go_0, intgo _swig_go_1) {
   framesyncstats_s *arg1 = (framesyncstats_s *) 0 ;
   unsigned int arg2 ;
   
@@ -15594,7 +15594,7 @@ void _wrap_framesyncstats_s_fec1_set_liquid_24d78331e3228d7c(framesyncstats_s *_
 }
 
 
-intgo _wrap_framesyncstats_s_fec1_get_liquid_24d78331e3228d7c(framesyncstats_s *_swig_go_0) {
+intgo _wrap_FramesyncstatsS_Fec1_get_liquid_7b08cc538ffcb585(framesyncstats_s *_swig_go_0) {
   framesyncstats_s *arg1 = (framesyncstats_s *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -15607,7 +15607,7 @@ intgo _wrap_framesyncstats_s_fec1_get_liquid_24d78331e3228d7c(framesyncstats_s *
 }
 
 
-framesyncstats_s *_wrap_new_framesyncstats_s_liquid_24d78331e3228d7c() {
+framesyncstats_s *_wrap_new_FramesyncstatsS_liquid_7b08cc538ffcb585() {
   framesyncstats_s *result = 0 ;
   framesyncstats_s *_swig_go_result;
   
@@ -15618,7 +15618,7 @@ framesyncstats_s *_wrap_new_framesyncstats_s_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_delete_framesyncstats_s_liquid_24d78331e3228d7c(framesyncstats_s *_swig_go_0) {
+void _wrap_delete_FramesyncstatsS_liquid_7b08cc538ffcb585(framesyncstats_s *_swig_go_0) {
   framesyncstats_s *arg1 = (framesyncstats_s *) 0 ;
   
   arg1 = *(framesyncstats_s **)&_swig_go_0; 
@@ -15628,7 +15628,7 @@ void _wrap_delete_framesyncstats_s_liquid_24d78331e3228d7c(framesyncstats_s *_sw
 }
 
 
-void _wrap_framesyncstats_default_set_liquid_24d78331e3228d7c(framesyncstats_s *_swig_go_0) {
+void _wrap_FramesyncstatsDefault_set_liquid_7b08cc538ffcb585(framesyncstats_s *_swig_go_0) {
   framesyncstats_s *arg1 = (framesyncstats_s *) 0 ;
   
   arg1 = *(framesyncstats_s **)&_swig_go_0; 
@@ -15638,7 +15638,7 @@ void _wrap_framesyncstats_default_set_liquid_24d78331e3228d7c(framesyncstats_s *
 }
 
 
-framesyncstats_s *_wrap_framesyncstats_default_get_liquid_24d78331e3228d7c() {
+framesyncstats_s *_wrap_FramesyncstatsDefault_get_liquid_7b08cc538ffcb585() {
   framesyncstats_s *result = 0 ;
   framesyncstats_s *_swig_go_result;
   
@@ -15649,7 +15649,7 @@ framesyncstats_s *_wrap_framesyncstats_default_get_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_framesyncstats_init_default_liquid_24d78331e3228d7c(framesyncstats_s *_swig_go_0) {
+void _wrap_FramesyncstatsInitDefault_liquid_7b08cc538ffcb585(framesyncstats_s *_swig_go_0) {
   framesyncstats_s *arg1 = (framesyncstats_s *) 0 ;
   
   arg1 = *(framesyncstats_s **)&_swig_go_0; 
@@ -15659,7 +15659,7 @@ void _wrap_framesyncstats_init_default_liquid_24d78331e3228d7c(framesyncstats_s 
 }
 
 
-void _wrap_framesyncstats_print_liquid_24d78331e3228d7c(framesyncstats_s *_swig_go_0) {
+void _wrap_FramesyncstatsPrint_liquid_7b08cc538ffcb585(framesyncstats_s *_swig_go_0) {
   framesyncstats_s *arg1 = (framesyncstats_s *) 0 ;
   
   arg1 = *(framesyncstats_s **)&_swig_go_0; 
@@ -15669,7 +15669,7 @@ void _wrap_framesyncstats_print_liquid_24d78331e3228d7c(framesyncstats_s *_swig_
 }
 
 
-void _wrap_framedatastats_s_num_frames_detected_set_liquid_24d78331e3228d7c(framedatastats_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_FramedatastatsS_NumFramesDetected_set_liquid_7b08cc538ffcb585(framedatastats_s *_swig_go_0, intgo _swig_go_1) {
   framedatastats_s *arg1 = (framedatastats_s *) 0 ;
   unsigned int arg2 ;
   
@@ -15681,7 +15681,7 @@ void _wrap_framedatastats_s_num_frames_detected_set_liquid_24d78331e3228d7c(fram
 }
 
 
-intgo _wrap_framedatastats_s_num_frames_detected_get_liquid_24d78331e3228d7c(framedatastats_s *_swig_go_0) {
+intgo _wrap_FramedatastatsS_NumFramesDetected_get_liquid_7b08cc538ffcb585(framedatastats_s *_swig_go_0) {
   framedatastats_s *arg1 = (framedatastats_s *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -15694,7 +15694,7 @@ intgo _wrap_framedatastats_s_num_frames_detected_get_liquid_24d78331e3228d7c(fra
 }
 
 
-void _wrap_framedatastats_s_num_headers_valid_set_liquid_24d78331e3228d7c(framedatastats_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_FramedatastatsS_NumHeadersValid_set_liquid_7b08cc538ffcb585(framedatastats_s *_swig_go_0, intgo _swig_go_1) {
   framedatastats_s *arg1 = (framedatastats_s *) 0 ;
   unsigned int arg2 ;
   
@@ -15706,7 +15706,7 @@ void _wrap_framedatastats_s_num_headers_valid_set_liquid_24d78331e3228d7c(framed
 }
 
 
-intgo _wrap_framedatastats_s_num_headers_valid_get_liquid_24d78331e3228d7c(framedatastats_s *_swig_go_0) {
+intgo _wrap_FramedatastatsS_NumHeadersValid_get_liquid_7b08cc538ffcb585(framedatastats_s *_swig_go_0) {
   framedatastats_s *arg1 = (framedatastats_s *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -15719,7 +15719,7 @@ intgo _wrap_framedatastats_s_num_headers_valid_get_liquid_24d78331e3228d7c(frame
 }
 
 
-void _wrap_framedatastats_s_num_payloads_valid_set_liquid_24d78331e3228d7c(framedatastats_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_FramedatastatsS_NumPayloadsValid_set_liquid_7b08cc538ffcb585(framedatastats_s *_swig_go_0, intgo _swig_go_1) {
   framedatastats_s *arg1 = (framedatastats_s *) 0 ;
   unsigned int arg2 ;
   
@@ -15731,7 +15731,7 @@ void _wrap_framedatastats_s_num_payloads_valid_set_liquid_24d78331e3228d7c(frame
 }
 
 
-intgo _wrap_framedatastats_s_num_payloads_valid_get_liquid_24d78331e3228d7c(framedatastats_s *_swig_go_0) {
+intgo _wrap_FramedatastatsS_NumPayloadsValid_get_liquid_7b08cc538ffcb585(framedatastats_s *_swig_go_0) {
   framedatastats_s *arg1 = (framedatastats_s *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -15744,7 +15744,7 @@ intgo _wrap_framedatastats_s_num_payloads_valid_get_liquid_24d78331e3228d7c(fram
 }
 
 
-void _wrap_framedatastats_s_num_bytes_received_set_liquid_24d78331e3228d7c(framedatastats_s *_swig_go_0, long long _swig_go_1) {
+void _wrap_FramedatastatsS_NumBytesReceived_set_liquid_7b08cc538ffcb585(framedatastats_s *_swig_go_0, long long _swig_go_1) {
   framedatastats_s *arg1 = (framedatastats_s *) 0 ;
   unsigned long arg2 ;
   
@@ -15756,7 +15756,7 @@ void _wrap_framedatastats_s_num_bytes_received_set_liquid_24d78331e3228d7c(frame
 }
 
 
-long long _wrap_framedatastats_s_num_bytes_received_get_liquid_24d78331e3228d7c(framedatastats_s *_swig_go_0) {
+long long _wrap_FramedatastatsS_NumBytesReceived_get_liquid_7b08cc538ffcb585(framedatastats_s *_swig_go_0) {
   framedatastats_s *arg1 = (framedatastats_s *) 0 ;
   unsigned long result;
   long long _swig_go_result;
@@ -15769,7 +15769,7 @@ long long _wrap_framedatastats_s_num_bytes_received_get_liquid_24d78331e3228d7c(
 }
 
 
-framedatastats_s *_wrap_new_framedatastats_s_liquid_24d78331e3228d7c() {
+framedatastats_s *_wrap_new_FramedatastatsS_liquid_7b08cc538ffcb585() {
   framedatastats_s *result = 0 ;
   framedatastats_s *_swig_go_result;
   
@@ -15780,7 +15780,7 @@ framedatastats_s *_wrap_new_framedatastats_s_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_delete_framedatastats_s_liquid_24d78331e3228d7c(framedatastats_s *_swig_go_0) {
+void _wrap_delete_FramedatastatsS_liquid_7b08cc538ffcb585(framedatastats_s *_swig_go_0) {
   framedatastats_s *arg1 = (framedatastats_s *) 0 ;
   
   arg1 = *(framedatastats_s **)&_swig_go_0; 
@@ -15790,7 +15790,7 @@ void _wrap_delete_framedatastats_s_liquid_24d78331e3228d7c(framedatastats_s *_sw
 }
 
 
-void _wrap_framedatastats_reset_liquid_24d78331e3228d7c(framedatastats_s *_swig_go_0) {
+void _wrap_FramedatastatsReset_liquid_7b08cc538ffcb585(framedatastats_s *_swig_go_0) {
   framedatastats_s *arg1 = (framedatastats_s *) 0 ;
   
   arg1 = *(framedatastats_s **)&_swig_go_0; 
@@ -15800,7 +15800,7 @@ void _wrap_framedatastats_reset_liquid_24d78331e3228d7c(framedatastats_s *_swig_
 }
 
 
-void _wrap_framedatastats_print_liquid_24d78331e3228d7c(framedatastats_s *_swig_go_0) {
+void _wrap_FramedatastatsPrint_liquid_7b08cc538ffcb585(framedatastats_s *_swig_go_0) {
   framedatastats_s *arg1 = (framedatastats_s *) 0 ;
   
   arg1 = *(framedatastats_s **)&_swig_go_0; 
@@ -15810,7 +15810,7 @@ void _wrap_framedatastats_print_liquid_24d78331e3228d7c(framedatastats_s *_swig_
 }
 
 
-qpacketmodem_s *_wrap_qpacketmodem_create_liquid_24d78331e3228d7c() {
+qpacketmodem_s *_wrap_QpacketmodemCreate_liquid_7b08cc538ffcb585() {
   qpacketmodem result;
   qpacketmodem_s *_swig_go_result;
   
@@ -15821,7 +15821,7 @@ qpacketmodem_s *_wrap_qpacketmodem_create_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_qpacketmodem_destroy_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_go_0) {
+void _wrap_QpacketmodemDestroy_liquid_7b08cc538ffcb585(qpacketmodem_s *_swig_go_0) {
   qpacketmodem arg1 = (qpacketmodem) 0 ;
   
   arg1 = *(qpacketmodem *)&_swig_go_0; 
@@ -15831,7 +15831,7 @@ void _wrap_qpacketmodem_destroy_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_go
 }
 
 
-void _wrap_qpacketmodem_reset_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_go_0) {
+void _wrap_QpacketmodemReset_liquid_7b08cc538ffcb585(qpacketmodem_s *_swig_go_0) {
   qpacketmodem arg1 = (qpacketmodem) 0 ;
   
   arg1 = *(qpacketmodem *)&_swig_go_0; 
@@ -15841,7 +15841,7 @@ void _wrap_qpacketmodem_reset_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_go_0
 }
 
 
-void _wrap_qpacketmodem_print_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_go_0) {
+void _wrap_QpacketmodemPrint_liquid_7b08cc538ffcb585(qpacketmodem_s *_swig_go_0) {
   qpacketmodem arg1 = (qpacketmodem) 0 ;
   
   arg1 = *(qpacketmodem *)&_swig_go_0; 
@@ -15851,7 +15851,7 @@ void _wrap_qpacketmodem_print_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_go_0
 }
 
 
-intgo _wrap_qpacketmodem_configure_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
+intgo _wrap_QpacketmodemConfigure_liquid_7b08cc538ffcb585(qpacketmodem_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
   qpacketmodem arg1 = (qpacketmodem) 0 ;
   unsigned int arg2 ;
   crc_scheme arg3 ;
@@ -15874,7 +15874,7 @@ intgo _wrap_qpacketmodem_configure_liquid_24d78331e3228d7c(qpacketmodem_s *_swig
 }
 
 
-intgo _wrap_qpacketmodem_get_frame_len_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_go_0) {
+intgo _wrap_QpacketmodemGetFrameLen_liquid_7b08cc538ffcb585(qpacketmodem_s *_swig_go_0) {
   qpacketmodem arg1 = (qpacketmodem) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -15887,7 +15887,7 @@ intgo _wrap_qpacketmodem_get_frame_len_liquid_24d78331e3228d7c(qpacketmodem_s *_
 }
 
 
-intgo _wrap_qpacketmodem_get_payload_len_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_go_0) {
+intgo _wrap_QpacketmodemGetPayloadLen_liquid_7b08cc538ffcb585(qpacketmodem_s *_swig_go_0) {
   qpacketmodem arg1 = (qpacketmodem) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -15900,7 +15900,7 @@ intgo _wrap_qpacketmodem_get_payload_len_liquid_24d78331e3228d7c(qpacketmodem_s 
 }
 
 
-intgo _wrap_qpacketmodem_get_crc_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_go_0) {
+intgo _wrap_QpacketmodemGetCrc_liquid_7b08cc538ffcb585(qpacketmodem_s *_swig_go_0) {
   qpacketmodem arg1 = (qpacketmodem) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -15913,7 +15913,7 @@ intgo _wrap_qpacketmodem_get_crc_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_g
 }
 
 
-intgo _wrap_qpacketmodem_get_fec0_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_go_0) {
+intgo _wrap_QpacketmodemGetFec0_liquid_7b08cc538ffcb585(qpacketmodem_s *_swig_go_0) {
   qpacketmodem arg1 = (qpacketmodem) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -15926,7 +15926,7 @@ intgo _wrap_qpacketmodem_get_fec0_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_
 }
 
 
-intgo _wrap_qpacketmodem_get_fec1_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_go_0) {
+intgo _wrap_QpacketmodemGetFec1_liquid_7b08cc538ffcb585(qpacketmodem_s *_swig_go_0) {
   qpacketmodem arg1 = (qpacketmodem) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -15939,7 +15939,7 @@ intgo _wrap_qpacketmodem_get_fec1_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_
 }
 
 
-intgo _wrap_qpacketmodem_get_modscheme_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_go_0) {
+intgo _wrap_QpacketmodemGetModscheme_liquid_7b08cc538ffcb585(qpacketmodem_s *_swig_go_0) {
   qpacketmodem arg1 = (qpacketmodem) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -15952,7 +15952,7 @@ intgo _wrap_qpacketmodem_get_modscheme_liquid_24d78331e3228d7c(qpacketmodem_s *_
 }
 
 
-float _wrap_qpacketmodem_get_demodulator_phase_error_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_go_0) {
+float _wrap_QpacketmodemGetDemodulatorPhaseError_liquid_7b08cc538ffcb585(qpacketmodem_s *_swig_go_0) {
   qpacketmodem arg1 = (qpacketmodem) 0 ;
   float result;
   float _swig_go_result;
@@ -15965,7 +15965,7 @@ float _wrap_qpacketmodem_get_demodulator_phase_error_liquid_24d78331e3228d7c(qpa
 }
 
 
-float _wrap_qpacketmodem_get_demodulator_evm_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_go_0) {
+float _wrap_QpacketmodemGetDemodulatorEvm_liquid_7b08cc538ffcb585(qpacketmodem_s *_swig_go_0) {
   qpacketmodem arg1 = (qpacketmodem) 0 ;
   float result;
   float _swig_go_result;
@@ -15978,7 +15978,7 @@ float _wrap_qpacketmodem_get_demodulator_evm_liquid_24d78331e3228d7c(qpacketmode
 }
 
 
-void _wrap_qpacketmodem_encode_syms_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2) {
+void _wrap_QpacketmodemEncodeSyms_liquid_7b08cc538ffcb585(qpacketmodem_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2) {
   qpacketmodem arg1 = (qpacketmodem) 0 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -15992,7 +15992,7 @@ void _wrap_qpacketmodem_encode_syms_liquid_24d78331e3228d7c(qpacketmodem_s *_swi
 }
 
 
-intgo _wrap_qpacketmodem_decode_syms_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2) {
+intgo _wrap_QpacketmodemDecodeSyms_liquid_7b08cc538ffcb585(qpacketmodem_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2) {
   qpacketmodem arg1 = (qpacketmodem) 0 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -16009,7 +16009,7 @@ intgo _wrap_qpacketmodem_decode_syms_liquid_24d78331e3228d7c(qpacketmodem_s *_sw
 }
 
 
-intgo _wrap_qpacketmodem_decode_bits_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2) {
+intgo _wrap_QpacketmodemDecodeBits_liquid_7b08cc538ffcb585(qpacketmodem_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2) {
   qpacketmodem arg1 = (qpacketmodem) 0 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -16026,7 +16026,7 @@ intgo _wrap_qpacketmodem_decode_bits_liquid_24d78331e3228d7c(qpacketmodem_s *_sw
 }
 
 
-void _wrap_qpacketmodem_encode_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_go_0, char *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_QpacketmodemEncode_liquid_7b08cc538ffcb585(qpacketmodem_s *_swig_go_0, char *_swig_go_1, liquid_float_complex *_swig_go_2) {
   qpacketmodem arg1 = (qpacketmodem) 0 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -16040,7 +16040,7 @@ void _wrap_qpacketmodem_encode_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_go_
 }
 
 
-intgo _wrap_qpacketmodem_decode_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_go_0, liquid_float_complex *_swig_go_1, char *_swig_go_2) {
+intgo _wrap_QpacketmodemDecode_liquid_7b08cc538ffcb585(qpacketmodem_s *_swig_go_0, liquid_float_complex *_swig_go_1, char *_swig_go_2) {
   qpacketmodem arg1 = (qpacketmodem) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -16057,7 +16057,7 @@ intgo _wrap_qpacketmodem_decode_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_go
 }
 
 
-intgo _wrap_qpacketmodem_decode_soft_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_go_0, liquid_float_complex *_swig_go_1, char *_swig_go_2) {
+intgo _wrap_QpacketmodemDecodeSoft_liquid_7b08cc538ffcb585(qpacketmodem_s *_swig_go_0, liquid_float_complex *_swig_go_1, char *_swig_go_2) {
   qpacketmodem arg1 = (qpacketmodem) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -16074,7 +16074,7 @@ intgo _wrap_qpacketmodem_decode_soft_liquid_24d78331e3228d7c(qpacketmodem_s *_sw
 }
 
 
-intgo _wrap_qpacketmodem_decode_soft_sym_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+intgo _wrap_QpacketmodemDecodeSoftSym_liquid_7b08cc538ffcb585(qpacketmodem_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   qpacketmodem arg1 = (qpacketmodem) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -16096,7 +16096,7 @@ intgo _wrap_qpacketmodem_decode_soft_sym_liquid_24d78331e3228d7c(qpacketmodem_s 
 }
 
 
-intgo _wrap_qpacketmodem_decode_soft_payload_liquid_24d78331e3228d7c(qpacketmodem_s *_swig_go_0, char *_swig_go_1) {
+intgo _wrap_QpacketmodemDecodeSoftPayload_liquid_7b08cc538ffcb585(qpacketmodem_s *_swig_go_0, char *_swig_go_1) {
   qpacketmodem arg1 = (qpacketmodem) 0 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   int result;
@@ -16111,7 +16111,7 @@ intgo _wrap_qpacketmodem_decode_soft_payload_liquid_24d78331e3228d7c(qpacketmode
 }
 
 
-intgo _wrap_qpilot_num_pilots_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+intgo _wrap_QpilotNumPilots_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   unsigned int result;
@@ -16126,7 +16126,7 @@ intgo _wrap_qpilot_num_pilots_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _s
 }
 
 
-intgo _wrap_qpilot_frame_len_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+intgo _wrap_QpilotFrameLen_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   unsigned int result;
@@ -16141,7 +16141,7 @@ intgo _wrap_qpilot_frame_len_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _sw
 }
 
 
-qpilotgen_s *_wrap_qpilotgen_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+qpilotgen_s *_wrap_QpilotgenCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   qpilotgen result;
@@ -16156,7 +16156,7 @@ qpilotgen_s *_wrap_qpilotgen_create_liquid_24d78331e3228d7c(intgo _swig_go_0, in
 }
 
 
-qpilotgen_s *_wrap_qpilotgen_recreate_liquid_24d78331e3228d7c(qpilotgen_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+qpilotgen_s *_wrap_QpilotgenRecreate_liquid_7b08cc538ffcb585(qpilotgen_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   qpilotgen arg1 = (qpilotgen) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -16173,7 +16173,7 @@ qpilotgen_s *_wrap_qpilotgen_recreate_liquid_24d78331e3228d7c(qpilotgen_s *_swig
 }
 
 
-void _wrap_qpilotgen_destroy_liquid_24d78331e3228d7c(qpilotgen_s *_swig_go_0) {
+void _wrap_QpilotgenDestroy_liquid_7b08cc538ffcb585(qpilotgen_s *_swig_go_0) {
   qpilotgen arg1 = (qpilotgen) 0 ;
   
   arg1 = *(qpilotgen *)&_swig_go_0; 
@@ -16183,7 +16183,7 @@ void _wrap_qpilotgen_destroy_liquid_24d78331e3228d7c(qpilotgen_s *_swig_go_0) {
 }
 
 
-void _wrap_qpilotgen_reset_liquid_24d78331e3228d7c(qpilotgen_s *_swig_go_0) {
+void _wrap_QpilotgenReset_liquid_7b08cc538ffcb585(qpilotgen_s *_swig_go_0) {
   qpilotgen arg1 = (qpilotgen) 0 ;
   
   arg1 = *(qpilotgen *)&_swig_go_0; 
@@ -16193,7 +16193,7 @@ void _wrap_qpilotgen_reset_liquid_24d78331e3228d7c(qpilotgen_s *_swig_go_0) {
 }
 
 
-void _wrap_qpilotgen_print_liquid_24d78331e3228d7c(qpilotgen_s *_swig_go_0) {
+void _wrap_QpilotgenPrint_liquid_7b08cc538ffcb585(qpilotgen_s *_swig_go_0) {
   qpilotgen arg1 = (qpilotgen) 0 ;
   
   arg1 = *(qpilotgen *)&_swig_go_0; 
@@ -16203,7 +16203,7 @@ void _wrap_qpilotgen_print_liquid_24d78331e3228d7c(qpilotgen_s *_swig_go_0) {
 }
 
 
-intgo _wrap_qpilotgen_get_frame_len_liquid_24d78331e3228d7c(qpilotgen_s *_swig_go_0) {
+intgo _wrap_QpilotgenGetFrameLen_liquid_7b08cc538ffcb585(qpilotgen_s *_swig_go_0) {
   qpilotgen arg1 = (qpilotgen) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -16216,7 +16216,7 @@ intgo _wrap_qpilotgen_get_frame_len_liquid_24d78331e3228d7c(qpilotgen_s *_swig_g
 }
 
 
-void _wrap_qpilotgen_execute_liquid_24d78331e3228d7c(qpilotgen_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_QpilotgenExecute_liquid_7b08cc538ffcb585(qpilotgen_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   qpilotgen arg1 = (qpilotgen) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -16230,7 +16230,7 @@ void _wrap_qpilotgen_execute_liquid_24d78331e3228d7c(qpilotgen_s *_swig_go_0, li
 }
 
 
-qpilotsync_s *_wrap_qpilotsync_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+qpilotsync_s *_wrap_QpilotsyncCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   qpilotsync result;
@@ -16245,7 +16245,7 @@ qpilotsync_s *_wrap_qpilotsync_create_liquid_24d78331e3228d7c(intgo _swig_go_0, 
 }
 
 
-qpilotsync_s *_wrap_qpilotsync_recreate_liquid_24d78331e3228d7c(qpilotsync_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+qpilotsync_s *_wrap_QpilotsyncRecreate_liquid_7b08cc538ffcb585(qpilotsync_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   qpilotsync arg1 = (qpilotsync) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -16262,7 +16262,7 @@ qpilotsync_s *_wrap_qpilotsync_recreate_liquid_24d78331e3228d7c(qpilotsync_s *_s
 }
 
 
-void _wrap_qpilotsync_destroy_liquid_24d78331e3228d7c(qpilotsync_s *_swig_go_0) {
+void _wrap_QpilotsyncDestroy_liquid_7b08cc538ffcb585(qpilotsync_s *_swig_go_0) {
   qpilotsync arg1 = (qpilotsync) 0 ;
   
   arg1 = *(qpilotsync *)&_swig_go_0; 
@@ -16272,7 +16272,7 @@ void _wrap_qpilotsync_destroy_liquid_24d78331e3228d7c(qpilotsync_s *_swig_go_0) 
 }
 
 
-void _wrap_qpilotsync_reset_liquid_24d78331e3228d7c(qpilotsync_s *_swig_go_0) {
+void _wrap_QpilotsyncReset_liquid_7b08cc538ffcb585(qpilotsync_s *_swig_go_0) {
   qpilotsync arg1 = (qpilotsync) 0 ;
   
   arg1 = *(qpilotsync *)&_swig_go_0; 
@@ -16282,7 +16282,7 @@ void _wrap_qpilotsync_reset_liquid_24d78331e3228d7c(qpilotsync_s *_swig_go_0) {
 }
 
 
-void _wrap_qpilotsync_print_liquid_24d78331e3228d7c(qpilotsync_s *_swig_go_0) {
+void _wrap_QpilotsyncPrint_liquid_7b08cc538ffcb585(qpilotsync_s *_swig_go_0) {
   qpilotsync arg1 = (qpilotsync) 0 ;
   
   arg1 = *(qpilotsync *)&_swig_go_0; 
@@ -16292,7 +16292,7 @@ void _wrap_qpilotsync_print_liquid_24d78331e3228d7c(qpilotsync_s *_swig_go_0) {
 }
 
 
-intgo _wrap_qpilotsync_get_frame_len_liquid_24d78331e3228d7c(qpilotsync_s *_swig_go_0) {
+intgo _wrap_QpilotsyncGetFrameLen_liquid_7b08cc538ffcb585(qpilotsync_s *_swig_go_0) {
   qpilotsync arg1 = (qpilotsync) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -16305,7 +16305,7 @@ intgo _wrap_qpilotsync_get_frame_len_liquid_24d78331e3228d7c(qpilotsync_s *_swig
 }
 
 
-void _wrap_qpilotsync_execute_liquid_24d78331e3228d7c(qpilotsync_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_QpilotsyncExecute_liquid_7b08cc538ffcb585(qpilotsync_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   qpilotsync arg1 = (qpilotsync) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -16319,7 +16319,7 @@ void _wrap_qpilotsync_execute_liquid_24d78331e3228d7c(qpilotsync_s *_swig_go_0, 
 }
 
 
-float _wrap_qpilotsync_get_dphi_liquid_24d78331e3228d7c(qpilotsync_s *_swig_go_0) {
+float _wrap_QpilotsyncGetDphi_liquid_7b08cc538ffcb585(qpilotsync_s *_swig_go_0) {
   qpilotsync arg1 = (qpilotsync) 0 ;
   float result;
   float _swig_go_result;
@@ -16332,7 +16332,7 @@ float _wrap_qpilotsync_get_dphi_liquid_24d78331e3228d7c(qpilotsync_s *_swig_go_0
 }
 
 
-float _wrap_qpilotsync_get_phi_liquid_24d78331e3228d7c(qpilotsync_s *_swig_go_0) {
+float _wrap_QpilotsyncGetPhi_liquid_7b08cc538ffcb585(qpilotsync_s *_swig_go_0) {
   qpilotsync arg1 = (qpilotsync) 0 ;
   float result;
   float _swig_go_result;
@@ -16345,7 +16345,7 @@ float _wrap_qpilotsync_get_phi_liquid_24d78331e3228d7c(qpilotsync_s *_swig_go_0)
 }
 
 
-float _wrap_qpilotsync_get_gain_liquid_24d78331e3228d7c(qpilotsync_s *_swig_go_0) {
+float _wrap_QpilotsyncGetGain_liquid_7b08cc538ffcb585(qpilotsync_s *_swig_go_0) {
   qpilotsync arg1 = (qpilotsync) 0 ;
   float result;
   float _swig_go_result;
@@ -16358,7 +16358,7 @@ float _wrap_qpilotsync_get_gain_liquid_24d78331e3228d7c(qpilotsync_s *_swig_go_0
 }
 
 
-intgo _wrap_LIQUID_FRAME64_LEN_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDFRAME64LEN_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -16369,7 +16369,7 @@ intgo _wrap_LIQUID_FRAME64_LEN_liquid_24d78331e3228d7c() {
 }
 
 
-framegen64_s *_wrap_framegen64_create_liquid_24d78331e3228d7c() {
+framegen64_s *_wrap_Framegen64Create_liquid_7b08cc538ffcb585() {
   framegen64 result;
   framegen64_s *_swig_go_result;
   
@@ -16380,7 +16380,7 @@ framegen64_s *_wrap_framegen64_create_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_framegen64_destroy_liquid_24d78331e3228d7c(framegen64_s *_swig_go_0) {
+void _wrap_Framegen64Destroy_liquid_7b08cc538ffcb585(framegen64_s *_swig_go_0) {
   framegen64 arg1 = (framegen64) 0 ;
   
   arg1 = *(framegen64 *)&_swig_go_0; 
@@ -16390,7 +16390,7 @@ void _wrap_framegen64_destroy_liquid_24d78331e3228d7c(framegen64_s *_swig_go_0) 
 }
 
 
-void _wrap_framegen64_print_liquid_24d78331e3228d7c(framegen64_s *_swig_go_0) {
+void _wrap_Framegen64Print_liquid_7b08cc538ffcb585(framegen64_s *_swig_go_0) {
   framegen64 arg1 = (framegen64) 0 ;
   
   arg1 = *(framegen64 *)&_swig_go_0; 
@@ -16400,7 +16400,7 @@ void _wrap_framegen64_print_liquid_24d78331e3228d7c(framegen64_s *_swig_go_0) {
 }
 
 
-void _wrap_framegen64_execute_liquid_24d78331e3228d7c(framegen64_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_Framegen64Execute_liquid_7b08cc538ffcb585(framegen64_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2, liquid_float_complex *_swig_go_3) {
   framegen64 arg1 = (framegen64) 0 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -16416,7 +16416,7 @@ void _wrap_framegen64_execute_liquid_24d78331e3228d7c(framegen64_s *_swig_go_0, 
 }
 
 
-framesync64_s *_wrap_framesync64_create_liquid_24d78331e3228d7c(void* _swig_go_0, void *_swig_go_1) {
+framesync64_s *_wrap_Framesync64Create_liquid_7b08cc538ffcb585(void* _swig_go_0, void *_swig_go_1) {
   framesync_callback arg1 = (framesync_callback) 0 ;
   void *arg2 = (void *) 0 ;
   framesync64 result;
@@ -16431,7 +16431,7 @@ framesync64_s *_wrap_framesync64_create_liquid_24d78331e3228d7c(void* _swig_go_0
 }
 
 
-void _wrap_framesync64_destroy_liquid_24d78331e3228d7c(framesync64_s *_swig_go_0) {
+void _wrap_Framesync64Destroy_liquid_7b08cc538ffcb585(framesync64_s *_swig_go_0) {
   framesync64 arg1 = (framesync64) 0 ;
   
   arg1 = *(framesync64 *)&_swig_go_0; 
@@ -16441,7 +16441,7 @@ void _wrap_framesync64_destroy_liquid_24d78331e3228d7c(framesync64_s *_swig_go_0
 }
 
 
-void _wrap_framesync64_print_liquid_24d78331e3228d7c(framesync64_s *_swig_go_0) {
+void _wrap_Framesync64Print_liquid_7b08cc538ffcb585(framesync64_s *_swig_go_0) {
   framesync64 arg1 = (framesync64) 0 ;
   
   arg1 = *(framesync64 *)&_swig_go_0; 
@@ -16451,7 +16451,7 @@ void _wrap_framesync64_print_liquid_24d78331e3228d7c(framesync64_s *_swig_go_0) 
 }
 
 
-void _wrap_framesync64_reset_liquid_24d78331e3228d7c(framesync64_s *_swig_go_0) {
+void _wrap_Framesync64Reset_liquid_7b08cc538ffcb585(framesync64_s *_swig_go_0) {
   framesync64 arg1 = (framesync64) 0 ;
   
   arg1 = *(framesync64 *)&_swig_go_0; 
@@ -16461,7 +16461,7 @@ void _wrap_framesync64_reset_liquid_24d78331e3228d7c(framesync64_s *_swig_go_0) 
 }
 
 
-void _wrap_framesync64_execute_liquid_24d78331e3228d7c(framesync64_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+void _wrap_Framesync64Execute_liquid_7b08cc538ffcb585(framesync64_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   framesync64 arg1 = (framesync64) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -16475,7 +16475,7 @@ void _wrap_framesync64_execute_liquid_24d78331e3228d7c(framesync64_s *_swig_go_0
 }
 
 
-void _wrap_framesync64_debug_enable_liquid_24d78331e3228d7c(framesync64_s *_swig_go_0) {
+void _wrap_Framesync64DebugEnable_liquid_7b08cc538ffcb585(framesync64_s *_swig_go_0) {
   framesync64 arg1 = (framesync64) 0 ;
   
   arg1 = *(framesync64 *)&_swig_go_0; 
@@ -16485,7 +16485,7 @@ void _wrap_framesync64_debug_enable_liquid_24d78331e3228d7c(framesync64_s *_swig
 }
 
 
-void _wrap_framesync64_debug_disable_liquid_24d78331e3228d7c(framesync64_s *_swig_go_0) {
+void _wrap_Framesync64DebugDisable_liquid_7b08cc538ffcb585(framesync64_s *_swig_go_0) {
   framesync64 arg1 = (framesync64) 0 ;
   
   arg1 = *(framesync64 *)&_swig_go_0; 
@@ -16495,7 +16495,7 @@ void _wrap_framesync64_debug_disable_liquid_24d78331e3228d7c(framesync64_s *_swi
 }
 
 
-void _wrap_framesync64_debug_print_liquid_24d78331e3228d7c(framesync64_s *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_Framesync64DebugPrint_liquid_7b08cc538ffcb585(framesync64_s *_swig_go_0, _gostring_ _swig_go_1) {
   framesync64 arg1 = (framesync64) 0 ;
   char *arg2 = (char *) 0 ;
   
@@ -16512,7 +16512,7 @@ void _wrap_framesync64_debug_print_liquid_24d78331e3228d7c(framesync64_s *_swig_
 }
 
 
-void _wrap_flexframegenprops_s_check_set_liquid_24d78331e3228d7c(flexframegenprops_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_FlexframegenpropsS_Check_set_liquid_7b08cc538ffcb585(flexframegenprops_s *_swig_go_0, intgo _swig_go_1) {
   flexframegenprops_s *arg1 = (flexframegenprops_s *) 0 ;
   unsigned int arg2 ;
   
@@ -16524,7 +16524,7 @@ void _wrap_flexframegenprops_s_check_set_liquid_24d78331e3228d7c(flexframegenpro
 }
 
 
-intgo _wrap_flexframegenprops_s_check_get_liquid_24d78331e3228d7c(flexframegenprops_s *_swig_go_0) {
+intgo _wrap_FlexframegenpropsS_Check_get_liquid_7b08cc538ffcb585(flexframegenprops_s *_swig_go_0) {
   flexframegenprops_s *arg1 = (flexframegenprops_s *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -16537,7 +16537,7 @@ intgo _wrap_flexframegenprops_s_check_get_liquid_24d78331e3228d7c(flexframegenpr
 }
 
 
-void _wrap_flexframegenprops_s_fec0_set_liquid_24d78331e3228d7c(flexframegenprops_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_FlexframegenpropsS_Fec0_set_liquid_7b08cc538ffcb585(flexframegenprops_s *_swig_go_0, intgo _swig_go_1) {
   flexframegenprops_s *arg1 = (flexframegenprops_s *) 0 ;
   unsigned int arg2 ;
   
@@ -16549,7 +16549,7 @@ void _wrap_flexframegenprops_s_fec0_set_liquid_24d78331e3228d7c(flexframegenprop
 }
 
 
-intgo _wrap_flexframegenprops_s_fec0_get_liquid_24d78331e3228d7c(flexframegenprops_s *_swig_go_0) {
+intgo _wrap_FlexframegenpropsS_Fec0_get_liquid_7b08cc538ffcb585(flexframegenprops_s *_swig_go_0) {
   flexframegenprops_s *arg1 = (flexframegenprops_s *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -16562,7 +16562,7 @@ intgo _wrap_flexframegenprops_s_fec0_get_liquid_24d78331e3228d7c(flexframegenpro
 }
 
 
-void _wrap_flexframegenprops_s_fec1_set_liquid_24d78331e3228d7c(flexframegenprops_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_FlexframegenpropsS_Fec1_set_liquid_7b08cc538ffcb585(flexframegenprops_s *_swig_go_0, intgo _swig_go_1) {
   flexframegenprops_s *arg1 = (flexframegenprops_s *) 0 ;
   unsigned int arg2 ;
   
@@ -16574,7 +16574,7 @@ void _wrap_flexframegenprops_s_fec1_set_liquid_24d78331e3228d7c(flexframegenprop
 }
 
 
-intgo _wrap_flexframegenprops_s_fec1_get_liquid_24d78331e3228d7c(flexframegenprops_s *_swig_go_0) {
+intgo _wrap_FlexframegenpropsS_Fec1_get_liquid_7b08cc538ffcb585(flexframegenprops_s *_swig_go_0) {
   flexframegenprops_s *arg1 = (flexframegenprops_s *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -16587,7 +16587,7 @@ intgo _wrap_flexframegenprops_s_fec1_get_liquid_24d78331e3228d7c(flexframegenpro
 }
 
 
-void _wrap_flexframegenprops_s_mod_scheme_set_liquid_24d78331e3228d7c(flexframegenprops_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_FlexframegenpropsS_ModScheme_set_liquid_7b08cc538ffcb585(flexframegenprops_s *_swig_go_0, intgo _swig_go_1) {
   flexframegenprops_s *arg1 = (flexframegenprops_s *) 0 ;
   unsigned int arg2 ;
   
@@ -16599,7 +16599,7 @@ void _wrap_flexframegenprops_s_mod_scheme_set_liquid_24d78331e3228d7c(flexframeg
 }
 
 
-intgo _wrap_flexframegenprops_s_mod_scheme_get_liquid_24d78331e3228d7c(flexframegenprops_s *_swig_go_0) {
+intgo _wrap_FlexframegenpropsS_ModScheme_get_liquid_7b08cc538ffcb585(flexframegenprops_s *_swig_go_0) {
   flexframegenprops_s *arg1 = (flexframegenprops_s *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -16612,7 +16612,7 @@ intgo _wrap_flexframegenprops_s_mod_scheme_get_liquid_24d78331e3228d7c(flexframe
 }
 
 
-flexframegenprops_s *_wrap_new_flexframegenprops_s_liquid_24d78331e3228d7c() {
+flexframegenprops_s *_wrap_new_FlexframegenpropsS_liquid_7b08cc538ffcb585() {
   flexframegenprops_s *result = 0 ;
   flexframegenprops_s *_swig_go_result;
   
@@ -16623,7 +16623,7 @@ flexframegenprops_s *_wrap_new_flexframegenprops_s_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_delete_flexframegenprops_s_liquid_24d78331e3228d7c(flexframegenprops_s *_swig_go_0) {
+void _wrap_delete_FlexframegenpropsS_liquid_7b08cc538ffcb585(flexframegenprops_s *_swig_go_0) {
   flexframegenprops_s *arg1 = (flexframegenprops_s *) 0 ;
   
   arg1 = *(flexframegenprops_s **)&_swig_go_0; 
@@ -16633,7 +16633,7 @@ void _wrap_delete_flexframegenprops_s_liquid_24d78331e3228d7c(flexframegenprops_
 }
 
 
-void _wrap_flexframegenprops_init_default_liquid_24d78331e3228d7c(flexframegenprops_s *_swig_go_0) {
+void _wrap_FlexframegenpropsInitDefault_liquid_7b08cc538ffcb585(flexframegenprops_s *_swig_go_0) {
   flexframegenprops_s *arg1 = (flexframegenprops_s *) 0 ;
   
   arg1 = *(flexframegenprops_s **)&_swig_go_0; 
@@ -16643,7 +16643,7 @@ void _wrap_flexframegenprops_init_default_liquid_24d78331e3228d7c(flexframegenpr
 }
 
 
-flexframegen_s *_wrap_flexframegen_create_liquid_24d78331e3228d7c(flexframegenprops_s *_swig_go_0) {
+flexframegen_s *_wrap_FlexframegenCreate_liquid_7b08cc538ffcb585(flexframegenprops_s *_swig_go_0) {
   flexframegenprops_s *arg1 = (flexframegenprops_s *) 0 ;
   flexframegen result;
   flexframegen_s *_swig_go_result;
@@ -16656,7 +16656,7 @@ flexframegen_s *_wrap_flexframegen_create_liquid_24d78331e3228d7c(flexframegenpr
 }
 
 
-void _wrap_flexframegen_destroy_liquid_24d78331e3228d7c(flexframegen_s *_swig_go_0) {
+void _wrap_FlexframegenDestroy_liquid_7b08cc538ffcb585(flexframegen_s *_swig_go_0) {
   flexframegen arg1 = (flexframegen) 0 ;
   
   arg1 = *(flexframegen *)&_swig_go_0; 
@@ -16666,7 +16666,7 @@ void _wrap_flexframegen_destroy_liquid_24d78331e3228d7c(flexframegen_s *_swig_go
 }
 
 
-void _wrap_flexframegen_print_liquid_24d78331e3228d7c(flexframegen_s *_swig_go_0) {
+void _wrap_FlexframegenPrint_liquid_7b08cc538ffcb585(flexframegen_s *_swig_go_0) {
   flexframegen arg1 = (flexframegen) 0 ;
   
   arg1 = *(flexframegen *)&_swig_go_0; 
@@ -16676,7 +16676,7 @@ void _wrap_flexframegen_print_liquid_24d78331e3228d7c(flexframegen_s *_swig_go_0
 }
 
 
-void _wrap_flexframegen_reset_liquid_24d78331e3228d7c(flexframegen_s *_swig_go_0) {
+void _wrap_FlexframegenReset_liquid_7b08cc538ffcb585(flexframegen_s *_swig_go_0) {
   flexframegen arg1 = (flexframegen) 0 ;
   
   arg1 = *(flexframegen *)&_swig_go_0; 
@@ -16686,7 +16686,7 @@ void _wrap_flexframegen_reset_liquid_24d78331e3228d7c(flexframegen_s *_swig_go_0
 }
 
 
-intgo _wrap_flexframegen_is_assembled_liquid_24d78331e3228d7c(flexframegen_s *_swig_go_0) {
+intgo _wrap_FlexframegenIsAssembled_liquid_7b08cc538ffcb585(flexframegen_s *_swig_go_0) {
   flexframegen arg1 = (flexframegen) 0 ;
   int result;
   intgo _swig_go_result;
@@ -16699,7 +16699,7 @@ intgo _wrap_flexframegen_is_assembled_liquid_24d78331e3228d7c(flexframegen_s *_s
 }
 
 
-void _wrap_flexframegen_getprops_liquid_24d78331e3228d7c(flexframegen_s *_swig_go_0, flexframegenprops_s *_swig_go_1) {
+void _wrap_FlexframegenGetprops_liquid_7b08cc538ffcb585(flexframegen_s *_swig_go_0, flexframegenprops_s *_swig_go_1) {
   flexframegen arg1 = (flexframegen) 0 ;
   flexframegenprops_s *arg2 = (flexframegenprops_s *) 0 ;
   
@@ -16711,7 +16711,7 @@ void _wrap_flexframegen_getprops_liquid_24d78331e3228d7c(flexframegen_s *_swig_g
 }
 
 
-intgo _wrap_flexframegen_setprops_liquid_24d78331e3228d7c(flexframegen_s *_swig_go_0, flexframegenprops_s *_swig_go_1) {
+intgo _wrap_FlexframegenSetprops_liquid_7b08cc538ffcb585(flexframegen_s *_swig_go_0, flexframegenprops_s *_swig_go_1) {
   flexframegen arg1 = (flexframegen) 0 ;
   flexframegenprops_s *arg2 = (flexframegenprops_s *) 0 ;
   int result;
@@ -16726,7 +16726,7 @@ intgo _wrap_flexframegen_setprops_liquid_24d78331e3228d7c(flexframegen_s *_swig_
 }
 
 
-void _wrap_flexframegen_set_header_len_liquid_24d78331e3228d7c(flexframegen_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_FlexframegenSetHeaderLen_liquid_7b08cc538ffcb585(flexframegen_s *_swig_go_0, intgo _swig_go_1) {
   flexframegen arg1 = (flexframegen) 0 ;
   unsigned int arg2 ;
   
@@ -16738,7 +16738,7 @@ void _wrap_flexframegen_set_header_len_liquid_24d78331e3228d7c(flexframegen_s *_
 }
 
 
-intgo _wrap_flexframegen_set_header_props_liquid_24d78331e3228d7c(flexframegen_s *_swig_go_0, flexframegenprops_s *_swig_go_1) {
+intgo _wrap_FlexframegenSetHeaderProps_liquid_7b08cc538ffcb585(flexframegen_s *_swig_go_0, flexframegenprops_s *_swig_go_1) {
   flexframegen arg1 = (flexframegen) 0 ;
   flexframegenprops_s *arg2 = (flexframegenprops_s *) 0 ;
   int result;
@@ -16753,7 +16753,7 @@ intgo _wrap_flexframegen_set_header_props_liquid_24d78331e3228d7c(flexframegen_s
 }
 
 
-intgo _wrap_flexframegen_getframelen_liquid_24d78331e3228d7c(flexframegen_s *_swig_go_0) {
+intgo _wrap_FlexframegenGetframelen_liquid_7b08cc538ffcb585(flexframegen_s *_swig_go_0) {
   flexframegen arg1 = (flexframegen) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -16766,7 +16766,7 @@ intgo _wrap_flexframegen_getframelen_liquid_24d78331e3228d7c(flexframegen_s *_sw
 }
 
 
-void _wrap_flexframegen_assemble_liquid_24d78331e3228d7c(flexframegen_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2, intgo _swig_go_3) {
+void _wrap_FlexframegenAssemble_liquid_7b08cc538ffcb585(flexframegen_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2, intgo _swig_go_3) {
   flexframegen arg1 = (flexframegen) 0 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -16782,7 +16782,7 @@ void _wrap_flexframegen_assemble_liquid_24d78331e3228d7c(flexframegen_s *_swig_g
 }
 
 
-intgo _wrap_flexframegen_write_samples_liquid_24d78331e3228d7c(flexframegen_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+intgo _wrap_FlexframegenWriteSamples_liquid_7b08cc538ffcb585(flexframegen_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   flexframegen arg1 = (flexframegen) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -16799,7 +16799,7 @@ intgo _wrap_flexframegen_write_samples_liquid_24d78331e3228d7c(flexframegen_s *_
 }
 
 
-flexframesync_s *_wrap_flexframesync_create_liquid_24d78331e3228d7c(void* _swig_go_0, void *_swig_go_1) {
+flexframesync_s *_wrap_FlexframesyncCreate_liquid_7b08cc538ffcb585(void* _swig_go_0, void *_swig_go_1) {
   framesync_callback arg1 = (framesync_callback) 0 ;
   void *arg2 = (void *) 0 ;
   flexframesync result;
@@ -16814,7 +16814,7 @@ flexframesync_s *_wrap_flexframesync_create_liquid_24d78331e3228d7c(void* _swig_
 }
 
 
-void _wrap_flexframesync_destroy_liquid_24d78331e3228d7c(flexframesync_s *_swig_go_0) {
+void _wrap_FlexframesyncDestroy_liquid_7b08cc538ffcb585(flexframesync_s *_swig_go_0) {
   flexframesync arg1 = (flexframesync) 0 ;
   
   arg1 = *(flexframesync *)&_swig_go_0; 
@@ -16824,7 +16824,7 @@ void _wrap_flexframesync_destroy_liquid_24d78331e3228d7c(flexframesync_s *_swig_
 }
 
 
-void _wrap_flexframesync_print_liquid_24d78331e3228d7c(flexframesync_s *_swig_go_0) {
+void _wrap_FlexframesyncPrint_liquid_7b08cc538ffcb585(flexframesync_s *_swig_go_0) {
   flexframesync arg1 = (flexframesync) 0 ;
   
   arg1 = *(flexframesync *)&_swig_go_0; 
@@ -16834,7 +16834,7 @@ void _wrap_flexframesync_print_liquid_24d78331e3228d7c(flexframesync_s *_swig_go
 }
 
 
-void _wrap_flexframesync_reset_liquid_24d78331e3228d7c(flexframesync_s *_swig_go_0) {
+void _wrap_FlexframesyncReset_liquid_7b08cc538ffcb585(flexframesync_s *_swig_go_0) {
   flexframesync arg1 = (flexframesync) 0 ;
   
   arg1 = *(flexframesync *)&_swig_go_0; 
@@ -16844,7 +16844,7 @@ void _wrap_flexframesync_reset_liquid_24d78331e3228d7c(flexframesync_s *_swig_go
 }
 
 
-intgo _wrap_flexframesync_is_frame_open_liquid_24d78331e3228d7c(flexframesync_s *_swig_go_0) {
+intgo _wrap_FlexframesyncIsFrameOpen_liquid_7b08cc538ffcb585(flexframesync_s *_swig_go_0) {
   flexframesync arg1 = (flexframesync) 0 ;
   int result;
   intgo _swig_go_result;
@@ -16857,7 +16857,7 @@ intgo _wrap_flexframesync_is_frame_open_liquid_24d78331e3228d7c(flexframesync_s 
 }
 
 
-void _wrap_flexframesync_set_header_len_liquid_24d78331e3228d7c(flexframesync_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_FlexframesyncSetHeaderLen_liquid_7b08cc538ffcb585(flexframesync_s *_swig_go_0, intgo _swig_go_1) {
   flexframesync arg1 = (flexframesync) 0 ;
   unsigned int arg2 ;
   
@@ -16869,7 +16869,7 @@ void _wrap_flexframesync_set_header_len_liquid_24d78331e3228d7c(flexframesync_s 
 }
 
 
-void _wrap_flexframesync_decode_header_soft_liquid_24d78331e3228d7c(flexframesync_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_FlexframesyncDecodeHeaderSoft_liquid_7b08cc538ffcb585(flexframesync_s *_swig_go_0, intgo _swig_go_1) {
   flexframesync arg1 = (flexframesync) 0 ;
   int arg2 ;
   
@@ -16881,7 +16881,7 @@ void _wrap_flexframesync_decode_header_soft_liquid_24d78331e3228d7c(flexframesyn
 }
 
 
-void _wrap_flexframesync_decode_payload_soft_liquid_24d78331e3228d7c(flexframesync_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_FlexframesyncDecodePayloadSoft_liquid_7b08cc538ffcb585(flexframesync_s *_swig_go_0, intgo _swig_go_1) {
   flexframesync arg1 = (flexframesync) 0 ;
   int arg2 ;
   
@@ -16893,7 +16893,7 @@ void _wrap_flexframesync_decode_payload_soft_liquid_24d78331e3228d7c(flexframesy
 }
 
 
-intgo _wrap_flexframesync_set_header_props_liquid_24d78331e3228d7c(flexframesync_s *_swig_go_0, flexframegenprops_s *_swig_go_1) {
+intgo _wrap_FlexframesyncSetHeaderProps_liquid_7b08cc538ffcb585(flexframesync_s *_swig_go_0, flexframegenprops_s *_swig_go_1) {
   flexframesync arg1 = (flexframesync) 0 ;
   flexframegenprops_s *arg2 = (flexframegenprops_s *) 0 ;
   int result;
@@ -16908,7 +16908,7 @@ intgo _wrap_flexframesync_set_header_props_liquid_24d78331e3228d7c(flexframesync
 }
 
 
-void _wrap_flexframesync_execute_liquid_24d78331e3228d7c(flexframesync_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+void _wrap_FlexframesyncExecute_liquid_7b08cc538ffcb585(flexframesync_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   flexframesync arg1 = (flexframesync) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -16922,7 +16922,7 @@ void _wrap_flexframesync_execute_liquid_24d78331e3228d7c(flexframesync_s *_swig_
 }
 
 
-void _wrap_flexframesync_reset_framedatastats_liquid_24d78331e3228d7c(flexframesync_s *_swig_go_0) {
+void _wrap_FlexframesyncResetFramedatastats_liquid_7b08cc538ffcb585(flexframesync_s *_swig_go_0) {
   flexframesync arg1 = (flexframesync) 0 ;
   
   arg1 = *(flexframesync *)&_swig_go_0; 
@@ -16932,7 +16932,7 @@ void _wrap_flexframesync_reset_framedatastats_liquid_24d78331e3228d7c(flexframes
 }
 
 
-framedatastats_s *_wrap_flexframesync_get_framedatastats_liquid_24d78331e3228d7c(flexframesync_s *_swig_go_0) {
+framedatastats_s *_wrap_FlexframesyncGetFramedatastats_liquid_7b08cc538ffcb585(flexframesync_s *_swig_go_0) {
   flexframesync arg1 = (flexframesync) 0 ;
   framedatastats_s result;
   framedatastats_s *_swig_go_result;
@@ -16945,7 +16945,7 @@ framedatastats_s *_wrap_flexframesync_get_framedatastats_liquid_24d78331e3228d7c
 }
 
 
-void _wrap_flexframesync_debug_enable_liquid_24d78331e3228d7c(flexframesync_s *_swig_go_0) {
+void _wrap_FlexframesyncDebugEnable_liquid_7b08cc538ffcb585(flexframesync_s *_swig_go_0) {
   flexframesync arg1 = (flexframesync) 0 ;
   
   arg1 = *(flexframesync *)&_swig_go_0; 
@@ -16955,7 +16955,7 @@ void _wrap_flexframesync_debug_enable_liquid_24d78331e3228d7c(flexframesync_s *_
 }
 
 
-void _wrap_flexframesync_debug_disable_liquid_24d78331e3228d7c(flexframesync_s *_swig_go_0) {
+void _wrap_FlexframesyncDebugDisable_liquid_7b08cc538ffcb585(flexframesync_s *_swig_go_0) {
   flexframesync arg1 = (flexframesync) 0 ;
   
   arg1 = *(flexframesync *)&_swig_go_0; 
@@ -16965,7 +16965,7 @@ void _wrap_flexframesync_debug_disable_liquid_24d78331e3228d7c(flexframesync_s *
 }
 
 
-void _wrap_flexframesync_debug_print_liquid_24d78331e3228d7c(flexframesync_s *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_FlexframesyncDebugPrint_liquid_7b08cc538ffcb585(flexframesync_s *_swig_go_0, _gostring_ _swig_go_1) {
   flexframesync arg1 = (flexframesync) 0 ;
   char *arg2 = (char *) 0 ;
   
@@ -16982,7 +16982,7 @@ void _wrap_flexframesync_debug_print_liquid_24d78331e3228d7c(flexframesync_s *_s
 }
 
 
-bpacketgen_s *_wrap_bpacketgen_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+bpacketgen_s *_wrap_BpacketgenCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   int arg3 ;
@@ -17003,7 +17003,7 @@ bpacketgen_s *_wrap_bpacketgen_create_liquid_24d78331e3228d7c(intgo _swig_go_0, 
 }
 
 
-bpacketgen_s *_wrap_bpacketgen_recreate_liquid_24d78331e3228d7c(bpacketgen_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
+bpacketgen_s *_wrap_BpacketgenRecreate_liquid_7b08cc538ffcb585(bpacketgen_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
   bpacketgen arg1 = (bpacketgen) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -17026,7 +17026,7 @@ bpacketgen_s *_wrap_bpacketgen_recreate_liquid_24d78331e3228d7c(bpacketgen_s *_s
 }
 
 
-void _wrap_bpacketgen_destroy_liquid_24d78331e3228d7c(bpacketgen_s *_swig_go_0) {
+void _wrap_BpacketgenDestroy_liquid_7b08cc538ffcb585(bpacketgen_s *_swig_go_0) {
   bpacketgen arg1 = (bpacketgen) 0 ;
   
   arg1 = *(bpacketgen *)&_swig_go_0; 
@@ -17036,7 +17036,7 @@ void _wrap_bpacketgen_destroy_liquid_24d78331e3228d7c(bpacketgen_s *_swig_go_0) 
 }
 
 
-void _wrap_bpacketgen_print_liquid_24d78331e3228d7c(bpacketgen_s *_swig_go_0) {
+void _wrap_BpacketgenPrint_liquid_7b08cc538ffcb585(bpacketgen_s *_swig_go_0) {
   bpacketgen arg1 = (bpacketgen) 0 ;
   
   arg1 = *(bpacketgen *)&_swig_go_0; 
@@ -17046,7 +17046,7 @@ void _wrap_bpacketgen_print_liquid_24d78331e3228d7c(bpacketgen_s *_swig_go_0) {
 }
 
 
-intgo _wrap_bpacketgen_get_packet_len_liquid_24d78331e3228d7c(bpacketgen_s *_swig_go_0) {
+intgo _wrap_BpacketgenGetPacketLen_liquid_7b08cc538ffcb585(bpacketgen_s *_swig_go_0) {
   bpacketgen arg1 = (bpacketgen) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -17059,7 +17059,7 @@ intgo _wrap_bpacketgen_get_packet_len_liquid_24d78331e3228d7c(bpacketgen_s *_swi
 }
 
 
-void _wrap_bpacketgen_encode_liquid_24d78331e3228d7c(bpacketgen_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2) {
+void _wrap_BpacketgenEncode_liquid_7b08cc538ffcb585(bpacketgen_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2) {
   bpacketgen arg1 = (bpacketgen) 0 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -17073,7 +17073,7 @@ void _wrap_bpacketgen_encode_liquid_24d78331e3228d7c(bpacketgen_s *_swig_go_0, c
 }
 
 
-bpacketsync_s *_wrap_bpacketsync_create_liquid_24d78331e3228d7c(intgo _swig_go_0, void* _swig_go_1, void *_swig_go_2) {
+bpacketsync_s *_wrap_BpacketsyncCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, void* _swig_go_1, void *_swig_go_2) {
   unsigned int arg1 ;
   bpacketsync_callback arg2 = (bpacketsync_callback) 0 ;
   void *arg3 = (void *) 0 ;
@@ -17090,7 +17090,7 @@ bpacketsync_s *_wrap_bpacketsync_create_liquid_24d78331e3228d7c(intgo _swig_go_0
 }
 
 
-void _wrap_bpacketsync_destroy_liquid_24d78331e3228d7c(bpacketsync_s *_swig_go_0) {
+void _wrap_BpacketsyncDestroy_liquid_7b08cc538ffcb585(bpacketsync_s *_swig_go_0) {
   bpacketsync arg1 = (bpacketsync) 0 ;
   
   arg1 = *(bpacketsync *)&_swig_go_0; 
@@ -17100,7 +17100,7 @@ void _wrap_bpacketsync_destroy_liquid_24d78331e3228d7c(bpacketsync_s *_swig_go_0
 }
 
 
-void _wrap_bpacketsync_print_liquid_24d78331e3228d7c(bpacketsync_s *_swig_go_0) {
+void _wrap_BpacketsyncPrint_liquid_7b08cc538ffcb585(bpacketsync_s *_swig_go_0) {
   bpacketsync arg1 = (bpacketsync) 0 ;
   
   arg1 = *(bpacketsync *)&_swig_go_0; 
@@ -17110,7 +17110,7 @@ void _wrap_bpacketsync_print_liquid_24d78331e3228d7c(bpacketsync_s *_swig_go_0) 
 }
 
 
-void _wrap_bpacketsync_reset_liquid_24d78331e3228d7c(bpacketsync_s *_swig_go_0) {
+void _wrap_BpacketsyncReset_liquid_7b08cc538ffcb585(bpacketsync_s *_swig_go_0) {
   bpacketsync arg1 = (bpacketsync) 0 ;
   
   arg1 = *(bpacketsync *)&_swig_go_0; 
@@ -17120,7 +17120,7 @@ void _wrap_bpacketsync_reset_liquid_24d78331e3228d7c(bpacketsync_s *_swig_go_0) 
 }
 
 
-void _wrap_bpacketsync_execute_liquid_24d78331e3228d7c(bpacketsync_s *_swig_go_0, char *_swig_go_1, intgo _swig_go_2) {
+void _wrap_BpacketsyncExecute_liquid_7b08cc538ffcb585(bpacketsync_s *_swig_go_0, char *_swig_go_1, intgo _swig_go_2) {
   bpacketsync arg1 = (bpacketsync) 0 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   unsigned int arg3 ;
@@ -17134,7 +17134,7 @@ void _wrap_bpacketsync_execute_liquid_24d78331e3228d7c(bpacketsync_s *_swig_go_0
 }
 
 
-void _wrap_bpacketsync_execute_byte_liquid_24d78331e3228d7c(bpacketsync_s *_swig_go_0, char _swig_go_1) {
+void _wrap_BpacketsyncExecuteByte_liquid_7b08cc538ffcb585(bpacketsync_s *_swig_go_0, char _swig_go_1) {
   bpacketsync arg1 = (bpacketsync) 0 ;
   unsigned char arg2 ;
   
@@ -17146,7 +17146,7 @@ void _wrap_bpacketsync_execute_byte_liquid_24d78331e3228d7c(bpacketsync_s *_swig
 }
 
 
-void _wrap_bpacketsync_execute_sym_liquid_24d78331e3228d7c(bpacketsync_s *_swig_go_0, char _swig_go_1, intgo _swig_go_2) {
+void _wrap_BpacketsyncExecuteSym_liquid_7b08cc538ffcb585(bpacketsync_s *_swig_go_0, char _swig_go_1, intgo _swig_go_2) {
   bpacketsync arg1 = (bpacketsync) 0 ;
   unsigned char arg2 ;
   unsigned int arg3 ;
@@ -17160,7 +17160,7 @@ void _wrap_bpacketsync_execute_sym_liquid_24d78331e3228d7c(bpacketsync_s *_swig_
 }
 
 
-void _wrap_bpacketsync_execute_bit_liquid_24d78331e3228d7c(bpacketsync_s *_swig_go_0, char _swig_go_1) {
+void _wrap_BpacketsyncExecuteBit_liquid_7b08cc538ffcb585(bpacketsync_s *_swig_go_0, char _swig_go_1) {
   bpacketsync arg1 = (bpacketsync) 0 ;
   unsigned char arg2 ;
   
@@ -17172,7 +17172,7 @@ void _wrap_bpacketsync_execute_bit_liquid_24d78331e3228d7c(bpacketsync_s *_swig_
 }
 
 
-fskframegen_s *_wrap_fskframegen_create_liquid_24d78331e3228d7c() {
+fskframegen_s *_wrap_FskframegenCreate_liquid_7b08cc538ffcb585() {
   fskframegen result;
   fskframegen_s *_swig_go_result;
   
@@ -17183,7 +17183,7 @@ fskframegen_s *_wrap_fskframegen_create_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_fskframegen_destroy_liquid_24d78331e3228d7c(fskframegen_s *_swig_go_0) {
+void _wrap_FskframegenDestroy_liquid_7b08cc538ffcb585(fskframegen_s *_swig_go_0) {
   fskframegen arg1 = (fskframegen) 0 ;
   
   arg1 = *(fskframegen *)&_swig_go_0; 
@@ -17193,7 +17193,7 @@ void _wrap_fskframegen_destroy_liquid_24d78331e3228d7c(fskframegen_s *_swig_go_0
 }
 
 
-void _wrap_fskframegen_print_liquid_24d78331e3228d7c(fskframegen_s *_swig_go_0) {
+void _wrap_FskframegenPrint_liquid_7b08cc538ffcb585(fskframegen_s *_swig_go_0) {
   fskframegen arg1 = (fskframegen) 0 ;
   
   arg1 = *(fskframegen *)&_swig_go_0; 
@@ -17203,7 +17203,7 @@ void _wrap_fskframegen_print_liquid_24d78331e3228d7c(fskframegen_s *_swig_go_0) 
 }
 
 
-void _wrap_fskframegen_reset_liquid_24d78331e3228d7c(fskframegen_s *_swig_go_0) {
+void _wrap_FskframegenReset_liquid_7b08cc538ffcb585(fskframegen_s *_swig_go_0) {
   fskframegen arg1 = (fskframegen) 0 ;
   
   arg1 = *(fskframegen *)&_swig_go_0; 
@@ -17213,7 +17213,7 @@ void _wrap_fskframegen_reset_liquid_24d78331e3228d7c(fskframegen_s *_swig_go_0) 
 }
 
 
-void _wrap_fskframegen_assemble_liquid_24d78331e3228d7c(fskframegen_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4, intgo _swig_go_5, intgo _swig_go_6) {
+void _wrap_FskframegenAssemble_liquid_7b08cc538ffcb585(fskframegen_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4, intgo _swig_go_5, intgo _swig_go_6) {
   fskframegen arg1 = (fskframegen) 0 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -17235,7 +17235,7 @@ void _wrap_fskframegen_assemble_liquid_24d78331e3228d7c(fskframegen_s *_swig_go_
 }
 
 
-intgo _wrap_fskframegen_getframelen_liquid_24d78331e3228d7c(fskframegen_s *_swig_go_0) {
+intgo _wrap_FskframegenGetframelen_liquid_7b08cc538ffcb585(fskframegen_s *_swig_go_0) {
   fskframegen arg1 = (fskframegen) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -17248,7 +17248,7 @@ intgo _wrap_fskframegen_getframelen_liquid_24d78331e3228d7c(fskframegen_s *_swig
 }
 
 
-intgo _wrap_fskframegen_write_samples_liquid_24d78331e3228d7c(fskframegen_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+intgo _wrap_FskframegenWriteSamples_liquid_7b08cc538ffcb585(fskframegen_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   fskframegen arg1 = (fskframegen) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -17265,7 +17265,7 @@ intgo _wrap_fskframegen_write_samples_liquid_24d78331e3228d7c(fskframegen_s *_sw
 }
 
 
-fskframesync_s *_wrap_fskframesync_create_liquid_24d78331e3228d7c(void* _swig_go_0, void *_swig_go_1) {
+fskframesync_s *_wrap_FskframesyncCreate_liquid_7b08cc538ffcb585(void* _swig_go_0, void *_swig_go_1) {
   framesync_callback arg1 = (framesync_callback) 0 ;
   void *arg2 = (void *) 0 ;
   fskframesync result;
@@ -17280,7 +17280,7 @@ fskframesync_s *_wrap_fskframesync_create_liquid_24d78331e3228d7c(void* _swig_go
 }
 
 
-void _wrap_fskframesync_destroy_liquid_24d78331e3228d7c(fskframesync_s *_swig_go_0) {
+void _wrap_FskframesyncDestroy_liquid_7b08cc538ffcb585(fskframesync_s *_swig_go_0) {
   fskframesync arg1 = (fskframesync) 0 ;
   
   arg1 = *(fskframesync *)&_swig_go_0; 
@@ -17290,7 +17290,7 @@ void _wrap_fskframesync_destroy_liquid_24d78331e3228d7c(fskframesync_s *_swig_go
 }
 
 
-void _wrap_fskframesync_print_liquid_24d78331e3228d7c(fskframesync_s *_swig_go_0) {
+void _wrap_FskframesyncPrint_liquid_7b08cc538ffcb585(fskframesync_s *_swig_go_0) {
   fskframesync arg1 = (fskframesync) 0 ;
   
   arg1 = *(fskframesync *)&_swig_go_0; 
@@ -17300,7 +17300,7 @@ void _wrap_fskframesync_print_liquid_24d78331e3228d7c(fskframesync_s *_swig_go_0
 }
 
 
-void _wrap_fskframesync_reset_liquid_24d78331e3228d7c(fskframesync_s *_swig_go_0) {
+void _wrap_FskframesyncReset_liquid_7b08cc538ffcb585(fskframesync_s *_swig_go_0) {
   fskframesync arg1 = (fskframesync) 0 ;
   
   arg1 = *(fskframesync *)&_swig_go_0; 
@@ -17310,7 +17310,7 @@ void _wrap_fskframesync_reset_liquid_24d78331e3228d7c(fskframesync_s *_swig_go_0
 }
 
 
-void _wrap_fskframesync_execute_liquid_24d78331e3228d7c(fskframesync_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_FskframesyncExecute_liquid_7b08cc538ffcb585(fskframesync_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   fskframesync arg1 = (fskframesync) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -17329,7 +17329,7 @@ void _wrap_fskframesync_execute_liquid_24d78331e3228d7c(fskframesync_s *_swig_go
 }
 
 
-void _wrap_fskframesync_execute_block_liquid_24d78331e3228d7c(fskframesync_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+void _wrap_FskframesyncExecuteBlock_liquid_7b08cc538ffcb585(fskframesync_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   fskframesync arg1 = (fskframesync) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -17343,7 +17343,7 @@ void _wrap_fskframesync_execute_block_liquid_24d78331e3228d7c(fskframesync_s *_s
 }
 
 
-void _wrap_fskframesync_debug_enable_liquid_24d78331e3228d7c(fskframesync_s *_swig_go_0) {
+void _wrap_FskframesyncDebugEnable_liquid_7b08cc538ffcb585(fskframesync_s *_swig_go_0) {
   fskframesync arg1 = (fskframesync) 0 ;
   
   arg1 = *(fskframesync *)&_swig_go_0; 
@@ -17353,7 +17353,7 @@ void _wrap_fskframesync_debug_enable_liquid_24d78331e3228d7c(fskframesync_s *_sw
 }
 
 
-void _wrap_fskframesync_debug_disable_liquid_24d78331e3228d7c(fskframesync_s *_swig_go_0) {
+void _wrap_FskframesyncDebugDisable_liquid_7b08cc538ffcb585(fskframesync_s *_swig_go_0) {
   fskframesync arg1 = (fskframesync) 0 ;
   
   arg1 = *(fskframesync *)&_swig_go_0; 
@@ -17363,7 +17363,7 @@ void _wrap_fskframesync_debug_disable_liquid_24d78331e3228d7c(fskframesync_s *_s
 }
 
 
-void _wrap_fskframesync_debug_export_liquid_24d78331e3228d7c(fskframesync_s *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_FskframesyncDebugExport_liquid_7b08cc538ffcb585(fskframesync_s *_swig_go_0, _gostring_ _swig_go_1) {
   fskframesync arg1 = (fskframesync) 0 ;
   char *arg2 = (char *) 0 ;
   
@@ -17380,7 +17380,7 @@ void _wrap_fskframesync_debug_export_liquid_24d78331e3228d7c(fskframesync_s *_sw
 }
 
 
-gmskframegen_s *_wrap_gmskframegen_create_liquid_24d78331e3228d7c() {
+gmskframegen_s *_wrap_GmskframegenCreate_liquid_7b08cc538ffcb585() {
   gmskframegen result;
   gmskframegen_s *_swig_go_result;
   
@@ -17391,7 +17391,7 @@ gmskframegen_s *_wrap_gmskframegen_create_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_gmskframegen_destroy_liquid_24d78331e3228d7c(gmskframegen_s *_swig_go_0) {
+void _wrap_GmskframegenDestroy_liquid_7b08cc538ffcb585(gmskframegen_s *_swig_go_0) {
   gmskframegen arg1 = (gmskframegen) 0 ;
   
   arg1 = *(gmskframegen *)&_swig_go_0; 
@@ -17401,7 +17401,7 @@ void _wrap_gmskframegen_destroy_liquid_24d78331e3228d7c(gmskframegen_s *_swig_go
 }
 
 
-intgo _wrap_gmskframegen_is_assembled_liquid_24d78331e3228d7c(gmskframegen_s *_swig_go_0) {
+intgo _wrap_GmskframegenIsAssembled_liquid_7b08cc538ffcb585(gmskframegen_s *_swig_go_0) {
   gmskframegen arg1 = (gmskframegen) 0 ;
   int result;
   intgo _swig_go_result;
@@ -17414,7 +17414,7 @@ intgo _wrap_gmskframegen_is_assembled_liquid_24d78331e3228d7c(gmskframegen_s *_s
 }
 
 
-void _wrap_gmskframegen_print_liquid_24d78331e3228d7c(gmskframegen_s *_swig_go_0) {
+void _wrap_GmskframegenPrint_liquid_7b08cc538ffcb585(gmskframegen_s *_swig_go_0) {
   gmskframegen arg1 = (gmskframegen) 0 ;
   
   arg1 = *(gmskframegen *)&_swig_go_0; 
@@ -17424,7 +17424,7 @@ void _wrap_gmskframegen_print_liquid_24d78331e3228d7c(gmskframegen_s *_swig_go_0
 }
 
 
-void _wrap_gmskframegen_set_header_len_liquid_24d78331e3228d7c(gmskframegen_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_GmskframegenSetHeaderLen_liquid_7b08cc538ffcb585(gmskframegen_s *_swig_go_0, intgo _swig_go_1) {
   gmskframegen arg1 = (gmskframegen) 0 ;
   unsigned int arg2 ;
   
@@ -17436,7 +17436,7 @@ void _wrap_gmskframegen_set_header_len_liquid_24d78331e3228d7c(gmskframegen_s *_
 }
 
 
-void _wrap_gmskframegen_reset_liquid_24d78331e3228d7c(gmskframegen_s *_swig_go_0) {
+void _wrap_GmskframegenReset_liquid_7b08cc538ffcb585(gmskframegen_s *_swig_go_0) {
   gmskframegen arg1 = (gmskframegen) 0 ;
   
   arg1 = *(gmskframegen *)&_swig_go_0; 
@@ -17446,7 +17446,7 @@ void _wrap_gmskframegen_reset_liquid_24d78331e3228d7c(gmskframegen_s *_swig_go_0
 }
 
 
-void _wrap_gmskframegen_assemble_liquid_24d78331e3228d7c(gmskframegen_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4, intgo _swig_go_5, intgo _swig_go_6) {
+void _wrap_GmskframegenAssemble_liquid_7b08cc538ffcb585(gmskframegen_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4, intgo _swig_go_5, intgo _swig_go_6) {
   gmskframegen arg1 = (gmskframegen) 0 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -17468,7 +17468,7 @@ void _wrap_gmskframegen_assemble_liquid_24d78331e3228d7c(gmskframegen_s *_swig_g
 }
 
 
-intgo _wrap_gmskframegen_getframelen_liquid_24d78331e3228d7c(gmskframegen_s *_swig_go_0) {
+intgo _wrap_GmskframegenGetframelen_liquid_7b08cc538ffcb585(gmskframegen_s *_swig_go_0) {
   gmskframegen arg1 = (gmskframegen) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -17481,7 +17481,7 @@ intgo _wrap_gmskframegen_getframelen_liquid_24d78331e3228d7c(gmskframegen_s *_sw
 }
 
 
-intgo _wrap_gmskframegen_write_samples_liquid_24d78331e3228d7c(gmskframegen_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+intgo _wrap_GmskframegenWriteSamples_liquid_7b08cc538ffcb585(gmskframegen_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   gmskframegen arg1 = (gmskframegen) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   int result;
@@ -17496,7 +17496,7 @@ intgo _wrap_gmskframegen_write_samples_liquid_24d78331e3228d7c(gmskframegen_s *_
 }
 
 
-gmskframesync_s *_wrap_gmskframesync_create_liquid_24d78331e3228d7c(void* _swig_go_0, void *_swig_go_1) {
+gmskframesync_s *_wrap_GmskframesyncCreate_liquid_7b08cc538ffcb585(void* _swig_go_0, void *_swig_go_1) {
   framesync_callback arg1 = (framesync_callback) 0 ;
   void *arg2 = (void *) 0 ;
   gmskframesync result;
@@ -17511,7 +17511,7 @@ gmskframesync_s *_wrap_gmskframesync_create_liquid_24d78331e3228d7c(void* _swig_
 }
 
 
-void _wrap_gmskframesync_destroy_liquid_24d78331e3228d7c(gmskframesync_s *_swig_go_0) {
+void _wrap_GmskframesyncDestroy_liquid_7b08cc538ffcb585(gmskframesync_s *_swig_go_0) {
   gmskframesync arg1 = (gmskframesync) 0 ;
   
   arg1 = *(gmskframesync *)&_swig_go_0; 
@@ -17521,7 +17521,7 @@ void _wrap_gmskframesync_destroy_liquid_24d78331e3228d7c(gmskframesync_s *_swig_
 }
 
 
-void _wrap_gmskframesync_print_liquid_24d78331e3228d7c(gmskframesync_s *_swig_go_0) {
+void _wrap_GmskframesyncPrint_liquid_7b08cc538ffcb585(gmskframesync_s *_swig_go_0) {
   gmskframesync arg1 = (gmskframesync) 0 ;
   
   arg1 = *(gmskframesync *)&_swig_go_0; 
@@ -17531,7 +17531,7 @@ void _wrap_gmskframesync_print_liquid_24d78331e3228d7c(gmskframesync_s *_swig_go
 }
 
 
-void _wrap_gmskframesync_set_header_len_liquid_24d78331e3228d7c(gmskframesync_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_GmskframesyncSetHeaderLen_liquid_7b08cc538ffcb585(gmskframesync_s *_swig_go_0, intgo _swig_go_1) {
   gmskframesync arg1 = (gmskframesync) 0 ;
   unsigned int arg2 ;
   
@@ -17543,7 +17543,7 @@ void _wrap_gmskframesync_set_header_len_liquid_24d78331e3228d7c(gmskframesync_s 
 }
 
 
-void _wrap_gmskframesync_reset_liquid_24d78331e3228d7c(gmskframesync_s *_swig_go_0) {
+void _wrap_GmskframesyncReset_liquid_7b08cc538ffcb585(gmskframesync_s *_swig_go_0) {
   gmskframesync arg1 = (gmskframesync) 0 ;
   
   arg1 = *(gmskframesync *)&_swig_go_0; 
@@ -17553,7 +17553,7 @@ void _wrap_gmskframesync_reset_liquid_24d78331e3228d7c(gmskframesync_s *_swig_go
 }
 
 
-intgo _wrap_gmskframesync_is_frame_open_liquid_24d78331e3228d7c(gmskframesync_s *_swig_go_0) {
+intgo _wrap_GmskframesyncIsFrameOpen_liquid_7b08cc538ffcb585(gmskframesync_s *_swig_go_0) {
   gmskframesync arg1 = (gmskframesync) 0 ;
   int result;
   intgo _swig_go_result;
@@ -17566,7 +17566,7 @@ intgo _wrap_gmskframesync_is_frame_open_liquid_24d78331e3228d7c(gmskframesync_s 
 }
 
 
-void _wrap_gmskframesync_execute_liquid_24d78331e3228d7c(gmskframesync_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+void _wrap_GmskframesyncExecute_liquid_7b08cc538ffcb585(gmskframesync_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   gmskframesync arg1 = (gmskframesync) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -17580,7 +17580,7 @@ void _wrap_gmskframesync_execute_liquid_24d78331e3228d7c(gmskframesync_s *_swig_
 }
 
 
-void _wrap_gmskframesync_debug_enable_liquid_24d78331e3228d7c(gmskframesync_s *_swig_go_0) {
+void _wrap_GmskframesyncDebugEnable_liquid_7b08cc538ffcb585(gmskframesync_s *_swig_go_0) {
   gmskframesync arg1 = (gmskframesync) 0 ;
   
   arg1 = *(gmskframesync *)&_swig_go_0; 
@@ -17590,7 +17590,7 @@ void _wrap_gmskframesync_debug_enable_liquid_24d78331e3228d7c(gmskframesync_s *_
 }
 
 
-void _wrap_gmskframesync_debug_disable_liquid_24d78331e3228d7c(gmskframesync_s *_swig_go_0) {
+void _wrap_GmskframesyncDebugDisable_liquid_7b08cc538ffcb585(gmskframesync_s *_swig_go_0) {
   gmskframesync arg1 = (gmskframesync) 0 ;
   
   arg1 = *(gmskframesync *)&_swig_go_0; 
@@ -17600,7 +17600,7 @@ void _wrap_gmskframesync_debug_disable_liquid_24d78331e3228d7c(gmskframesync_s *
 }
 
 
-void _wrap_gmskframesync_debug_print_liquid_24d78331e3228d7c(gmskframesync_s *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_GmskframesyncDebugPrint_liquid_7b08cc538ffcb585(gmskframesync_s *_swig_go_0, _gostring_ _swig_go_1) {
   gmskframesync arg1 = (gmskframesync) 0 ;
   char *arg2 = (char *) 0 ;
   
@@ -17617,7 +17617,7 @@ void _wrap_gmskframesync_debug_print_liquid_24d78331e3228d7c(gmskframesync_s *_s
 }
 
 
-void _wrap_dsssframegenprops_s_check_set_liquid_24d78331e3228d7c(dsssframegenprops_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_DsssframegenpropsS_Check_set_liquid_7b08cc538ffcb585(dsssframegenprops_s *_swig_go_0, intgo _swig_go_1) {
   dsssframegenprops_s *arg1 = (dsssframegenprops_s *) 0 ;
   unsigned int arg2 ;
   
@@ -17629,7 +17629,7 @@ void _wrap_dsssframegenprops_s_check_set_liquid_24d78331e3228d7c(dsssframegenpro
 }
 
 
-intgo _wrap_dsssframegenprops_s_check_get_liquid_24d78331e3228d7c(dsssframegenprops_s *_swig_go_0) {
+intgo _wrap_DsssframegenpropsS_Check_get_liquid_7b08cc538ffcb585(dsssframegenprops_s *_swig_go_0) {
   dsssframegenprops_s *arg1 = (dsssframegenprops_s *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -17642,7 +17642,7 @@ intgo _wrap_dsssframegenprops_s_check_get_liquid_24d78331e3228d7c(dsssframegenpr
 }
 
 
-void _wrap_dsssframegenprops_s_fec0_set_liquid_24d78331e3228d7c(dsssframegenprops_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_DsssframegenpropsS_Fec0_set_liquid_7b08cc538ffcb585(dsssframegenprops_s *_swig_go_0, intgo _swig_go_1) {
   dsssframegenprops_s *arg1 = (dsssframegenprops_s *) 0 ;
   unsigned int arg2 ;
   
@@ -17654,7 +17654,7 @@ void _wrap_dsssframegenprops_s_fec0_set_liquid_24d78331e3228d7c(dsssframegenprop
 }
 
 
-intgo _wrap_dsssframegenprops_s_fec0_get_liquid_24d78331e3228d7c(dsssframegenprops_s *_swig_go_0) {
+intgo _wrap_DsssframegenpropsS_Fec0_get_liquid_7b08cc538ffcb585(dsssframegenprops_s *_swig_go_0) {
   dsssframegenprops_s *arg1 = (dsssframegenprops_s *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -17667,7 +17667,7 @@ intgo _wrap_dsssframegenprops_s_fec0_get_liquid_24d78331e3228d7c(dsssframegenpro
 }
 
 
-void _wrap_dsssframegenprops_s_fec1_set_liquid_24d78331e3228d7c(dsssframegenprops_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_DsssframegenpropsS_Fec1_set_liquid_7b08cc538ffcb585(dsssframegenprops_s *_swig_go_0, intgo _swig_go_1) {
   dsssframegenprops_s *arg1 = (dsssframegenprops_s *) 0 ;
   unsigned int arg2 ;
   
@@ -17679,7 +17679,7 @@ void _wrap_dsssframegenprops_s_fec1_set_liquid_24d78331e3228d7c(dsssframegenprop
 }
 
 
-intgo _wrap_dsssframegenprops_s_fec1_get_liquid_24d78331e3228d7c(dsssframegenprops_s *_swig_go_0) {
+intgo _wrap_DsssframegenpropsS_Fec1_get_liquid_7b08cc538ffcb585(dsssframegenprops_s *_swig_go_0) {
   dsssframegenprops_s *arg1 = (dsssframegenprops_s *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -17692,7 +17692,7 @@ intgo _wrap_dsssframegenprops_s_fec1_get_liquid_24d78331e3228d7c(dsssframegenpro
 }
 
 
-dsssframegenprops_s *_wrap_new_dsssframegenprops_s_liquid_24d78331e3228d7c() {
+dsssframegenprops_s *_wrap_new_DsssframegenpropsS_liquid_7b08cc538ffcb585() {
   dsssframegenprops_s *result = 0 ;
   dsssframegenprops_s *_swig_go_result;
   
@@ -17703,7 +17703,7 @@ dsssframegenprops_s *_wrap_new_dsssframegenprops_s_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_delete_dsssframegenprops_s_liquid_24d78331e3228d7c(dsssframegenprops_s *_swig_go_0) {
+void _wrap_delete_DsssframegenpropsS_liquid_7b08cc538ffcb585(dsssframegenprops_s *_swig_go_0) {
   dsssframegenprops_s *arg1 = (dsssframegenprops_s *) 0 ;
   
   arg1 = *(dsssframegenprops_s **)&_swig_go_0; 
@@ -17713,7 +17713,7 @@ void _wrap_delete_dsssframegenprops_s_liquid_24d78331e3228d7c(dsssframegenprops_
 }
 
 
-dsssframegen_s *_wrap_dsssframegen_create_liquid_24d78331e3228d7c(dsssframegenprops_s *_swig_go_0) {
+dsssframegen_s *_wrap_DsssframegenCreate_liquid_7b08cc538ffcb585(dsssframegenprops_s *_swig_go_0) {
   dsssframegenprops_s *arg1 = (dsssframegenprops_s *) 0 ;
   dsssframegen result;
   dsssframegen_s *_swig_go_result;
@@ -17726,7 +17726,7 @@ dsssframegen_s *_wrap_dsssframegen_create_liquid_24d78331e3228d7c(dsssframegenpr
 }
 
 
-void _wrap_dsssframegen_destroy_liquid_24d78331e3228d7c(dsssframegen_s *_swig_go_0) {
+void _wrap_DsssframegenDestroy_liquid_7b08cc538ffcb585(dsssframegen_s *_swig_go_0) {
   dsssframegen arg1 = (dsssframegen) 0 ;
   
   arg1 = *(dsssframegen *)&_swig_go_0; 
@@ -17736,7 +17736,7 @@ void _wrap_dsssframegen_destroy_liquid_24d78331e3228d7c(dsssframegen_s *_swig_go
 }
 
 
-void _wrap_dsssframegen_reset_liquid_24d78331e3228d7c(dsssframegen_s *_swig_go_0) {
+void _wrap_DsssframegenReset_liquid_7b08cc538ffcb585(dsssframegen_s *_swig_go_0) {
   dsssframegen arg1 = (dsssframegen) 0 ;
   
   arg1 = *(dsssframegen *)&_swig_go_0; 
@@ -17746,7 +17746,7 @@ void _wrap_dsssframegen_reset_liquid_24d78331e3228d7c(dsssframegen_s *_swig_go_0
 }
 
 
-intgo _wrap_dsssframegen_is_assembled_liquid_24d78331e3228d7c(dsssframegen_s *_swig_go_0) {
+intgo _wrap_DsssframegenIsAssembled_liquid_7b08cc538ffcb585(dsssframegen_s *_swig_go_0) {
   dsssframegen arg1 = (dsssframegen) 0 ;
   int result;
   intgo _swig_go_result;
@@ -17759,7 +17759,7 @@ intgo _wrap_dsssframegen_is_assembled_liquid_24d78331e3228d7c(dsssframegen_s *_s
 }
 
 
-void _wrap_dsssframegen_getprops_liquid_24d78331e3228d7c(dsssframegen_s *_swig_go_0, dsssframegenprops_s *_swig_go_1) {
+void _wrap_DsssframegenGetprops_liquid_7b08cc538ffcb585(dsssframegen_s *_swig_go_0, dsssframegenprops_s *_swig_go_1) {
   dsssframegen arg1 = (dsssframegen) 0 ;
   dsssframegenprops_s *arg2 = (dsssframegenprops_s *) 0 ;
   
@@ -17771,7 +17771,7 @@ void _wrap_dsssframegen_getprops_liquid_24d78331e3228d7c(dsssframegen_s *_swig_g
 }
 
 
-intgo _wrap_dsssframegen_setprops_liquid_24d78331e3228d7c(dsssframegen_s *_swig_go_0, dsssframegenprops_s *_swig_go_1) {
+intgo _wrap_DsssframegenSetprops_liquid_7b08cc538ffcb585(dsssframegen_s *_swig_go_0, dsssframegenprops_s *_swig_go_1) {
   dsssframegen arg1 = (dsssframegen) 0 ;
   dsssframegenprops_s *arg2 = (dsssframegenprops_s *) 0 ;
   int result;
@@ -17786,7 +17786,7 @@ intgo _wrap_dsssframegen_setprops_liquid_24d78331e3228d7c(dsssframegen_s *_swig_
 }
 
 
-void _wrap_dsssframegen_set_header_len_liquid_24d78331e3228d7c(dsssframegen_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_DsssframegenSetHeaderLen_liquid_7b08cc538ffcb585(dsssframegen_s *_swig_go_0, intgo _swig_go_1) {
   dsssframegen arg1 = (dsssframegen) 0 ;
   unsigned int arg2 ;
   
@@ -17798,7 +17798,7 @@ void _wrap_dsssframegen_set_header_len_liquid_24d78331e3228d7c(dsssframegen_s *_
 }
 
 
-intgo _wrap_dsssframegen_set_header_props_liquid_24d78331e3228d7c(dsssframegen_s *_swig_go_0, dsssframegenprops_s *_swig_go_1) {
+intgo _wrap_DsssframegenSetHeaderProps_liquid_7b08cc538ffcb585(dsssframegen_s *_swig_go_0, dsssframegenprops_s *_swig_go_1) {
   dsssframegen arg1 = (dsssframegen) 0 ;
   dsssframegenprops_s *arg2 = (dsssframegenprops_s *) 0 ;
   int result;
@@ -17813,7 +17813,7 @@ intgo _wrap_dsssframegen_set_header_props_liquid_24d78331e3228d7c(dsssframegen_s
 }
 
 
-intgo _wrap_dsssframegen_getframelen_liquid_24d78331e3228d7c(dsssframegen_s *_swig_go_0) {
+intgo _wrap_DsssframegenGetframelen_liquid_7b08cc538ffcb585(dsssframegen_s *_swig_go_0) {
   dsssframegen arg1 = (dsssframegen) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -17826,7 +17826,7 @@ intgo _wrap_dsssframegen_getframelen_liquid_24d78331e3228d7c(dsssframegen_s *_sw
 }
 
 
-void _wrap_dsssframegen_assemble_liquid_24d78331e3228d7c(dsssframegen_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2, intgo _swig_go_3) {
+void _wrap_DsssframegenAssemble_liquid_7b08cc538ffcb585(dsssframegen_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2, intgo _swig_go_3) {
   dsssframegen arg1 = (dsssframegen) 0 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -17842,7 +17842,7 @@ void _wrap_dsssframegen_assemble_liquid_24d78331e3228d7c(dsssframegen_s *_swig_g
 }
 
 
-intgo _wrap_dsssframegen_write_samples_liquid_24d78331e3228d7c(dsssframegen_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+intgo _wrap_DsssframegenWriteSamples_liquid_7b08cc538ffcb585(dsssframegen_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   dsssframegen arg1 = (dsssframegen) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -17859,7 +17859,7 @@ intgo _wrap_dsssframegen_write_samples_liquid_24d78331e3228d7c(dsssframegen_s *_
 }
 
 
-dsssframesync_s *_wrap_dsssframesync_create_liquid_24d78331e3228d7c(void* _swig_go_0, void *_swig_go_1) {
+dsssframesync_s *_wrap_DsssframesyncCreate_liquid_7b08cc538ffcb585(void* _swig_go_0, void *_swig_go_1) {
   framesync_callback arg1 = (framesync_callback) 0 ;
   void *arg2 = (void *) 0 ;
   dsssframesync result;
@@ -17874,7 +17874,7 @@ dsssframesync_s *_wrap_dsssframesync_create_liquid_24d78331e3228d7c(void* _swig_
 }
 
 
-void _wrap_dsssframesync_destroy_liquid_24d78331e3228d7c(dsssframesync_s *_swig_go_0) {
+void _wrap_DsssframesyncDestroy_liquid_7b08cc538ffcb585(dsssframesync_s *_swig_go_0) {
   dsssframesync arg1 = (dsssframesync) 0 ;
   
   arg1 = *(dsssframesync *)&_swig_go_0; 
@@ -17884,7 +17884,7 @@ void _wrap_dsssframesync_destroy_liquid_24d78331e3228d7c(dsssframesync_s *_swig_
 }
 
 
-void _wrap_dsssframesync_print_liquid_24d78331e3228d7c(dsssframesync_s *_swig_go_0) {
+void _wrap_DsssframesyncPrint_liquid_7b08cc538ffcb585(dsssframesync_s *_swig_go_0) {
   dsssframesync arg1 = (dsssframesync) 0 ;
   
   arg1 = *(dsssframesync *)&_swig_go_0; 
@@ -17894,7 +17894,7 @@ void _wrap_dsssframesync_print_liquid_24d78331e3228d7c(dsssframesync_s *_swig_go
 }
 
 
-void _wrap_dsssframesync_reset_liquid_24d78331e3228d7c(dsssframesync_s *_swig_go_0) {
+void _wrap_DsssframesyncReset_liquid_7b08cc538ffcb585(dsssframesync_s *_swig_go_0) {
   dsssframesync arg1 = (dsssframesync) 0 ;
   
   arg1 = *(dsssframesync *)&_swig_go_0; 
@@ -17904,7 +17904,7 @@ void _wrap_dsssframesync_reset_liquid_24d78331e3228d7c(dsssframesync_s *_swig_go
 }
 
 
-intgo _wrap_dsssframesync_is_frame_open_liquid_24d78331e3228d7c(dsssframesync_s *_swig_go_0) {
+intgo _wrap_DsssframesyncIsFrameOpen_liquid_7b08cc538ffcb585(dsssframesync_s *_swig_go_0) {
   dsssframesync arg1 = (dsssframesync) 0 ;
   int result;
   intgo _swig_go_result;
@@ -17917,7 +17917,7 @@ intgo _wrap_dsssframesync_is_frame_open_liquid_24d78331e3228d7c(dsssframesync_s 
 }
 
 
-void _wrap_dsssframesync_set_header_len_liquid_24d78331e3228d7c(dsssframesync_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_DsssframesyncSetHeaderLen_liquid_7b08cc538ffcb585(dsssframesync_s *_swig_go_0, intgo _swig_go_1) {
   dsssframesync arg1 = (dsssframesync) 0 ;
   unsigned int arg2 ;
   
@@ -17929,7 +17929,7 @@ void _wrap_dsssframesync_set_header_len_liquid_24d78331e3228d7c(dsssframesync_s 
 }
 
 
-void _wrap_dsssframesync_decode_header_soft_liquid_24d78331e3228d7c(dsssframesync_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_DsssframesyncDecodeHeaderSoft_liquid_7b08cc538ffcb585(dsssframesync_s *_swig_go_0, intgo _swig_go_1) {
   dsssframesync arg1 = (dsssframesync) 0 ;
   int arg2 ;
   
@@ -17941,7 +17941,7 @@ void _wrap_dsssframesync_decode_header_soft_liquid_24d78331e3228d7c(dsssframesyn
 }
 
 
-void _wrap_dsssframesync_decode_payload_soft_liquid_24d78331e3228d7c(dsssframesync_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_DsssframesyncDecodePayloadSoft_liquid_7b08cc538ffcb585(dsssframesync_s *_swig_go_0, intgo _swig_go_1) {
   dsssframesync arg1 = (dsssframesync) 0 ;
   int arg2 ;
   
@@ -17953,7 +17953,7 @@ void _wrap_dsssframesync_decode_payload_soft_liquid_24d78331e3228d7c(dsssframesy
 }
 
 
-intgo _wrap_dsssframesync_set_header_props_liquid_24d78331e3228d7c(dsssframesync_s *_swig_go_0, dsssframegenprops_s *_swig_go_1) {
+intgo _wrap_DsssframesyncSetHeaderProps_liquid_7b08cc538ffcb585(dsssframesync_s *_swig_go_0, dsssframegenprops_s *_swig_go_1) {
   dsssframesync arg1 = (dsssframesync) 0 ;
   dsssframegenprops_s *arg2 = (dsssframegenprops_s *) 0 ;
   int result;
@@ -17968,7 +17968,7 @@ intgo _wrap_dsssframesync_set_header_props_liquid_24d78331e3228d7c(dsssframesync
 }
 
 
-void _wrap_dsssframesync_execute_liquid_24d78331e3228d7c(dsssframesync_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+void _wrap_DsssframesyncExecute_liquid_7b08cc538ffcb585(dsssframesync_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   dsssframesync arg1 = (dsssframesync) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -17982,7 +17982,7 @@ void _wrap_dsssframesync_execute_liquid_24d78331e3228d7c(dsssframesync_s *_swig_
 }
 
 
-void _wrap_dsssframesync_reset_framedatastats_liquid_24d78331e3228d7c(dsssframesync_s *_swig_go_0) {
+void _wrap_DsssframesyncResetFramedatastats_liquid_7b08cc538ffcb585(dsssframesync_s *_swig_go_0) {
   dsssframesync arg1 = (dsssframesync) 0 ;
   
   arg1 = *(dsssframesync *)&_swig_go_0; 
@@ -17992,7 +17992,7 @@ void _wrap_dsssframesync_reset_framedatastats_liquid_24d78331e3228d7c(dsssframes
 }
 
 
-framedatastats_s *_wrap_dsssframesync_get_framedatastats_liquid_24d78331e3228d7c(dsssframesync_s *_swig_go_0) {
+framedatastats_s *_wrap_DsssframesyncGetFramedatastats_liquid_7b08cc538ffcb585(dsssframesync_s *_swig_go_0) {
   dsssframesync arg1 = (dsssframesync) 0 ;
   framedatastats_s result;
   framedatastats_s *_swig_go_result;
@@ -18005,7 +18005,7 @@ framedatastats_s *_wrap_dsssframesync_get_framedatastats_liquid_24d78331e3228d7c
 }
 
 
-void _wrap_dsssframesync_debug_enable_liquid_24d78331e3228d7c(dsssframesync_s *_swig_go_0) {
+void _wrap_DsssframesyncDebugEnable_liquid_7b08cc538ffcb585(dsssframesync_s *_swig_go_0) {
   dsssframesync arg1 = (dsssframesync) 0 ;
   
   arg1 = *(dsssframesync *)&_swig_go_0; 
@@ -18015,7 +18015,7 @@ void _wrap_dsssframesync_debug_enable_liquid_24d78331e3228d7c(dsssframesync_s *_
 }
 
 
-void _wrap_dsssframesync_debug_disable_liquid_24d78331e3228d7c(dsssframesync_s *_swig_go_0) {
+void _wrap_DsssframesyncDebugDisable_liquid_7b08cc538ffcb585(dsssframesync_s *_swig_go_0) {
   dsssframesync arg1 = (dsssframesync) 0 ;
   
   arg1 = *(dsssframesync *)&_swig_go_0; 
@@ -18025,7 +18025,7 @@ void _wrap_dsssframesync_debug_disable_liquid_24d78331e3228d7c(dsssframesync_s *
 }
 
 
-void _wrap_dsssframesync_debug_print_liquid_24d78331e3228d7c(dsssframesync_s *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_DsssframesyncDebugPrint_liquid_7b08cc538ffcb585(dsssframesync_s *_swig_go_0, _gostring_ _swig_go_1) {
   dsssframesync arg1 = (dsssframesync) 0 ;
   char *arg2 = (char *) 0 ;
   
@@ -18042,7 +18042,7 @@ void _wrap_dsssframesync_debug_print_liquid_24d78331e3228d7c(dsssframesync_s *_s
 }
 
 
-void _wrap_ofdmflexframegenprops_s_check_set_liquid_24d78331e3228d7c(ofdmflexframegenprops_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_OfdmflexframegenpropsS_Check_set_liquid_7b08cc538ffcb585(ofdmflexframegenprops_s *_swig_go_0, intgo _swig_go_1) {
   ofdmflexframegenprops_s *arg1 = (ofdmflexframegenprops_s *) 0 ;
   unsigned int arg2 ;
   
@@ -18054,7 +18054,7 @@ void _wrap_ofdmflexframegenprops_s_check_set_liquid_24d78331e3228d7c(ofdmflexfra
 }
 
 
-intgo _wrap_ofdmflexframegenprops_s_check_get_liquid_24d78331e3228d7c(ofdmflexframegenprops_s *_swig_go_0) {
+intgo _wrap_OfdmflexframegenpropsS_Check_get_liquid_7b08cc538ffcb585(ofdmflexframegenprops_s *_swig_go_0) {
   ofdmflexframegenprops_s *arg1 = (ofdmflexframegenprops_s *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -18067,7 +18067,7 @@ intgo _wrap_ofdmflexframegenprops_s_check_get_liquid_24d78331e3228d7c(ofdmflexfr
 }
 
 
-void _wrap_ofdmflexframegenprops_s_fec0_set_liquid_24d78331e3228d7c(ofdmflexframegenprops_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_OfdmflexframegenpropsS_Fec0_set_liquid_7b08cc538ffcb585(ofdmflexframegenprops_s *_swig_go_0, intgo _swig_go_1) {
   ofdmflexframegenprops_s *arg1 = (ofdmflexframegenprops_s *) 0 ;
   unsigned int arg2 ;
   
@@ -18079,7 +18079,7 @@ void _wrap_ofdmflexframegenprops_s_fec0_set_liquid_24d78331e3228d7c(ofdmflexfram
 }
 
 
-intgo _wrap_ofdmflexframegenprops_s_fec0_get_liquid_24d78331e3228d7c(ofdmflexframegenprops_s *_swig_go_0) {
+intgo _wrap_OfdmflexframegenpropsS_Fec0_get_liquid_7b08cc538ffcb585(ofdmflexframegenprops_s *_swig_go_0) {
   ofdmflexframegenprops_s *arg1 = (ofdmflexframegenprops_s *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -18092,7 +18092,7 @@ intgo _wrap_ofdmflexframegenprops_s_fec0_get_liquid_24d78331e3228d7c(ofdmflexfra
 }
 
 
-void _wrap_ofdmflexframegenprops_s_fec1_set_liquid_24d78331e3228d7c(ofdmflexframegenprops_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_OfdmflexframegenpropsS_Fec1_set_liquid_7b08cc538ffcb585(ofdmflexframegenprops_s *_swig_go_0, intgo _swig_go_1) {
   ofdmflexframegenprops_s *arg1 = (ofdmflexframegenprops_s *) 0 ;
   unsigned int arg2 ;
   
@@ -18104,7 +18104,7 @@ void _wrap_ofdmflexframegenprops_s_fec1_set_liquid_24d78331e3228d7c(ofdmflexfram
 }
 
 
-intgo _wrap_ofdmflexframegenprops_s_fec1_get_liquid_24d78331e3228d7c(ofdmflexframegenprops_s *_swig_go_0) {
+intgo _wrap_OfdmflexframegenpropsS_Fec1_get_liquid_7b08cc538ffcb585(ofdmflexframegenprops_s *_swig_go_0) {
   ofdmflexframegenprops_s *arg1 = (ofdmflexframegenprops_s *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -18117,7 +18117,7 @@ intgo _wrap_ofdmflexframegenprops_s_fec1_get_liquid_24d78331e3228d7c(ofdmflexfra
 }
 
 
-void _wrap_ofdmflexframegenprops_s_mod_scheme_set_liquid_24d78331e3228d7c(ofdmflexframegenprops_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_OfdmflexframegenpropsS_ModScheme_set_liquid_7b08cc538ffcb585(ofdmflexframegenprops_s *_swig_go_0, intgo _swig_go_1) {
   ofdmflexframegenprops_s *arg1 = (ofdmflexframegenprops_s *) 0 ;
   unsigned int arg2 ;
   
@@ -18129,7 +18129,7 @@ void _wrap_ofdmflexframegenprops_s_mod_scheme_set_liquid_24d78331e3228d7c(ofdmfl
 }
 
 
-intgo _wrap_ofdmflexframegenprops_s_mod_scheme_get_liquid_24d78331e3228d7c(ofdmflexframegenprops_s *_swig_go_0) {
+intgo _wrap_OfdmflexframegenpropsS_ModScheme_get_liquid_7b08cc538ffcb585(ofdmflexframegenprops_s *_swig_go_0) {
   ofdmflexframegenprops_s *arg1 = (ofdmflexframegenprops_s *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -18142,7 +18142,7 @@ intgo _wrap_ofdmflexframegenprops_s_mod_scheme_get_liquid_24d78331e3228d7c(ofdmf
 }
 
 
-ofdmflexframegenprops_s *_wrap_new_ofdmflexframegenprops_s_liquid_24d78331e3228d7c() {
+ofdmflexframegenprops_s *_wrap_new_OfdmflexframegenpropsS_liquid_7b08cc538ffcb585() {
   ofdmflexframegenprops_s *result = 0 ;
   ofdmflexframegenprops_s *_swig_go_result;
   
@@ -18153,7 +18153,7 @@ ofdmflexframegenprops_s *_wrap_new_ofdmflexframegenprops_s_liquid_24d78331e3228d
 }
 
 
-void _wrap_delete_ofdmflexframegenprops_s_liquid_24d78331e3228d7c(ofdmflexframegenprops_s *_swig_go_0) {
+void _wrap_delete_OfdmflexframegenpropsS_liquid_7b08cc538ffcb585(ofdmflexframegenprops_s *_swig_go_0) {
   ofdmflexframegenprops_s *arg1 = (ofdmflexframegenprops_s *) 0 ;
   
   arg1 = *(ofdmflexframegenprops_s **)&_swig_go_0; 
@@ -18163,7 +18163,7 @@ void _wrap_delete_ofdmflexframegenprops_s_liquid_24d78331e3228d7c(ofdmflexframeg
 }
 
 
-void _wrap_ofdmflexframegenprops_init_default_liquid_24d78331e3228d7c(ofdmflexframegenprops_s *_swig_go_0) {
+void _wrap_OfdmflexframegenpropsInitDefault_liquid_7b08cc538ffcb585(ofdmflexframegenprops_s *_swig_go_0) {
   ofdmflexframegenprops_s *arg1 = (ofdmflexframegenprops_s *) 0 ;
   
   arg1 = *(ofdmflexframegenprops_s **)&_swig_go_0; 
@@ -18173,7 +18173,7 @@ void _wrap_ofdmflexframegenprops_init_default_liquid_24d78331e3228d7c(ofdmflexfr
 }
 
 
-ofdmflexframegen_s *_wrap_ofdmflexframegen_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, char *_swig_go_3, ofdmflexframegenprops_s *_swig_go_4) {
+ofdmflexframegen_s *_wrap_OfdmflexframegenCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, char *_swig_go_3, ofdmflexframegenprops_s *_swig_go_4) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -18194,7 +18194,7 @@ ofdmflexframegen_s *_wrap_ofdmflexframegen_create_liquid_24d78331e3228d7c(intgo 
 }
 
 
-void _wrap_ofdmflexframegen_destroy_liquid_24d78331e3228d7c(ofdmflexframegen_s *_swig_go_0) {
+void _wrap_OfdmflexframegenDestroy_liquid_7b08cc538ffcb585(ofdmflexframegen_s *_swig_go_0) {
   ofdmflexframegen arg1 = (ofdmflexframegen) 0 ;
   
   arg1 = *(ofdmflexframegen *)&_swig_go_0; 
@@ -18204,7 +18204,7 @@ void _wrap_ofdmflexframegen_destroy_liquid_24d78331e3228d7c(ofdmflexframegen_s *
 }
 
 
-void _wrap_ofdmflexframegen_print_liquid_24d78331e3228d7c(ofdmflexframegen_s *_swig_go_0) {
+void _wrap_OfdmflexframegenPrint_liquid_7b08cc538ffcb585(ofdmflexframegen_s *_swig_go_0) {
   ofdmflexframegen arg1 = (ofdmflexframegen) 0 ;
   
   arg1 = *(ofdmflexframegen *)&_swig_go_0; 
@@ -18214,7 +18214,7 @@ void _wrap_ofdmflexframegen_print_liquid_24d78331e3228d7c(ofdmflexframegen_s *_s
 }
 
 
-void _wrap_ofdmflexframegen_reset_liquid_24d78331e3228d7c(ofdmflexframegen_s *_swig_go_0) {
+void _wrap_OfdmflexframegenReset_liquid_7b08cc538ffcb585(ofdmflexframegen_s *_swig_go_0) {
   ofdmflexframegen arg1 = (ofdmflexframegen) 0 ;
   
   arg1 = *(ofdmflexframegen *)&_swig_go_0; 
@@ -18224,7 +18224,7 @@ void _wrap_ofdmflexframegen_reset_liquid_24d78331e3228d7c(ofdmflexframegen_s *_s
 }
 
 
-intgo _wrap_ofdmflexframegen_is_assembled_liquid_24d78331e3228d7c(ofdmflexframegen_s *_swig_go_0) {
+intgo _wrap_OfdmflexframegenIsAssembled_liquid_7b08cc538ffcb585(ofdmflexframegen_s *_swig_go_0) {
   ofdmflexframegen arg1 = (ofdmflexframegen) 0 ;
   int result;
   intgo _swig_go_result;
@@ -18237,7 +18237,7 @@ intgo _wrap_ofdmflexframegen_is_assembled_liquid_24d78331e3228d7c(ofdmflexframeg
 }
 
 
-void _wrap_ofdmflexframegen_getprops_liquid_24d78331e3228d7c(ofdmflexframegen_s *_swig_go_0, ofdmflexframegenprops_s *_swig_go_1) {
+void _wrap_OfdmflexframegenGetprops_liquid_7b08cc538ffcb585(ofdmflexframegen_s *_swig_go_0, ofdmflexframegenprops_s *_swig_go_1) {
   ofdmflexframegen arg1 = (ofdmflexframegen) 0 ;
   ofdmflexframegenprops_s *arg2 = (ofdmflexframegenprops_s *) 0 ;
   
@@ -18249,7 +18249,7 @@ void _wrap_ofdmflexframegen_getprops_liquid_24d78331e3228d7c(ofdmflexframegen_s 
 }
 
 
-void _wrap_ofdmflexframegen_setprops_liquid_24d78331e3228d7c(ofdmflexframegen_s *_swig_go_0, ofdmflexframegenprops_s *_swig_go_1) {
+void _wrap_OfdmflexframegenSetprops_liquid_7b08cc538ffcb585(ofdmflexframegen_s *_swig_go_0, ofdmflexframegenprops_s *_swig_go_1) {
   ofdmflexframegen arg1 = (ofdmflexframegen) 0 ;
   ofdmflexframegenprops_s *arg2 = (ofdmflexframegenprops_s *) 0 ;
   
@@ -18261,7 +18261,7 @@ void _wrap_ofdmflexframegen_setprops_liquid_24d78331e3228d7c(ofdmflexframegen_s 
 }
 
 
-void _wrap_ofdmflexframegen_set_header_len_liquid_24d78331e3228d7c(ofdmflexframegen_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_OfdmflexframegenSetHeaderLen_liquid_7b08cc538ffcb585(ofdmflexframegen_s *_swig_go_0, intgo _swig_go_1) {
   ofdmflexframegen arg1 = (ofdmflexframegen) 0 ;
   unsigned int arg2 ;
   
@@ -18273,7 +18273,7 @@ void _wrap_ofdmflexframegen_set_header_len_liquid_24d78331e3228d7c(ofdmflexframe
 }
 
 
-void _wrap_ofdmflexframegen_set_header_props_liquid_24d78331e3228d7c(ofdmflexframegen_s *_swig_go_0, ofdmflexframegenprops_s *_swig_go_1) {
+void _wrap_OfdmflexframegenSetHeaderProps_liquid_7b08cc538ffcb585(ofdmflexframegen_s *_swig_go_0, ofdmflexframegenprops_s *_swig_go_1) {
   ofdmflexframegen arg1 = (ofdmflexframegen) 0 ;
   ofdmflexframegenprops_s *arg2 = (ofdmflexframegenprops_s *) 0 ;
   
@@ -18285,7 +18285,7 @@ void _wrap_ofdmflexframegen_set_header_props_liquid_24d78331e3228d7c(ofdmflexfra
 }
 
 
-intgo _wrap_ofdmflexframegen_getframelen_liquid_24d78331e3228d7c(ofdmflexframegen_s *_swig_go_0) {
+intgo _wrap_OfdmflexframegenGetframelen_liquid_7b08cc538ffcb585(ofdmflexframegen_s *_swig_go_0) {
   ofdmflexframegen arg1 = (ofdmflexframegen) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -18298,7 +18298,7 @@ intgo _wrap_ofdmflexframegen_getframelen_liquid_24d78331e3228d7c(ofdmflexframege
 }
 
 
-void _wrap_ofdmflexframegen_assemble_liquid_24d78331e3228d7c(ofdmflexframegen_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2, intgo _swig_go_3) {
+void _wrap_OfdmflexframegenAssemble_liquid_7b08cc538ffcb585(ofdmflexframegen_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2, intgo _swig_go_3) {
   ofdmflexframegen arg1 = (ofdmflexframegen) 0 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -18314,7 +18314,7 @@ void _wrap_ofdmflexframegen_assemble_liquid_24d78331e3228d7c(ofdmflexframegen_s 
 }
 
 
-intgo _wrap_ofdmflexframegen_write_liquid_24d78331e3228d7c(ofdmflexframegen_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+intgo _wrap_OfdmflexframegenWrite_liquid_7b08cc538ffcb585(ofdmflexframegen_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   ofdmflexframegen arg1 = (ofdmflexframegen) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -18331,7 +18331,7 @@ intgo _wrap_ofdmflexframegen_write_liquid_24d78331e3228d7c(ofdmflexframegen_s *_
 }
 
 
-ofdmflexframesync_s *_wrap_ofdmflexframesync_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, char *_swig_go_3, void* _swig_go_4, void *_swig_go_5) {
+ofdmflexframesync_s *_wrap_OfdmflexframesyncCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, char *_swig_go_3, void* _swig_go_4, void *_swig_go_5) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -18354,7 +18354,7 @@ ofdmflexframesync_s *_wrap_ofdmflexframesync_create_liquid_24d78331e3228d7c(intg
 }
 
 
-void _wrap_ofdmflexframesync_destroy_liquid_24d78331e3228d7c(ofdmflexframesync_s *_swig_go_0) {
+void _wrap_OfdmflexframesyncDestroy_liquid_7b08cc538ffcb585(ofdmflexframesync_s *_swig_go_0) {
   ofdmflexframesync arg1 = (ofdmflexframesync) 0 ;
   
   arg1 = *(ofdmflexframesync *)&_swig_go_0; 
@@ -18364,7 +18364,7 @@ void _wrap_ofdmflexframesync_destroy_liquid_24d78331e3228d7c(ofdmflexframesync_s
 }
 
 
-void _wrap_ofdmflexframesync_print_liquid_24d78331e3228d7c(ofdmflexframesync_s *_swig_go_0) {
+void _wrap_OfdmflexframesyncPrint_liquid_7b08cc538ffcb585(ofdmflexframesync_s *_swig_go_0) {
   ofdmflexframesync arg1 = (ofdmflexframesync) 0 ;
   
   arg1 = *(ofdmflexframesync *)&_swig_go_0; 
@@ -18374,7 +18374,7 @@ void _wrap_ofdmflexframesync_print_liquid_24d78331e3228d7c(ofdmflexframesync_s *
 }
 
 
-void _wrap_ofdmflexframesync_set_header_len_liquid_24d78331e3228d7c(ofdmflexframesync_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_OfdmflexframesyncSetHeaderLen_liquid_7b08cc538ffcb585(ofdmflexframesync_s *_swig_go_0, intgo _swig_go_1) {
   ofdmflexframesync arg1 = (ofdmflexframesync) 0 ;
   unsigned int arg2 ;
   
@@ -18386,7 +18386,7 @@ void _wrap_ofdmflexframesync_set_header_len_liquid_24d78331e3228d7c(ofdmflexfram
 }
 
 
-void _wrap_ofdmflexframesync_decode_header_soft_liquid_24d78331e3228d7c(ofdmflexframesync_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_OfdmflexframesyncDecodeHeaderSoft_liquid_7b08cc538ffcb585(ofdmflexframesync_s *_swig_go_0, intgo _swig_go_1) {
   ofdmflexframesync arg1 = (ofdmflexframesync) 0 ;
   int arg2 ;
   
@@ -18398,7 +18398,7 @@ void _wrap_ofdmflexframesync_decode_header_soft_liquid_24d78331e3228d7c(ofdmflex
 }
 
 
-void _wrap_ofdmflexframesync_decode_payload_soft_liquid_24d78331e3228d7c(ofdmflexframesync_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_OfdmflexframesyncDecodePayloadSoft_liquid_7b08cc538ffcb585(ofdmflexframesync_s *_swig_go_0, intgo _swig_go_1) {
   ofdmflexframesync arg1 = (ofdmflexframesync) 0 ;
   int arg2 ;
   
@@ -18410,7 +18410,7 @@ void _wrap_ofdmflexframesync_decode_payload_soft_liquid_24d78331e3228d7c(ofdmfle
 }
 
 
-void _wrap_ofdmflexframesync_set_header_props_liquid_24d78331e3228d7c(ofdmflexframesync_s *_swig_go_0, ofdmflexframegenprops_s *_swig_go_1) {
+void _wrap_OfdmflexframesyncSetHeaderProps_liquid_7b08cc538ffcb585(ofdmflexframesync_s *_swig_go_0, ofdmflexframegenprops_s *_swig_go_1) {
   ofdmflexframesync arg1 = (ofdmflexframesync) 0 ;
   ofdmflexframegenprops_s *arg2 = (ofdmflexframegenprops_s *) 0 ;
   
@@ -18422,7 +18422,7 @@ void _wrap_ofdmflexframesync_set_header_props_liquid_24d78331e3228d7c(ofdmflexfr
 }
 
 
-void _wrap_ofdmflexframesync_reset_liquid_24d78331e3228d7c(ofdmflexframesync_s *_swig_go_0) {
+void _wrap_OfdmflexframesyncReset_liquid_7b08cc538ffcb585(ofdmflexframesync_s *_swig_go_0) {
   ofdmflexframesync arg1 = (ofdmflexframesync) 0 ;
   
   arg1 = *(ofdmflexframesync *)&_swig_go_0; 
@@ -18432,7 +18432,7 @@ void _wrap_ofdmflexframesync_reset_liquid_24d78331e3228d7c(ofdmflexframesync_s *
 }
 
 
-intgo _wrap_ofdmflexframesync_is_frame_open_liquid_24d78331e3228d7c(ofdmflexframesync_s *_swig_go_0) {
+intgo _wrap_OfdmflexframesyncIsFrameOpen_liquid_7b08cc538ffcb585(ofdmflexframesync_s *_swig_go_0) {
   ofdmflexframesync arg1 = (ofdmflexframesync) 0 ;
   int result;
   intgo _swig_go_result;
@@ -18445,7 +18445,7 @@ intgo _wrap_ofdmflexframesync_is_frame_open_liquid_24d78331e3228d7c(ofdmflexfram
 }
 
 
-void _wrap_ofdmflexframesync_execute_liquid_24d78331e3228d7c(ofdmflexframesync_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+void _wrap_OfdmflexframesyncExecute_liquid_7b08cc538ffcb585(ofdmflexframesync_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   ofdmflexframesync arg1 = (ofdmflexframesync) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -18459,7 +18459,7 @@ void _wrap_ofdmflexframesync_execute_liquid_24d78331e3228d7c(ofdmflexframesync_s
 }
 
 
-float _wrap_ofdmflexframesync_get_rssi_liquid_24d78331e3228d7c(ofdmflexframesync_s *_swig_go_0) {
+float _wrap_OfdmflexframesyncGetRssi_liquid_7b08cc538ffcb585(ofdmflexframesync_s *_swig_go_0) {
   ofdmflexframesync arg1 = (ofdmflexframesync) 0 ;
   float result;
   float _swig_go_result;
@@ -18472,7 +18472,7 @@ float _wrap_ofdmflexframesync_get_rssi_liquid_24d78331e3228d7c(ofdmflexframesync
 }
 
 
-float _wrap_ofdmflexframesync_get_cfo_liquid_24d78331e3228d7c(ofdmflexframesync_s *_swig_go_0) {
+float _wrap_OfdmflexframesyncGetCfo_liquid_7b08cc538ffcb585(ofdmflexframesync_s *_swig_go_0) {
   ofdmflexframesync arg1 = (ofdmflexframesync) 0 ;
   float result;
   float _swig_go_result;
@@ -18485,7 +18485,7 @@ float _wrap_ofdmflexframesync_get_cfo_liquid_24d78331e3228d7c(ofdmflexframesync_
 }
 
 
-void _wrap_ofdmflexframesync_set_cfo_liquid_24d78331e3228d7c(ofdmflexframesync_s *_swig_go_0, float _swig_go_1) {
+void _wrap_OfdmflexframesyncSetCfo_liquid_7b08cc538ffcb585(ofdmflexframesync_s *_swig_go_0, float _swig_go_1) {
   ofdmflexframesync arg1 = (ofdmflexframesync) 0 ;
   float arg2 ;
   
@@ -18497,7 +18497,7 @@ void _wrap_ofdmflexframesync_set_cfo_liquid_24d78331e3228d7c(ofdmflexframesync_s
 }
 
 
-void _wrap_ofdmflexframesync_debug_enable_liquid_24d78331e3228d7c(ofdmflexframesync_s *_swig_go_0) {
+void _wrap_OfdmflexframesyncDebugEnable_liquid_7b08cc538ffcb585(ofdmflexframesync_s *_swig_go_0) {
   ofdmflexframesync arg1 = (ofdmflexframesync) 0 ;
   
   arg1 = *(ofdmflexframesync *)&_swig_go_0; 
@@ -18507,7 +18507,7 @@ void _wrap_ofdmflexframesync_debug_enable_liquid_24d78331e3228d7c(ofdmflexframes
 }
 
 
-void _wrap_ofdmflexframesync_debug_disable_liquid_24d78331e3228d7c(ofdmflexframesync_s *_swig_go_0) {
+void _wrap_OfdmflexframesyncDebugDisable_liquid_7b08cc538ffcb585(ofdmflexframesync_s *_swig_go_0) {
   ofdmflexframesync arg1 = (ofdmflexframesync) 0 ;
   
   arg1 = *(ofdmflexframesync *)&_swig_go_0; 
@@ -18517,7 +18517,7 @@ void _wrap_ofdmflexframesync_debug_disable_liquid_24d78331e3228d7c(ofdmflexframe
 }
 
 
-void _wrap_ofdmflexframesync_debug_print_liquid_24d78331e3228d7c(ofdmflexframesync_s *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_OfdmflexframesyncDebugPrint_liquid_7b08cc538ffcb585(ofdmflexframesync_s *_swig_go_0, _gostring_ _swig_go_1) {
   ofdmflexframesync arg1 = (ofdmflexframesync) 0 ;
   char *arg2 = (char *) 0 ;
   
@@ -18534,7 +18534,7 @@ void _wrap_ofdmflexframesync_debug_print_liquid_24d78331e3228d7c(ofdmflexframesy
 }
 
 
-bsync_rrrf_s *_wrap_bsync_rrrf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, float *_swig_go_1) {
+bsync_rrrf_s *_wrap_BsyncRrrfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, float *_swig_go_1) {
   unsigned int arg1 ;
   float *arg2 = (float *) 0 ;
   bsync_rrrf result;
@@ -18549,7 +18549,7 @@ bsync_rrrf_s *_wrap_bsync_rrrf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, 
 }
 
 
-bsync_rrrf_s *_wrap_bsync_rrrf_create_msequence_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+bsync_rrrf_s *_wrap_BsyncRrrfCreateMsequence_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   bsync_rrrf result;
@@ -18564,7 +18564,7 @@ bsync_rrrf_s *_wrap_bsync_rrrf_create_msequence_liquid_24d78331e3228d7c(intgo _s
 }
 
 
-void _wrap_bsync_rrrf_destroy_liquid_24d78331e3228d7c(bsync_rrrf_s *_swig_go_0) {
+void _wrap_BsyncRrrfDestroy_liquid_7b08cc538ffcb585(bsync_rrrf_s *_swig_go_0) {
   bsync_rrrf arg1 = (bsync_rrrf) 0 ;
   
   arg1 = *(bsync_rrrf *)&_swig_go_0; 
@@ -18574,7 +18574,7 @@ void _wrap_bsync_rrrf_destroy_liquid_24d78331e3228d7c(bsync_rrrf_s *_swig_go_0) 
 }
 
 
-void _wrap_bsync_rrrf_print_liquid_24d78331e3228d7c(bsync_rrrf_s *_swig_go_0) {
+void _wrap_BsyncRrrfPrint_liquid_7b08cc538ffcb585(bsync_rrrf_s *_swig_go_0) {
   bsync_rrrf arg1 = (bsync_rrrf) 0 ;
   
   arg1 = *(bsync_rrrf *)&_swig_go_0; 
@@ -18584,7 +18584,7 @@ void _wrap_bsync_rrrf_print_liquid_24d78331e3228d7c(bsync_rrrf_s *_swig_go_0) {
 }
 
 
-void _wrap_bsync_rrrf_correlate_liquid_24d78331e3228d7c(bsync_rrrf_s *_swig_go_0, float _swig_go_1, float *_swig_go_2) {
+void _wrap_BsyncRrrfCorrelate_liquid_7b08cc538ffcb585(bsync_rrrf_s *_swig_go_0, float _swig_go_1, float *_swig_go_2) {
   bsync_rrrf arg1 = (bsync_rrrf) 0 ;
   float arg2 ;
   float *arg3 = (float *) 0 ;
@@ -18598,7 +18598,7 @@ void _wrap_bsync_rrrf_correlate_liquid_24d78331e3228d7c(bsync_rrrf_s *_swig_go_0
 }
 
 
-bsync_crcf_s *_wrap_bsync_crcf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, float *_swig_go_1) {
+bsync_crcf_s *_wrap_BsyncCrcfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, float *_swig_go_1) {
   unsigned int arg1 ;
   float *arg2 = (float *) 0 ;
   bsync_crcf result;
@@ -18613,7 +18613,7 @@ bsync_crcf_s *_wrap_bsync_crcf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, 
 }
 
 
-bsync_crcf_s *_wrap_bsync_crcf_create_msequence_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+bsync_crcf_s *_wrap_BsyncCrcfCreateMsequence_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   bsync_crcf result;
@@ -18628,7 +18628,7 @@ bsync_crcf_s *_wrap_bsync_crcf_create_msequence_liquid_24d78331e3228d7c(intgo _s
 }
 
 
-void _wrap_bsync_crcf_destroy_liquid_24d78331e3228d7c(bsync_crcf_s *_swig_go_0) {
+void _wrap_BsyncCrcfDestroy_liquid_7b08cc538ffcb585(bsync_crcf_s *_swig_go_0) {
   bsync_crcf arg1 = (bsync_crcf) 0 ;
   
   arg1 = *(bsync_crcf *)&_swig_go_0; 
@@ -18638,7 +18638,7 @@ void _wrap_bsync_crcf_destroy_liquid_24d78331e3228d7c(bsync_crcf_s *_swig_go_0) 
 }
 
 
-void _wrap_bsync_crcf_print_liquid_24d78331e3228d7c(bsync_crcf_s *_swig_go_0) {
+void _wrap_BsyncCrcfPrint_liquid_7b08cc538ffcb585(bsync_crcf_s *_swig_go_0) {
   bsync_crcf arg1 = (bsync_crcf) 0 ;
   
   arg1 = *(bsync_crcf *)&_swig_go_0; 
@@ -18648,7 +18648,7 @@ void _wrap_bsync_crcf_print_liquid_24d78331e3228d7c(bsync_crcf_s *_swig_go_0) {
 }
 
 
-void _wrap_bsync_crcf_correlate_liquid_24d78331e3228d7c(bsync_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_BsyncCrcfCorrelate_liquid_7b08cc538ffcb585(bsync_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   bsync_crcf arg1 = (bsync_crcf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -18669,7 +18669,7 @@ void _wrap_bsync_crcf_correlate_liquid_24d78331e3228d7c(bsync_crcf_s *_swig_go_0
 }
 
 
-bsync_cccf_s *_wrap_bsync_cccf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, liquid_float_complex *_swig_go_1) {
+bsync_cccf_s *_wrap_BsyncCccfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, liquid_float_complex *_swig_go_1) {
   unsigned int arg1 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   bsync_cccf result;
@@ -18684,7 +18684,7 @@ bsync_cccf_s *_wrap_bsync_cccf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, 
 }
 
 
-bsync_cccf_s *_wrap_bsync_cccf_create_msequence_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+bsync_cccf_s *_wrap_BsyncCccfCreateMsequence_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   bsync_cccf result;
@@ -18699,7 +18699,7 @@ bsync_cccf_s *_wrap_bsync_cccf_create_msequence_liquid_24d78331e3228d7c(intgo _s
 }
 
 
-void _wrap_bsync_cccf_destroy_liquid_24d78331e3228d7c(bsync_cccf_s *_swig_go_0) {
+void _wrap_BsyncCccfDestroy_liquid_7b08cc538ffcb585(bsync_cccf_s *_swig_go_0) {
   bsync_cccf arg1 = (bsync_cccf) 0 ;
   
   arg1 = *(bsync_cccf *)&_swig_go_0; 
@@ -18709,7 +18709,7 @@ void _wrap_bsync_cccf_destroy_liquid_24d78331e3228d7c(bsync_cccf_s *_swig_go_0) 
 }
 
 
-void _wrap_bsync_cccf_print_liquid_24d78331e3228d7c(bsync_cccf_s *_swig_go_0) {
+void _wrap_BsyncCccfPrint_liquid_7b08cc538ffcb585(bsync_cccf_s *_swig_go_0) {
   bsync_cccf arg1 = (bsync_cccf) 0 ;
   
   arg1 = *(bsync_cccf *)&_swig_go_0; 
@@ -18719,7 +18719,7 @@ void _wrap_bsync_cccf_print_liquid_24d78331e3228d7c(bsync_cccf_s *_swig_go_0) {
 }
 
 
-void _wrap_bsync_cccf_correlate_liquid_24d78331e3228d7c(bsync_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_BsyncCccfCorrelate_liquid_7b08cc538ffcb585(bsync_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   bsync_cccf arg1 = (bsync_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -18740,7 +18740,7 @@ void _wrap_bsync_cccf_correlate_liquid_24d78331e3228d7c(bsync_cccf_s *_swig_go_0
 }
 
 
-presync_cccf_s *_wrap_presync_cccf_create_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, float _swig_go_2, intgo _swig_go_3) {
+presync_cccf_s *_wrap_PresyncCccfCreate_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, float _swig_go_2, intgo _swig_go_3) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -18759,7 +18759,7 @@ presync_cccf_s *_wrap_presync_cccf_create_liquid_24d78331e3228d7c(liquid_float_c
 }
 
 
-void _wrap_presync_cccf_destroy_liquid_24d78331e3228d7c(presync_cccf_s *_swig_go_0) {
+void _wrap_PresyncCccfDestroy_liquid_7b08cc538ffcb585(presync_cccf_s *_swig_go_0) {
   presync_cccf arg1 = (presync_cccf) 0 ;
   
   arg1 = *(presync_cccf *)&_swig_go_0; 
@@ -18769,7 +18769,7 @@ void _wrap_presync_cccf_destroy_liquid_24d78331e3228d7c(presync_cccf_s *_swig_go
 }
 
 
-void _wrap_presync_cccf_print_liquid_24d78331e3228d7c(presync_cccf_s *_swig_go_0) {
+void _wrap_PresyncCccfPrint_liquid_7b08cc538ffcb585(presync_cccf_s *_swig_go_0) {
   presync_cccf arg1 = (presync_cccf) 0 ;
   
   arg1 = *(presync_cccf *)&_swig_go_0; 
@@ -18779,7 +18779,7 @@ void _wrap_presync_cccf_print_liquid_24d78331e3228d7c(presync_cccf_s *_swig_go_0
 }
 
 
-void _wrap_presync_cccf_reset_liquid_24d78331e3228d7c(presync_cccf_s *_swig_go_0) {
+void _wrap_PresyncCccfReset_liquid_7b08cc538ffcb585(presync_cccf_s *_swig_go_0) {
   presync_cccf arg1 = (presync_cccf) 0 ;
   
   arg1 = *(presync_cccf *)&_swig_go_0; 
@@ -18789,7 +18789,7 @@ void _wrap_presync_cccf_reset_liquid_24d78331e3228d7c(presync_cccf_s *_swig_go_0
 }
 
 
-void _wrap_presync_cccf_push_liquid_24d78331e3228d7c(presync_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_PresyncCccfPush_liquid_7b08cc538ffcb585(presync_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   presync_cccf arg1 = (presync_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -18808,7 +18808,7 @@ void _wrap_presync_cccf_push_liquid_24d78331e3228d7c(presync_cccf_s *_swig_go_0,
 }
 
 
-void _wrap_presync_cccf_execute_liquid_24d78331e3228d7c(presync_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, float *_swig_go_2) {
+void _wrap_PresyncCccfExecute_liquid_7b08cc538ffcb585(presync_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, float *_swig_go_2) {
   presync_cccf arg1 = (presync_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -18822,7 +18822,7 @@ void _wrap_presync_cccf_execute_liquid_24d78331e3228d7c(presync_cccf_s *_swig_go
 }
 
 
-bpresync_cccf_s *_wrap_bpresync_cccf_create_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, float _swig_go_2, intgo _swig_go_3) {
+bpresync_cccf_s *_wrap_BpresyncCccfCreate_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, float _swig_go_2, intgo _swig_go_3) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -18841,7 +18841,7 @@ bpresync_cccf_s *_wrap_bpresync_cccf_create_liquid_24d78331e3228d7c(liquid_float
 }
 
 
-void _wrap_bpresync_cccf_destroy_liquid_24d78331e3228d7c(bpresync_cccf_s *_swig_go_0) {
+void _wrap_BpresyncCccfDestroy_liquid_7b08cc538ffcb585(bpresync_cccf_s *_swig_go_0) {
   bpresync_cccf arg1 = (bpresync_cccf) 0 ;
   
   arg1 = *(bpresync_cccf *)&_swig_go_0; 
@@ -18851,7 +18851,7 @@ void _wrap_bpresync_cccf_destroy_liquid_24d78331e3228d7c(bpresync_cccf_s *_swig_
 }
 
 
-void _wrap_bpresync_cccf_print_liquid_24d78331e3228d7c(bpresync_cccf_s *_swig_go_0) {
+void _wrap_BpresyncCccfPrint_liquid_7b08cc538ffcb585(bpresync_cccf_s *_swig_go_0) {
   bpresync_cccf arg1 = (bpresync_cccf) 0 ;
   
   arg1 = *(bpresync_cccf *)&_swig_go_0; 
@@ -18861,7 +18861,7 @@ void _wrap_bpresync_cccf_print_liquid_24d78331e3228d7c(bpresync_cccf_s *_swig_go
 }
 
 
-void _wrap_bpresync_cccf_reset_liquid_24d78331e3228d7c(bpresync_cccf_s *_swig_go_0) {
+void _wrap_BpresyncCccfReset_liquid_7b08cc538ffcb585(bpresync_cccf_s *_swig_go_0) {
   bpresync_cccf arg1 = (bpresync_cccf) 0 ;
   
   arg1 = *(bpresync_cccf *)&_swig_go_0; 
@@ -18871,7 +18871,7 @@ void _wrap_bpresync_cccf_reset_liquid_24d78331e3228d7c(bpresync_cccf_s *_swig_go
 }
 
 
-void _wrap_bpresync_cccf_push_liquid_24d78331e3228d7c(bpresync_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_BpresyncCccfPush_liquid_7b08cc538ffcb585(bpresync_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   bpresync_cccf arg1 = (bpresync_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -18890,7 +18890,7 @@ void _wrap_bpresync_cccf_push_liquid_24d78331e3228d7c(bpresync_cccf_s *_swig_go_
 }
 
 
-void _wrap_bpresync_cccf_execute_liquid_24d78331e3228d7c(bpresync_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, float *_swig_go_2) {
+void _wrap_BpresyncCccfExecute_liquid_7b08cc538ffcb585(bpresync_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, float *_swig_go_2) {
   bpresync_cccf arg1 = (bpresync_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -18904,7 +18904,7 @@ void _wrap_bpresync_cccf_execute_liquid_24d78331e3228d7c(bpresync_cccf_s *_swig_
 }
 
 
-qdetector_cccf_s *_wrap_qdetector_cccf_create_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1) {
+qdetector_cccf_s *_wrap_QdetectorCccfCreate_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   qdetector_cccf result;
@@ -18919,7 +18919,7 @@ qdetector_cccf_s *_wrap_qdetector_cccf_create_liquid_24d78331e3228d7c(liquid_flo
 }
 
 
-qdetector_cccf_s *_wrap_qdetector_cccf_create_linear_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, float _swig_go_5) {
+qdetector_cccf_s *_wrap_QdetectorCccfCreateLinear_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, float _swig_go_5) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   int arg3 ;
@@ -18942,7 +18942,7 @@ qdetector_cccf_s *_wrap_qdetector_cccf_create_linear_liquid_24d78331e3228d7c(liq
 }
 
 
-qdetector_cccf_s *_wrap_qdetector_cccf_create_gmsk_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4) {
+qdetector_cccf_s *_wrap_QdetectorCccfCreateGmsk_liquid_7b08cc538ffcb585(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4) {
   unsigned char *arg1 = (unsigned char *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -18963,7 +18963,7 @@ qdetector_cccf_s *_wrap_qdetector_cccf_create_gmsk_liquid_24d78331e3228d7c(char 
 }
 
 
-qdetector_cccf_s *_wrap_qdetector_cccf_create_cpfsk_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, intgo _swig_go_4, intgo _swig_go_5, float _swig_go_6, intgo _swig_go_7) {
+qdetector_cccf_s *_wrap_QdetectorCccfCreateCpfsk_liquid_7b08cc538ffcb585(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, intgo _swig_go_4, intgo _swig_go_5, float _swig_go_6, intgo _swig_go_7) {
   unsigned char *arg1 = (unsigned char *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -18990,7 +18990,7 @@ qdetector_cccf_s *_wrap_qdetector_cccf_create_cpfsk_liquid_24d78331e3228d7c(char
 }
 
 
-void _wrap_qdetector_cccf_destroy_liquid_24d78331e3228d7c(qdetector_cccf_s *_swig_go_0) {
+void _wrap_QdetectorCccfDestroy_liquid_7b08cc538ffcb585(qdetector_cccf_s *_swig_go_0) {
   qdetector_cccf arg1 = (qdetector_cccf) 0 ;
   
   arg1 = *(qdetector_cccf *)&_swig_go_0; 
@@ -19000,7 +19000,7 @@ void _wrap_qdetector_cccf_destroy_liquid_24d78331e3228d7c(qdetector_cccf_s *_swi
 }
 
 
-void _wrap_qdetector_cccf_print_liquid_24d78331e3228d7c(qdetector_cccf_s *_swig_go_0) {
+void _wrap_QdetectorCccfPrint_liquid_7b08cc538ffcb585(qdetector_cccf_s *_swig_go_0) {
   qdetector_cccf arg1 = (qdetector_cccf) 0 ;
   
   arg1 = *(qdetector_cccf *)&_swig_go_0; 
@@ -19010,7 +19010,7 @@ void _wrap_qdetector_cccf_print_liquid_24d78331e3228d7c(qdetector_cccf_s *_swig_
 }
 
 
-void _wrap_qdetector_cccf_reset_liquid_24d78331e3228d7c(qdetector_cccf_s *_swig_go_0) {
+void _wrap_QdetectorCccfReset_liquid_7b08cc538ffcb585(qdetector_cccf_s *_swig_go_0) {
   qdetector_cccf arg1 = (qdetector_cccf) 0 ;
   
   arg1 = *(qdetector_cccf *)&_swig_go_0; 
@@ -19020,7 +19020,7 @@ void _wrap_qdetector_cccf_reset_liquid_24d78331e3228d7c(qdetector_cccf_s *_swig_
 }
 
 
-void *_wrap_qdetector_cccf_execute_liquid_24d78331e3228d7c(qdetector_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void *_wrap_QdetectorCccfExecute_liquid_7b08cc538ffcb585(qdetector_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   qdetector_cccf arg1 = (qdetector_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *argp2 ;
@@ -19042,7 +19042,7 @@ void *_wrap_qdetector_cccf_execute_liquid_24d78331e3228d7c(qdetector_cccf_s *_sw
 }
 
 
-void _wrap_qdetector_cccf_set_threshold_liquid_24d78331e3228d7c(qdetector_cccf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_QdetectorCccfSetThreshold_liquid_7b08cc538ffcb585(qdetector_cccf_s *_swig_go_0, float _swig_go_1) {
   qdetector_cccf arg1 = (qdetector_cccf) 0 ;
   float arg2 ;
   
@@ -19054,7 +19054,7 @@ void _wrap_qdetector_cccf_set_threshold_liquid_24d78331e3228d7c(qdetector_cccf_s
 }
 
 
-void _wrap_qdetector_cccf_set_range_liquid_24d78331e3228d7c(qdetector_cccf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_QdetectorCccfSetRange_liquid_7b08cc538ffcb585(qdetector_cccf_s *_swig_go_0, float _swig_go_1) {
   qdetector_cccf arg1 = (qdetector_cccf) 0 ;
   float arg2 ;
   
@@ -19066,7 +19066,7 @@ void _wrap_qdetector_cccf_set_range_liquid_24d78331e3228d7c(qdetector_cccf_s *_s
 }
 
 
-intgo _wrap_qdetector_cccf_get_seq_len_liquid_24d78331e3228d7c(qdetector_cccf_s *_swig_go_0) {
+intgo _wrap_QdetectorCccfGetSeqLen_liquid_7b08cc538ffcb585(qdetector_cccf_s *_swig_go_0) {
   qdetector_cccf arg1 = (qdetector_cccf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -19079,7 +19079,7 @@ intgo _wrap_qdetector_cccf_get_seq_len_liquid_24d78331e3228d7c(qdetector_cccf_s 
 }
 
 
-void *_wrap_qdetector_cccf_get_sequence_liquid_24d78331e3228d7c(qdetector_cccf_s *_swig_go_0) {
+void *_wrap_QdetectorCccfGetSequence_liquid_7b08cc538ffcb585(qdetector_cccf_s *_swig_go_0) {
   qdetector_cccf arg1 = (qdetector_cccf) 0 ;
   void *result = 0 ;
   void *_swig_go_result;
@@ -19092,7 +19092,7 @@ void *_wrap_qdetector_cccf_get_sequence_liquid_24d78331e3228d7c(qdetector_cccf_s
 }
 
 
-intgo _wrap_qdetector_cccf_get_buf_len_liquid_24d78331e3228d7c(qdetector_cccf_s *_swig_go_0) {
+intgo _wrap_QdetectorCccfGetBufLen_liquid_7b08cc538ffcb585(qdetector_cccf_s *_swig_go_0) {
   qdetector_cccf arg1 = (qdetector_cccf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -19105,7 +19105,7 @@ intgo _wrap_qdetector_cccf_get_buf_len_liquid_24d78331e3228d7c(qdetector_cccf_s 
 }
 
 
-float _wrap_qdetector_cccf_get_rxy_liquid_24d78331e3228d7c(qdetector_cccf_s *_swig_go_0) {
+float _wrap_QdetectorCccfGetRxy_liquid_7b08cc538ffcb585(qdetector_cccf_s *_swig_go_0) {
   qdetector_cccf arg1 = (qdetector_cccf) 0 ;
   float result;
   float _swig_go_result;
@@ -19118,7 +19118,7 @@ float _wrap_qdetector_cccf_get_rxy_liquid_24d78331e3228d7c(qdetector_cccf_s *_sw
 }
 
 
-float _wrap_qdetector_cccf_get_tau_liquid_24d78331e3228d7c(qdetector_cccf_s *_swig_go_0) {
+float _wrap_QdetectorCccfGetTau_liquid_7b08cc538ffcb585(qdetector_cccf_s *_swig_go_0) {
   qdetector_cccf arg1 = (qdetector_cccf) 0 ;
   float result;
   float _swig_go_result;
@@ -19131,7 +19131,7 @@ float _wrap_qdetector_cccf_get_tau_liquid_24d78331e3228d7c(qdetector_cccf_s *_sw
 }
 
 
-float _wrap_qdetector_cccf_get_gamma_liquid_24d78331e3228d7c(qdetector_cccf_s *_swig_go_0) {
+float _wrap_QdetectorCccfGetGamma_liquid_7b08cc538ffcb585(qdetector_cccf_s *_swig_go_0) {
   qdetector_cccf arg1 = (qdetector_cccf) 0 ;
   float result;
   float _swig_go_result;
@@ -19144,7 +19144,7 @@ float _wrap_qdetector_cccf_get_gamma_liquid_24d78331e3228d7c(qdetector_cccf_s *_
 }
 
 
-float _wrap_qdetector_cccf_get_dphi_liquid_24d78331e3228d7c(qdetector_cccf_s *_swig_go_0) {
+float _wrap_QdetectorCccfGetDphi_liquid_7b08cc538ffcb585(qdetector_cccf_s *_swig_go_0) {
   qdetector_cccf arg1 = (qdetector_cccf) 0 ;
   float result;
   float _swig_go_result;
@@ -19157,7 +19157,7 @@ float _wrap_qdetector_cccf_get_dphi_liquid_24d78331e3228d7c(qdetector_cccf_s *_s
 }
 
 
-float _wrap_qdetector_cccf_get_phi_liquid_24d78331e3228d7c(qdetector_cccf_s *_swig_go_0) {
+float _wrap_QdetectorCccfGetPhi_liquid_7b08cc538ffcb585(qdetector_cccf_s *_swig_go_0) {
   qdetector_cccf arg1 = (qdetector_cccf) 0 ;
   float result;
   float _swig_go_result;
@@ -19170,7 +19170,7 @@ float _wrap_qdetector_cccf_get_phi_liquid_24d78331e3228d7c(qdetector_cccf_s *_sw
 }
 
 
-detector_cccf_s *_wrap_detector_cccf_create_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3) {
+detector_cccf_s *_wrap_DetectorCccfCreate_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -19189,7 +19189,7 @@ detector_cccf_s *_wrap_detector_cccf_create_liquid_24d78331e3228d7c(liquid_float
 }
 
 
-void _wrap_detector_cccf_destroy_liquid_24d78331e3228d7c(detector_cccf_s *_swig_go_0) {
+void _wrap_DetectorCccfDestroy_liquid_7b08cc538ffcb585(detector_cccf_s *_swig_go_0) {
   detector_cccf arg1 = (detector_cccf) 0 ;
   
   arg1 = *(detector_cccf *)&_swig_go_0; 
@@ -19199,7 +19199,7 @@ void _wrap_detector_cccf_destroy_liquid_24d78331e3228d7c(detector_cccf_s *_swig_
 }
 
 
-void _wrap_detector_cccf_print_liquid_24d78331e3228d7c(detector_cccf_s *_swig_go_0) {
+void _wrap_DetectorCccfPrint_liquid_7b08cc538ffcb585(detector_cccf_s *_swig_go_0) {
   detector_cccf arg1 = (detector_cccf) 0 ;
   
   arg1 = *(detector_cccf *)&_swig_go_0; 
@@ -19209,7 +19209,7 @@ void _wrap_detector_cccf_print_liquid_24d78331e3228d7c(detector_cccf_s *_swig_go
 }
 
 
-void _wrap_detector_cccf_reset_liquid_24d78331e3228d7c(detector_cccf_s *_swig_go_0) {
+void _wrap_DetectorCccfReset_liquid_7b08cc538ffcb585(detector_cccf_s *_swig_go_0) {
   detector_cccf arg1 = (detector_cccf) 0 ;
   
   arg1 = *(detector_cccf *)&_swig_go_0; 
@@ -19219,7 +19219,7 @@ void _wrap_detector_cccf_reset_liquid_24d78331e3228d7c(detector_cccf_s *_swig_go
 }
 
 
-intgo _wrap_detector_cccf_correlate_liquid_24d78331e3228d7c(detector_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, float *_swig_go_2, float *_swig_go_3, float *_swig_go_4) {
+intgo _wrap_DetectorCccfCorrelate_liquid_7b08cc538ffcb585(detector_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, float *_swig_go_2, float *_swig_go_3, float *_swig_go_4) {
   detector_cccf arg1 = (detector_cccf) 0 ;
   liquid_float_complex arg2 ;
   float *arg3 = (float *) 0 ;
@@ -19247,7 +19247,7 @@ intgo _wrap_detector_cccf_correlate_liquid_24d78331e3228d7c(detector_cccf_s *_sw
 }
 
 
-symstreamcf_s *_wrap_symstreamcf_create_liquid_24d78331e3228d7c() {
+symstreamcf_s *_wrap_SymstreamcfCreate_liquid_7b08cc538ffcb585() {
   symstreamcf result;
   symstreamcf_s *_swig_go_result;
   
@@ -19258,7 +19258,7 @@ symstreamcf_s *_wrap_symstreamcf_create_liquid_24d78331e3228d7c() {
 }
 
 
-symstreamcf_s *_wrap_symstreamcf_create_linear_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, intgo _swig_go_4) {
+symstreamcf_s *_wrap_SymstreamcfCreateLinear_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, intgo _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -19279,7 +19279,7 @@ symstreamcf_s *_wrap_symstreamcf_create_linear_liquid_24d78331e3228d7c(intgo _sw
 }
 
 
-void _wrap_symstreamcf_destroy_liquid_24d78331e3228d7c(symstreamcf_s *_swig_go_0) {
+void _wrap_SymstreamcfDestroy_liquid_7b08cc538ffcb585(symstreamcf_s *_swig_go_0) {
   symstreamcf arg1 = (symstreamcf) 0 ;
   
   arg1 = *(symstreamcf *)&_swig_go_0; 
@@ -19289,7 +19289,7 @@ void _wrap_symstreamcf_destroy_liquid_24d78331e3228d7c(symstreamcf_s *_swig_go_0
 }
 
 
-void _wrap_symstreamcf_print_liquid_24d78331e3228d7c(symstreamcf_s *_swig_go_0) {
+void _wrap_SymstreamcfPrint_liquid_7b08cc538ffcb585(symstreamcf_s *_swig_go_0) {
   symstreamcf arg1 = (symstreamcf) 0 ;
   
   arg1 = *(symstreamcf *)&_swig_go_0; 
@@ -19299,7 +19299,7 @@ void _wrap_symstreamcf_print_liquid_24d78331e3228d7c(symstreamcf_s *_swig_go_0) 
 }
 
 
-void _wrap_symstreamcf_reset_liquid_24d78331e3228d7c(symstreamcf_s *_swig_go_0) {
+void _wrap_SymstreamcfReset_liquid_7b08cc538ffcb585(symstreamcf_s *_swig_go_0) {
   symstreamcf arg1 = (symstreamcf) 0 ;
   
   arg1 = *(symstreamcf *)&_swig_go_0; 
@@ -19309,7 +19309,7 @@ void _wrap_symstreamcf_reset_liquid_24d78331e3228d7c(symstreamcf_s *_swig_go_0) 
 }
 
 
-void _wrap_symstreamcf_set_scheme_liquid_24d78331e3228d7c(symstreamcf_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_SymstreamcfSetScheme_liquid_7b08cc538ffcb585(symstreamcf_s *_swig_go_0, intgo _swig_go_1) {
   symstreamcf arg1 = (symstreamcf) 0 ;
   int arg2 ;
   
@@ -19321,7 +19321,7 @@ void _wrap_symstreamcf_set_scheme_liquid_24d78331e3228d7c(symstreamcf_s *_swig_g
 }
 
 
-intgo _wrap_symstreamcf_get_scheme_liquid_24d78331e3228d7c(symstreamcf_s *_swig_go_0) {
+intgo _wrap_SymstreamcfGetScheme_liquid_7b08cc538ffcb585(symstreamcf_s *_swig_go_0) {
   symstreamcf arg1 = (symstreamcf) 0 ;
   int result;
   intgo _swig_go_result;
@@ -19334,7 +19334,7 @@ intgo _wrap_symstreamcf_get_scheme_liquid_24d78331e3228d7c(symstreamcf_s *_swig_
 }
 
 
-void _wrap_symstreamcf_set_gain_liquid_24d78331e3228d7c(symstreamcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_SymstreamcfSetGain_liquid_7b08cc538ffcb585(symstreamcf_s *_swig_go_0, float _swig_go_1) {
   symstreamcf arg1 = (symstreamcf) 0 ;
   float arg2 ;
   
@@ -19346,7 +19346,7 @@ void _wrap_symstreamcf_set_gain_liquid_24d78331e3228d7c(symstreamcf_s *_swig_go_
 }
 
 
-float _wrap_symstreamcf_get_gain_liquid_24d78331e3228d7c(symstreamcf_s *_swig_go_0) {
+float _wrap_SymstreamcfGetGain_liquid_7b08cc538ffcb585(symstreamcf_s *_swig_go_0) {
   symstreamcf arg1 = (symstreamcf) 0 ;
   float result;
   float _swig_go_result;
@@ -19359,7 +19359,7 @@ float _wrap_symstreamcf_get_gain_liquid_24d78331e3228d7c(symstreamcf_s *_swig_go
 }
 
 
-void _wrap_symstreamcf_write_samples_liquid_24d78331e3228d7c(symstreamcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+void _wrap_SymstreamcfWriteSamples_liquid_7b08cc538ffcb585(symstreamcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   symstreamcf arg1 = (symstreamcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -19373,7 +19373,7 @@ void _wrap_symstreamcf_write_samples_liquid_24d78331e3228d7c(symstreamcf_s *_swi
 }
 
 
-msourcecf_s *_wrap_msourcecf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2) {
+msourcecf_s *_wrap_MsourcecfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -19390,7 +19390,7 @@ msourcecf_s *_wrap_msourcecf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, in
 }
 
 
-msourcecf_s *_wrap_msourcecf_create_default_liquid_24d78331e3228d7c() {
+msourcecf_s *_wrap_MsourcecfCreateDefault_liquid_7b08cc538ffcb585() {
   msourcecf result;
   msourcecf_s *_swig_go_result;
   
@@ -19401,7 +19401,7 @@ msourcecf_s *_wrap_msourcecf_create_default_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_msourcecf_destroy_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0) {
+void _wrap_MsourcecfDestroy_liquid_7b08cc538ffcb585(msourcecf_s *_swig_go_0) {
   msourcecf arg1 = (msourcecf) 0 ;
   
   arg1 = *(msourcecf *)&_swig_go_0; 
@@ -19411,7 +19411,7 @@ void _wrap_msourcecf_destroy_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0) {
 }
 
 
-void _wrap_msourcecf_print_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0) {
+void _wrap_MsourcecfPrint_liquid_7b08cc538ffcb585(msourcecf_s *_swig_go_0) {
   msourcecf arg1 = (msourcecf) 0 ;
   
   arg1 = *(msourcecf *)&_swig_go_0; 
@@ -19421,7 +19421,7 @@ void _wrap_msourcecf_print_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0) {
 }
 
 
-void _wrap_msourcecf_reset_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0) {
+void _wrap_MsourcecfReset_liquid_7b08cc538ffcb585(msourcecf_s *_swig_go_0) {
   msourcecf arg1 = (msourcecf) 0 ;
   
   arg1 = *(msourcecf *)&_swig_go_0; 
@@ -19431,7 +19431,7 @@ void _wrap_msourcecf_reset_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0) {
 }
 
 
-intgo _wrap_msourcecf_add_user_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3, void *_swig_go_4, void* _swig_go_5) {
+intgo _wrap_MsourcecfAddUser_liquid_7b08cc538ffcb585(msourcecf_s *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3, void *_swig_go_4, void* _swig_go_5) {
   msourcecf arg1 = (msourcecf) 0 ;
   float arg2 ;
   float arg3 ;
@@ -19454,7 +19454,7 @@ intgo _wrap_msourcecf_add_user_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0, 
 }
 
 
-intgo _wrap_msourcecf_add_tone_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
+intgo _wrap_MsourcecfAddTone_liquid_7b08cc538ffcb585(msourcecf_s *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
   msourcecf arg1 = (msourcecf) 0 ;
   float arg2 ;
   float arg3 ;
@@ -19473,7 +19473,7 @@ intgo _wrap_msourcecf_add_tone_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0, 
 }
 
 
-intgo _wrap_msourcecf_add_chirp_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4, intgo _swig_go_5, intgo _swig_go_6) {
+intgo _wrap_MsourcecfAddChirp_liquid_7b08cc538ffcb585(msourcecf_s *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4, intgo _swig_go_5, intgo _swig_go_6) {
   msourcecf arg1 = (msourcecf) 0 ;
   float arg2 ;
   float arg3 ;
@@ -19498,7 +19498,7 @@ intgo _wrap_msourcecf_add_chirp_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0,
 }
 
 
-intgo _wrap_msourcecf_add_noise_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
+intgo _wrap_MsourcecfAddNoise_liquid_7b08cc538ffcb585(msourcecf_s *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
   msourcecf arg1 = (msourcecf) 0 ;
   float arg2 ;
   float arg3 ;
@@ -19517,7 +19517,7 @@ intgo _wrap_msourcecf_add_noise_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0,
 }
 
 
-intgo _wrap_msourcecf_add_modem_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3, intgo _swig_go_4, intgo _swig_go_5, float _swig_go_6) {
+intgo _wrap_MsourcecfAddModem_liquid_7b08cc538ffcb585(msourcecf_s *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3, intgo _swig_go_4, intgo _swig_go_5, float _swig_go_6) {
   msourcecf arg1 = (msourcecf) 0 ;
   float arg2 ;
   float arg3 ;
@@ -19542,7 +19542,7 @@ intgo _wrap_msourcecf_add_modem_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0,
 }
 
 
-intgo _wrap_msourcecf_add_fsk_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
+intgo _wrap_MsourcecfAddFsk_liquid_7b08cc538ffcb585(msourcecf_s *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
   msourcecf arg1 = (msourcecf) 0 ;
   float arg2 ;
   float arg3 ;
@@ -19565,7 +19565,7 @@ intgo _wrap_msourcecf_add_fsk_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0, f
 }
 
 
-intgo _wrap_msourcecf_add_gmsk_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3, intgo _swig_go_4, float _swig_go_5) {
+intgo _wrap_MsourcecfAddGmsk_liquid_7b08cc538ffcb585(msourcecf_s *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3, intgo _swig_go_4, float _swig_go_5) {
   msourcecf arg1 = (msourcecf) 0 ;
   float arg2 ;
   float arg3 ;
@@ -19588,7 +19588,7 @@ intgo _wrap_msourcecf_add_gmsk_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0, 
 }
 
 
-intgo _wrap_msourcecf_remove_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0, intgo _swig_go_1) {
+intgo _wrap_MsourcecfRemove_liquid_7b08cc538ffcb585(msourcecf_s *_swig_go_0, intgo _swig_go_1) {
   msourcecf arg1 = (msourcecf) 0 ;
   int arg2 ;
   int result;
@@ -19603,7 +19603,7 @@ intgo _wrap_msourcecf_remove_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0, in
 }
 
 
-intgo _wrap_msourcecf_enable_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0, intgo _swig_go_1) {
+intgo _wrap_MsourcecfEnable_liquid_7b08cc538ffcb585(msourcecf_s *_swig_go_0, intgo _swig_go_1) {
   msourcecf arg1 = (msourcecf) 0 ;
   int arg2 ;
   int result;
@@ -19618,7 +19618,7 @@ intgo _wrap_msourcecf_enable_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0, in
 }
 
 
-intgo _wrap_msourcecf_disable_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0, intgo _swig_go_1) {
+intgo _wrap_MsourcecfDisable_liquid_7b08cc538ffcb585(msourcecf_s *_swig_go_0, intgo _swig_go_1) {
   msourcecf arg1 = (msourcecf) 0 ;
   int arg2 ;
   int result;
@@ -19633,7 +19633,7 @@ intgo _wrap_msourcecf_disable_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0, i
 }
 
 
-intgo _wrap_msourcecf_set_gain_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0, intgo _swig_go_1, float _swig_go_2) {
+intgo _wrap_MsourcecfSetGain_liquid_7b08cc538ffcb585(msourcecf_s *_swig_go_0, intgo _swig_go_1, float _swig_go_2) {
   msourcecf arg1 = (msourcecf) 0 ;
   int arg2 ;
   float arg3 ;
@@ -19650,7 +19650,7 @@ intgo _wrap_msourcecf_set_gain_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0, 
 }
 
 
-intgo _wrap_msourcecf_get_gain_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
+intgo _wrap_MsourcecfGetGain_liquid_7b08cc538ffcb585(msourcecf_s *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
   msourcecf arg1 = (msourcecf) 0 ;
   int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -19667,7 +19667,7 @@ intgo _wrap_msourcecf_get_gain_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0, 
 }
 
 
-long long _wrap_msourcecf_get_num_samples_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0) {
+long long _wrap_MsourcecfGetNumSamples_liquid_7b08cc538ffcb585(msourcecf_s *_swig_go_0) {
   msourcecf arg1 = (msourcecf) 0 ;
   unsigned long long result;
   long long _swig_go_result;
@@ -19680,7 +19680,7 @@ long long _wrap_msourcecf_get_num_samples_liquid_24d78331e3228d7c(msourcecf_s *_
 }
 
 
-intgo _wrap_msourcecf_set_frequency_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0, intgo _swig_go_1, float _swig_go_2) {
+intgo _wrap_MsourcecfSetFrequency_liquid_7b08cc538ffcb585(msourcecf_s *_swig_go_0, intgo _swig_go_1, float _swig_go_2) {
   msourcecf arg1 = (msourcecf) 0 ;
   int arg2 ;
   float arg3 ;
@@ -19697,7 +19697,7 @@ intgo _wrap_msourcecf_set_frequency_liquid_24d78331e3228d7c(msourcecf_s *_swig_g
 }
 
 
-intgo _wrap_msourcecf_get_frequency_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
+intgo _wrap_MsourcecfGetFrequency_liquid_7b08cc538ffcb585(msourcecf_s *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
   msourcecf arg1 = (msourcecf) 0 ;
   int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -19714,7 +19714,7 @@ intgo _wrap_msourcecf_get_frequency_liquid_24d78331e3228d7c(msourcecf_s *_swig_g
 }
 
 
-void _wrap_msourcecf_write_samples_liquid_24d78331e3228d7c(msourcecf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+void _wrap_MsourcecfWriteSamples_liquid_7b08cc538ffcb585(msourcecf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   msourcecf arg1 = (msourcecf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -19728,7 +19728,7 @@ void _wrap_msourcecf_write_samples_liquid_24d78331e3228d7c(msourcecf_s *_swig_go
 }
 
 
-symtrack_cccf_s *_wrap_symtrack_cccf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, intgo _swig_go_4) {
+symtrack_cccf_s *_wrap_SymtrackCccfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, intgo _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -19749,7 +19749,7 @@ symtrack_cccf_s *_wrap_symtrack_cccf_create_liquid_24d78331e3228d7c(intgo _swig_
 }
 
 
-symtrack_cccf_s *_wrap_symtrack_cccf_create_default_liquid_24d78331e3228d7c() {
+symtrack_cccf_s *_wrap_SymtrackCccfCreateDefault_liquid_7b08cc538ffcb585() {
   symtrack_cccf result;
   symtrack_cccf_s *_swig_go_result;
   
@@ -19760,7 +19760,7 @@ symtrack_cccf_s *_wrap_symtrack_cccf_create_default_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_symtrack_cccf_destroy_liquid_24d78331e3228d7c(symtrack_cccf_s *_swig_go_0) {
+void _wrap_SymtrackCccfDestroy_liquid_7b08cc538ffcb585(symtrack_cccf_s *_swig_go_0) {
   symtrack_cccf arg1 = (symtrack_cccf) 0 ;
   
   arg1 = *(symtrack_cccf *)&_swig_go_0; 
@@ -19770,7 +19770,7 @@ void _wrap_symtrack_cccf_destroy_liquid_24d78331e3228d7c(symtrack_cccf_s *_swig_
 }
 
 
-void _wrap_symtrack_cccf_print_liquid_24d78331e3228d7c(symtrack_cccf_s *_swig_go_0) {
+void _wrap_SymtrackCccfPrint_liquid_7b08cc538ffcb585(symtrack_cccf_s *_swig_go_0) {
   symtrack_cccf arg1 = (symtrack_cccf) 0 ;
   
   arg1 = *(symtrack_cccf *)&_swig_go_0; 
@@ -19780,7 +19780,7 @@ void _wrap_symtrack_cccf_print_liquid_24d78331e3228d7c(symtrack_cccf_s *_swig_go
 }
 
 
-void _wrap_symtrack_cccf_reset_liquid_24d78331e3228d7c(symtrack_cccf_s *_swig_go_0) {
+void _wrap_SymtrackCccfReset_liquid_7b08cc538ffcb585(symtrack_cccf_s *_swig_go_0) {
   symtrack_cccf arg1 = (symtrack_cccf) 0 ;
   
   arg1 = *(symtrack_cccf *)&_swig_go_0; 
@@ -19790,7 +19790,7 @@ void _wrap_symtrack_cccf_reset_liquid_24d78331e3228d7c(symtrack_cccf_s *_swig_go
 }
 
 
-void _wrap_symtrack_cccf_set_modscheme_liquid_24d78331e3228d7c(symtrack_cccf_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_SymtrackCccfSetModscheme_liquid_7b08cc538ffcb585(symtrack_cccf_s *_swig_go_0, intgo _swig_go_1) {
   symtrack_cccf arg1 = (symtrack_cccf) 0 ;
   int arg2 ;
   
@@ -19802,7 +19802,7 @@ void _wrap_symtrack_cccf_set_modscheme_liquid_24d78331e3228d7c(symtrack_cccf_s *
 }
 
 
-void _wrap_symtrack_cccf_set_bandwidth_liquid_24d78331e3228d7c(symtrack_cccf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_SymtrackCccfSetBandwidth_liquid_7b08cc538ffcb585(symtrack_cccf_s *_swig_go_0, float _swig_go_1) {
   symtrack_cccf arg1 = (symtrack_cccf) 0 ;
   float arg2 ;
   
@@ -19814,7 +19814,7 @@ void _wrap_symtrack_cccf_set_bandwidth_liquid_24d78331e3228d7c(symtrack_cccf_s *
 }
 
 
-void _wrap_symtrack_cccf_adjust_phase_liquid_24d78331e3228d7c(symtrack_cccf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_SymtrackCccfAdjustPhase_liquid_7b08cc538ffcb585(symtrack_cccf_s *_swig_go_0, float _swig_go_1) {
   symtrack_cccf arg1 = (symtrack_cccf) 0 ;
   float arg2 ;
   
@@ -19826,7 +19826,7 @@ void _wrap_symtrack_cccf_adjust_phase_liquid_24d78331e3228d7c(symtrack_cccf_s *_
 }
 
 
-void _wrap_symtrack_cccf_execute_liquid_24d78331e3228d7c(symtrack_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo *_swig_go_3) {
+void _wrap_SymtrackCccfExecute_liquid_7b08cc538ffcb585(symtrack_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo *_swig_go_3) {
   symtrack_cccf arg1 = (symtrack_cccf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -19849,7 +19849,7 @@ void _wrap_symtrack_cccf_execute_liquid_24d78331e3228d7c(symtrack_cccf_s *_swig_
 }
 
 
-void _wrap_symtrack_cccf_execute_block_liquid_24d78331e3228d7c(symtrack_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, intgo *_swig_go_4) {
+void _wrap_SymtrackCccfExecuteBlock_liquid_7b08cc538ffcb585(symtrack_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, intgo *_swig_go_4) {
   symtrack_cccf arg1 = (symtrack_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -19867,7 +19867,7 @@ void _wrap_symtrack_cccf_execute_block_liquid_24d78331e3228d7c(symtrack_cccf_s *
 }
 
 
-float _wrap_liquid_lngammaf_liquid_24d78331e3228d7c(float _swig_go_0) {
+float _wrap_LiquidLngammaf_liquid_7b08cc538ffcb585(float _swig_go_0) {
   float arg1 ;
   float result;
   float _swig_go_result;
@@ -19880,7 +19880,7 @@ float _wrap_liquid_lngammaf_liquid_24d78331e3228d7c(float _swig_go_0) {
 }
 
 
-float _wrap_liquid_gammaf_liquid_24d78331e3228d7c(float _swig_go_0) {
+float _wrap_LiquidGammaf_liquid_7b08cc538ffcb585(float _swig_go_0) {
   float arg1 ;
   float result;
   float _swig_go_result;
@@ -19893,7 +19893,7 @@ float _wrap_liquid_gammaf_liquid_24d78331e3228d7c(float _swig_go_0) {
 }
 
 
-float _wrap_liquid_lnlowergammaf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1) {
+float _wrap_LiquidLnlowergammaf_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1) {
   float arg1 ;
   float arg2 ;
   float result;
@@ -19908,7 +19908,7 @@ float _wrap_liquid_lnlowergammaf_liquid_24d78331e3228d7c(float _swig_go_0, float
 }
 
 
-float _wrap_liquid_lnuppergammaf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1) {
+float _wrap_LiquidLnuppergammaf_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1) {
   float arg1 ;
   float arg2 ;
   float result;
@@ -19923,7 +19923,7 @@ float _wrap_liquid_lnuppergammaf_liquid_24d78331e3228d7c(float _swig_go_0, float
 }
 
 
-float _wrap_liquid_lowergammaf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1) {
+float _wrap_LiquidLowergammaf_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1) {
   float arg1 ;
   float arg2 ;
   float result;
@@ -19938,7 +19938,7 @@ float _wrap_liquid_lowergammaf_liquid_24d78331e3228d7c(float _swig_go_0, float _
 }
 
 
-float _wrap_liquid_uppergammaf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1) {
+float _wrap_LiquidUppergammaf_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1) {
   float arg1 ;
   float arg2 ;
   float result;
@@ -19953,7 +19953,7 @@ float _wrap_liquid_uppergammaf_liquid_24d78331e3228d7c(float _swig_go_0, float _
 }
 
 
-float _wrap_liquid_factorialf_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+float _wrap_LiquidFactorialf_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   float result;
   float _swig_go_result;
@@ -19966,7 +19966,7 @@ float _wrap_liquid_factorialf_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-float _wrap_liquid_lnbesselif_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1) {
+float _wrap_LiquidLnbesselif_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1) {
   float arg1 ;
   float arg2 ;
   float result;
@@ -19981,7 +19981,7 @@ float _wrap_liquid_lnbesselif_liquid_24d78331e3228d7c(float _swig_go_0, float _s
 }
 
 
-float _wrap_liquid_besselif_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1) {
+float _wrap_LiquidBesselif_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1) {
   float arg1 ;
   float arg2 ;
   float result;
@@ -19996,7 +19996,7 @@ float _wrap_liquid_besselif_liquid_24d78331e3228d7c(float _swig_go_0, float _swi
 }
 
 
-float _wrap_liquid_besseli0f_liquid_24d78331e3228d7c(float _swig_go_0) {
+float _wrap_LiquidBesseli0f_liquid_7b08cc538ffcb585(float _swig_go_0) {
   float arg1 ;
   float result;
   float _swig_go_result;
@@ -20009,7 +20009,7 @@ float _wrap_liquid_besseli0f_liquid_24d78331e3228d7c(float _swig_go_0) {
 }
 
 
-float _wrap_liquid_besseljf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1) {
+float _wrap_LiquidBesseljf_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1) {
   float arg1 ;
   float arg2 ;
   float result;
@@ -20024,7 +20024,7 @@ float _wrap_liquid_besseljf_liquid_24d78331e3228d7c(float _swig_go_0, float _swi
 }
 
 
-float _wrap_liquid_besselj0f_liquid_24d78331e3228d7c(float _swig_go_0) {
+float _wrap_LiquidBesselj0f_liquid_7b08cc538ffcb585(float _swig_go_0) {
   float arg1 ;
   float result;
   float _swig_go_result;
@@ -20037,7 +20037,7 @@ float _wrap_liquid_besselj0f_liquid_24d78331e3228d7c(float _swig_go_0) {
 }
 
 
-float _wrap_liquid_Qf_liquid_24d78331e3228d7c(float _swig_go_0) {
+float _wrap_LiquidQf_liquid_7b08cc538ffcb585(float _swig_go_0) {
   float arg1 ;
   float result;
   float _swig_go_result;
@@ -20050,7 +20050,7 @@ float _wrap_liquid_Qf_liquid_24d78331e3228d7c(float _swig_go_0) {
 }
 
 
-float _wrap_liquid_MarcumQf_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1, float _swig_go_2) {
+float _wrap_LiquidMarcumQf_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1, float _swig_go_2) {
   int arg1 ;
   float arg2 ;
   float arg3 ;
@@ -20067,7 +20067,7 @@ float _wrap_liquid_MarcumQf_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swi
 }
 
 
-float _wrap_liquid_MarcumQ1f_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1) {
+float _wrap_LiquidMarcumQ1f_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1) {
   float arg1 ;
   float arg2 ;
   float result;
@@ -20082,7 +20082,7 @@ float _wrap_liquid_MarcumQ1f_liquid_24d78331e3228d7c(float _swig_go_0, float _sw
 }
 
 
-float _wrap_sincf_liquid_24d78331e3228d7c(float _swig_go_0) {
+float _wrap_Sincf_liquid_7b08cc538ffcb585(float _swig_go_0) {
   float arg1 ;
   float result;
   float _swig_go_result;
@@ -20095,7 +20095,7 @@ float _wrap_sincf_liquid_24d78331e3228d7c(float _swig_go_0) {
 }
 
 
-intgo _wrap_liquid_nextpow2_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+intgo _wrap_LiquidNextpow2_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -20108,7 +20108,7 @@ intgo _wrap_liquid_nextpow2_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-float _wrap_liquid_nchoosek_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+float _wrap_LiquidNchoosek_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float result;
@@ -20123,7 +20123,7 @@ float _wrap_liquid_nchoosek_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swi
 }
 
 
-intgo _wrap_LIQUID_WINDOW_NUM_FUNCTIONS_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDWINDOWNUMFUNCTIONS_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -20134,7 +20134,7 @@ intgo _wrap_LIQUID_WINDOW_NUM_FUNCTIONS_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_WINDOW_UNKNOWN_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDWINDOWUNKNOWN_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -20146,7 +20146,7 @@ intgo _wrap_LIQUID_WINDOW_UNKNOWN_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_WINDOW_HAMMING_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDWINDOWHAMMING_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -20158,7 +20158,7 @@ intgo _wrap_LIQUID_WINDOW_HAMMING_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_WINDOW_HANN_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDWINDOWHANN_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -20170,7 +20170,7 @@ intgo _wrap_LIQUID_WINDOW_HANN_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_WINDOW_BLACKMANHARRIS_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDWINDOWBLACKMANHARRIS_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -20182,7 +20182,7 @@ intgo _wrap_LIQUID_WINDOW_BLACKMANHARRIS_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_WINDOW_BLACKMANHARRIS7_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDWINDOWBLACKMANHARRIS7_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -20194,7 +20194,7 @@ intgo _wrap_LIQUID_WINDOW_BLACKMANHARRIS7_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_WINDOW_KAISER_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDWINDOWKAISER_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -20206,7 +20206,7 @@ intgo _wrap_LIQUID_WINDOW_KAISER_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_WINDOW_FLATTOP_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDWINDOWFLATTOP_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -20218,7 +20218,7 @@ intgo _wrap_LIQUID_WINDOW_FLATTOP_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_WINDOW_TRIANGULAR_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDWINDOWTRIANGULAR_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -20230,7 +20230,7 @@ intgo _wrap_LIQUID_WINDOW_TRIANGULAR_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_WINDOW_RCOSTAPER_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDWINDOWRCOSTAPER_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -20242,7 +20242,7 @@ intgo _wrap_LIQUID_WINDOW_RCOSTAPER_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_WINDOW_KBD_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDWINDOWKBD_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -20254,7 +20254,7 @@ intgo _wrap_LIQUID_WINDOW_KBD_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_liquid_window_str_set_liquid_24d78331e3228d7c(_gostring_** _swig_go_0) {
+void _wrap_LiquidWindowStr_set_liquid_7b08cc538ffcb585(_gostring_** _swig_go_0) {
   char *(*arg1)[2] ;
   
   arg1 = *(char *(**)[2])&_swig_go_0; 
@@ -20274,7 +20274,7 @@ void _wrap_liquid_window_str_set_liquid_24d78331e3228d7c(_gostring_** _swig_go_0
 }
 
 
-_gostring_** _wrap_liquid_window_str_get_liquid_24d78331e3228d7c() {
+_gostring_** _wrap_LiquidWindowStr_get_liquid_7b08cc538ffcb585() {
   char *(*result)[2] = 0 ;
   _gostring_** _swig_go_result;
   
@@ -20285,13 +20285,13 @@ _gostring_** _wrap_liquid_window_str_get_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_liquid_print_windows_liquid_24d78331e3228d7c() {
+void _wrap_LiquidPrintWindows_liquid_7b08cc538ffcb585() {
   liquid_print_windows();
   
 }
 
 
-intgo _wrap_liquid_getopt_str2window_liquid_24d78331e3228d7c(_gostring_ _swig_go_0) {
+intgo _wrap_LiquidGetoptStr2window_liquid_7b08cc538ffcb585(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   liquid_window_type result;
   intgo _swig_go_result;
@@ -20309,7 +20309,7 @@ intgo _wrap_liquid_getopt_str2window_liquid_24d78331e3228d7c(_gostring_ _swig_go
 }
 
 
-float _wrap_liquid_kbd_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2) {
+float _wrap_LiquidKbd_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -20326,7 +20326,7 @@ float _wrap_liquid_kbd_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_
 }
 
 
-void _wrap_liquid_kbd_window_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1, float *_swig_go_2) {
+void _wrap_LiquidKbdWindow_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1, float *_swig_go_2) {
   unsigned int arg1 ;
   float arg2 ;
   float *arg3 = (float *) 0 ;
@@ -20340,7 +20340,7 @@ void _wrap_liquid_kbd_window_liquid_24d78331e3228d7c(intgo _swig_go_0, float _sw
 }
 
 
-float _wrap_kaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3) {
+float _wrap_Kaiser_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2, float _swig_go_3) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -20359,7 +20359,7 @@ float _wrap_kaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, f
 }
 
 
-float _wrap_hamming_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+float _wrap_Hamming_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float result;
@@ -20374,7 +20374,7 @@ float _wrap_hamming_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) 
 }
 
 
-float _wrap_hann_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+float _wrap_Hann_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float result;
@@ -20389,7 +20389,7 @@ float _wrap_hann_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
 }
 
 
-float _wrap_blackmanharris_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+float _wrap_Blackmanharris_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float result;
@@ -20404,7 +20404,7 @@ float _wrap_blackmanharris_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig
 }
 
 
-float _wrap_blackmanharris7_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+float _wrap_Blackmanharris7_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float result;
@@ -20419,7 +20419,7 @@ float _wrap_blackmanharris7_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swi
 }
 
 
-float _wrap_flattop_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+float _wrap_Flattop_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float result;
@@ -20434,7 +20434,7 @@ float _wrap_flattop_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) 
 }
 
 
-float _wrap_triangular_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+float _wrap_Triangular_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -20451,7 +20451,7 @@ float _wrap_triangular_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_
 }
 
 
-float _wrap_liquid_rcostaper_windowf_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+float _wrap_LiquidRcostaperWindowf_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -20468,7 +20468,7 @@ float _wrap_liquid_rcostaper_windowf_liquid_24d78331e3228d7c(intgo _swig_go_0, i
 }
 
 
-double _wrap_poly_val_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, double _swig_go_2) {
+double _wrap_PolyVal_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, double _swig_go_2) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   double arg3 ;
@@ -20485,7 +20485,7 @@ double _wrap_poly_val_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go
 }
 
 
-void _wrap_poly_fit_liquid_24d78331e3228d7c(double *_swig_go_0, double *_swig_go_1, intgo _swig_go_2, double *_swig_go_3, intgo _swig_go_4) {
+void _wrap_PolyFit_liquid_7b08cc538ffcb585(double *_swig_go_0, double *_swig_go_1, intgo _swig_go_2, double *_swig_go_3, intgo _swig_go_4) {
   double *arg1 = (double *) 0 ;
   double *arg2 = (double *) 0 ;
   unsigned int arg3 ;
@@ -20503,7 +20503,7 @@ void _wrap_poly_fit_liquid_24d78331e3228d7c(double *_swig_go_0, double *_swig_go
 }
 
 
-void _wrap_poly_fit_lagrange_liquid_24d78331e3228d7c(double *_swig_go_0, double *_swig_go_1, intgo _swig_go_2, double *_swig_go_3) {
+void _wrap_PolyFitLagrange_liquid_7b08cc538ffcb585(double *_swig_go_0, double *_swig_go_1, intgo _swig_go_2, double *_swig_go_3) {
   double *arg1 = (double *) 0 ;
   double *arg2 = (double *) 0 ;
   unsigned int arg3 ;
@@ -20519,7 +20519,7 @@ void _wrap_poly_fit_lagrange_liquid_24d78331e3228d7c(double *_swig_go_0, double 
 }
 
 
-double _wrap_poly_interp_lagrange_liquid_24d78331e3228d7c(double *_swig_go_0, double *_swig_go_1, intgo _swig_go_2, double _swig_go_3) {
+double _wrap_PolyInterpLagrange_liquid_7b08cc538ffcb585(double *_swig_go_0, double *_swig_go_1, intgo _swig_go_2, double _swig_go_3) {
   double *arg1 = (double *) 0 ;
   double *arg2 = (double *) 0 ;
   unsigned int arg3 ;
@@ -20538,7 +20538,7 @@ double _wrap_poly_interp_lagrange_liquid_24d78331e3228d7c(double *_swig_go_0, do
 }
 
 
-void _wrap_poly_fit_lagrange_barycentric_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, double *_swig_go_2) {
+void _wrap_PolyFitLagrangeBarycentric_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, double *_swig_go_2) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   double *arg3 = (double *) 0 ;
@@ -20552,7 +20552,7 @@ void _wrap_poly_fit_lagrange_barycentric_liquid_24d78331e3228d7c(double *_swig_g
 }
 
 
-double _wrap_poly_val_lagrange_barycentric_liquid_24d78331e3228d7c(double *_swig_go_0, double *_swig_go_1, double *_swig_go_2, double _swig_go_3, intgo _swig_go_4) {
+double _wrap_PolyValLagrangeBarycentric_liquid_7b08cc538ffcb585(double *_swig_go_0, double *_swig_go_1, double *_swig_go_2, double _swig_go_3, intgo _swig_go_4) {
   double *arg1 = (double *) 0 ;
   double *arg2 = (double *) 0 ;
   double *arg3 = (double *) 0 ;
@@ -20573,7 +20573,7 @@ double _wrap_poly_val_lagrange_barycentric_liquid_24d78331e3228d7c(double *_swig
 }
 
 
-void _wrap_poly_expandbinomial_liquid_24d78331e3228d7c(intgo _swig_go_0, double *_swig_go_1) {
+void _wrap_PolyExpandbinomial_liquid_7b08cc538ffcb585(intgo _swig_go_0, double *_swig_go_1) {
   unsigned int arg1 ;
   double *arg2 = (double *) 0 ;
   
@@ -20585,7 +20585,7 @@ void _wrap_poly_expandbinomial_liquid_24d78331e3228d7c(intgo _swig_go_0, double 
 }
 
 
-void _wrap_poly_expandbinomial_pm_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, double *_swig_go_2) {
+void _wrap_PolyExpandbinomialPm_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, double *_swig_go_2) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   double *arg3 = (double *) 0 ;
@@ -20599,7 +20599,7 @@ void _wrap_poly_expandbinomial_pm_liquid_24d78331e3228d7c(intgo _swig_go_0, intg
 }
 
 
-void _wrap_poly_expandroots_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, double *_swig_go_2) {
+void _wrap_PolyExpandroots_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, double *_swig_go_2) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   double *arg3 = (double *) 0 ;
@@ -20613,7 +20613,7 @@ void _wrap_poly_expandroots_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _s
 }
 
 
-void _wrap_poly_expandroots2_liquid_24d78331e3228d7c(double *_swig_go_0, double *_swig_go_1, intgo _swig_go_2, double *_swig_go_3) {
+void _wrap_PolyExpandroots2_liquid_7b08cc538ffcb585(double *_swig_go_0, double *_swig_go_1, intgo _swig_go_2, double *_swig_go_3) {
   double *arg1 = (double *) 0 ;
   double *arg2 = (double *) 0 ;
   unsigned int arg3 ;
@@ -20629,7 +20629,7 @@ void _wrap_poly_expandroots2_liquid_24d78331e3228d7c(double *_swig_go_0, double 
 }
 
 
-void _wrap_poly_findroots_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2) {
+void _wrap_PolyFindroots_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   liquid_double_complex *arg3 = (liquid_double_complex *) 0 ;
@@ -20643,7 +20643,7 @@ void _wrap_poly_findroots_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swi
 }
 
 
-void _wrap_poly_findroots_durandkerner_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2) {
+void _wrap_PolyFindrootsDurandkerner_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   liquid_double_complex *arg3 = (liquid_double_complex *) 0 ;
@@ -20657,7 +20657,7 @@ void _wrap_poly_findroots_durandkerner_liquid_24d78331e3228d7c(double *_swig_go_
 }
 
 
-void _wrap_poly_findroots_bairstow_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2) {
+void _wrap_PolyFindrootsBairstow_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   liquid_double_complex *arg3 = (liquid_double_complex *) 0 ;
@@ -20671,7 +20671,7 @@ void _wrap_poly_findroots_bairstow_liquid_24d78331e3228d7c(double *_swig_go_0, i
 }
 
 
-void _wrap_poly_mul_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, double *_swig_go_2, intgo _swig_go_3, double *_swig_go_4) {
+void _wrap_PolyMul_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, double *_swig_go_2, intgo _swig_go_3, double *_swig_go_4) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   double *arg3 = (double *) 0 ;
@@ -20689,7 +20689,7 @@ void _wrap_poly_mul_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1
 }
 
 
-float _wrap_polyf_val_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, float _swig_go_2) {
+float _wrap_PolyfVal_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, float _swig_go_2) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -20706,7 +20706,7 @@ float _wrap_polyf_val_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_
 }
 
 
-void _wrap_polyf_fit_liquid_24d78331e3228d7c(float *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3, intgo _swig_go_4) {
+void _wrap_PolyfFit_liquid_7b08cc538ffcb585(float *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3, intgo _swig_go_4) {
   float *arg1 = (float *) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -20724,7 +20724,7 @@ void _wrap_polyf_fit_liquid_24d78331e3228d7c(float *_swig_go_0, float *_swig_go_
 }
 
 
-void _wrap_polyf_fit_lagrange_liquid_24d78331e3228d7c(float *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_PolyfFitLagrange_liquid_7b08cc538ffcb585(float *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   float *arg1 = (float *) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -20740,7 +20740,7 @@ void _wrap_polyf_fit_lagrange_liquid_24d78331e3228d7c(float *_swig_go_0, float *
 }
 
 
-float _wrap_polyf_interp_lagrange_liquid_24d78331e3228d7c(float *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float _swig_go_3) {
+float _wrap_PolyfInterpLagrange_liquid_7b08cc538ffcb585(float *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float _swig_go_3) {
   float *arg1 = (float *) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -20759,7 +20759,7 @@ float _wrap_polyf_interp_lagrange_liquid_24d78331e3228d7c(float *_swig_go_0, flo
 }
 
 
-void _wrap_polyf_fit_lagrange_barycentric_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
+void _wrap_PolyfFitLagrangeBarycentric_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -20773,7 +20773,7 @@ void _wrap_polyf_fit_lagrange_barycentric_liquid_24d78331e3228d7c(float *_swig_g
 }
 
 
-float _wrap_polyf_val_lagrange_barycentric_liquid_24d78331e3228d7c(float *_swig_go_0, float *_swig_go_1, float *_swig_go_2, float _swig_go_3, intgo _swig_go_4) {
+float _wrap_PolyfValLagrangeBarycentric_liquid_7b08cc538ffcb585(float *_swig_go_0, float *_swig_go_1, float *_swig_go_2, float _swig_go_3, intgo _swig_go_4) {
   float *arg1 = (float *) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -20794,7 +20794,7 @@ float _wrap_polyf_val_lagrange_barycentric_liquid_24d78331e3228d7c(float *_swig_
 }
 
 
-void _wrap_polyf_expandbinomial_liquid_24d78331e3228d7c(intgo _swig_go_0, float *_swig_go_1) {
+void _wrap_PolyfExpandbinomial_liquid_7b08cc538ffcb585(intgo _swig_go_0, float *_swig_go_1) {
   unsigned int arg1 ;
   float *arg2 = (float *) 0 ;
   
@@ -20806,7 +20806,7 @@ void _wrap_polyf_expandbinomial_liquid_24d78331e3228d7c(intgo _swig_go_0, float 
 }
 
 
-void _wrap_polyf_expandbinomial_pm_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
+void _wrap_PolyfExpandbinomialPm_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -20820,7 +20820,7 @@ void _wrap_polyf_expandbinomial_pm_liquid_24d78331e3228d7c(intgo _swig_go_0, int
 }
 
 
-void _wrap_polyf_expandroots_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
+void _wrap_PolyfExpandroots_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -20834,7 +20834,7 @@ void _wrap_polyf_expandroots_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _s
 }
 
 
-void _wrap_polyf_expandroots2_liquid_24d78331e3228d7c(float *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_PolyfExpandroots2_liquid_7b08cc538ffcb585(float *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   float *arg1 = (float *) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -20850,7 +20850,7 @@ void _wrap_polyf_expandroots2_liquid_24d78331e3228d7c(float *_swig_go_0, float *
 }
 
 
-void _wrap_polyf_findroots_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_PolyfFindroots_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -20864,7 +20864,7 @@ void _wrap_polyf_findroots_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swi
 }
 
 
-void _wrap_polyf_findroots_durandkerner_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_PolyfFindrootsDurandkerner_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -20878,7 +20878,7 @@ void _wrap_polyf_findroots_durandkerner_liquid_24d78331e3228d7c(float *_swig_go_
 }
 
 
-void _wrap_polyf_findroots_bairstow_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_PolyfFindrootsBairstow_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -20892,7 +20892,7 @@ void _wrap_polyf_findroots_bairstow_liquid_24d78331e3228d7c(float *_swig_go_0, i
 }
 
 
-void _wrap_polyf_mul_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2, intgo _swig_go_3, float *_swig_go_4) {
+void _wrap_PolyfMul_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2, intgo _swig_go_3, float *_swig_go_4) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -20910,7 +20910,7 @@ void _wrap_polyf_mul_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1
 }
 
 
-liquid_double_complex *_wrap_polyc_val_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2) {
+liquid_double_complex *_wrap_PolycVal_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   liquid_double_complex arg3 ;
@@ -20934,7 +20934,7 @@ liquid_double_complex *_wrap_polyc_val_liquid_24d78331e3228d7c(liquid_double_com
 }
 
 
-void _wrap_polyc_fit_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, liquid_double_complex *_swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3, intgo _swig_go_4) {
+void _wrap_PolycFit_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, liquid_double_complex *_swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3, intgo _swig_go_4) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   liquid_double_complex *arg2 = (liquid_double_complex *) 0 ;
   unsigned int arg3 ;
@@ -20952,7 +20952,7 @@ void _wrap_polyc_fit_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, 
 }
 
 
-void _wrap_polyc_fit_lagrange_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, liquid_double_complex *_swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3) {
+void _wrap_PolycFitLagrange_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, liquid_double_complex *_swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   liquid_double_complex *arg2 = (liquid_double_complex *) 0 ;
   unsigned int arg3 ;
@@ -20968,7 +20968,7 @@ void _wrap_polyc_fit_lagrange_liquid_24d78331e3228d7c(liquid_double_complex *_sw
 }
 
 
-liquid_double_complex *_wrap_polyc_interp_lagrange_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, liquid_double_complex *_swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3) {
+liquid_double_complex *_wrap_PolycInterpLagrange_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, liquid_double_complex *_swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   liquid_double_complex *arg2 = (liquid_double_complex *) 0 ;
   unsigned int arg3 ;
@@ -20994,7 +20994,7 @@ liquid_double_complex *_wrap_polyc_interp_lagrange_liquid_24d78331e3228d7c(liqui
 }
 
 
-void _wrap_polyc_fit_lagrange_barycentric_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2) {
+void _wrap_PolycFitLagrangeBarycentric_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   liquid_double_complex *arg3 = (liquid_double_complex *) 0 ;
@@ -21008,7 +21008,7 @@ void _wrap_polyc_fit_lagrange_barycentric_liquid_24d78331e3228d7c(liquid_double_
 }
 
 
-liquid_double_complex *_wrap_polyc_val_lagrange_barycentric_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, liquid_double_complex *_swig_go_1, liquid_double_complex *_swig_go_2, liquid_double_complex *_swig_go_3, intgo _swig_go_4) {
+liquid_double_complex *_wrap_PolycValLagrangeBarycentric_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, liquid_double_complex *_swig_go_1, liquid_double_complex *_swig_go_2, liquid_double_complex *_swig_go_3, intgo _swig_go_4) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   liquid_double_complex *arg2 = (liquid_double_complex *) 0 ;
   liquid_double_complex *arg3 = (liquid_double_complex *) 0 ;
@@ -21036,7 +21036,7 @@ liquid_double_complex *_wrap_polyc_val_lagrange_barycentric_liquid_24d78331e3228
 }
 
 
-void _wrap_polyc_expandbinomial_liquid_24d78331e3228d7c(intgo _swig_go_0, liquid_double_complex *_swig_go_1) {
+void _wrap_PolycExpandbinomial_liquid_7b08cc538ffcb585(intgo _swig_go_0, liquid_double_complex *_swig_go_1) {
   unsigned int arg1 ;
   liquid_double_complex *arg2 = (liquid_double_complex *) 0 ;
   
@@ -21048,7 +21048,7 @@ void _wrap_polyc_expandbinomial_liquid_24d78331e3228d7c(intgo _swig_go_0, liquid
 }
 
 
-void _wrap_polyc_expandbinomial_pm_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2) {
+void _wrap_PolycExpandbinomialPm_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   liquid_double_complex *arg3 = (liquid_double_complex *) 0 ;
@@ -21062,7 +21062,7 @@ void _wrap_polyc_expandbinomial_pm_liquid_24d78331e3228d7c(intgo _swig_go_0, int
 }
 
 
-void _wrap_polyc_expandroots_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2) {
+void _wrap_PolycExpandroots_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   liquid_double_complex *arg3 = (liquid_double_complex *) 0 ;
@@ -21076,7 +21076,7 @@ void _wrap_polyc_expandroots_liquid_24d78331e3228d7c(liquid_double_complex *_swi
 }
 
 
-void _wrap_polyc_expandroots2_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, liquid_double_complex *_swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3) {
+void _wrap_PolycExpandroots2_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, liquid_double_complex *_swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   liquid_double_complex *arg2 = (liquid_double_complex *) 0 ;
   unsigned int arg3 ;
@@ -21092,7 +21092,7 @@ void _wrap_polyc_expandroots2_liquid_24d78331e3228d7c(liquid_double_complex *_sw
 }
 
 
-void _wrap_polyc_findroots_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2) {
+void _wrap_PolycFindroots_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   liquid_double_complex *arg3 = (liquid_double_complex *) 0 ;
@@ -21106,7 +21106,7 @@ void _wrap_polyc_findroots_liquid_24d78331e3228d7c(liquid_double_complex *_swig_
 }
 
 
-void _wrap_polyc_findroots_durandkerner_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2) {
+void _wrap_PolycFindrootsDurandkerner_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   liquid_double_complex *arg3 = (liquid_double_complex *) 0 ;
@@ -21120,7 +21120,7 @@ void _wrap_polyc_findroots_durandkerner_liquid_24d78331e3228d7c(liquid_double_co
 }
 
 
-void _wrap_polyc_findroots_bairstow_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2) {
+void _wrap_PolycFindrootsBairstow_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   liquid_double_complex *arg3 = (liquid_double_complex *) 0 ;
@@ -21134,7 +21134,7 @@ void _wrap_polyc_findroots_bairstow_liquid_24d78331e3228d7c(liquid_double_comple
 }
 
 
-void _wrap_polyc_mul_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2, intgo _swig_go_3, liquid_double_complex *_swig_go_4) {
+void _wrap_PolycMul_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2, intgo _swig_go_3, liquid_double_complex *_swig_go_4) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   liquid_double_complex *arg3 = (liquid_double_complex *) 0 ;
@@ -21152,7 +21152,7 @@ void _wrap_polyc_mul_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, 
 }
 
 
-liquid_float_complex *_wrap_polycf_val_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
+liquid_float_complex *_wrap_PolycfVal_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   liquid_float_complex arg3 ;
@@ -21176,7 +21176,7 @@ liquid_float_complex *_wrap_polycf_val_liquid_24d78331e3228d7c(liquid_float_comp
 }
 
 
-void _wrap_polycf_fit_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, intgo _swig_go_4) {
+void _wrap_PolycfFit_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, intgo _swig_go_4) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -21194,7 +21194,7 @@ void _wrap_polycf_fit_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, 
 }
 
 
-void _wrap_polycf_fit_lagrange_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_PolycfFitLagrange_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -21210,7 +21210,7 @@ void _wrap_polycf_fit_lagrange_liquid_24d78331e3228d7c(liquid_float_complex *_sw
 }
 
 
-liquid_float_complex *_wrap_polycf_interp_lagrange_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+liquid_float_complex *_wrap_PolycfInterpLagrange_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -21236,7 +21236,7 @@ liquid_float_complex *_wrap_polycf_interp_lagrange_liquid_24d78331e3228d7c(liqui
 }
 
 
-void _wrap_polycf_fit_lagrange_barycentric_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_PolycfFitLagrangeBarycentric_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -21250,7 +21250,7 @@ void _wrap_polycf_fit_lagrange_barycentric_liquid_24d78331e3228d7c(liquid_float_
 }
 
 
-liquid_float_complex *_wrap_polycf_val_lagrange_barycentric_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3, intgo _swig_go_4) {
+liquid_float_complex *_wrap_PolycfValLagrangeBarycentric_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3, intgo _swig_go_4) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -21278,7 +21278,7 @@ liquid_float_complex *_wrap_polycf_val_lagrange_barycentric_liquid_24d78331e3228
 }
 
 
-void _wrap_polycf_expandbinomial_liquid_24d78331e3228d7c(intgo _swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_PolycfExpandbinomial_liquid_7b08cc538ffcb585(intgo _swig_go_0, liquid_float_complex *_swig_go_1) {
   unsigned int arg1 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -21290,7 +21290,7 @@ void _wrap_polycf_expandbinomial_liquid_24d78331e3228d7c(intgo _swig_go_0, liqui
 }
 
 
-void _wrap_polycf_expandbinomial_pm_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_PolycfExpandbinomialPm_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -21304,7 +21304,7 @@ void _wrap_polycf_expandbinomial_pm_liquid_24d78331e3228d7c(intgo _swig_go_0, in
 }
 
 
-void _wrap_polycf_expandroots_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_PolycfExpandroots_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -21318,7 +21318,7 @@ void _wrap_polycf_expandroots_liquid_24d78331e3228d7c(liquid_float_complex *_swi
 }
 
 
-void _wrap_polycf_expandroots2_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_PolycfExpandroots2_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -21334,7 +21334,7 @@ void _wrap_polycf_expandroots2_liquid_24d78331e3228d7c(liquid_float_complex *_sw
 }
 
 
-void _wrap_polycf_findroots_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_PolycfFindroots_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -21348,7 +21348,7 @@ void _wrap_polycf_findroots_liquid_24d78331e3228d7c(liquid_float_complex *_swig_
 }
 
 
-void _wrap_polycf_findroots_durandkerner_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_PolycfFindrootsDurandkerner_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -21362,7 +21362,7 @@ void _wrap_polycf_findroots_durandkerner_liquid_24d78331e3228d7c(liquid_float_co
 }
 
 
-void _wrap_polycf_findroots_bairstow_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_PolycfFindrootsBairstow_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -21376,7 +21376,7 @@ void _wrap_polycf_findroots_bairstow_liquid_24d78331e3228d7c(liquid_float_comple
 }
 
 
-void _wrap_polycf_mul_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3, liquid_float_complex *_swig_go_4) {
+void _wrap_PolycfMul_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3, liquid_float_complex *_swig_go_4) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -21394,7 +21394,7 @@ void _wrap_polycf_mul_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, 
 }
 
 
-intgo _wrap_LIQUID_MAX_FACTORS_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMAXFACTORS_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -21405,7 +21405,7 @@ intgo _wrap_LIQUID_MAX_FACTORS_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_liquid_is_prime_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+intgo _wrap_LiquidIsPrime_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   int result;
   intgo _swig_go_result;
@@ -21418,7 +21418,7 @@ intgo _wrap_liquid_is_prime_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-void _wrap_liquid_factor_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo *_swig_go_1, intgo *_swig_go_2) {
+void _wrap_LiquidFactor_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo *_swig_go_1, intgo *_swig_go_2) {
   unsigned int arg1 ;
   unsigned int *arg2 = (unsigned int *) 0 ;
   unsigned int *arg3 = (unsigned int *) 0 ;
@@ -21432,7 +21432,7 @@ void _wrap_liquid_factor_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo *_swig_
 }
 
 
-void _wrap_liquid_unique_factor_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo *_swig_go_1, intgo *_swig_go_2) {
+void _wrap_LiquidUniqueFactor_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo *_swig_go_1, intgo *_swig_go_2) {
   unsigned int arg1 ;
   unsigned int *arg2 = (unsigned int *) 0 ;
   unsigned int *arg3 = (unsigned int *) 0 ;
@@ -21446,7 +21446,7 @@ void _wrap_liquid_unique_factor_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo 
 }
 
 
-intgo _wrap_liquid_gcd_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+intgo _wrap_LiquidGcd_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   unsigned int result;
@@ -21461,7 +21461,7 @@ intgo _wrap_liquid_gcd_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_
 }
 
 
-intgo _wrap_liquid_modpow_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+intgo _wrap_LiquidModpow_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -21478,7 +21478,7 @@ intgo _wrap_liquid_modpow_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_
 }
 
 
-intgo _wrap_liquid_primitive_root_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+intgo _wrap_LiquidPrimitiveRoot_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -21491,7 +21491,7 @@ intgo _wrap_liquid_primitive_root_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-intgo _wrap_liquid_primitive_root_prime_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+intgo _wrap_LiquidPrimitiveRootPrime_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -21504,7 +21504,7 @@ intgo _wrap_liquid_primitive_root_prime_liquid_24d78331e3228d7c(intgo _swig_go_0
 }
 
 
-intgo _wrap_liquid_totient_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+intgo _wrap_LiquidTotient_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -21517,7 +21517,7 @@ intgo _wrap_liquid_totient_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-void _wrap_matrixf_print_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixfPrint_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -21531,7 +21531,7 @@ void _wrap_matrixf_print_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_
 }
 
 
-void _wrap_matrixf_add_liquid_24d78331e3228d7c(float *_swig_go_0, float *_swig_go_1, float *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_MatrixfAdd_liquid_7b08cc538ffcb585(float *_swig_go_0, float *_swig_go_1, float *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   float *arg1 = (float *) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -21549,7 +21549,7 @@ void _wrap_matrixf_add_liquid_24d78331e3228d7c(float *_swig_go_0, float *_swig_g
 }
 
 
-void _wrap_matrixf_sub_liquid_24d78331e3228d7c(float *_swig_go_0, float *_swig_go_1, float *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_MatrixfSub_liquid_7b08cc538ffcb585(float *_swig_go_0, float *_swig_go_1, float *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   float *arg1 = (float *) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -21567,7 +21567,7 @@ void _wrap_matrixf_sub_liquid_24d78331e3228d7c(float *_swig_go_0, float *_swig_g
 }
 
 
-void _wrap_matrixf_pmul_liquid_24d78331e3228d7c(float *_swig_go_0, float *_swig_go_1, float *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_MatrixfPmul_liquid_7b08cc538ffcb585(float *_swig_go_0, float *_swig_go_1, float *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   float *arg1 = (float *) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -21585,7 +21585,7 @@ void _wrap_matrixf_pmul_liquid_24d78331e3228d7c(float *_swig_go_0, float *_swig_
 }
 
 
-void _wrap_matrixf_pdiv_liquid_24d78331e3228d7c(float *_swig_go_0, float *_swig_go_1, float *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_MatrixfPdiv_liquid_7b08cc538ffcb585(float *_swig_go_0, float *_swig_go_1, float *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   float *arg1 = (float *) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -21603,7 +21603,7 @@ void _wrap_matrixf_pdiv_liquid_24d78331e3228d7c(float *_swig_go_0, float *_swig_
 }
 
 
-void _wrap_matrixf_mul_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3, intgo _swig_go_4, intgo _swig_go_5, float *_swig_go_6, intgo _swig_go_7, intgo _swig_go_8) {
+void _wrap_MatrixfMul_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3, intgo _swig_go_4, intgo _swig_go_5, float *_swig_go_6, intgo _swig_go_7, intgo _swig_go_8) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -21629,7 +21629,7 @@ void _wrap_matrixf_mul_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go
 }
 
 
-void _wrap_matrixf_div_liquid_24d78331e3228d7c(float *_swig_go_0, float *_swig_go_1, float *_swig_go_2, intgo _swig_go_3) {
+void _wrap_MatrixfDiv_liquid_7b08cc538ffcb585(float *_swig_go_0, float *_swig_go_1, float *_swig_go_2, intgo _swig_go_3) {
   float *arg1 = (float *) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -21645,7 +21645,7 @@ void _wrap_matrixf_div_liquid_24d78331e3228d7c(float *_swig_go_0, float *_swig_g
 }
 
 
-float _wrap_matrixf_det_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+float _wrap_MatrixfDet_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -21662,7 +21662,7 @@ float _wrap_matrixf_det_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_g
 }
 
 
-void _wrap_matrixf_trans_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixfTrans_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -21676,7 +21676,7 @@ void _wrap_matrixf_trans_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_
 }
 
 
-void _wrap_matrixf_hermitian_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixfHermitian_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -21690,7 +21690,7 @@ void _wrap_matrixf_hermitian_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _s
 }
 
 
-void _wrap_matrixf_mul_transpose_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_MatrixfMulTranspose_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -21706,7 +21706,7 @@ void _wrap_matrixf_mul_transpose_liquid_24d78331e3228d7c(float *_swig_go_0, intg
 }
 
 
-void _wrap_matrixf_transpose_mul_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_MatrixfTransposeMul_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -21722,7 +21722,7 @@ void _wrap_matrixf_transpose_mul_liquid_24d78331e3228d7c(float *_swig_go_0, intg
 }
 
 
-void _wrap_matrixf_mul_hermitian_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_MatrixfMulHermitian_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -21738,7 +21738,7 @@ void _wrap_matrixf_mul_hermitian_liquid_24d78331e3228d7c(float *_swig_go_0, intg
 }
 
 
-void _wrap_matrixf_hermitian_mul_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_MatrixfHermitianMul_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -21754,7 +21754,7 @@ void _wrap_matrixf_hermitian_mul_liquid_24d78331e3228d7c(float *_swig_go_0, intg
 }
 
 
-void _wrap_matrixf_aug_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3, intgo _swig_go_4, intgo _swig_go_5, float *_swig_go_6, intgo _swig_go_7, intgo _swig_go_8) {
+void _wrap_MatrixfAug_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3, intgo _swig_go_4, intgo _swig_go_5, float *_swig_go_6, intgo _swig_go_7, intgo _swig_go_8) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -21780,7 +21780,7 @@ void _wrap_matrixf_aug_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go
 }
 
 
-void _wrap_matrixf_inv_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixfInv_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -21794,7 +21794,7 @@ void _wrap_matrixf_inv_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go
 }
 
 
-void _wrap_matrixf_eye_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1) {
+void _wrap_MatrixfEye_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   
@@ -21806,7 +21806,7 @@ void _wrap_matrixf_eye_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go
 }
 
 
-void _wrap_matrixf_ones_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixfOnes_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -21820,7 +21820,7 @@ void _wrap_matrixf_ones_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_g
 }
 
 
-void _wrap_matrixf_zeros_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixfZeros_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -21834,7 +21834,7 @@ void _wrap_matrixf_zeros_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_
 }
 
 
-void _wrap_matrixf_gjelim_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixfGjelim_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -21848,7 +21848,7 @@ void _wrap_matrixf_gjelim_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig
 }
 
 
-void _wrap_matrixf_pivot_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_MatrixfPivot_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -21866,7 +21866,7 @@ void _wrap_matrixf_pivot_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_
 }
 
 
-void _wrap_matrixf_swaprows_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_MatrixfSwaprows_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -21884,7 +21884,7 @@ void _wrap_matrixf_swaprows_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _sw
 }
 
 
-void _wrap_matrixf_linsolve_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2, float *_swig_go_3, void *_swig_go_4) {
+void _wrap_MatrixfLinsolve_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2, float *_swig_go_3, void *_swig_go_4) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -21902,7 +21902,7 @@ void _wrap_matrixf_linsolve_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _sw
 }
 
 
-void _wrap_matrixf_cgsolve_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2, float *_swig_go_3, void *_swig_go_4) {
+void _wrap_MatrixfCgsolve_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2, float *_swig_go_3, void *_swig_go_4) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -21920,7 +21920,7 @@ void _wrap_matrixf_cgsolve_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swi
 }
 
 
-void _wrap_matrixf_ludecomp_crout_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3, float *_swig_go_4, float *_swig_go_5) {
+void _wrap_MatrixfLudecompCrout_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3, float *_swig_go_4, float *_swig_go_5) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -21940,7 +21940,7 @@ void _wrap_matrixf_ludecomp_crout_liquid_24d78331e3228d7c(float *_swig_go_0, int
 }
 
 
-void _wrap_matrixf_ludecomp_doolittle_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3, float *_swig_go_4, float *_swig_go_5) {
+void _wrap_MatrixfLudecompDoolittle_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3, float *_swig_go_4, float *_swig_go_5) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -21960,7 +21960,7 @@ void _wrap_matrixf_ludecomp_doolittle_liquid_24d78331e3228d7c(float *_swig_go_0,
 }
 
 
-void _wrap_matrixf_gramschmidt_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_MatrixfGramschmidt_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -21976,7 +21976,7 @@ void _wrap_matrixf_gramschmidt_liquid_24d78331e3228d7c(float *_swig_go_0, intgo 
 }
 
 
-void _wrap_matrixf_qrdecomp_gramschmidt_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3, float *_swig_go_4) {
+void _wrap_MatrixfQrdecompGramschmidt_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3, float *_swig_go_4) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -21994,7 +21994,7 @@ void _wrap_matrixf_qrdecomp_gramschmidt_liquid_24d78331e3228d7c(float *_swig_go_
 }
 
 
-void _wrap_matrixf_chol_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
+void _wrap_MatrixfChol_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -22008,7 +22008,7 @@ void _wrap_matrixf_chol_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_g
 }
 
 
-void _wrap_matrix_print_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixPrint_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22022,7 +22022,7 @@ void _wrap_matrix_print_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_
 }
 
 
-void _wrap_matrix_add_liquid_24d78331e3228d7c(double *_swig_go_0, double *_swig_go_1, double *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_MatrixAdd_liquid_7b08cc538ffcb585(double *_swig_go_0, double *_swig_go_1, double *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   double *arg1 = (double *) 0 ;
   double *arg2 = (double *) 0 ;
   double *arg3 = (double *) 0 ;
@@ -22040,7 +22040,7 @@ void _wrap_matrix_add_liquid_24d78331e3228d7c(double *_swig_go_0, double *_swig_
 }
 
 
-void _wrap_matrix_sub_liquid_24d78331e3228d7c(double *_swig_go_0, double *_swig_go_1, double *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_MatrixSub_liquid_7b08cc538ffcb585(double *_swig_go_0, double *_swig_go_1, double *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   double *arg1 = (double *) 0 ;
   double *arg2 = (double *) 0 ;
   double *arg3 = (double *) 0 ;
@@ -22058,7 +22058,7 @@ void _wrap_matrix_sub_liquid_24d78331e3228d7c(double *_swig_go_0, double *_swig_
 }
 
 
-void _wrap_matrix_pmul_liquid_24d78331e3228d7c(double *_swig_go_0, double *_swig_go_1, double *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_MatrixPmul_liquid_7b08cc538ffcb585(double *_swig_go_0, double *_swig_go_1, double *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   double *arg1 = (double *) 0 ;
   double *arg2 = (double *) 0 ;
   double *arg3 = (double *) 0 ;
@@ -22076,7 +22076,7 @@ void _wrap_matrix_pmul_liquid_24d78331e3228d7c(double *_swig_go_0, double *_swig
 }
 
 
-void _wrap_matrix_pdiv_liquid_24d78331e3228d7c(double *_swig_go_0, double *_swig_go_1, double *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_MatrixPdiv_liquid_7b08cc538ffcb585(double *_swig_go_0, double *_swig_go_1, double *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   double *arg1 = (double *) 0 ;
   double *arg2 = (double *) 0 ;
   double *arg3 = (double *) 0 ;
@@ -22094,7 +22094,7 @@ void _wrap_matrix_pdiv_liquid_24d78331e3228d7c(double *_swig_go_0, double *_swig
 }
 
 
-void _wrap_matrix_mul_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, double *_swig_go_3, intgo _swig_go_4, intgo _swig_go_5, double *_swig_go_6, intgo _swig_go_7, intgo _swig_go_8) {
+void _wrap_MatrixMul_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, double *_swig_go_3, intgo _swig_go_4, intgo _swig_go_5, double *_swig_go_6, intgo _swig_go_7, intgo _swig_go_8) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22120,7 +22120,7 @@ void _wrap_matrix_mul_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go
 }
 
 
-void _wrap_matrix_div_liquid_24d78331e3228d7c(double *_swig_go_0, double *_swig_go_1, double *_swig_go_2, intgo _swig_go_3) {
+void _wrap_MatrixDiv_liquid_7b08cc538ffcb585(double *_swig_go_0, double *_swig_go_1, double *_swig_go_2, intgo _swig_go_3) {
   double *arg1 = (double *) 0 ;
   double *arg2 = (double *) 0 ;
   double *arg3 = (double *) 0 ;
@@ -22136,7 +22136,7 @@ void _wrap_matrix_div_liquid_24d78331e3228d7c(double *_swig_go_0, double *_swig_
 }
 
 
-double _wrap_matrix_det_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+double _wrap_MatrixDet_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22153,7 +22153,7 @@ double _wrap_matrix_det_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_
 }
 
 
-void _wrap_matrix_trans_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixTrans_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22167,7 +22167,7 @@ void _wrap_matrix_trans_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_
 }
 
 
-void _wrap_matrix_hermitian_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixHermitian_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22181,7 +22181,7 @@ void _wrap_matrix_hermitian_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _s
 }
 
 
-void _wrap_matrix_mul_transpose_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, double *_swig_go_3) {
+void _wrap_MatrixMulTranspose_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, double *_swig_go_3) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22197,7 +22197,7 @@ void _wrap_matrix_mul_transpose_liquid_24d78331e3228d7c(double *_swig_go_0, intg
 }
 
 
-void _wrap_matrix_transpose_mul_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, double *_swig_go_3) {
+void _wrap_MatrixTransposeMul_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, double *_swig_go_3) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22213,7 +22213,7 @@ void _wrap_matrix_transpose_mul_liquid_24d78331e3228d7c(double *_swig_go_0, intg
 }
 
 
-void _wrap_matrix_mul_hermitian_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, double *_swig_go_3) {
+void _wrap_MatrixMulHermitian_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, double *_swig_go_3) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22229,7 +22229,7 @@ void _wrap_matrix_mul_hermitian_liquid_24d78331e3228d7c(double *_swig_go_0, intg
 }
 
 
-void _wrap_matrix_hermitian_mul_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, double *_swig_go_3) {
+void _wrap_MatrixHermitianMul_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, double *_swig_go_3) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22245,7 +22245,7 @@ void _wrap_matrix_hermitian_mul_liquid_24d78331e3228d7c(double *_swig_go_0, intg
 }
 
 
-void _wrap_matrix_aug_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, double *_swig_go_3, intgo _swig_go_4, intgo _swig_go_5, double *_swig_go_6, intgo _swig_go_7, intgo _swig_go_8) {
+void _wrap_MatrixAug_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, double *_swig_go_3, intgo _swig_go_4, intgo _swig_go_5, double *_swig_go_6, intgo _swig_go_7, intgo _swig_go_8) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22271,7 +22271,7 @@ void _wrap_matrix_aug_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go
 }
 
 
-void _wrap_matrix_inv_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixInv_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22285,7 +22285,7 @@ void _wrap_matrix_inv_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go
 }
 
 
-void _wrap_matrix_eye_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1) {
+void _wrap_MatrixEye_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   
@@ -22297,7 +22297,7 @@ void _wrap_matrix_eye_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go
 }
 
 
-void _wrap_matrix_ones_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixOnes_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22311,7 +22311,7 @@ void _wrap_matrix_ones_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_g
 }
 
 
-void _wrap_matrix_zeros_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixZeros_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22325,7 +22325,7 @@ void _wrap_matrix_zeros_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_
 }
 
 
-void _wrap_matrix_gjelim_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixGjelim_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22339,7 +22339,7 @@ void _wrap_matrix_gjelim_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig
 }
 
 
-void _wrap_matrix_pivot_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_MatrixPivot_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22357,7 +22357,7 @@ void _wrap_matrix_pivot_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_
 }
 
 
-void _wrap_matrix_swaprows_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_MatrixSwaprows_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22375,7 +22375,7 @@ void _wrap_matrix_swaprows_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _sw
 }
 
 
-void _wrap_matrix_linsolve_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, double *_swig_go_2, double *_swig_go_3, void *_swig_go_4) {
+void _wrap_MatrixLinsolve_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, double *_swig_go_2, double *_swig_go_3, void *_swig_go_4) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   double *arg3 = (double *) 0 ;
@@ -22393,7 +22393,7 @@ void _wrap_matrix_linsolve_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _sw
 }
 
 
-void _wrap_matrix_cgsolve_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, double *_swig_go_2, double *_swig_go_3, void *_swig_go_4) {
+void _wrap_MatrixCgsolve_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, double *_swig_go_2, double *_swig_go_3, void *_swig_go_4) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   double *arg3 = (double *) 0 ;
@@ -22411,7 +22411,7 @@ void _wrap_matrix_cgsolve_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swi
 }
 
 
-void _wrap_matrix_ludecomp_crout_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, double *_swig_go_3, double *_swig_go_4, double *_swig_go_5) {
+void _wrap_MatrixLudecompCrout_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, double *_swig_go_3, double *_swig_go_4, double *_swig_go_5) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22431,7 +22431,7 @@ void _wrap_matrix_ludecomp_crout_liquid_24d78331e3228d7c(double *_swig_go_0, int
 }
 
 
-void _wrap_matrix_ludecomp_doolittle_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, double *_swig_go_3, double *_swig_go_4, double *_swig_go_5) {
+void _wrap_MatrixLudecompDoolittle_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, double *_swig_go_3, double *_swig_go_4, double *_swig_go_5) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22451,7 +22451,7 @@ void _wrap_matrix_ludecomp_doolittle_liquid_24d78331e3228d7c(double *_swig_go_0,
 }
 
 
-void _wrap_matrix_gramschmidt_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, double *_swig_go_3) {
+void _wrap_MatrixGramschmidt_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, double *_swig_go_3) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22467,7 +22467,7 @@ void _wrap_matrix_gramschmidt_liquid_24d78331e3228d7c(double *_swig_go_0, intgo 
 }
 
 
-void _wrap_matrix_qrdecomp_gramschmidt_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, double *_swig_go_3, double *_swig_go_4) {
+void _wrap_MatrixQrdecompGramschmidt_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, double *_swig_go_3, double *_swig_go_4) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22485,7 +22485,7 @@ void _wrap_matrix_qrdecomp_gramschmidt_liquid_24d78331e3228d7c(double *_swig_go_
 }
 
 
-void _wrap_matrix_chol_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_go_1, double *_swig_go_2) {
+void _wrap_MatrixChol_liquid_7b08cc538ffcb585(double *_swig_go_0, intgo _swig_go_1, double *_swig_go_2) {
   double *arg1 = (double *) 0 ;
   unsigned int arg2 ;
   double *arg3 = (double *) 0 ;
@@ -22499,7 +22499,7 @@ void _wrap_matrix_chol_liquid_24d78331e3228d7c(double *_swig_go_0, intgo _swig_g
 }
 
 
-void _wrap_matrixcf_print_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixcfPrint_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22513,7 +22513,7 @@ void _wrap_matrixcf_print_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go
 }
 
 
-void _wrap_matrixcf_add_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_MatrixcfAdd_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -22531,7 +22531,7 @@ void _wrap_matrixcf_add_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0
 }
 
 
-void _wrap_matrixcf_sub_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_MatrixcfSub_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -22549,7 +22549,7 @@ void _wrap_matrixcf_sub_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0
 }
 
 
-void _wrap_matrixcf_pmul_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_MatrixcfPmul_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -22567,7 +22567,7 @@ void _wrap_matrixcf_pmul_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_
 }
 
 
-void _wrap_matrixcf_pdiv_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_MatrixcfPdiv_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -22585,7 +22585,7 @@ void _wrap_matrixcf_pdiv_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_
 }
 
 
-void _wrap_matrixcf_mul_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, intgo _swig_go_4, intgo _swig_go_5, liquid_float_complex *_swig_go_6, intgo _swig_go_7, intgo _swig_go_8) {
+void _wrap_MatrixcfMul_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, intgo _swig_go_4, intgo _swig_go_5, liquid_float_complex *_swig_go_6, intgo _swig_go_7, intgo _swig_go_8) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22611,7 +22611,7 @@ void _wrap_matrixcf_mul_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0
 }
 
 
-void _wrap_matrixcf_div_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3) {
+void _wrap_MatrixcfDiv_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -22627,7 +22627,7 @@ void _wrap_matrixcf_div_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0
 }
 
 
-liquid_float_complex *_wrap_matrixcf_det_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+liquid_float_complex *_wrap_MatrixcfDet_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22644,7 +22644,7 @@ liquid_float_complex *_wrap_matrixcf_det_liquid_24d78331e3228d7c(liquid_float_co
 }
 
 
-void _wrap_matrixcf_trans_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixcfTrans_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22658,7 +22658,7 @@ void _wrap_matrixcf_trans_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go
 }
 
 
-void _wrap_matrixcf_hermitian_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixcfHermitian_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22672,7 +22672,7 @@ void _wrap_matrixcf_hermitian_liquid_24d78331e3228d7c(liquid_float_complex *_swi
 }
 
 
-void _wrap_matrixcf_mul_transpose_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_MatrixcfMulTranspose_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22688,7 +22688,7 @@ void _wrap_matrixcf_mul_transpose_liquid_24d78331e3228d7c(liquid_float_complex *
 }
 
 
-void _wrap_matrixcf_transpose_mul_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_MatrixcfTransposeMul_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22704,7 +22704,7 @@ void _wrap_matrixcf_transpose_mul_liquid_24d78331e3228d7c(liquid_float_complex *
 }
 
 
-void _wrap_matrixcf_mul_hermitian_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_MatrixcfMulHermitian_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22720,7 +22720,7 @@ void _wrap_matrixcf_mul_hermitian_liquid_24d78331e3228d7c(liquid_float_complex *
 }
 
 
-void _wrap_matrixcf_hermitian_mul_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_MatrixcfHermitianMul_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22736,7 +22736,7 @@ void _wrap_matrixcf_hermitian_mul_liquid_24d78331e3228d7c(liquid_float_complex *
 }
 
 
-void _wrap_matrixcf_aug_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, intgo _swig_go_4, intgo _swig_go_5, liquid_float_complex *_swig_go_6, intgo _swig_go_7, intgo _swig_go_8) {
+void _wrap_MatrixcfAug_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, intgo _swig_go_4, intgo _swig_go_5, liquid_float_complex *_swig_go_6, intgo _swig_go_7, intgo _swig_go_8) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22762,7 +22762,7 @@ void _wrap_matrixcf_aug_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0
 }
 
 
-void _wrap_matrixcf_inv_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixcfInv_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22776,7 +22776,7 @@ void _wrap_matrixcf_inv_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0
 }
 
 
-void _wrap_matrixcf_eye_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1) {
+void _wrap_MatrixcfEye_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   
@@ -22788,7 +22788,7 @@ void _wrap_matrixcf_eye_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0
 }
 
 
-void _wrap_matrixcf_ones_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixcfOnes_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22802,7 +22802,7 @@ void _wrap_matrixcf_ones_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_
 }
 
 
-void _wrap_matrixcf_zeros_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixcfZeros_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22816,7 +22816,7 @@ void _wrap_matrixcf_zeros_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go
 }
 
 
-void _wrap_matrixcf_gjelim_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixcfGjelim_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22830,7 +22830,7 @@ void _wrap_matrixcf_gjelim_liquid_24d78331e3228d7c(liquid_float_complex *_swig_g
 }
 
 
-void _wrap_matrixcf_pivot_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_MatrixcfPivot_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22848,7 +22848,7 @@ void _wrap_matrixcf_pivot_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go
 }
 
 
-void _wrap_matrixcf_swaprows_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_MatrixcfSwaprows_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22866,7 +22866,7 @@ void _wrap_matrixcf_swaprows_liquid_24d78331e3228d7c(liquid_float_complex *_swig
 }
 
 
-void _wrap_matrixcf_linsolve_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3, void *_swig_go_4) {
+void _wrap_MatrixcfLinsolve_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3, void *_swig_go_4) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -22884,7 +22884,7 @@ void _wrap_matrixcf_linsolve_liquid_24d78331e3228d7c(liquid_float_complex *_swig
 }
 
 
-void _wrap_matrixcf_cgsolve_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3, void *_swig_go_4) {
+void _wrap_MatrixcfCgsolve_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3, void *_swig_go_4) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -22902,7 +22902,7 @@ void _wrap_matrixcf_cgsolve_liquid_24d78331e3228d7c(liquid_float_complex *_swig_
 }
 
 
-void _wrap_matrixcf_ludecomp_crout_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, liquid_float_complex *_swig_go_4, liquid_float_complex *_swig_go_5) {
+void _wrap_MatrixcfLudecompCrout_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, liquid_float_complex *_swig_go_4, liquid_float_complex *_swig_go_5) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22922,7 +22922,7 @@ void _wrap_matrixcf_ludecomp_crout_liquid_24d78331e3228d7c(liquid_float_complex 
 }
 
 
-void _wrap_matrixcf_ludecomp_doolittle_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, liquid_float_complex *_swig_go_4, liquid_float_complex *_swig_go_5) {
+void _wrap_MatrixcfLudecompDoolittle_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, liquid_float_complex *_swig_go_4, liquid_float_complex *_swig_go_5) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22942,7 +22942,7 @@ void _wrap_matrixcf_ludecomp_doolittle_liquid_24d78331e3228d7c(liquid_float_comp
 }
 
 
-void _wrap_matrixcf_gramschmidt_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_MatrixcfGramschmidt_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22958,7 +22958,7 @@ void _wrap_matrixcf_gramschmidt_liquid_24d78331e3228d7c(liquid_float_complex *_s
 }
 
 
-void _wrap_matrixcf_qrdecomp_gramschmidt_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, liquid_float_complex *_swig_go_4) {
+void _wrap_MatrixcfQrdecompGramschmidt_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3, liquid_float_complex *_swig_go_4) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -22976,7 +22976,7 @@ void _wrap_matrixcf_qrdecomp_gramschmidt_liquid_24d78331e3228d7c(liquid_float_co
 }
 
 
-void _wrap_matrixcf_chol_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_MatrixcfChol_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -22990,7 +22990,7 @@ void _wrap_matrixcf_chol_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_
 }
 
 
-void _wrap_matrixc_print_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixcPrint_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23004,7 +23004,7 @@ void _wrap_matrixc_print_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go
 }
 
 
-void _wrap_matrixc_add_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, liquid_double_complex *_swig_go_1, liquid_double_complex *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_MatrixcAdd_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, liquid_double_complex *_swig_go_1, liquid_double_complex *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   liquid_double_complex *arg2 = (liquid_double_complex *) 0 ;
   liquid_double_complex *arg3 = (liquid_double_complex *) 0 ;
@@ -23022,7 +23022,7 @@ void _wrap_matrixc_add_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0
 }
 
 
-void _wrap_matrixc_sub_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, liquid_double_complex *_swig_go_1, liquid_double_complex *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_MatrixcSub_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, liquid_double_complex *_swig_go_1, liquid_double_complex *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   liquid_double_complex *arg2 = (liquid_double_complex *) 0 ;
   liquid_double_complex *arg3 = (liquid_double_complex *) 0 ;
@@ -23040,7 +23040,7 @@ void _wrap_matrixc_sub_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0
 }
 
 
-void _wrap_matrixc_pmul_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, liquid_double_complex *_swig_go_1, liquid_double_complex *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_MatrixcPmul_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, liquid_double_complex *_swig_go_1, liquid_double_complex *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   liquid_double_complex *arg2 = (liquid_double_complex *) 0 ;
   liquid_double_complex *arg3 = (liquid_double_complex *) 0 ;
@@ -23058,7 +23058,7 @@ void _wrap_matrixc_pmul_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_
 }
 
 
-void _wrap_matrixc_pdiv_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, liquid_double_complex *_swig_go_1, liquid_double_complex *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_MatrixcPdiv_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, liquid_double_complex *_swig_go_1, liquid_double_complex *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   liquid_double_complex *arg2 = (liquid_double_complex *) 0 ;
   liquid_double_complex *arg3 = (liquid_double_complex *) 0 ;
@@ -23076,7 +23076,7 @@ void _wrap_matrixc_pdiv_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_
 }
 
 
-void _wrap_matrixc_mul_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3, intgo _swig_go_4, intgo _swig_go_5, liquid_double_complex *_swig_go_6, intgo _swig_go_7, intgo _swig_go_8) {
+void _wrap_MatrixcMul_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3, intgo _swig_go_4, intgo _swig_go_5, liquid_double_complex *_swig_go_6, intgo _swig_go_7, intgo _swig_go_8) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23102,7 +23102,7 @@ void _wrap_matrixc_mul_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0
 }
 
 
-void _wrap_matrixc_div_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, liquid_double_complex *_swig_go_1, liquid_double_complex *_swig_go_2, intgo _swig_go_3) {
+void _wrap_MatrixcDiv_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, liquid_double_complex *_swig_go_1, liquid_double_complex *_swig_go_2, intgo _swig_go_3) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   liquid_double_complex *arg2 = (liquid_double_complex *) 0 ;
   liquid_double_complex *arg3 = (liquid_double_complex *) 0 ;
@@ -23118,7 +23118,7 @@ void _wrap_matrixc_div_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0
 }
 
 
-liquid_double_complex *_wrap_matrixc_det_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+liquid_double_complex *_wrap_MatrixcDet_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23135,7 +23135,7 @@ liquid_double_complex *_wrap_matrixc_det_liquid_24d78331e3228d7c(liquid_double_c
 }
 
 
-void _wrap_matrixc_trans_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixcTrans_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23149,7 +23149,7 @@ void _wrap_matrixc_trans_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go
 }
 
 
-void _wrap_matrixc_hermitian_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixcHermitian_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23163,7 +23163,7 @@ void _wrap_matrixc_hermitian_liquid_24d78331e3228d7c(liquid_double_complex *_swi
 }
 
 
-void _wrap_matrixc_mul_transpose_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3) {
+void _wrap_MatrixcMulTranspose_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23179,7 +23179,7 @@ void _wrap_matrixc_mul_transpose_liquid_24d78331e3228d7c(liquid_double_complex *
 }
 
 
-void _wrap_matrixc_transpose_mul_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3) {
+void _wrap_MatrixcTransposeMul_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23195,7 +23195,7 @@ void _wrap_matrixc_transpose_mul_liquid_24d78331e3228d7c(liquid_double_complex *
 }
 
 
-void _wrap_matrixc_mul_hermitian_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3) {
+void _wrap_MatrixcMulHermitian_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23211,7 +23211,7 @@ void _wrap_matrixc_mul_hermitian_liquid_24d78331e3228d7c(liquid_double_complex *
 }
 
 
-void _wrap_matrixc_hermitian_mul_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3) {
+void _wrap_MatrixcHermitianMul_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23227,7 +23227,7 @@ void _wrap_matrixc_hermitian_mul_liquid_24d78331e3228d7c(liquid_double_complex *
 }
 
 
-void _wrap_matrixc_aug_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3, intgo _swig_go_4, intgo _swig_go_5, liquid_double_complex *_swig_go_6, intgo _swig_go_7, intgo _swig_go_8) {
+void _wrap_MatrixcAug_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3, intgo _swig_go_4, intgo _swig_go_5, liquid_double_complex *_swig_go_6, intgo _swig_go_7, intgo _swig_go_8) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23253,7 +23253,7 @@ void _wrap_matrixc_aug_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0
 }
 
 
-void _wrap_matrixc_inv_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixcInv_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23267,7 +23267,7 @@ void _wrap_matrixc_inv_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0
 }
 
 
-void _wrap_matrixc_eye_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1) {
+void _wrap_MatrixcEye_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   
@@ -23279,7 +23279,7 @@ void _wrap_matrixc_eye_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0
 }
 
 
-void _wrap_matrixc_ones_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixcOnes_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23293,7 +23293,7 @@ void _wrap_matrixc_ones_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_
 }
 
 
-void _wrap_matrixc_zeros_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixcZeros_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23307,7 +23307,7 @@ void _wrap_matrixc_zeros_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go
 }
 
 
-void _wrap_matrixc_gjelim_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_MatrixcGjelim_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23321,7 +23321,7 @@ void _wrap_matrixc_gjelim_liquid_24d78331e3228d7c(liquid_double_complex *_swig_g
 }
 
 
-void _wrap_matrixc_pivot_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_MatrixcPivot_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23339,7 +23339,7 @@ void _wrap_matrixc_pivot_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go
 }
 
 
-void _wrap_matrixc_swaprows_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_MatrixcSwaprows_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23357,7 +23357,7 @@ void _wrap_matrixc_swaprows_liquid_24d78331e3228d7c(liquid_double_complex *_swig
 }
 
 
-void _wrap_matrixc_linsolve_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2, liquid_double_complex *_swig_go_3, void *_swig_go_4) {
+void _wrap_MatrixcLinsolve_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2, liquid_double_complex *_swig_go_3, void *_swig_go_4) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   liquid_double_complex *arg3 = (liquid_double_complex *) 0 ;
@@ -23375,7 +23375,7 @@ void _wrap_matrixc_linsolve_liquid_24d78331e3228d7c(liquid_double_complex *_swig
 }
 
 
-void _wrap_matrixc_cgsolve_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2, liquid_double_complex *_swig_go_3, void *_swig_go_4) {
+void _wrap_MatrixcCgsolve_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2, liquid_double_complex *_swig_go_3, void *_swig_go_4) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   liquid_double_complex *arg3 = (liquid_double_complex *) 0 ;
@@ -23393,7 +23393,7 @@ void _wrap_matrixc_cgsolve_liquid_24d78331e3228d7c(liquid_double_complex *_swig_
 }
 
 
-void _wrap_matrixc_ludecomp_crout_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3, liquid_double_complex *_swig_go_4, liquid_double_complex *_swig_go_5) {
+void _wrap_MatrixcLudecompCrout_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3, liquid_double_complex *_swig_go_4, liquid_double_complex *_swig_go_5) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23413,7 +23413,7 @@ void _wrap_matrixc_ludecomp_crout_liquid_24d78331e3228d7c(liquid_double_complex 
 }
 
 
-void _wrap_matrixc_ludecomp_doolittle_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3, liquid_double_complex *_swig_go_4, liquid_double_complex *_swig_go_5) {
+void _wrap_MatrixcLudecompDoolittle_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3, liquid_double_complex *_swig_go_4, liquid_double_complex *_swig_go_5) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23433,7 +23433,7 @@ void _wrap_matrixc_ludecomp_doolittle_liquid_24d78331e3228d7c(liquid_double_comp
 }
 
 
-void _wrap_matrixc_gramschmidt_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3) {
+void _wrap_MatrixcGramschmidt_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23449,7 +23449,7 @@ void _wrap_matrixc_gramschmidt_liquid_24d78331e3228d7c(liquid_double_complex *_s
 }
 
 
-void _wrap_matrixc_qrdecomp_gramschmidt_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3, liquid_double_complex *_swig_go_4) {
+void _wrap_MatrixcQrdecompGramschmidt_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_double_complex *_swig_go_3, liquid_double_complex *_swig_go_4) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23467,7 +23467,7 @@ void _wrap_matrixc_qrdecomp_gramschmidt_liquid_24d78331e3228d7c(liquid_double_co
 }
 
 
-void _wrap_matrixc_chol_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2) {
+void _wrap_MatrixcChol_liquid_7b08cc538ffcb585(liquid_double_complex *_swig_go_0, intgo _swig_go_1, liquid_double_complex *_swig_go_2) {
   liquid_double_complex *arg1 = (liquid_double_complex *) 0 ;
   unsigned int arg2 ;
   liquid_double_complex *arg3 = (liquid_double_complex *) 0 ;
@@ -23481,7 +23481,7 @@ void _wrap_matrixc_chol_liquid_24d78331e3228d7c(liquid_double_complex *_swig_go_
 }
 
 
-smatrixb_s *_wrap_smatrixb_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+smatrixb_s *_wrap_SmatrixbCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   smatrixb result;
@@ -23496,7 +23496,7 @@ smatrixb_s *_wrap_smatrixb_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intg
 }
 
 
-smatrixb_s *_wrap_smatrixb_create_array_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+smatrixb_s *_wrap_SmatrixbCreateArray_liquid_7b08cc538ffcb585(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   unsigned char *arg1 = (unsigned char *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23513,7 +23513,7 @@ smatrixb_s *_wrap_smatrixb_create_array_liquid_24d78331e3228d7c(char *_swig_go_0
 }
 
 
-void _wrap_smatrixb_destroy_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0) {
+void _wrap_SmatrixbDestroy_liquid_7b08cc538ffcb585(smatrixb_s *_swig_go_0) {
   smatrixb arg1 = (smatrixb) 0 ;
   
   arg1 = *(smatrixb *)&_swig_go_0; 
@@ -23523,7 +23523,7 @@ void _wrap_smatrixb_destroy_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0) {
 }
 
 
-void _wrap_smatrixb_print_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0) {
+void _wrap_SmatrixbPrint_liquid_7b08cc538ffcb585(smatrixb_s *_swig_go_0) {
   smatrixb arg1 = (smatrixb) 0 ;
   
   arg1 = *(smatrixb *)&_swig_go_0; 
@@ -23533,7 +23533,7 @@ void _wrap_smatrixb_print_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0) {
 }
 
 
-void _wrap_smatrixb_print_expanded_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0) {
+void _wrap_SmatrixbPrintExpanded_liquid_7b08cc538ffcb585(smatrixb_s *_swig_go_0) {
   smatrixb arg1 = (smatrixb) 0 ;
   
   arg1 = *(smatrixb *)&_swig_go_0; 
@@ -23543,7 +23543,7 @@ void _wrap_smatrixb_print_expanded_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_
 }
 
 
-void _wrap_smatrixb_size_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0, intgo *_swig_go_1, intgo *_swig_go_2) {
+void _wrap_SmatrixbSize_liquid_7b08cc538ffcb585(smatrixb_s *_swig_go_0, intgo *_swig_go_1, intgo *_swig_go_2) {
   smatrixb arg1 = (smatrixb) 0 ;
   unsigned int *arg2 = (unsigned int *) 0 ;
   unsigned int *arg3 = (unsigned int *) 0 ;
@@ -23557,7 +23557,7 @@ void _wrap_smatrixb_size_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0, intgo *
 }
 
 
-void _wrap_smatrixb_clear_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0) {
+void _wrap_SmatrixbClear_liquid_7b08cc538ffcb585(smatrixb_s *_swig_go_0) {
   smatrixb arg1 = (smatrixb) 0 ;
   
   arg1 = *(smatrixb *)&_swig_go_0; 
@@ -23567,7 +23567,7 @@ void _wrap_smatrixb_clear_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0) {
 }
 
 
-void _wrap_smatrixb_reset_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0) {
+void _wrap_SmatrixbReset_liquid_7b08cc538ffcb585(smatrixb_s *_swig_go_0) {
   smatrixb arg1 = (smatrixb) 0 ;
   
   arg1 = *(smatrixb *)&_swig_go_0; 
@@ -23577,7 +23577,7 @@ void _wrap_smatrixb_reset_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0) {
 }
 
 
-intgo _wrap_smatrixb_isset_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+intgo _wrap_SmatrixbIsset_liquid_7b08cc538ffcb585(smatrixb_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   smatrixb arg1 = (smatrixb) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23594,7 +23594,7 @@ intgo _wrap_smatrixb_isset_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0, intgo
 }
 
 
-void _wrap_smatrixb_insert_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, char _swig_go_3) {
+void _wrap_SmatrixbInsert_liquid_7b08cc538ffcb585(smatrixb_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, char _swig_go_3) {
   smatrixb arg1 = (smatrixb) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23610,7 +23610,7 @@ void _wrap_smatrixb_insert_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0, intgo
 }
 
 
-void _wrap_smatrixb_delete_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_SmatrixbDelete_liquid_7b08cc538ffcb585(smatrixb_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   smatrixb arg1 = (smatrixb) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23624,7 +23624,7 @@ void _wrap_smatrixb_delete_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0, intgo
 }
 
 
-void _wrap_smatrixb_set_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, char _swig_go_3) {
+void _wrap_SmatrixbSet_liquid_7b08cc538ffcb585(smatrixb_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, char _swig_go_3) {
   smatrixb arg1 = (smatrixb) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23640,7 +23640,7 @@ void _wrap_smatrixb_set_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0, intgo _s
 }
 
 
-char _wrap_smatrixb_get_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+char _wrap_SmatrixbGet_liquid_7b08cc538ffcb585(smatrixb_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   smatrixb arg1 = (smatrixb) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23657,7 +23657,7 @@ char _wrap_smatrixb_get_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0, intgo _s
 }
 
 
-void _wrap_smatrixb_eye_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0) {
+void _wrap_SmatrixbEye_liquid_7b08cc538ffcb585(smatrixb_s *_swig_go_0) {
   smatrixb arg1 = (smatrixb) 0 ;
   
   arg1 = *(smatrixb *)&_swig_go_0; 
@@ -23667,7 +23667,7 @@ void _wrap_smatrixb_eye_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0) {
 }
 
 
-void _wrap_smatrixb_mul_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0, smatrixb_s *_swig_go_1, smatrixb_s *_swig_go_2) {
+void _wrap_SmatrixbMul_liquid_7b08cc538ffcb585(smatrixb_s *_swig_go_0, smatrixb_s *_swig_go_1, smatrixb_s *_swig_go_2) {
   smatrixb arg1 = (smatrixb) 0 ;
   smatrixb arg2 = (smatrixb) 0 ;
   smatrixb arg3 = (smatrixb) 0 ;
@@ -23681,7 +23681,7 @@ void _wrap_smatrixb_mul_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0, smatrixb
 }
 
 
-void _wrap_smatrixb_vmul_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2) {
+void _wrap_SmatrixbVmul_liquid_7b08cc538ffcb585(smatrixb_s *_swig_go_0, char *_swig_go_1, char *_swig_go_2) {
   smatrixb arg1 = (smatrixb) 0 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -23695,7 +23695,7 @@ void _wrap_smatrixb_vmul_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0, char *_
 }
 
 
-smatrixf_s *_wrap_smatrixf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+smatrixf_s *_wrap_SmatrixfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   smatrixf result;
@@ -23710,7 +23710,7 @@ smatrixf_s *_wrap_smatrixf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intg
 }
 
 
-smatrixf_s *_wrap_smatrixf_create_array_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+smatrixf_s *_wrap_SmatrixfCreateArray_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23727,7 +23727,7 @@ smatrixf_s *_wrap_smatrixf_create_array_liquid_24d78331e3228d7c(float *_swig_go_
 }
 
 
-void _wrap_smatrixf_destroy_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0) {
+void _wrap_SmatrixfDestroy_liquid_7b08cc538ffcb585(smatrixf_s *_swig_go_0) {
   smatrixf arg1 = (smatrixf) 0 ;
   
   arg1 = *(smatrixf *)&_swig_go_0; 
@@ -23737,7 +23737,7 @@ void _wrap_smatrixf_destroy_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0) {
 }
 
 
-void _wrap_smatrixf_print_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0) {
+void _wrap_SmatrixfPrint_liquid_7b08cc538ffcb585(smatrixf_s *_swig_go_0) {
   smatrixf arg1 = (smatrixf) 0 ;
   
   arg1 = *(smatrixf *)&_swig_go_0; 
@@ -23747,7 +23747,7 @@ void _wrap_smatrixf_print_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0) {
 }
 
 
-void _wrap_smatrixf_print_expanded_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0) {
+void _wrap_SmatrixfPrintExpanded_liquid_7b08cc538ffcb585(smatrixf_s *_swig_go_0) {
   smatrixf arg1 = (smatrixf) 0 ;
   
   arg1 = *(smatrixf *)&_swig_go_0; 
@@ -23757,7 +23757,7 @@ void _wrap_smatrixf_print_expanded_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_
 }
 
 
-void _wrap_smatrixf_size_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0, intgo *_swig_go_1, intgo *_swig_go_2) {
+void _wrap_SmatrixfSize_liquid_7b08cc538ffcb585(smatrixf_s *_swig_go_0, intgo *_swig_go_1, intgo *_swig_go_2) {
   smatrixf arg1 = (smatrixf) 0 ;
   unsigned int *arg2 = (unsigned int *) 0 ;
   unsigned int *arg3 = (unsigned int *) 0 ;
@@ -23771,7 +23771,7 @@ void _wrap_smatrixf_size_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0, intgo *
 }
 
 
-void _wrap_smatrixf_clear_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0) {
+void _wrap_SmatrixfClear_liquid_7b08cc538ffcb585(smatrixf_s *_swig_go_0) {
   smatrixf arg1 = (smatrixf) 0 ;
   
   arg1 = *(smatrixf *)&_swig_go_0; 
@@ -23781,7 +23781,7 @@ void _wrap_smatrixf_clear_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0) {
 }
 
 
-void _wrap_smatrixf_reset_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0) {
+void _wrap_SmatrixfReset_liquid_7b08cc538ffcb585(smatrixf_s *_swig_go_0) {
   smatrixf arg1 = (smatrixf) 0 ;
   
   arg1 = *(smatrixf *)&_swig_go_0; 
@@ -23791,7 +23791,7 @@ void _wrap_smatrixf_reset_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0) {
 }
 
 
-intgo _wrap_smatrixf_isset_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+intgo _wrap_SmatrixfIsset_liquid_7b08cc538ffcb585(smatrixf_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   smatrixf arg1 = (smatrixf) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23808,7 +23808,7 @@ intgo _wrap_smatrixf_isset_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0, intgo
 }
 
 
-void _wrap_smatrixf_insert_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3) {
+void _wrap_SmatrixfInsert_liquid_7b08cc538ffcb585(smatrixf_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3) {
   smatrixf arg1 = (smatrixf) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23824,7 +23824,7 @@ void _wrap_smatrixf_insert_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0, intgo
 }
 
 
-void _wrap_smatrixf_delete_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_SmatrixfDelete_liquid_7b08cc538ffcb585(smatrixf_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   smatrixf arg1 = (smatrixf) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23838,7 +23838,7 @@ void _wrap_smatrixf_delete_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0, intgo
 }
 
 
-void _wrap_smatrixf_set_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3) {
+void _wrap_SmatrixfSet_liquid_7b08cc538ffcb585(smatrixf_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3) {
   smatrixf arg1 = (smatrixf) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23854,7 +23854,7 @@ void _wrap_smatrixf_set_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0, intgo _s
 }
 
 
-float _wrap_smatrixf_get_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+float _wrap_SmatrixfGet_liquid_7b08cc538ffcb585(smatrixf_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   smatrixf arg1 = (smatrixf) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23871,7 +23871,7 @@ float _wrap_smatrixf_get_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0, intgo _
 }
 
 
-void _wrap_smatrixf_eye_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0) {
+void _wrap_SmatrixfEye_liquid_7b08cc538ffcb585(smatrixf_s *_swig_go_0) {
   smatrixf arg1 = (smatrixf) 0 ;
   
   arg1 = *(smatrixf *)&_swig_go_0; 
@@ -23881,7 +23881,7 @@ void _wrap_smatrixf_eye_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0) {
 }
 
 
-void _wrap_smatrixf_mul_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0, smatrixf_s *_swig_go_1, smatrixf_s *_swig_go_2) {
+void _wrap_SmatrixfMul_liquid_7b08cc538ffcb585(smatrixf_s *_swig_go_0, smatrixf_s *_swig_go_1, smatrixf_s *_swig_go_2) {
   smatrixf arg1 = (smatrixf) 0 ;
   smatrixf arg2 = (smatrixf) 0 ;
   smatrixf arg3 = (smatrixf) 0 ;
@@ -23895,7 +23895,7 @@ void _wrap_smatrixf_mul_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0, smatrixf
 }
 
 
-void _wrap_smatrixf_vmul_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2) {
+void _wrap_SmatrixfVmul_liquid_7b08cc538ffcb585(smatrixf_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2) {
   smatrixf arg1 = (smatrixf) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -23909,7 +23909,7 @@ void _wrap_smatrixf_vmul_liquid_24d78331e3228d7c(smatrixf_s *_swig_go_0, float *
 }
 
 
-smatrixi_s *_wrap_smatrixi_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+smatrixi_s *_wrap_SmatrixiCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   smatrixi result;
@@ -23924,7 +23924,7 @@ smatrixi_s *_wrap_smatrixi_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intg
 }
 
 
-smatrixi_s *_wrap_smatrixi_create_array_liquid_24d78331e3228d7c(short *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+smatrixi_s *_wrap_SmatrixiCreateArray_liquid_7b08cc538ffcb585(short *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   short *arg1 = (short *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -23941,7 +23941,7 @@ smatrixi_s *_wrap_smatrixi_create_array_liquid_24d78331e3228d7c(short *_swig_go_
 }
 
 
-void _wrap_smatrixi_destroy_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0) {
+void _wrap_SmatrixiDestroy_liquid_7b08cc538ffcb585(smatrixi_s *_swig_go_0) {
   smatrixi arg1 = (smatrixi) 0 ;
   
   arg1 = *(smatrixi *)&_swig_go_0; 
@@ -23951,7 +23951,7 @@ void _wrap_smatrixi_destroy_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0) {
 }
 
 
-void _wrap_smatrixi_print_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0) {
+void _wrap_SmatrixiPrint_liquid_7b08cc538ffcb585(smatrixi_s *_swig_go_0) {
   smatrixi arg1 = (smatrixi) 0 ;
   
   arg1 = *(smatrixi *)&_swig_go_0; 
@@ -23961,7 +23961,7 @@ void _wrap_smatrixi_print_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0) {
 }
 
 
-void _wrap_smatrixi_print_expanded_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0) {
+void _wrap_SmatrixiPrintExpanded_liquid_7b08cc538ffcb585(smatrixi_s *_swig_go_0) {
   smatrixi arg1 = (smatrixi) 0 ;
   
   arg1 = *(smatrixi *)&_swig_go_0; 
@@ -23971,7 +23971,7 @@ void _wrap_smatrixi_print_expanded_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_
 }
 
 
-void _wrap_smatrixi_size_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0, intgo *_swig_go_1, intgo *_swig_go_2) {
+void _wrap_SmatrixiSize_liquid_7b08cc538ffcb585(smatrixi_s *_swig_go_0, intgo *_swig_go_1, intgo *_swig_go_2) {
   smatrixi arg1 = (smatrixi) 0 ;
   unsigned int *arg2 = (unsigned int *) 0 ;
   unsigned int *arg3 = (unsigned int *) 0 ;
@@ -23985,7 +23985,7 @@ void _wrap_smatrixi_size_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0, intgo *
 }
 
 
-void _wrap_smatrixi_clear_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0) {
+void _wrap_SmatrixiClear_liquid_7b08cc538ffcb585(smatrixi_s *_swig_go_0) {
   smatrixi arg1 = (smatrixi) 0 ;
   
   arg1 = *(smatrixi *)&_swig_go_0; 
@@ -23995,7 +23995,7 @@ void _wrap_smatrixi_clear_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0) {
 }
 
 
-void _wrap_smatrixi_reset_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0) {
+void _wrap_SmatrixiReset_liquid_7b08cc538ffcb585(smatrixi_s *_swig_go_0) {
   smatrixi arg1 = (smatrixi) 0 ;
   
   arg1 = *(smatrixi *)&_swig_go_0; 
@@ -24005,7 +24005,7 @@ void _wrap_smatrixi_reset_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0) {
 }
 
 
-intgo _wrap_smatrixi_isset_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+intgo _wrap_SmatrixiIsset_liquid_7b08cc538ffcb585(smatrixi_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   smatrixi arg1 = (smatrixi) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -24022,7 +24022,7 @@ intgo _wrap_smatrixi_isset_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0, intgo
 }
 
 
-void _wrap_smatrixi_insert_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, short _swig_go_3) {
+void _wrap_SmatrixiInsert_liquid_7b08cc538ffcb585(smatrixi_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, short _swig_go_3) {
   smatrixi arg1 = (smatrixi) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -24038,7 +24038,7 @@ void _wrap_smatrixi_insert_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0, intgo
 }
 
 
-void _wrap_smatrixi_delete_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_SmatrixiDelete_liquid_7b08cc538ffcb585(smatrixi_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   smatrixi arg1 = (smatrixi) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -24052,7 +24052,7 @@ void _wrap_smatrixi_delete_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0, intgo
 }
 
 
-void _wrap_smatrixi_set_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, short _swig_go_3) {
+void _wrap_SmatrixiSet_liquid_7b08cc538ffcb585(smatrixi_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, short _swig_go_3) {
   smatrixi arg1 = (smatrixi) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -24068,7 +24068,7 @@ void _wrap_smatrixi_set_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0, intgo _s
 }
 
 
-short _wrap_smatrixi_get_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+short _wrap_SmatrixiGet_liquid_7b08cc538ffcb585(smatrixi_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   smatrixi arg1 = (smatrixi) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -24085,7 +24085,7 @@ short _wrap_smatrixi_get_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0, intgo _
 }
 
 
-void _wrap_smatrixi_eye_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0) {
+void _wrap_SmatrixiEye_liquid_7b08cc538ffcb585(smatrixi_s *_swig_go_0) {
   smatrixi arg1 = (smatrixi) 0 ;
   
   arg1 = *(smatrixi *)&_swig_go_0; 
@@ -24095,7 +24095,7 @@ void _wrap_smatrixi_eye_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0) {
 }
 
 
-void _wrap_smatrixi_mul_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0, smatrixi_s *_swig_go_1, smatrixi_s *_swig_go_2) {
+void _wrap_SmatrixiMul_liquid_7b08cc538ffcb585(smatrixi_s *_swig_go_0, smatrixi_s *_swig_go_1, smatrixi_s *_swig_go_2) {
   smatrixi arg1 = (smatrixi) 0 ;
   smatrixi arg2 = (smatrixi) 0 ;
   smatrixi arg3 = (smatrixi) 0 ;
@@ -24109,7 +24109,7 @@ void _wrap_smatrixi_mul_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0, smatrixi
 }
 
 
-void _wrap_smatrixi_vmul_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0, short *_swig_go_1, short *_swig_go_2) {
+void _wrap_SmatrixiVmul_liquid_7b08cc538ffcb585(smatrixi_s *_swig_go_0, short *_swig_go_1, short *_swig_go_2) {
   smatrixi arg1 = (smatrixi) 0 ;
   short *arg2 = (short *) 0 ;
   short *arg3 = (short *) 0 ;
@@ -24123,7 +24123,7 @@ void _wrap_smatrixi_vmul_liquid_24d78331e3228d7c(smatrixi_s *_swig_go_0, short *
 }
 
 
-void _wrap_smatrixb_mulf_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float *_swig_go_4, intgo _swig_go_5, intgo _swig_go_6) {
+void _wrap_SmatrixbMulf_liquid_7b08cc538ffcb585(smatrixb_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float *_swig_go_4, intgo _swig_go_5, intgo _swig_go_6) {
   smatrixb arg1 = (smatrixb) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -24145,7 +24145,7 @@ void _wrap_smatrixb_mulf_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0, float *
 }
 
 
-void _wrap_smatrixb_vmulf_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2) {
+void _wrap_SmatrixbVmulf_liquid_7b08cc538ffcb585(smatrixb_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2) {
   smatrixb arg1 = (smatrixb) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -24159,7 +24159,7 @@ void _wrap_smatrixb_vmulf_liquid_24d78331e3228d7c(smatrixb_s *_swig_go_0, float 
 }
 
 
-intgo _wrap_LIQUID_MODEM_NUM_SCHEMES_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMNUMSCHEMES_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24170,7 +24170,7 @@ intgo _wrap_LIQUID_MODEM_NUM_SCHEMES_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_UNKNOWN_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMUNKNOWN_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24182,7 +24182,7 @@ intgo _wrap_LIQUID_MODEM_UNKNOWN_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_PSK2_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMPSK2_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24194,7 +24194,7 @@ intgo _wrap_LIQUID_MODEM_PSK2_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_PSK4_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMPSK4_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24206,7 +24206,7 @@ intgo _wrap_LIQUID_MODEM_PSK4_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_PSK8_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMPSK8_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24218,7 +24218,7 @@ intgo _wrap_LIQUID_MODEM_PSK8_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_PSK16_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMPSK16_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24230,7 +24230,7 @@ intgo _wrap_LIQUID_MODEM_PSK16_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_PSK32_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMPSK32_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24242,7 +24242,7 @@ intgo _wrap_LIQUID_MODEM_PSK32_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_PSK64_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMPSK64_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24254,7 +24254,7 @@ intgo _wrap_LIQUID_MODEM_PSK64_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_PSK128_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMPSK128_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24266,7 +24266,7 @@ intgo _wrap_LIQUID_MODEM_PSK128_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_PSK256_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMPSK256_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24278,7 +24278,7 @@ intgo _wrap_LIQUID_MODEM_PSK256_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_DPSK2_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMDPSK2_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24290,7 +24290,7 @@ intgo _wrap_LIQUID_MODEM_DPSK2_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_DPSK4_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMDPSK4_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24302,7 +24302,7 @@ intgo _wrap_LIQUID_MODEM_DPSK4_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_DPSK8_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMDPSK8_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24314,7 +24314,7 @@ intgo _wrap_LIQUID_MODEM_DPSK8_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_DPSK16_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMDPSK16_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24326,7 +24326,7 @@ intgo _wrap_LIQUID_MODEM_DPSK16_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_DPSK32_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMDPSK32_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24338,7 +24338,7 @@ intgo _wrap_LIQUID_MODEM_DPSK32_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_DPSK64_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMDPSK64_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24350,7 +24350,7 @@ intgo _wrap_LIQUID_MODEM_DPSK64_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_DPSK128_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMDPSK128_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24362,7 +24362,7 @@ intgo _wrap_LIQUID_MODEM_DPSK128_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_DPSK256_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMDPSK256_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24374,7 +24374,7 @@ intgo _wrap_LIQUID_MODEM_DPSK256_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_ASK2_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMASK2_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24386,7 +24386,7 @@ intgo _wrap_LIQUID_MODEM_ASK2_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_ASK4_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMASK4_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24398,7 +24398,7 @@ intgo _wrap_LIQUID_MODEM_ASK4_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_ASK8_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMASK8_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24410,7 +24410,7 @@ intgo _wrap_LIQUID_MODEM_ASK8_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_ASK16_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMASK16_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24422,7 +24422,7 @@ intgo _wrap_LIQUID_MODEM_ASK16_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_ASK32_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMASK32_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24434,7 +24434,7 @@ intgo _wrap_LIQUID_MODEM_ASK32_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_ASK64_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMASK64_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24446,7 +24446,7 @@ intgo _wrap_LIQUID_MODEM_ASK64_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_ASK128_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMASK128_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24458,7 +24458,7 @@ intgo _wrap_LIQUID_MODEM_ASK128_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_ASK256_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMASK256_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24470,7 +24470,7 @@ intgo _wrap_LIQUID_MODEM_ASK256_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_QAM4_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMQAM4_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24482,7 +24482,7 @@ intgo _wrap_LIQUID_MODEM_QAM4_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_QAM8_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMQAM8_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24494,7 +24494,7 @@ intgo _wrap_LIQUID_MODEM_QAM8_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_QAM16_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMQAM16_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24506,7 +24506,7 @@ intgo _wrap_LIQUID_MODEM_QAM16_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_QAM32_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMQAM32_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24518,7 +24518,7 @@ intgo _wrap_LIQUID_MODEM_QAM32_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_QAM64_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMQAM64_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24530,7 +24530,7 @@ intgo _wrap_LIQUID_MODEM_QAM64_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_QAM128_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMQAM128_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24542,7 +24542,7 @@ intgo _wrap_LIQUID_MODEM_QAM128_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_QAM256_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMQAM256_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24554,7 +24554,7 @@ intgo _wrap_LIQUID_MODEM_QAM256_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_APSK4_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMAPSK4_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24566,7 +24566,7 @@ intgo _wrap_LIQUID_MODEM_APSK4_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_APSK8_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMAPSK8_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24578,7 +24578,7 @@ intgo _wrap_LIQUID_MODEM_APSK8_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_APSK16_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMAPSK16_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24590,7 +24590,7 @@ intgo _wrap_LIQUID_MODEM_APSK16_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_APSK32_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMAPSK32_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24602,7 +24602,7 @@ intgo _wrap_LIQUID_MODEM_APSK32_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_APSK64_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMAPSK64_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24614,7 +24614,7 @@ intgo _wrap_LIQUID_MODEM_APSK64_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_APSK128_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMAPSK128_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24626,7 +24626,7 @@ intgo _wrap_LIQUID_MODEM_APSK128_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_APSK256_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMAPSK256_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24638,7 +24638,7 @@ intgo _wrap_LIQUID_MODEM_APSK256_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_BPSK_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMBPSK_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24650,7 +24650,7 @@ intgo _wrap_LIQUID_MODEM_BPSK_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_QPSK_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMQPSK_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24662,7 +24662,7 @@ intgo _wrap_LIQUID_MODEM_QPSK_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_OOK_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMOOK_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24674,7 +24674,7 @@ intgo _wrap_LIQUID_MODEM_OOK_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_SQAM32_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMSQAM32_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24686,7 +24686,7 @@ intgo _wrap_LIQUID_MODEM_SQAM32_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_SQAM128_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMSQAM128_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24698,7 +24698,7 @@ intgo _wrap_LIQUID_MODEM_SQAM128_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_V29_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMV29_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24710,7 +24710,7 @@ intgo _wrap_LIQUID_MODEM_V29_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_ARB16OPT_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMARB16OPT_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24722,7 +24722,7 @@ intgo _wrap_LIQUID_MODEM_ARB16OPT_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_ARB32OPT_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMARB32OPT_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24734,7 +24734,7 @@ intgo _wrap_LIQUID_MODEM_ARB32OPT_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_ARB64OPT_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMARB64OPT_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24746,7 +24746,7 @@ intgo _wrap_LIQUID_MODEM_ARB64OPT_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_ARB128OPT_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMARB128OPT_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24758,7 +24758,7 @@ intgo _wrap_LIQUID_MODEM_ARB128OPT_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_ARB256OPT_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMARB256OPT_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24770,7 +24770,7 @@ intgo _wrap_LIQUID_MODEM_ARB256OPT_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_ARB64VT_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMARB64VT_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24782,7 +24782,7 @@ intgo _wrap_LIQUID_MODEM_ARB64VT_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_MODEM_ARB_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDMODEMARB_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -24794,7 +24794,7 @@ intgo _wrap_LIQUID_MODEM_ARB_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_modulation_type_s_name_set_liquid_24d78331e3228d7c(modulation_type_s *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_ModulationTypeS_Name_set_liquid_7b08cc538ffcb585(modulation_type_s *_swig_go_0, _gostring_ _swig_go_1) {
   modulation_type_s *arg1 = (modulation_type_s *) 0 ;
   char *arg2 = (char *) 0 ;
   
@@ -24818,7 +24818,7 @@ void _wrap_modulation_type_s_name_set_liquid_24d78331e3228d7c(modulation_type_s 
 }
 
 
-_gostring_ _wrap_modulation_type_s_name_get_liquid_24d78331e3228d7c(modulation_type_s *_swig_go_0) {
+_gostring_ _wrap_ModulationTypeS_Name_get_liquid_7b08cc538ffcb585(modulation_type_s *_swig_go_0) {
   modulation_type_s *arg1 = (modulation_type_s *) 0 ;
   char *result = 0 ;
   _gostring_ _swig_go_result;
@@ -24831,7 +24831,7 @@ _gostring_ _wrap_modulation_type_s_name_get_liquid_24d78331e3228d7c(modulation_t
 }
 
 
-void _wrap_modulation_type_s_fullname_set_liquid_24d78331e3228d7c(modulation_type_s *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_ModulationTypeS_Fullname_set_liquid_7b08cc538ffcb585(modulation_type_s *_swig_go_0, _gostring_ _swig_go_1) {
   modulation_type_s *arg1 = (modulation_type_s *) 0 ;
   char *arg2 = (char *) 0 ;
   
@@ -24855,7 +24855,7 @@ void _wrap_modulation_type_s_fullname_set_liquid_24d78331e3228d7c(modulation_typ
 }
 
 
-_gostring_ _wrap_modulation_type_s_fullname_get_liquid_24d78331e3228d7c(modulation_type_s *_swig_go_0) {
+_gostring_ _wrap_ModulationTypeS_Fullname_get_liquid_7b08cc538ffcb585(modulation_type_s *_swig_go_0) {
   modulation_type_s *arg1 = (modulation_type_s *) 0 ;
   char *result = 0 ;
   _gostring_ _swig_go_result;
@@ -24868,7 +24868,7 @@ _gostring_ _wrap_modulation_type_s_fullname_get_liquid_24d78331e3228d7c(modulati
 }
 
 
-void _wrap_modulation_type_s_scheme_set_liquid_24d78331e3228d7c(modulation_type_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_ModulationTypeS_Scheme_set_liquid_7b08cc538ffcb585(modulation_type_s *_swig_go_0, intgo _swig_go_1) {
   modulation_type_s *arg1 = (modulation_type_s *) 0 ;
   modulation_scheme arg2 ;
   
@@ -24880,7 +24880,7 @@ void _wrap_modulation_type_s_scheme_set_liquid_24d78331e3228d7c(modulation_type_
 }
 
 
-intgo _wrap_modulation_type_s_scheme_get_liquid_24d78331e3228d7c(modulation_type_s *_swig_go_0) {
+intgo _wrap_ModulationTypeS_Scheme_get_liquid_7b08cc538ffcb585(modulation_type_s *_swig_go_0) {
   modulation_type_s *arg1 = (modulation_type_s *) 0 ;
   modulation_scheme result;
   intgo _swig_go_result;
@@ -24893,7 +24893,7 @@ intgo _wrap_modulation_type_s_scheme_get_liquid_24d78331e3228d7c(modulation_type
 }
 
 
-void _wrap_modulation_type_s_bps_set_liquid_24d78331e3228d7c(modulation_type_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_ModulationTypeS_Bps_set_liquid_7b08cc538ffcb585(modulation_type_s *_swig_go_0, intgo _swig_go_1) {
   modulation_type_s *arg1 = (modulation_type_s *) 0 ;
   unsigned int arg2 ;
   
@@ -24905,7 +24905,7 @@ void _wrap_modulation_type_s_bps_set_liquid_24d78331e3228d7c(modulation_type_s *
 }
 
 
-intgo _wrap_modulation_type_s_bps_get_liquid_24d78331e3228d7c(modulation_type_s *_swig_go_0) {
+intgo _wrap_ModulationTypeS_Bps_get_liquid_7b08cc538ffcb585(modulation_type_s *_swig_go_0) {
   modulation_type_s *arg1 = (modulation_type_s *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -24918,7 +24918,7 @@ intgo _wrap_modulation_type_s_bps_get_liquid_24d78331e3228d7c(modulation_type_s 
 }
 
 
-modulation_type_s *_wrap_new_modulation_type_s_liquid_24d78331e3228d7c() {
+modulation_type_s *_wrap_new_ModulationTypeS_liquid_7b08cc538ffcb585() {
   modulation_type_s *result = 0 ;
   modulation_type_s *_swig_go_result;
   
@@ -24929,7 +24929,7 @@ modulation_type_s *_wrap_new_modulation_type_s_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_delete_modulation_type_s_liquid_24d78331e3228d7c(modulation_type_s *_swig_go_0) {
+void _wrap_delete_ModulationTypeS_liquid_7b08cc538ffcb585(modulation_type_s *_swig_go_0) {
   modulation_type_s *arg1 = (modulation_type_s *) 0 ;
   
   arg1 = *(modulation_type_s **)&_swig_go_0; 
@@ -24939,7 +24939,7 @@ void _wrap_delete_modulation_type_s_liquid_24d78331e3228d7c(modulation_type_s *_
 }
 
 
-modulation_type_s (*_wrap_modulation_types_get_liquid_24d78331e3228d7c())[(52)] {
+modulation_type_s (*_wrap_ModulationTypes_get_liquid_7b08cc538ffcb585())[(52)] {
   modulation_type_s *result = 0 ;
   modulation_type_s (*_swig_go_result)[(52)];
   
@@ -24950,13 +24950,13 @@ modulation_type_s (*_wrap_modulation_types_get_liquid_24d78331e3228d7c())[(52)] 
 }
 
 
-void _wrap_liquid_print_modulation_schemes_liquid_24d78331e3228d7c() {
+void _wrap_LiquidPrintModulationSchemes_liquid_7b08cc538ffcb585() {
   liquid_print_modulation_schemes();
   
 }
 
 
-intgo _wrap_liquid_getopt_str2mod_liquid_24d78331e3228d7c(_gostring_ _swig_go_0) {
+intgo _wrap_LiquidGetoptStr2mod_liquid_7b08cc538ffcb585(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   modulation_scheme result;
   intgo _swig_go_result;
@@ -24974,7 +24974,7 @@ intgo _wrap_liquid_getopt_str2mod_liquid_24d78331e3228d7c(_gostring_ _swig_go_0)
 }
 
 
-intgo _wrap_liquid_modem_is_psk_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+intgo _wrap_LiquidModemIsPsk_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   modulation_scheme arg1 ;
   int result;
   intgo _swig_go_result;
@@ -24987,7 +24987,7 @@ intgo _wrap_liquid_modem_is_psk_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-intgo _wrap_liquid_modem_is_dpsk_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+intgo _wrap_LiquidModemIsDpsk_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   modulation_scheme arg1 ;
   int result;
   intgo _swig_go_result;
@@ -25000,7 +25000,7 @@ intgo _wrap_liquid_modem_is_dpsk_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-intgo _wrap_liquid_modem_is_ask_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+intgo _wrap_LiquidModemIsAsk_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   modulation_scheme arg1 ;
   int result;
   intgo _swig_go_result;
@@ -25013,7 +25013,7 @@ intgo _wrap_liquid_modem_is_ask_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-intgo _wrap_liquid_modem_is_qam_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+intgo _wrap_LiquidModemIsQam_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   modulation_scheme arg1 ;
   int result;
   intgo _swig_go_result;
@@ -25026,7 +25026,7 @@ intgo _wrap_liquid_modem_is_qam_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-intgo _wrap_liquid_modem_is_apsk_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+intgo _wrap_LiquidModemIsApsk_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   modulation_scheme arg1 ;
   int result;
   intgo _swig_go_result;
@@ -25039,7 +25039,7 @@ intgo _wrap_liquid_modem_is_apsk_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-intgo _wrap_count_bit_errors_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+intgo _wrap_CountBitErrors_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   unsigned int result;
@@ -25054,7 +25054,7 @@ intgo _wrap_count_bit_errors_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _sw
 }
 
 
-intgo _wrap_count_bit_errors_array_liquid_24d78331e3228d7c(char *_swig_go_0, char *_swig_go_1, intgo _swig_go_2) {
+intgo _wrap_CountBitErrorsArray_liquid_7b08cc538ffcb585(char *_swig_go_0, char *_swig_go_1, intgo _swig_go_2) {
   unsigned char *arg1 = (unsigned char *) 0 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   unsigned int arg3 ;
@@ -25071,7 +25071,7 @@ intgo _wrap_count_bit_errors_array_liquid_24d78331e3228d7c(char *_swig_go_0, cha
 }
 
 
-intgo _wrap_gray_encode_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+intgo _wrap_GrayEncode_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -25084,7 +25084,7 @@ intgo _wrap_gray_encode_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-intgo _wrap_gray_decode_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+intgo _wrap_GrayDecode_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -25097,7 +25097,7 @@ intgo _wrap_gray_decode_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-void _wrap_liquid_pack_soft_bits_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_go_1, intgo *_swig_go_2) {
+void _wrap_LiquidPackSoftBits_liquid_7b08cc538ffcb585(char *_swig_go_0, intgo _swig_go_1, intgo *_swig_go_2) {
   unsigned char *arg1 = (unsigned char *) 0 ;
   unsigned int arg2 ;
   unsigned int *arg3 = (unsigned int *) 0 ;
@@ -25111,7 +25111,7 @@ void _wrap_liquid_pack_soft_bits_liquid_24d78331e3228d7c(char *_swig_go_0, intgo
 }
 
 
-void _wrap_liquid_unpack_soft_bits_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, char *_swig_go_2) {
+void _wrap_LiquidUnpackSoftBits_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, char *_swig_go_2) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -25125,7 +25125,7 @@ void _wrap_liquid_unpack_soft_bits_liquid_24d78331e3228d7c(intgo _swig_go_0, int
 }
 
 
-modem_s *_wrap_modem_create_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+modem_s *_wrap_ModemCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   modulation_scheme arg1 ;
   modem result;
   modem_s *_swig_go_result;
@@ -25138,7 +25138,7 @@ modem_s *_wrap_modem_create_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-modem_s *_wrap_modem_create_arbitrary_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1) {
+modem_s *_wrap_ModemCreateArbitrary_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   modem result;
@@ -25153,7 +25153,7 @@ modem_s *_wrap_modem_create_arbitrary_liquid_24d78331e3228d7c(liquid_float_compl
 }
 
 
-modem_s *_wrap_modem_recreate_liquid_24d78331e3228d7c(modem_s *_swig_go_0, intgo _swig_go_1) {
+modem_s *_wrap_ModemRecreate_liquid_7b08cc538ffcb585(modem_s *_swig_go_0, intgo _swig_go_1) {
   modem arg1 = (modem) 0 ;
   modulation_scheme arg2 ;
   modem result;
@@ -25168,7 +25168,7 @@ modem_s *_wrap_modem_recreate_liquid_24d78331e3228d7c(modem_s *_swig_go_0, intgo
 }
 
 
-void _wrap_modem_destroy_liquid_24d78331e3228d7c(modem_s *_swig_go_0) {
+void _wrap_ModemDestroy_liquid_7b08cc538ffcb585(modem_s *_swig_go_0) {
   modem arg1 = (modem) 0 ;
   
   arg1 = *(modem *)&_swig_go_0; 
@@ -25178,7 +25178,7 @@ void _wrap_modem_destroy_liquid_24d78331e3228d7c(modem_s *_swig_go_0) {
 }
 
 
-void _wrap_modem_print_liquid_24d78331e3228d7c(modem_s *_swig_go_0) {
+void _wrap_ModemPrint_liquid_7b08cc538ffcb585(modem_s *_swig_go_0) {
   modem arg1 = (modem) 0 ;
   
   arg1 = *(modem *)&_swig_go_0; 
@@ -25188,7 +25188,7 @@ void _wrap_modem_print_liquid_24d78331e3228d7c(modem_s *_swig_go_0) {
 }
 
 
-void _wrap_modem_reset_liquid_24d78331e3228d7c(modem_s *_swig_go_0) {
+void _wrap_ModemReset_liquid_7b08cc538ffcb585(modem_s *_swig_go_0) {
   modem arg1 = (modem) 0 ;
   
   arg1 = *(modem *)&_swig_go_0; 
@@ -25198,7 +25198,7 @@ void _wrap_modem_reset_liquid_24d78331e3228d7c(modem_s *_swig_go_0) {
 }
 
 
-intgo _wrap_modem_gen_rand_sym_liquid_24d78331e3228d7c(modem_s *_swig_go_0) {
+intgo _wrap_ModemGenRandSym_liquid_7b08cc538ffcb585(modem_s *_swig_go_0) {
   modem arg1 = (modem) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -25211,7 +25211,7 @@ intgo _wrap_modem_gen_rand_sym_liquid_24d78331e3228d7c(modem_s *_swig_go_0) {
 }
 
 
-intgo _wrap_modem_get_bps_liquid_24d78331e3228d7c(modem_s *_swig_go_0) {
+intgo _wrap_ModemGetBps_liquid_7b08cc538ffcb585(modem_s *_swig_go_0) {
   modem arg1 = (modem) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -25224,7 +25224,7 @@ intgo _wrap_modem_get_bps_liquid_24d78331e3228d7c(modem_s *_swig_go_0) {
 }
 
 
-intgo _wrap_modem_get_scheme_liquid_24d78331e3228d7c(modem_s *_swig_go_0) {
+intgo _wrap_ModemGetScheme_liquid_7b08cc538ffcb585(modem_s *_swig_go_0) {
   modem arg1 = (modem) 0 ;
   modulation_scheme result;
   intgo _swig_go_result;
@@ -25237,7 +25237,7 @@ intgo _wrap_modem_get_scheme_liquid_24d78331e3228d7c(modem_s *_swig_go_0) {
 }
 
 
-void _wrap_modem_modulate_liquid_24d78331e3228d7c(modem_s *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_ModemModulate_liquid_7b08cc538ffcb585(modem_s *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
   modem arg1 = (modem) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -25251,7 +25251,7 @@ void _wrap_modem_modulate_liquid_24d78331e3228d7c(modem_s *_swig_go_0, intgo _sw
 }
 
 
-void _wrap_modem_demodulate_liquid_24d78331e3228d7c(modem_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo *_swig_go_2) {
+void _wrap_ModemDemodulate_liquid_7b08cc538ffcb585(modem_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo *_swig_go_2) {
   modem arg1 = (modem) 0 ;
   liquid_float_complex arg2 ;
   unsigned int *arg3 = (unsigned int *) 0 ;
@@ -25272,7 +25272,7 @@ void _wrap_modem_demodulate_liquid_24d78331e3228d7c(modem_s *_swig_go_0, liquid_
 }
 
 
-void _wrap_modem_demodulate_soft_liquid_24d78331e3228d7c(modem_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo *_swig_go_2, char *_swig_go_3) {
+void _wrap_ModemDemodulateSoft_liquid_7b08cc538ffcb585(modem_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo *_swig_go_2, char *_swig_go_3) {
   modem arg1 = (modem) 0 ;
   liquid_float_complex arg2 ;
   unsigned int *arg3 = (unsigned int *) 0 ;
@@ -25295,7 +25295,7 @@ void _wrap_modem_demodulate_soft_liquid_24d78331e3228d7c(modem_s *_swig_go_0, li
 }
 
 
-void _wrap_modem_get_demodulator_sample_liquid_24d78331e3228d7c(modem_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_ModemGetDemodulatorSample_liquid_7b08cc538ffcb585(modem_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   modem arg1 = (modem) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -25307,7 +25307,7 @@ void _wrap_modem_get_demodulator_sample_liquid_24d78331e3228d7c(modem_s *_swig_g
 }
 
 
-float _wrap_modem_get_demodulator_phase_error_liquid_24d78331e3228d7c(modem_s *_swig_go_0) {
+float _wrap_ModemGetDemodulatorPhaseError_liquid_7b08cc538ffcb585(modem_s *_swig_go_0) {
   modem arg1 = (modem) 0 ;
   float result;
   float _swig_go_result;
@@ -25320,7 +25320,7 @@ float _wrap_modem_get_demodulator_phase_error_liquid_24d78331e3228d7c(modem_s *_
 }
 
 
-float _wrap_modem_get_demodulator_evm_liquid_24d78331e3228d7c(modem_s *_swig_go_0) {
+float _wrap_ModemGetDemodulatorEvm_liquid_7b08cc538ffcb585(modem_s *_swig_go_0) {
   modem arg1 = (modem) 0 ;
   float result;
   float _swig_go_result;
@@ -25333,7 +25333,7 @@ float _wrap_modem_get_demodulator_evm_liquid_24d78331e3228d7c(modem_s *_swig_go_
 }
 
 
-gmskmod_s *_wrap_gmskmod_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2) {
+gmskmod_s *_wrap_GmskmodCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -25350,7 +25350,7 @@ gmskmod_s *_wrap_gmskmod_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo 
 }
 
 
-void _wrap_gmskmod_destroy_liquid_24d78331e3228d7c(gmskmod_s *_swig_go_0) {
+void _wrap_GmskmodDestroy_liquid_7b08cc538ffcb585(gmskmod_s *_swig_go_0) {
   gmskmod arg1 = (gmskmod) 0 ;
   
   arg1 = *(gmskmod *)&_swig_go_0; 
@@ -25360,7 +25360,7 @@ void _wrap_gmskmod_destroy_liquid_24d78331e3228d7c(gmskmod_s *_swig_go_0) {
 }
 
 
-void _wrap_gmskmod_print_liquid_24d78331e3228d7c(gmskmod_s *_swig_go_0) {
+void _wrap_GmskmodPrint_liquid_7b08cc538ffcb585(gmskmod_s *_swig_go_0) {
   gmskmod arg1 = (gmskmod) 0 ;
   
   arg1 = *(gmskmod *)&_swig_go_0; 
@@ -25370,7 +25370,7 @@ void _wrap_gmskmod_print_liquid_24d78331e3228d7c(gmskmod_s *_swig_go_0) {
 }
 
 
-void _wrap_gmskmod_reset_liquid_24d78331e3228d7c(gmskmod_s *_swig_go_0) {
+void _wrap_GmskmodReset_liquid_7b08cc538ffcb585(gmskmod_s *_swig_go_0) {
   gmskmod arg1 = (gmskmod) 0 ;
   
   arg1 = *(gmskmod *)&_swig_go_0; 
@@ -25380,7 +25380,7 @@ void _wrap_gmskmod_reset_liquid_24d78331e3228d7c(gmskmod_s *_swig_go_0) {
 }
 
 
-void _wrap_gmskmod_modulate_liquid_24d78331e3228d7c(gmskmod_s *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_GmskmodModulate_liquid_7b08cc538ffcb585(gmskmod_s *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
   gmskmod arg1 = (gmskmod) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -25394,7 +25394,7 @@ void _wrap_gmskmod_modulate_liquid_24d78331e3228d7c(gmskmod_s *_swig_go_0, intgo
 }
 
 
-gmskdem_s *_wrap_gmskdem_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2) {
+gmskdem_s *_wrap_GmskdemCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -25411,7 +25411,7 @@ gmskdem_s *_wrap_gmskdem_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo 
 }
 
 
-void _wrap_gmskdem_destroy_liquid_24d78331e3228d7c(gmskdem_s *_swig_go_0) {
+void _wrap_GmskdemDestroy_liquid_7b08cc538ffcb585(gmskdem_s *_swig_go_0) {
   gmskdem arg1 = (gmskdem) 0 ;
   
   arg1 = *(gmskdem *)&_swig_go_0; 
@@ -25421,7 +25421,7 @@ void _wrap_gmskdem_destroy_liquid_24d78331e3228d7c(gmskdem_s *_swig_go_0) {
 }
 
 
-void _wrap_gmskdem_print_liquid_24d78331e3228d7c(gmskdem_s *_swig_go_0) {
+void _wrap_GmskdemPrint_liquid_7b08cc538ffcb585(gmskdem_s *_swig_go_0) {
   gmskdem arg1 = (gmskdem) 0 ;
   
   arg1 = *(gmskdem *)&_swig_go_0; 
@@ -25431,7 +25431,7 @@ void _wrap_gmskdem_print_liquid_24d78331e3228d7c(gmskdem_s *_swig_go_0) {
 }
 
 
-void _wrap_gmskdem_reset_liquid_24d78331e3228d7c(gmskdem_s *_swig_go_0) {
+void _wrap_GmskdemReset_liquid_7b08cc538ffcb585(gmskdem_s *_swig_go_0) {
   gmskdem arg1 = (gmskdem) 0 ;
   
   arg1 = *(gmskdem *)&_swig_go_0; 
@@ -25441,7 +25441,7 @@ void _wrap_gmskdem_reset_liquid_24d78331e3228d7c(gmskdem_s *_swig_go_0) {
 }
 
 
-void _wrap_gmskdem_set_eq_bw_liquid_24d78331e3228d7c(gmskdem_s *_swig_go_0, float _swig_go_1) {
+void _wrap_GmskdemSetEqBw_liquid_7b08cc538ffcb585(gmskdem_s *_swig_go_0, float _swig_go_1) {
   gmskdem arg1 = (gmskdem) 0 ;
   float arg2 ;
   
@@ -25453,7 +25453,7 @@ void _wrap_gmskdem_set_eq_bw_liquid_24d78331e3228d7c(gmskdem_s *_swig_go_0, floa
 }
 
 
-void _wrap_gmskdem_demodulate_liquid_24d78331e3228d7c(gmskdem_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo *_swig_go_2) {
+void _wrap_GmskdemDemodulate_liquid_7b08cc538ffcb585(gmskdem_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo *_swig_go_2) {
   gmskdem arg1 = (gmskdem) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int *arg3 = (unsigned int *) 0 ;
@@ -25467,7 +25467,7 @@ void _wrap_gmskdem_demodulate_liquid_24d78331e3228d7c(gmskdem_s *_swig_go_0, liq
 }
 
 
-intgo _wrap_LIQUID_CPFSK_SQUARE_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDCPFSKSQUARE_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -25479,7 +25479,7 @@ intgo _wrap_LIQUID_CPFSK_SQUARE_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_CPFSK_RCOS_FULL_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDCPFSKRCOSFULL_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -25491,7 +25491,7 @@ intgo _wrap_LIQUID_CPFSK_RCOS_FULL_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_CPFSK_RCOS_PARTIAL_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDCPFSKRCOSPARTIAL_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -25503,7 +25503,7 @@ intgo _wrap_LIQUID_CPFSK_RCOS_PARTIAL_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_CPFSK_GMSK_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDCPFSKGMSK_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -25515,7 +25515,7 @@ intgo _wrap_LIQUID_CPFSK_GMSK_liquid_24d78331e3228d7c() {
 }
 
 
-cpfskmod_s *_wrap_cpfskmod_create_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4, intgo _swig_go_5) {
+cpfskmod_s *_wrap_CpfskmodCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4, intgo _swig_go_5) {
   unsigned int arg1 ;
   float arg2 ;
   unsigned int arg3 ;
@@ -25538,7 +25538,7 @@ cpfskmod_s *_wrap_cpfskmod_create_liquid_24d78331e3228d7c(intgo _swig_go_0, floa
 }
 
 
-void _wrap_cpfskmod_destroy_liquid_24d78331e3228d7c(cpfskmod_s *_swig_go_0) {
+void _wrap_CpfskmodDestroy_liquid_7b08cc538ffcb585(cpfskmod_s *_swig_go_0) {
   cpfskmod arg1 = (cpfskmod) 0 ;
   
   arg1 = *(cpfskmod *)&_swig_go_0; 
@@ -25548,7 +25548,7 @@ void _wrap_cpfskmod_destroy_liquid_24d78331e3228d7c(cpfskmod_s *_swig_go_0) {
 }
 
 
-void _wrap_cpfskmod_print_liquid_24d78331e3228d7c(cpfskmod_s *_swig_go_0) {
+void _wrap_CpfskmodPrint_liquid_7b08cc538ffcb585(cpfskmod_s *_swig_go_0) {
   cpfskmod arg1 = (cpfskmod) 0 ;
   
   arg1 = *(cpfskmod *)&_swig_go_0; 
@@ -25558,7 +25558,7 @@ void _wrap_cpfskmod_print_liquid_24d78331e3228d7c(cpfskmod_s *_swig_go_0) {
 }
 
 
-void _wrap_cpfskmod_reset_liquid_24d78331e3228d7c(cpfskmod_s *_swig_go_0) {
+void _wrap_CpfskmodReset_liquid_7b08cc538ffcb585(cpfskmod_s *_swig_go_0) {
   cpfskmod arg1 = (cpfskmod) 0 ;
   
   arg1 = *(cpfskmod *)&_swig_go_0; 
@@ -25568,7 +25568,7 @@ void _wrap_cpfskmod_reset_liquid_24d78331e3228d7c(cpfskmod_s *_swig_go_0) {
 }
 
 
-intgo _wrap_cpfskmod_get_delay_liquid_24d78331e3228d7c(cpfskmod_s *_swig_go_0) {
+intgo _wrap_CpfskmodGetDelay_liquid_7b08cc538ffcb585(cpfskmod_s *_swig_go_0) {
   cpfskmod arg1 = (cpfskmod) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -25581,7 +25581,7 @@ intgo _wrap_cpfskmod_get_delay_liquid_24d78331e3228d7c(cpfskmod_s *_swig_go_0) {
 }
 
 
-void _wrap_cpfskmod_modulate_liquid_24d78331e3228d7c(cpfskmod_s *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_CpfskmodModulate_liquid_7b08cc538ffcb585(cpfskmod_s *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
   cpfskmod arg1 = (cpfskmod) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -25595,7 +25595,7 @@ void _wrap_cpfskmod_modulate_liquid_24d78331e3228d7c(cpfskmod_s *_swig_go_0, int
 }
 
 
-cpfskdem_s *_wrap_cpfskdem_create_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4, intgo _swig_go_5) {
+cpfskdem_s *_wrap_CpfskdemCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, float _swig_go_4, intgo _swig_go_5) {
   unsigned int arg1 ;
   float arg2 ;
   unsigned int arg3 ;
@@ -25618,7 +25618,7 @@ cpfskdem_s *_wrap_cpfskdem_create_liquid_24d78331e3228d7c(intgo _swig_go_0, floa
 }
 
 
-void _wrap_cpfskdem_destroy_liquid_24d78331e3228d7c(cpfskdem_s *_swig_go_0) {
+void _wrap_CpfskdemDestroy_liquid_7b08cc538ffcb585(cpfskdem_s *_swig_go_0) {
   cpfskdem arg1 = (cpfskdem) 0 ;
   
   arg1 = *(cpfskdem *)&_swig_go_0; 
@@ -25628,7 +25628,7 @@ void _wrap_cpfskdem_destroy_liquid_24d78331e3228d7c(cpfskdem_s *_swig_go_0) {
 }
 
 
-void _wrap_cpfskdem_print_liquid_24d78331e3228d7c(cpfskdem_s *_swig_go_0) {
+void _wrap_CpfskdemPrint_liquid_7b08cc538ffcb585(cpfskdem_s *_swig_go_0) {
   cpfskdem arg1 = (cpfskdem) 0 ;
   
   arg1 = *(cpfskdem *)&_swig_go_0; 
@@ -25638,7 +25638,7 @@ void _wrap_cpfskdem_print_liquid_24d78331e3228d7c(cpfskdem_s *_swig_go_0) {
 }
 
 
-void _wrap_cpfskdem_reset_liquid_24d78331e3228d7c(cpfskdem_s *_swig_go_0) {
+void _wrap_CpfskdemReset_liquid_7b08cc538ffcb585(cpfskdem_s *_swig_go_0) {
   cpfskdem arg1 = (cpfskdem) 0 ;
   
   arg1 = *(cpfskdem *)&_swig_go_0; 
@@ -25648,7 +25648,7 @@ void _wrap_cpfskdem_reset_liquid_24d78331e3228d7c(cpfskdem_s *_swig_go_0) {
 }
 
 
-intgo _wrap_cpfskdem_get_delay_liquid_24d78331e3228d7c(cpfskdem_s *_swig_go_0) {
+intgo _wrap_CpfskdemGetDelay_liquid_7b08cc538ffcb585(cpfskdem_s *_swig_go_0) {
   cpfskdem arg1 = (cpfskdem) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -25661,7 +25661,7 @@ intgo _wrap_cpfskdem_get_delay_liquid_24d78331e3228d7c(cpfskdem_s *_swig_go_0) {
 }
 
 
-intgo _wrap_cpfskdem_demodulate_liquid_24d78331e3228d7c(cpfskdem_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+intgo _wrap_CpfskdemDemodulate_liquid_7b08cc538ffcb585(cpfskdem_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   cpfskdem arg1 = (cpfskdem) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int result;
@@ -25676,7 +25676,7 @@ intgo _wrap_cpfskdem_demodulate_liquid_24d78331e3228d7c(cpfskdem_s *_swig_go_0, 
 }
 
 
-fskmod_s *_wrap_fskmod_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2) {
+fskmod_s *_wrap_FskmodCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -25693,7 +25693,7 @@ fskmod_s *_wrap_fskmod_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _s
 }
 
 
-void _wrap_fskmod_destroy_liquid_24d78331e3228d7c(fskmod_s *_swig_go_0) {
+void _wrap_FskmodDestroy_liquid_7b08cc538ffcb585(fskmod_s *_swig_go_0) {
   fskmod arg1 = (fskmod) 0 ;
   
   arg1 = *(fskmod *)&_swig_go_0; 
@@ -25703,7 +25703,7 @@ void _wrap_fskmod_destroy_liquid_24d78331e3228d7c(fskmod_s *_swig_go_0) {
 }
 
 
-void _wrap_fskmod_print_liquid_24d78331e3228d7c(fskmod_s *_swig_go_0) {
+void _wrap_FskmodPrint_liquid_7b08cc538ffcb585(fskmod_s *_swig_go_0) {
   fskmod arg1 = (fskmod) 0 ;
   
   arg1 = *(fskmod *)&_swig_go_0; 
@@ -25713,7 +25713,7 @@ void _wrap_fskmod_print_liquid_24d78331e3228d7c(fskmod_s *_swig_go_0) {
 }
 
 
-void _wrap_fskmod_reset_liquid_24d78331e3228d7c(fskmod_s *_swig_go_0) {
+void _wrap_FskmodReset_liquid_7b08cc538ffcb585(fskmod_s *_swig_go_0) {
   fskmod arg1 = (fskmod) 0 ;
   
   arg1 = *(fskmod *)&_swig_go_0; 
@@ -25723,7 +25723,7 @@ void _wrap_fskmod_reset_liquid_24d78331e3228d7c(fskmod_s *_swig_go_0) {
 }
 
 
-void _wrap_fskmod_modulate_liquid_24d78331e3228d7c(fskmod_s *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_FskmodModulate_liquid_7b08cc538ffcb585(fskmod_s *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
   fskmod arg1 = (fskmod) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -25737,7 +25737,7 @@ void _wrap_fskmod_modulate_liquid_24d78331e3228d7c(fskmod_s *_swig_go_0, intgo _
 }
 
 
-fskdem_s *_wrap_fskdem_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2) {
+fskdem_s *_wrap_FskdemCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, float _swig_go_2) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -25754,7 +25754,7 @@ fskdem_s *_wrap_fskdem_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _s
 }
 
 
-void _wrap_fskdem_destroy_liquid_24d78331e3228d7c(fskdem_s *_swig_go_0) {
+void _wrap_FskdemDestroy_liquid_7b08cc538ffcb585(fskdem_s *_swig_go_0) {
   fskdem arg1 = (fskdem) 0 ;
   
   arg1 = *(fskdem *)&_swig_go_0; 
@@ -25764,7 +25764,7 @@ void _wrap_fskdem_destroy_liquid_24d78331e3228d7c(fskdem_s *_swig_go_0) {
 }
 
 
-void _wrap_fskdem_print_liquid_24d78331e3228d7c(fskdem_s *_swig_go_0) {
+void _wrap_FskdemPrint_liquid_7b08cc538ffcb585(fskdem_s *_swig_go_0) {
   fskdem arg1 = (fskdem) 0 ;
   
   arg1 = *(fskdem *)&_swig_go_0; 
@@ -25774,7 +25774,7 @@ void _wrap_fskdem_print_liquid_24d78331e3228d7c(fskdem_s *_swig_go_0) {
 }
 
 
-void _wrap_fskdem_reset_liquid_24d78331e3228d7c(fskdem_s *_swig_go_0) {
+void _wrap_FskdemReset_liquid_7b08cc538ffcb585(fskdem_s *_swig_go_0) {
   fskdem arg1 = (fskdem) 0 ;
   
   arg1 = *(fskdem *)&_swig_go_0; 
@@ -25784,7 +25784,7 @@ void _wrap_fskdem_reset_liquid_24d78331e3228d7c(fskdem_s *_swig_go_0) {
 }
 
 
-intgo _wrap_fskdem_demodulate_liquid_24d78331e3228d7c(fskdem_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+intgo _wrap_FskdemDemodulate_liquid_7b08cc538ffcb585(fskdem_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   fskdem arg1 = (fskdem) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int result;
@@ -25799,7 +25799,7 @@ intgo _wrap_fskdem_demodulate_liquid_24d78331e3228d7c(fskdem_s *_swig_go_0, liqu
 }
 
 
-float _wrap_fskdem_get_frequency_error_liquid_24d78331e3228d7c(fskdem_s *_swig_go_0) {
+float _wrap_FskdemGetFrequencyError_liquid_7b08cc538ffcb585(fskdem_s *_swig_go_0) {
   fskdem arg1 = (fskdem) 0 ;
   float result;
   float _swig_go_result;
@@ -25812,7 +25812,7 @@ float _wrap_fskdem_get_frequency_error_liquid_24d78331e3228d7c(fskdem_s *_swig_g
 }
 
 
-float _wrap_fskdem_get_symbol_energy_liquid_24d78331e3228d7c(fskdem_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+float _wrap_FskdemGetSymbolEnergy_liquid_7b08cc538ffcb585(fskdem_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   fskdem arg1 = (fskdem) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -25829,7 +25829,7 @@ float _wrap_fskdem_get_symbol_energy_liquid_24d78331e3228d7c(fskdem_s *_swig_go_
 }
 
 
-freqmod_s *_wrap_freqmod_create_liquid_24d78331e3228d7c(float _swig_go_0) {
+freqmod_s *_wrap_FreqmodCreate_liquid_7b08cc538ffcb585(float _swig_go_0) {
   float arg1 ;
   freqmod result;
   freqmod_s *_swig_go_result;
@@ -25842,7 +25842,7 @@ freqmod_s *_wrap_freqmod_create_liquid_24d78331e3228d7c(float _swig_go_0) {
 }
 
 
-void _wrap_freqmod_destroy_liquid_24d78331e3228d7c(freqmod_s *_swig_go_0) {
+void _wrap_FreqmodDestroy_liquid_7b08cc538ffcb585(freqmod_s *_swig_go_0) {
   freqmod arg1 = (freqmod) 0 ;
   
   arg1 = *(freqmod *)&_swig_go_0; 
@@ -25852,7 +25852,7 @@ void _wrap_freqmod_destroy_liquid_24d78331e3228d7c(freqmod_s *_swig_go_0) {
 }
 
 
-void _wrap_freqmod_print_liquid_24d78331e3228d7c(freqmod_s *_swig_go_0) {
+void _wrap_FreqmodPrint_liquid_7b08cc538ffcb585(freqmod_s *_swig_go_0) {
   freqmod arg1 = (freqmod) 0 ;
   
   arg1 = *(freqmod *)&_swig_go_0; 
@@ -25862,7 +25862,7 @@ void _wrap_freqmod_print_liquid_24d78331e3228d7c(freqmod_s *_swig_go_0) {
 }
 
 
-void _wrap_freqmod_reset_liquid_24d78331e3228d7c(freqmod_s *_swig_go_0) {
+void _wrap_FreqmodReset_liquid_7b08cc538ffcb585(freqmod_s *_swig_go_0) {
   freqmod arg1 = (freqmod) 0 ;
   
   arg1 = *(freqmod *)&_swig_go_0; 
@@ -25872,7 +25872,7 @@ void _wrap_freqmod_reset_liquid_24d78331e3228d7c(freqmod_s *_swig_go_0) {
 }
 
 
-void _wrap_freqmod_modulate_liquid_24d78331e3228d7c(freqmod_s *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_FreqmodModulate_liquid_7b08cc538ffcb585(freqmod_s *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
   freqmod arg1 = (freqmod) 0 ;
   float arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -25886,7 +25886,7 @@ void _wrap_freqmod_modulate_liquid_24d78331e3228d7c(freqmod_s *_swig_go_0, float
 }
 
 
-void _wrap_freqmod_modulate_block_liquid_24d78331e3228d7c(freqmod_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_FreqmodModulateBlock_liquid_7b08cc538ffcb585(freqmod_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   freqmod arg1 = (freqmod) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -25902,7 +25902,7 @@ void _wrap_freqmod_modulate_block_liquid_24d78331e3228d7c(freqmod_s *_swig_go_0,
 }
 
 
-freqdem_s *_wrap_freqdem_create_liquid_24d78331e3228d7c(float _swig_go_0) {
+freqdem_s *_wrap_FreqdemCreate_liquid_7b08cc538ffcb585(float _swig_go_0) {
   float arg1 ;
   freqdem result;
   freqdem_s *_swig_go_result;
@@ -25915,7 +25915,7 @@ freqdem_s *_wrap_freqdem_create_liquid_24d78331e3228d7c(float _swig_go_0) {
 }
 
 
-void _wrap_freqdem_destroy_liquid_24d78331e3228d7c(freqdem_s *_swig_go_0) {
+void _wrap_FreqdemDestroy_liquid_7b08cc538ffcb585(freqdem_s *_swig_go_0) {
   freqdem arg1 = (freqdem) 0 ;
   
   arg1 = *(freqdem *)&_swig_go_0; 
@@ -25925,7 +25925,7 @@ void _wrap_freqdem_destroy_liquid_24d78331e3228d7c(freqdem_s *_swig_go_0) {
 }
 
 
-void _wrap_freqdem_print_liquid_24d78331e3228d7c(freqdem_s *_swig_go_0) {
+void _wrap_FreqdemPrint_liquid_7b08cc538ffcb585(freqdem_s *_swig_go_0) {
   freqdem arg1 = (freqdem) 0 ;
   
   arg1 = *(freqdem *)&_swig_go_0; 
@@ -25935,7 +25935,7 @@ void _wrap_freqdem_print_liquid_24d78331e3228d7c(freqdem_s *_swig_go_0) {
 }
 
 
-void _wrap_freqdem_reset_liquid_24d78331e3228d7c(freqdem_s *_swig_go_0) {
+void _wrap_FreqdemReset_liquid_7b08cc538ffcb585(freqdem_s *_swig_go_0) {
   freqdem arg1 = (freqdem) 0 ;
   
   arg1 = *(freqdem *)&_swig_go_0; 
@@ -25945,7 +25945,7 @@ void _wrap_freqdem_reset_liquid_24d78331e3228d7c(freqdem_s *_swig_go_0) {
 }
 
 
-void _wrap_freqdem_demodulate_liquid_24d78331e3228d7c(freqdem_s *_swig_go_0, liquid_float_complex *_swig_go_1, float *_swig_go_2) {
+void _wrap_FreqdemDemodulate_liquid_7b08cc538ffcb585(freqdem_s *_swig_go_0, liquid_float_complex *_swig_go_1, float *_swig_go_2) {
   freqdem arg1 = (freqdem) 0 ;
   liquid_float_complex arg2 ;
   float *arg3 = (float *) 0 ;
@@ -25966,7 +25966,7 @@ void _wrap_freqdem_demodulate_liquid_24d78331e3228d7c(freqdem_s *_swig_go_0, liq
 }
 
 
-void _wrap_freqdem_demodulate_block_liquid_24d78331e3228d7c(freqdem_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_FreqdemDemodulateBlock_liquid_7b08cc538ffcb585(freqdem_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   freqdem arg1 = (freqdem) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -25982,7 +25982,7 @@ void _wrap_freqdem_demodulate_block_liquid_24d78331e3228d7c(freqdem_s *_swig_go_
 }
 
 
-intgo _wrap_LIQUID_AMPMODEM_DSB_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDAMPMODEMDSB_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -25994,7 +25994,7 @@ intgo _wrap_LIQUID_AMPMODEM_DSB_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_AMPMODEM_USB_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDAMPMODEMUSB_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -26006,7 +26006,7 @@ intgo _wrap_LIQUID_AMPMODEM_USB_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_AMPMODEM_LSB_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDAMPMODEMLSB_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -26018,7 +26018,7 @@ intgo _wrap_LIQUID_AMPMODEM_LSB_liquid_24d78331e3228d7c() {
 }
 
 
-ampmodem_s *_wrap_ampmodem_create_liquid_24d78331e3228d7c(float _swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+ampmodem_s *_wrap_AmpmodemCreate_liquid_7b08cc538ffcb585(float _swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   float arg1 ;
   liquid_ampmodem_type arg2 ;
   int arg3 ;
@@ -26035,7 +26035,7 @@ ampmodem_s *_wrap_ampmodem_create_liquid_24d78331e3228d7c(float _swig_go_0, intg
 }
 
 
-void _wrap_ampmodem_destroy_liquid_24d78331e3228d7c(ampmodem_s *_swig_go_0) {
+void _wrap_AmpmodemDestroy_liquid_7b08cc538ffcb585(ampmodem_s *_swig_go_0) {
   ampmodem arg1 = (ampmodem) 0 ;
   
   arg1 = *(ampmodem *)&_swig_go_0; 
@@ -26045,7 +26045,7 @@ void _wrap_ampmodem_destroy_liquid_24d78331e3228d7c(ampmodem_s *_swig_go_0) {
 }
 
 
-void _wrap_ampmodem_print_liquid_24d78331e3228d7c(ampmodem_s *_swig_go_0) {
+void _wrap_AmpmodemPrint_liquid_7b08cc538ffcb585(ampmodem_s *_swig_go_0) {
   ampmodem arg1 = (ampmodem) 0 ;
   
   arg1 = *(ampmodem *)&_swig_go_0; 
@@ -26055,7 +26055,7 @@ void _wrap_ampmodem_print_liquid_24d78331e3228d7c(ampmodem_s *_swig_go_0) {
 }
 
 
-void _wrap_ampmodem_reset_liquid_24d78331e3228d7c(ampmodem_s *_swig_go_0) {
+void _wrap_AmpmodemReset_liquid_7b08cc538ffcb585(ampmodem_s *_swig_go_0) {
   ampmodem arg1 = (ampmodem) 0 ;
   
   arg1 = *(ampmodem *)&_swig_go_0; 
@@ -26065,7 +26065,7 @@ void _wrap_ampmodem_reset_liquid_24d78331e3228d7c(ampmodem_s *_swig_go_0) {
 }
 
 
-intgo _wrap_ampmodem_get_delay_mod_liquid_24d78331e3228d7c(ampmodem_s *_swig_go_0) {
+intgo _wrap_AmpmodemGetDelayMod_liquid_7b08cc538ffcb585(ampmodem_s *_swig_go_0) {
   ampmodem arg1 = (ampmodem) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -26078,7 +26078,7 @@ intgo _wrap_ampmodem_get_delay_mod_liquid_24d78331e3228d7c(ampmodem_s *_swig_go_
 }
 
 
-intgo _wrap_ampmodem_get_delay_demod_liquid_24d78331e3228d7c(ampmodem_s *_swig_go_0) {
+intgo _wrap_AmpmodemGetDelayDemod_liquid_7b08cc538ffcb585(ampmodem_s *_swig_go_0) {
   ampmodem arg1 = (ampmodem) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -26091,7 +26091,7 @@ intgo _wrap_ampmodem_get_delay_demod_liquid_24d78331e3228d7c(ampmodem_s *_swig_g
 }
 
 
-void _wrap_ampmodem_modulate_liquid_24d78331e3228d7c(ampmodem_s *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_AmpmodemModulate_liquid_7b08cc538ffcb585(ampmodem_s *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
   ampmodem arg1 = (ampmodem) 0 ;
   float arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -26105,7 +26105,7 @@ void _wrap_ampmodem_modulate_liquid_24d78331e3228d7c(ampmodem_s *_swig_go_0, flo
 }
 
 
-void _wrap_ampmodem_modulate_block_liquid_24d78331e3228d7c(ampmodem_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_AmpmodemModulateBlock_liquid_7b08cc538ffcb585(ampmodem_s *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   ampmodem arg1 = (ampmodem) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -26121,7 +26121,7 @@ void _wrap_ampmodem_modulate_block_liquid_24d78331e3228d7c(ampmodem_s *_swig_go_
 }
 
 
-void _wrap_ampmodem_demodulate_liquid_24d78331e3228d7c(ampmodem_s *_swig_go_0, liquid_float_complex *_swig_go_1, float *_swig_go_2) {
+void _wrap_AmpmodemDemodulate_liquid_7b08cc538ffcb585(ampmodem_s *_swig_go_0, liquid_float_complex *_swig_go_1, float *_swig_go_2) {
   ampmodem arg1 = (ampmodem) 0 ;
   liquid_float_complex arg2 ;
   float *arg3 = (float *) 0 ;
@@ -26142,7 +26142,7 @@ void _wrap_ampmodem_demodulate_liquid_24d78331e3228d7c(ampmodem_s *_swig_go_0, l
 }
 
 
-void _wrap_ampmodem_demodulate_block_liquid_24d78331e3228d7c(ampmodem_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_AmpmodemDemodulateBlock_liquid_7b08cc538ffcb585(ampmodem_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   ampmodem arg1 = (ampmodem) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -26158,7 +26158,7 @@ void _wrap_ampmodem_demodulate_block_liquid_24d78331e3228d7c(ampmodem_s *_swig_g
 }
 
 
-firpfbch_crcf_s *_wrap_firpfbch_crcf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+firpfbch_crcf_s *_wrap_FirpfbchCrcfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -26177,7 +26177,7 @@ firpfbch_crcf_s *_wrap_firpfbch_crcf_create_liquid_24d78331e3228d7c(intgo _swig_
 }
 
 
-firpfbch_crcf_s *_wrap_firpfbch_crcf_create_kaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3) {
+firpfbch_crcf_s *_wrap_FirpfbchCrcfCreateKaiser_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -26196,7 +26196,7 @@ firpfbch_crcf_s *_wrap_firpfbch_crcf_create_kaiser_liquid_24d78331e3228d7c(intgo
 }
 
 
-firpfbch_crcf_s *_wrap_firpfbch_crcf_create_rnyquist_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, intgo _swig_go_4) {
+firpfbch_crcf_s *_wrap_FirpfbchCrcfCreateRnyquist_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, intgo _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -26217,7 +26217,7 @@ firpfbch_crcf_s *_wrap_firpfbch_crcf_create_rnyquist_liquid_24d78331e3228d7c(int
 }
 
 
-void _wrap_firpfbch_crcf_destroy_liquid_24d78331e3228d7c(firpfbch_crcf_s *_swig_go_0) {
+void _wrap_FirpfbchCrcfDestroy_liquid_7b08cc538ffcb585(firpfbch_crcf_s *_swig_go_0) {
   firpfbch_crcf arg1 = (firpfbch_crcf) 0 ;
   
   arg1 = *(firpfbch_crcf *)&_swig_go_0; 
@@ -26227,7 +26227,7 @@ void _wrap_firpfbch_crcf_destroy_liquid_24d78331e3228d7c(firpfbch_crcf_s *_swig_
 }
 
 
-void _wrap_firpfbch_crcf_reset_liquid_24d78331e3228d7c(firpfbch_crcf_s *_swig_go_0) {
+void _wrap_FirpfbchCrcfReset_liquid_7b08cc538ffcb585(firpfbch_crcf_s *_swig_go_0) {
   firpfbch_crcf arg1 = (firpfbch_crcf) 0 ;
   
   arg1 = *(firpfbch_crcf *)&_swig_go_0; 
@@ -26237,7 +26237,7 @@ void _wrap_firpfbch_crcf_reset_liquid_24d78331e3228d7c(firpfbch_crcf_s *_swig_go
 }
 
 
-void _wrap_firpfbch_crcf_print_liquid_24d78331e3228d7c(firpfbch_crcf_s *_swig_go_0) {
+void _wrap_FirpfbchCrcfPrint_liquid_7b08cc538ffcb585(firpfbch_crcf_s *_swig_go_0) {
   firpfbch_crcf arg1 = (firpfbch_crcf) 0 ;
   
   arg1 = *(firpfbch_crcf *)&_swig_go_0; 
@@ -26247,7 +26247,7 @@ void _wrap_firpfbch_crcf_print_liquid_24d78331e3228d7c(firpfbch_crcf_s *_swig_go
 }
 
 
-void _wrap_firpfbch_crcf_synthesizer_execute_liquid_24d78331e3228d7c(firpfbch_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_FirpfbchCrcfSynthesizerExecute_liquid_7b08cc538ffcb585(firpfbch_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   firpfbch_crcf arg1 = (firpfbch_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -26261,7 +26261,7 @@ void _wrap_firpfbch_crcf_synthesizer_execute_liquid_24d78331e3228d7c(firpfbch_cr
 }
 
 
-void _wrap_firpfbch_crcf_analyzer_execute_liquid_24d78331e3228d7c(firpfbch_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_FirpfbchCrcfAnalyzerExecute_liquid_7b08cc538ffcb585(firpfbch_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   firpfbch_crcf arg1 = (firpfbch_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -26275,7 +26275,7 @@ void _wrap_firpfbch_crcf_analyzer_execute_liquid_24d78331e3228d7c(firpfbch_crcf_
 }
 
 
-firpfbch_cccf_s *_wrap_firpfbch_cccf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+firpfbch_cccf_s *_wrap_FirpfbchCccfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -26294,7 +26294,7 @@ firpfbch_cccf_s *_wrap_firpfbch_cccf_create_liquid_24d78331e3228d7c(intgo _swig_
 }
 
 
-firpfbch_cccf_s *_wrap_firpfbch_cccf_create_kaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3) {
+firpfbch_cccf_s *_wrap_FirpfbchCccfCreateKaiser_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -26313,7 +26313,7 @@ firpfbch_cccf_s *_wrap_firpfbch_cccf_create_kaiser_liquid_24d78331e3228d7c(intgo
 }
 
 
-firpfbch_cccf_s *_wrap_firpfbch_cccf_create_rnyquist_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, intgo _swig_go_4) {
+firpfbch_cccf_s *_wrap_FirpfbchCccfCreateRnyquist_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3, intgo _swig_go_4) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -26334,7 +26334,7 @@ firpfbch_cccf_s *_wrap_firpfbch_cccf_create_rnyquist_liquid_24d78331e3228d7c(int
 }
 
 
-void _wrap_firpfbch_cccf_destroy_liquid_24d78331e3228d7c(firpfbch_cccf_s *_swig_go_0) {
+void _wrap_FirpfbchCccfDestroy_liquid_7b08cc538ffcb585(firpfbch_cccf_s *_swig_go_0) {
   firpfbch_cccf arg1 = (firpfbch_cccf) 0 ;
   
   arg1 = *(firpfbch_cccf *)&_swig_go_0; 
@@ -26344,7 +26344,7 @@ void _wrap_firpfbch_cccf_destroy_liquid_24d78331e3228d7c(firpfbch_cccf_s *_swig_
 }
 
 
-void _wrap_firpfbch_cccf_reset_liquid_24d78331e3228d7c(firpfbch_cccf_s *_swig_go_0) {
+void _wrap_FirpfbchCccfReset_liquid_7b08cc538ffcb585(firpfbch_cccf_s *_swig_go_0) {
   firpfbch_cccf arg1 = (firpfbch_cccf) 0 ;
   
   arg1 = *(firpfbch_cccf *)&_swig_go_0; 
@@ -26354,7 +26354,7 @@ void _wrap_firpfbch_cccf_reset_liquid_24d78331e3228d7c(firpfbch_cccf_s *_swig_go
 }
 
 
-void _wrap_firpfbch_cccf_print_liquid_24d78331e3228d7c(firpfbch_cccf_s *_swig_go_0) {
+void _wrap_FirpfbchCccfPrint_liquid_7b08cc538ffcb585(firpfbch_cccf_s *_swig_go_0) {
   firpfbch_cccf arg1 = (firpfbch_cccf) 0 ;
   
   arg1 = *(firpfbch_cccf *)&_swig_go_0; 
@@ -26364,7 +26364,7 @@ void _wrap_firpfbch_cccf_print_liquid_24d78331e3228d7c(firpfbch_cccf_s *_swig_go
 }
 
 
-void _wrap_firpfbch_cccf_synthesizer_execute_liquid_24d78331e3228d7c(firpfbch_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_FirpfbchCccfSynthesizerExecute_liquid_7b08cc538ffcb585(firpfbch_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   firpfbch_cccf arg1 = (firpfbch_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -26378,7 +26378,7 @@ void _wrap_firpfbch_cccf_synthesizer_execute_liquid_24d78331e3228d7c(firpfbch_cc
 }
 
 
-void _wrap_firpfbch_cccf_analyzer_execute_liquid_24d78331e3228d7c(firpfbch_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_FirpfbchCccfAnalyzerExecute_liquid_7b08cc538ffcb585(firpfbch_cccf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   firpfbch_cccf arg1 = (firpfbch_cccf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -26392,7 +26392,7 @@ void _wrap_firpfbch_cccf_analyzer_execute_liquid_24d78331e3228d7c(firpfbch_cccf_
 }
 
 
-firpfbch2_crcf_s *_wrap_firpfbch2_crcf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+firpfbch2_crcf_s *_wrap_Firpfbch2CrcfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -26411,7 +26411,7 @@ firpfbch2_crcf_s *_wrap_firpfbch2_crcf_create_liquid_24d78331e3228d7c(intgo _swi
 }
 
 
-firpfbch2_crcf_s *_wrap_firpfbch2_crcf_create_kaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3) {
+firpfbch2_crcf_s *_wrap_Firpfbch2CrcfCreateKaiser_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3) {
   int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -26430,7 +26430,7 @@ firpfbch2_crcf_s *_wrap_firpfbch2_crcf_create_kaiser_liquid_24d78331e3228d7c(int
 }
 
 
-void _wrap_firpfbch2_crcf_destroy_liquid_24d78331e3228d7c(firpfbch2_crcf_s *_swig_go_0) {
+void _wrap_Firpfbch2CrcfDestroy_liquid_7b08cc538ffcb585(firpfbch2_crcf_s *_swig_go_0) {
   firpfbch2_crcf arg1 = (firpfbch2_crcf) 0 ;
   
   arg1 = *(firpfbch2_crcf *)&_swig_go_0; 
@@ -26440,7 +26440,7 @@ void _wrap_firpfbch2_crcf_destroy_liquid_24d78331e3228d7c(firpfbch2_crcf_s *_swi
 }
 
 
-void _wrap_firpfbch2_crcf_reset_liquid_24d78331e3228d7c(firpfbch2_crcf_s *_swig_go_0) {
+void _wrap_Firpfbch2CrcfReset_liquid_7b08cc538ffcb585(firpfbch2_crcf_s *_swig_go_0) {
   firpfbch2_crcf arg1 = (firpfbch2_crcf) 0 ;
   
   arg1 = *(firpfbch2_crcf *)&_swig_go_0; 
@@ -26450,7 +26450,7 @@ void _wrap_firpfbch2_crcf_reset_liquid_24d78331e3228d7c(firpfbch2_crcf_s *_swig_
 }
 
 
-void _wrap_firpfbch2_crcf_print_liquid_24d78331e3228d7c(firpfbch2_crcf_s *_swig_go_0) {
+void _wrap_Firpfbch2CrcfPrint_liquid_7b08cc538ffcb585(firpfbch2_crcf_s *_swig_go_0) {
   firpfbch2_crcf arg1 = (firpfbch2_crcf) 0 ;
   
   arg1 = *(firpfbch2_crcf *)&_swig_go_0; 
@@ -26460,7 +26460,7 @@ void _wrap_firpfbch2_crcf_print_liquid_24d78331e3228d7c(firpfbch2_crcf_s *_swig_
 }
 
 
-void _wrap_firpfbch2_crcf_execute_liquid_24d78331e3228d7c(firpfbch2_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_Firpfbch2CrcfExecute_liquid_7b08cc538ffcb585(firpfbch2_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   firpfbch2_crcf arg1 = (firpfbch2_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -26474,7 +26474,7 @@ void _wrap_firpfbch2_crcf_execute_liquid_24d78331e3228d7c(firpfbch2_crcf_s *_swi
 }
 
 
-firpfbchr_crcf_s *_wrap_firpfbchr_crcf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+firpfbchr_crcf_s *_wrap_FirpfbchrCrcfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -26493,7 +26493,7 @@ firpfbchr_crcf_s *_wrap_firpfbchr_crcf_create_liquid_24d78331e3228d7c(intgo _swi
 }
 
 
-firpfbchr_crcf_s *_wrap_firpfbchr_crcf_create_kaiser_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3) {
+firpfbchr_crcf_s *_wrap_FirpfbchrCrcfCreateKaiser_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, float _swig_go_3) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -26512,7 +26512,7 @@ firpfbchr_crcf_s *_wrap_firpfbchr_crcf_create_kaiser_liquid_24d78331e3228d7c(int
 }
 
 
-void _wrap_firpfbchr_crcf_destroy_liquid_24d78331e3228d7c(firpfbchr_crcf_s *_swig_go_0) {
+void _wrap_FirpfbchrCrcfDestroy_liquid_7b08cc538ffcb585(firpfbchr_crcf_s *_swig_go_0) {
   firpfbchr_crcf arg1 = (firpfbchr_crcf) 0 ;
   
   arg1 = *(firpfbchr_crcf *)&_swig_go_0; 
@@ -26522,7 +26522,7 @@ void _wrap_firpfbchr_crcf_destroy_liquid_24d78331e3228d7c(firpfbchr_crcf_s *_swi
 }
 
 
-void _wrap_firpfbchr_crcf_reset_liquid_24d78331e3228d7c(firpfbchr_crcf_s *_swig_go_0) {
+void _wrap_FirpfbchrCrcfReset_liquid_7b08cc538ffcb585(firpfbchr_crcf_s *_swig_go_0) {
   firpfbchr_crcf arg1 = (firpfbchr_crcf) 0 ;
   
   arg1 = *(firpfbchr_crcf *)&_swig_go_0; 
@@ -26532,7 +26532,7 @@ void _wrap_firpfbchr_crcf_reset_liquid_24d78331e3228d7c(firpfbchr_crcf_s *_swig_
 }
 
 
-void _wrap_firpfbchr_crcf_print_liquid_24d78331e3228d7c(firpfbchr_crcf_s *_swig_go_0) {
+void _wrap_FirpfbchrCrcfPrint_liquid_7b08cc538ffcb585(firpfbchr_crcf_s *_swig_go_0) {
   firpfbchr_crcf arg1 = (firpfbchr_crcf) 0 ;
   
   arg1 = *(firpfbchr_crcf *)&_swig_go_0; 
@@ -26542,7 +26542,7 @@ void _wrap_firpfbchr_crcf_print_liquid_24d78331e3228d7c(firpfbchr_crcf_s *_swig_
 }
 
 
-intgo _wrap_firpfbchr_crcf_get_M_liquid_24d78331e3228d7c(firpfbchr_crcf_s *_swig_go_0) {
+intgo _wrap_FirpfbchrCrcfGetM_liquid_7b08cc538ffcb585(firpfbchr_crcf_s *_swig_go_0) {
   firpfbchr_crcf arg1 = (firpfbchr_crcf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -26555,7 +26555,7 @@ intgo _wrap_firpfbchr_crcf_get_M_liquid_24d78331e3228d7c(firpfbchr_crcf_s *_swig
 }
 
 
-intgo _wrap_firpfbchr_crcf_get_P_liquid_24d78331e3228d7c(firpfbchr_crcf_s *_swig_go_0) {
+intgo _wrap_FirpfbchrCrcfGetP_liquid_7b08cc538ffcb585(firpfbchr_crcf_s *_swig_go_0) {
   firpfbchr_crcf arg1 = (firpfbchr_crcf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -26568,20 +26568,7 @@ intgo _wrap_firpfbchr_crcf_get_P_liquid_24d78331e3228d7c(firpfbchr_crcf_s *_swig
 }
 
 
-intgo _wrap_firpfbchr_crcf_get_m_liquid_24d78331e3228d7c(firpfbchr_crcf_s *_swig_go_0) {
-  firpfbchr_crcf arg1 = (firpfbchr_crcf) 0 ;
-  unsigned int result;
-  intgo _swig_go_result;
-  
-  arg1 = *(firpfbchr_crcf *)&_swig_go_0; 
-  
-  result = (unsigned int)firpfbchr_crcf_get_m(arg1);
-  _swig_go_result = result; 
-  return _swig_go_result;
-}
-
-
-void _wrap_firpfbchr_crcf_push_liquid_24d78331e3228d7c(firpfbchr_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_FirpfbchrCrcfPush_liquid_7b08cc538ffcb585(firpfbchr_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   firpfbchr_crcf arg1 = (firpfbchr_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -26593,7 +26580,7 @@ void _wrap_firpfbchr_crcf_push_liquid_24d78331e3228d7c(firpfbchr_crcf_s *_swig_g
 }
 
 
-void _wrap_firpfbchr_crcf_execute_liquid_24d78331e3228d7c(firpfbchr_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_FirpfbchrCrcfExecute_liquid_7b08cc538ffcb585(firpfbchr_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   firpfbchr_crcf arg1 = (firpfbchr_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -26605,7 +26592,7 @@ void _wrap_firpfbchr_crcf_execute_liquid_24d78331e3228d7c(firpfbchr_crcf_s *_swi
 }
 
 
-void _wrap_ofdmframe_init_default_sctype_liquid_24d78331e3228d7c(intgo _swig_go_0, char *_swig_go_1) {
+void _wrap_OfdmframeInitDefaultSctype_liquid_7b08cc538ffcb585(intgo _swig_go_0, char *_swig_go_1) {
   unsigned int arg1 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   
@@ -26617,7 +26604,7 @@ void _wrap_ofdmframe_init_default_sctype_liquid_24d78331e3228d7c(intgo _swig_go_
 }
 
 
-void _wrap_ofdmframe_init_sctype_range_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1, float _swig_go_2, char *_swig_go_3) {
+void _wrap_OfdmframeInitSctypeRange_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1, float _swig_go_2, char *_swig_go_3) {
   unsigned int arg1 ;
   float arg2 ;
   float arg3 ;
@@ -26633,7 +26620,7 @@ void _wrap_ofdmframe_init_sctype_range_liquid_24d78331e3228d7c(intgo _swig_go_0,
 }
 
 
-void _wrap_ofdmframe_validate_sctype_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_go_1, intgo *_swig_go_2, intgo *_swig_go_3, intgo *_swig_go_4) {
+void _wrap_OfdmframeValidateSctype_liquid_7b08cc538ffcb585(char *_swig_go_0, intgo _swig_go_1, intgo *_swig_go_2, intgo *_swig_go_3, intgo *_swig_go_4) {
   unsigned char *arg1 = (unsigned char *) 0 ;
   unsigned int arg2 ;
   unsigned int *arg3 = (unsigned int *) 0 ;
@@ -26651,7 +26638,7 @@ void _wrap_ofdmframe_validate_sctype_liquid_24d78331e3228d7c(char *_swig_go_0, i
 }
 
 
-void _wrap_ofdmframe_print_sctype_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_go_1) {
+void _wrap_OfdmframePrintSctype_liquid_7b08cc538ffcb585(char *_swig_go_0, intgo _swig_go_1) {
   unsigned char *arg1 = (unsigned char *) 0 ;
   unsigned int arg2 ;
   
@@ -26663,7 +26650,7 @@ void _wrap_ofdmframe_print_sctype_liquid_24d78331e3228d7c(char *_swig_go_0, intg
 }
 
 
-ofdmframegen_s *_wrap_ofdmframegen_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, char *_swig_go_3) {
+ofdmframegen_s *_wrap_OfdmframegenCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, char *_swig_go_3) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -26682,7 +26669,7 @@ ofdmframegen_s *_wrap_ofdmframegen_create_liquid_24d78331e3228d7c(intgo _swig_go
 }
 
 
-void _wrap_ofdmframegen_destroy_liquid_24d78331e3228d7c(ofdmframegen_s *_swig_go_0) {
+void _wrap_OfdmframegenDestroy_liquid_7b08cc538ffcb585(ofdmframegen_s *_swig_go_0) {
   ofdmframegen arg1 = (ofdmframegen) 0 ;
   
   arg1 = *(ofdmframegen *)&_swig_go_0; 
@@ -26692,7 +26679,7 @@ void _wrap_ofdmframegen_destroy_liquid_24d78331e3228d7c(ofdmframegen_s *_swig_go
 }
 
 
-void _wrap_ofdmframegen_print_liquid_24d78331e3228d7c(ofdmframegen_s *_swig_go_0) {
+void _wrap_OfdmframegenPrint_liquid_7b08cc538ffcb585(ofdmframegen_s *_swig_go_0) {
   ofdmframegen arg1 = (ofdmframegen) 0 ;
   
   arg1 = *(ofdmframegen *)&_swig_go_0; 
@@ -26702,7 +26689,7 @@ void _wrap_ofdmframegen_print_liquid_24d78331e3228d7c(ofdmframegen_s *_swig_go_0
 }
 
 
-void _wrap_ofdmframegen_reset_liquid_24d78331e3228d7c(ofdmframegen_s *_swig_go_0) {
+void _wrap_OfdmframegenReset_liquid_7b08cc538ffcb585(ofdmframegen_s *_swig_go_0) {
   ofdmframegen arg1 = (ofdmframegen) 0 ;
   
   arg1 = *(ofdmframegen *)&_swig_go_0; 
@@ -26712,7 +26699,7 @@ void _wrap_ofdmframegen_reset_liquid_24d78331e3228d7c(ofdmframegen_s *_swig_go_0
 }
 
 
-void _wrap_ofdmframegen_write_S0a_liquid_24d78331e3228d7c(ofdmframegen_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_OfdmframegenWriteS0a_liquid_7b08cc538ffcb585(ofdmframegen_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   ofdmframegen arg1 = (ofdmframegen) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -26724,7 +26711,7 @@ void _wrap_ofdmframegen_write_S0a_liquid_24d78331e3228d7c(ofdmframegen_s *_swig_
 }
 
 
-void _wrap_ofdmframegen_write_S0b_liquid_24d78331e3228d7c(ofdmframegen_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_OfdmframegenWriteS0b_liquid_7b08cc538ffcb585(ofdmframegen_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   ofdmframegen arg1 = (ofdmframegen) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -26736,7 +26723,7 @@ void _wrap_ofdmframegen_write_S0b_liquid_24d78331e3228d7c(ofdmframegen_s *_swig_
 }
 
 
-void _wrap_ofdmframegen_write_S1_liquid_24d78331e3228d7c(ofdmframegen_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_OfdmframegenWriteS1_liquid_7b08cc538ffcb585(ofdmframegen_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   ofdmframegen arg1 = (ofdmframegen) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -26748,7 +26735,7 @@ void _wrap_ofdmframegen_write_S1_liquid_24d78331e3228d7c(ofdmframegen_s *_swig_g
 }
 
 
-void _wrap_ofdmframegen_writesymbol_liquid_24d78331e3228d7c(ofdmframegen_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_OfdmframegenWritesymbol_liquid_7b08cc538ffcb585(ofdmframegen_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   ofdmframegen arg1 = (ofdmframegen) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -26762,7 +26749,7 @@ void _wrap_ofdmframegen_writesymbol_liquid_24d78331e3228d7c(ofdmframegen_s *_swi
 }
 
 
-void _wrap_ofdmframegen_writetail_liquid_24d78331e3228d7c(ofdmframegen_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_OfdmframegenWritetail_liquid_7b08cc538ffcb585(ofdmframegen_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   ofdmframegen arg1 = (ofdmframegen) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -26774,7 +26761,7 @@ void _wrap_ofdmframegen_writetail_liquid_24d78331e3228d7c(ofdmframegen_s *_swig_
 }
 
 
-ofdmframesync_s *_wrap_ofdmframesync_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, char *_swig_go_3, void* _swig_go_4, void *_swig_go_5) {
+ofdmframesync_s *_wrap_OfdmframesyncCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, char *_swig_go_3, void* _swig_go_4, void *_swig_go_5) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -26797,7 +26784,7 @@ ofdmframesync_s *_wrap_ofdmframesync_create_liquid_24d78331e3228d7c(intgo _swig_
 }
 
 
-void _wrap_ofdmframesync_destroy_liquid_24d78331e3228d7c(ofdmframesync_s *_swig_go_0) {
+void _wrap_OfdmframesyncDestroy_liquid_7b08cc538ffcb585(ofdmframesync_s *_swig_go_0) {
   ofdmframesync arg1 = (ofdmframesync) 0 ;
   
   arg1 = *(ofdmframesync *)&_swig_go_0; 
@@ -26807,7 +26794,7 @@ void _wrap_ofdmframesync_destroy_liquid_24d78331e3228d7c(ofdmframesync_s *_swig_
 }
 
 
-void _wrap_ofdmframesync_print_liquid_24d78331e3228d7c(ofdmframesync_s *_swig_go_0) {
+void _wrap_OfdmframesyncPrint_liquid_7b08cc538ffcb585(ofdmframesync_s *_swig_go_0) {
   ofdmframesync arg1 = (ofdmframesync) 0 ;
   
   arg1 = *(ofdmframesync *)&_swig_go_0; 
@@ -26817,7 +26804,7 @@ void _wrap_ofdmframesync_print_liquid_24d78331e3228d7c(ofdmframesync_s *_swig_go
 }
 
 
-void _wrap_ofdmframesync_reset_liquid_24d78331e3228d7c(ofdmframesync_s *_swig_go_0) {
+void _wrap_OfdmframesyncReset_liquid_7b08cc538ffcb585(ofdmframesync_s *_swig_go_0) {
   ofdmframesync arg1 = (ofdmframesync) 0 ;
   
   arg1 = *(ofdmframesync *)&_swig_go_0; 
@@ -26827,7 +26814,7 @@ void _wrap_ofdmframesync_reset_liquid_24d78331e3228d7c(ofdmframesync_s *_swig_go
 }
 
 
-intgo _wrap_ofdmframesync_is_frame_open_liquid_24d78331e3228d7c(ofdmframesync_s *_swig_go_0) {
+intgo _wrap_OfdmframesyncIsFrameOpen_liquid_7b08cc538ffcb585(ofdmframesync_s *_swig_go_0) {
   ofdmframesync arg1 = (ofdmframesync) 0 ;
   int result;
   intgo _swig_go_result;
@@ -26840,7 +26827,7 @@ intgo _wrap_ofdmframesync_is_frame_open_liquid_24d78331e3228d7c(ofdmframesync_s 
 }
 
 
-void _wrap_ofdmframesync_execute_liquid_24d78331e3228d7c(ofdmframesync_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
+void _wrap_OfdmframesyncExecute_liquid_7b08cc538ffcb585(ofdmframesync_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2) {
   ofdmframesync arg1 = (ofdmframesync) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -26854,7 +26841,7 @@ void _wrap_ofdmframesync_execute_liquid_24d78331e3228d7c(ofdmframesync_s *_swig_
 }
 
 
-float _wrap_ofdmframesync_get_rssi_liquid_24d78331e3228d7c(ofdmframesync_s *_swig_go_0) {
+float _wrap_OfdmframesyncGetRssi_liquid_7b08cc538ffcb585(ofdmframesync_s *_swig_go_0) {
   ofdmframesync arg1 = (ofdmframesync) 0 ;
   float result;
   float _swig_go_result;
@@ -26867,7 +26854,7 @@ float _wrap_ofdmframesync_get_rssi_liquid_24d78331e3228d7c(ofdmframesync_s *_swi
 }
 
 
-float _wrap_ofdmframesync_get_cfo_liquid_24d78331e3228d7c(ofdmframesync_s *_swig_go_0) {
+float _wrap_OfdmframesyncGetCfo_liquid_7b08cc538ffcb585(ofdmframesync_s *_swig_go_0) {
   ofdmframesync arg1 = (ofdmframesync) 0 ;
   float result;
   float _swig_go_result;
@@ -26880,7 +26867,7 @@ float _wrap_ofdmframesync_get_cfo_liquid_24d78331e3228d7c(ofdmframesync_s *_swig
 }
 
 
-void _wrap_ofdmframesync_set_cfo_liquid_24d78331e3228d7c(ofdmframesync_s *_swig_go_0, float _swig_go_1) {
+void _wrap_OfdmframesyncSetCfo_liquid_7b08cc538ffcb585(ofdmframesync_s *_swig_go_0, float _swig_go_1) {
   ofdmframesync arg1 = (ofdmframesync) 0 ;
   float arg2 ;
   
@@ -26892,7 +26879,7 @@ void _wrap_ofdmframesync_set_cfo_liquid_24d78331e3228d7c(ofdmframesync_s *_swig_
 }
 
 
-void _wrap_ofdmframesync_debug_enable_liquid_24d78331e3228d7c(ofdmframesync_s *_swig_go_0) {
+void _wrap_OfdmframesyncDebugEnable_liquid_7b08cc538ffcb585(ofdmframesync_s *_swig_go_0) {
   ofdmframesync arg1 = (ofdmframesync) 0 ;
   
   arg1 = *(ofdmframesync *)&_swig_go_0; 
@@ -26902,7 +26889,7 @@ void _wrap_ofdmframesync_debug_enable_liquid_24d78331e3228d7c(ofdmframesync_s *_
 }
 
 
-void _wrap_ofdmframesync_debug_disable_liquid_24d78331e3228d7c(ofdmframesync_s *_swig_go_0) {
+void _wrap_OfdmframesyncDebugDisable_liquid_7b08cc538ffcb585(ofdmframesync_s *_swig_go_0) {
   ofdmframesync arg1 = (ofdmframesync) 0 ;
   
   arg1 = *(ofdmframesync *)&_swig_go_0; 
@@ -26912,7 +26899,7 @@ void _wrap_ofdmframesync_debug_disable_liquid_24d78331e3228d7c(ofdmframesync_s *
 }
 
 
-void _wrap_ofdmframesync_debug_print_liquid_24d78331e3228d7c(ofdmframesync_s *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_OfdmframesyncDebugPrint_liquid_7b08cc538ffcb585(ofdmframesync_s *_swig_go_0, _gostring_ _swig_go_1) {
   ofdmframesync arg1 = (ofdmframesync) 0 ;
   char *arg2 = (char *) 0 ;
   
@@ -26929,7 +26916,7 @@ void _wrap_ofdmframesync_debug_print_liquid_24d78331e3228d7c(ofdmframesync_s *_s
 }
 
 
-intgo _wrap_LIQUID_NCO_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDNCO_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -26941,7 +26928,7 @@ intgo _wrap_LIQUID_NCO_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_VCO_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDVCO_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -26953,7 +26940,7 @@ intgo _wrap_LIQUID_VCO_liquid_24d78331e3228d7c() {
 }
 
 
-nco_crcf_s *_wrap_nco_crcf_create_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+nco_crcf_s *_wrap_NcoCrcfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   liquid_ncotype arg1 ;
   nco_crcf result;
   nco_crcf_s *_swig_go_result;
@@ -26966,7 +26953,7 @@ nco_crcf_s *_wrap_nco_crcf_create_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-void _wrap_nco_crcf_destroy_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0) {
+void _wrap_NcoCrcfDestroy_liquid_7b08cc538ffcb585(nco_crcf_s *_swig_go_0) {
   nco_crcf arg1 = (nco_crcf) 0 ;
   
   arg1 = *(nco_crcf *)&_swig_go_0; 
@@ -26976,7 +26963,7 @@ void _wrap_nco_crcf_destroy_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0) {
 }
 
 
-void _wrap_nco_crcf_print_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0) {
+void _wrap_NcoCrcfPrint_liquid_7b08cc538ffcb585(nco_crcf_s *_swig_go_0) {
   nco_crcf arg1 = (nco_crcf) 0 ;
   
   arg1 = *(nco_crcf *)&_swig_go_0; 
@@ -26986,7 +26973,7 @@ void _wrap_nco_crcf_print_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0) {
 }
 
 
-void _wrap_nco_crcf_reset_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0) {
+void _wrap_NcoCrcfReset_liquid_7b08cc538ffcb585(nco_crcf_s *_swig_go_0) {
   nco_crcf arg1 = (nco_crcf) 0 ;
   
   arg1 = *(nco_crcf *)&_swig_go_0; 
@@ -26996,7 +26983,7 @@ void _wrap_nco_crcf_reset_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0) {
 }
 
 
-float _wrap_nco_crcf_get_frequency_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0) {
+float _wrap_NcoCrcfGetFrequency_liquid_7b08cc538ffcb585(nco_crcf_s *_swig_go_0) {
   nco_crcf arg1 = (nco_crcf) 0 ;
   float result;
   float _swig_go_result;
@@ -27009,7 +26996,7 @@ float _wrap_nco_crcf_get_frequency_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_
 }
 
 
-void _wrap_nco_crcf_set_frequency_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_NcoCrcfSetFrequency_liquid_7b08cc538ffcb585(nco_crcf_s *_swig_go_0, float _swig_go_1) {
   nco_crcf arg1 = (nco_crcf) 0 ;
   float arg2 ;
   
@@ -27021,7 +27008,7 @@ void _wrap_nco_crcf_set_frequency_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0
 }
 
 
-void _wrap_nco_crcf_adjust_frequency_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_NcoCrcfAdjustFrequency_liquid_7b08cc538ffcb585(nco_crcf_s *_swig_go_0, float _swig_go_1) {
   nco_crcf arg1 = (nco_crcf) 0 ;
   float arg2 ;
   
@@ -27033,7 +27020,7 @@ void _wrap_nco_crcf_adjust_frequency_liquid_24d78331e3228d7c(nco_crcf_s *_swig_g
 }
 
 
-float _wrap_nco_crcf_get_phase_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0) {
+float _wrap_NcoCrcfGetPhase_liquid_7b08cc538ffcb585(nco_crcf_s *_swig_go_0) {
   nco_crcf arg1 = (nco_crcf) 0 ;
   float result;
   float _swig_go_result;
@@ -27046,7 +27033,7 @@ float _wrap_nco_crcf_get_phase_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0) {
 }
 
 
-void _wrap_nco_crcf_set_phase_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_NcoCrcfSetPhase_liquid_7b08cc538ffcb585(nco_crcf_s *_swig_go_0, float _swig_go_1) {
   nco_crcf arg1 = (nco_crcf) 0 ;
   float arg2 ;
   
@@ -27058,7 +27045,7 @@ void _wrap_nco_crcf_set_phase_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0, fl
 }
 
 
-void _wrap_nco_crcf_adjust_phase_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_NcoCrcfAdjustPhase_liquid_7b08cc538ffcb585(nco_crcf_s *_swig_go_0, float _swig_go_1) {
   nco_crcf arg1 = (nco_crcf) 0 ;
   float arg2 ;
   
@@ -27070,7 +27057,7 @@ void _wrap_nco_crcf_adjust_phase_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0,
 }
 
 
-void _wrap_nco_crcf_step_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0) {
+void _wrap_NcoCrcfStep_liquid_7b08cc538ffcb585(nco_crcf_s *_swig_go_0) {
   nco_crcf arg1 = (nco_crcf) 0 ;
   
   arg1 = *(nco_crcf *)&_swig_go_0; 
@@ -27080,7 +27067,7 @@ void _wrap_nco_crcf_step_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0) {
 }
 
 
-float _wrap_nco_crcf_sin_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0) {
+float _wrap_NcoCrcfSin_liquid_7b08cc538ffcb585(nco_crcf_s *_swig_go_0) {
   nco_crcf arg1 = (nco_crcf) 0 ;
   float result;
   float _swig_go_result;
@@ -27093,7 +27080,7 @@ float _wrap_nco_crcf_sin_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0) {
 }
 
 
-float _wrap_nco_crcf_cos_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0) {
+float _wrap_NcoCrcfCos_liquid_7b08cc538ffcb585(nco_crcf_s *_swig_go_0) {
   nco_crcf arg1 = (nco_crcf) 0 ;
   float result;
   float _swig_go_result;
@@ -27106,7 +27093,7 @@ float _wrap_nco_crcf_cos_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0) {
 }
 
 
-void _wrap_nco_crcf_sincos_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2) {
+void _wrap_NcoCrcfSincos_liquid_7b08cc538ffcb585(nco_crcf_s *_swig_go_0, float *_swig_go_1, float *_swig_go_2) {
   nco_crcf arg1 = (nco_crcf) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -27120,7 +27107,7 @@ void _wrap_nco_crcf_sincos_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0, float
 }
 
 
-void _wrap_nco_crcf_cexpf_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
+void _wrap_NcoCrcfCexpf_liquid_7b08cc538ffcb585(nco_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1) {
   nco_crcf arg1 = (nco_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   
@@ -27132,7 +27119,7 @@ void _wrap_nco_crcf_cexpf_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0, liquid
 }
 
 
-void _wrap_nco_crcf_pll_set_bandwidth_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_NcoCrcfPllSetBandwidth_liquid_7b08cc538ffcb585(nco_crcf_s *_swig_go_0, float _swig_go_1) {
   nco_crcf arg1 = (nco_crcf) 0 ;
   float arg2 ;
   
@@ -27144,7 +27131,7 @@ void _wrap_nco_crcf_pll_set_bandwidth_liquid_24d78331e3228d7c(nco_crcf_s *_swig_
 }
 
 
-void _wrap_nco_crcf_pll_step_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_NcoCrcfPllStep_liquid_7b08cc538ffcb585(nco_crcf_s *_swig_go_0, float _swig_go_1) {
   nco_crcf arg1 = (nco_crcf) 0 ;
   float arg2 ;
   
@@ -27156,7 +27143,7 @@ void _wrap_nco_crcf_pll_step_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0, flo
 }
 
 
-void _wrap_nco_crcf_mix_up_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_NcoCrcfMixUp_liquid_7b08cc538ffcb585(nco_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   nco_crcf arg1 = (nco_crcf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -27177,7 +27164,7 @@ void _wrap_nco_crcf_mix_up_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0, liqui
 }
 
 
-void _wrap_nco_crcf_mix_down_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_NcoCrcfMixDown_liquid_7b08cc538ffcb585(nco_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   nco_crcf arg1 = (nco_crcf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -27198,7 +27185,7 @@ void _wrap_nco_crcf_mix_down_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0, liq
 }
 
 
-void _wrap_nco_crcf_mix_block_up_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3) {
+void _wrap_NcoCrcfMixBlockUp_liquid_7b08cc538ffcb585(nco_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3) {
   nco_crcf arg1 = (nco_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -27214,7 +27201,7 @@ void _wrap_nco_crcf_mix_block_up_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0,
 }
 
 
-void _wrap_nco_crcf_mix_block_down_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3) {
+void _wrap_NcoCrcfMixBlockDown_liquid_7b08cc538ffcb585(nco_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3) {
   nco_crcf arg1 = (nco_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -27230,7 +27217,7 @@ void _wrap_nco_crcf_mix_block_down_liquid_24d78331e3228d7c(nco_crcf_s *_swig_go_
 }
 
 
-void _wrap_liquid_unwrap_phase_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1) {
+void _wrap_LiquidUnwrapPhase_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   
@@ -27242,7 +27229,7 @@ void _wrap_liquid_unwrap_phase_liquid_24d78331e3228d7c(float *_swig_go_0, intgo 
 }
 
 
-void _wrap_liquid_unwrap_phase2_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1) {
+void _wrap_LiquidUnwrapPhase2_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   
@@ -27254,7 +27241,7 @@ void _wrap_liquid_unwrap_phase2_liquid_24d78331e3228d7c(float *_swig_go_0, intgo
 }
 
 
-synth_crcf_s *_wrap_synth_crcf_create_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1) {
+synth_crcf_s *_wrap_SynthCrcfCreate_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   synth_crcf result;
@@ -27269,7 +27256,7 @@ synth_crcf_s *_wrap_synth_crcf_create_liquid_24d78331e3228d7c(liquid_float_compl
 }
 
 
-void _wrap_synth_crcf_destroy_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0) {
+void _wrap_SynthCrcfDestroy_liquid_7b08cc538ffcb585(synth_crcf_s *_swig_go_0) {
   synth_crcf arg1 = (synth_crcf) 0 ;
   
   arg1 = *(synth_crcf *)&_swig_go_0; 
@@ -27279,7 +27266,7 @@ void _wrap_synth_crcf_destroy_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0) 
 }
 
 
-void _wrap_synth_crcf_reset_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0) {
+void _wrap_SynthCrcfReset_liquid_7b08cc538ffcb585(synth_crcf_s *_swig_go_0) {
   synth_crcf arg1 = (synth_crcf) 0 ;
   
   arg1 = *(synth_crcf *)&_swig_go_0; 
@@ -27289,7 +27276,7 @@ void _wrap_synth_crcf_reset_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0) {
 }
 
 
-float _wrap_synth_crcf_get_frequency_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0) {
+float _wrap_SynthCrcfGetFrequency_liquid_7b08cc538ffcb585(synth_crcf_s *_swig_go_0) {
   synth_crcf arg1 = (synth_crcf) 0 ;
   float result;
   float _swig_go_result;
@@ -27302,7 +27289,7 @@ float _wrap_synth_crcf_get_frequency_liquid_24d78331e3228d7c(synth_crcf_s *_swig
 }
 
 
-void _wrap_synth_crcf_set_frequency_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_SynthCrcfSetFrequency_liquid_7b08cc538ffcb585(synth_crcf_s *_swig_go_0, float _swig_go_1) {
   synth_crcf arg1 = (synth_crcf) 0 ;
   float arg2 ;
   
@@ -27314,7 +27301,7 @@ void _wrap_synth_crcf_set_frequency_liquid_24d78331e3228d7c(synth_crcf_s *_swig_
 }
 
 
-void _wrap_synth_crcf_adjust_frequency_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_SynthCrcfAdjustFrequency_liquid_7b08cc538ffcb585(synth_crcf_s *_swig_go_0, float _swig_go_1) {
   synth_crcf arg1 = (synth_crcf) 0 ;
   float arg2 ;
   
@@ -27326,7 +27313,7 @@ void _wrap_synth_crcf_adjust_frequency_liquid_24d78331e3228d7c(synth_crcf_s *_sw
 }
 
 
-float _wrap_synth_crcf_get_phase_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0) {
+float _wrap_SynthCrcfGetPhase_liquid_7b08cc538ffcb585(synth_crcf_s *_swig_go_0) {
   synth_crcf arg1 = (synth_crcf) 0 ;
   float result;
   float _swig_go_result;
@@ -27339,7 +27326,7 @@ float _wrap_synth_crcf_get_phase_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_
 }
 
 
-void _wrap_synth_crcf_set_phase_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_SynthCrcfSetPhase_liquid_7b08cc538ffcb585(synth_crcf_s *_swig_go_0, float _swig_go_1) {
   synth_crcf arg1 = (synth_crcf) 0 ;
   float arg2 ;
   
@@ -27351,7 +27338,7 @@ void _wrap_synth_crcf_set_phase_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0
 }
 
 
-void _wrap_synth_crcf_adjust_phase_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_SynthCrcfAdjustPhase_liquid_7b08cc538ffcb585(synth_crcf_s *_swig_go_0, float _swig_go_1) {
   synth_crcf arg1 = (synth_crcf) 0 ;
   float arg2 ;
   
@@ -27363,7 +27350,7 @@ void _wrap_synth_crcf_adjust_phase_liquid_24d78331e3228d7c(synth_crcf_s *_swig_g
 }
 
 
-intgo _wrap_synth_crcf_get_length_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0) {
+intgo _wrap_SynthCrcfGetLength_liquid_7b08cc538ffcb585(synth_crcf_s *_swig_go_0) {
   synth_crcf arg1 = (synth_crcf) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -27376,7 +27363,7 @@ intgo _wrap_synth_crcf_get_length_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go
 }
 
 
-liquid_float_complex *_wrap_synth_crcf_get_current_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0) {
+liquid_float_complex *_wrap_SynthCrcfGetCurrent_liquid_7b08cc538ffcb585(synth_crcf_s *_swig_go_0) {
   synth_crcf arg1 = (synth_crcf) 0 ;
   liquid_float_complex result;
   liquid_float_complex *_swig_go_result;
@@ -27389,7 +27376,7 @@ liquid_float_complex *_wrap_synth_crcf_get_current_liquid_24d78331e3228d7c(synth
 }
 
 
-liquid_float_complex *_wrap_synth_crcf_get_half_previous_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0) {
+liquid_float_complex *_wrap_SynthCrcfGetHalfPrevious_liquid_7b08cc538ffcb585(synth_crcf_s *_swig_go_0) {
   synth_crcf arg1 = (synth_crcf) 0 ;
   liquid_float_complex result;
   liquid_float_complex *_swig_go_result;
@@ -27402,7 +27389,7 @@ liquid_float_complex *_wrap_synth_crcf_get_half_previous_liquid_24d78331e3228d7c
 }
 
 
-liquid_float_complex *_wrap_synth_crcf_get_half_next_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0) {
+liquid_float_complex *_wrap_SynthCrcfGetHalfNext_liquid_7b08cc538ffcb585(synth_crcf_s *_swig_go_0) {
   synth_crcf arg1 = (synth_crcf) 0 ;
   liquid_float_complex result;
   liquid_float_complex *_swig_go_result;
@@ -27415,7 +27402,7 @@ liquid_float_complex *_wrap_synth_crcf_get_half_next_liquid_24d78331e3228d7c(syn
 }
 
 
-void _wrap_synth_crcf_step_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0) {
+void _wrap_SynthCrcfStep_liquid_7b08cc538ffcb585(synth_crcf_s *_swig_go_0) {
   synth_crcf arg1 = (synth_crcf) 0 ;
   
   arg1 = *(synth_crcf *)&_swig_go_0; 
@@ -27425,7 +27412,7 @@ void _wrap_synth_crcf_step_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0) {
 }
 
 
-void _wrap_synth_crcf_pll_set_bandwidth_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_SynthCrcfPllSetBandwidth_liquid_7b08cc538ffcb585(synth_crcf_s *_swig_go_0, float _swig_go_1) {
   synth_crcf arg1 = (synth_crcf) 0 ;
   float arg2 ;
   
@@ -27437,7 +27424,7 @@ void _wrap_synth_crcf_pll_set_bandwidth_liquid_24d78331e3228d7c(synth_crcf_s *_s
 }
 
 
-void _wrap_synth_crcf_pll_step_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_SynthCrcfPllStep_liquid_7b08cc538ffcb585(synth_crcf_s *_swig_go_0, float _swig_go_1) {
   synth_crcf arg1 = (synth_crcf) 0 ;
   float arg2 ;
   
@@ -27449,7 +27436,7 @@ void _wrap_synth_crcf_pll_step_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0,
 }
 
 
-void _wrap_synth_crcf_mix_up_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_SynthCrcfMixUp_liquid_7b08cc538ffcb585(synth_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   synth_crcf arg1 = (synth_crcf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -27470,7 +27457,7 @@ void _wrap_synth_crcf_mix_up_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0, l
 }
 
 
-void _wrap_synth_crcf_mix_down_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_SynthCrcfMixDown_liquid_7b08cc538ffcb585(synth_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   synth_crcf arg1 = (synth_crcf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -27491,7 +27478,7 @@ void _wrap_synth_crcf_mix_down_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0,
 }
 
 
-void _wrap_synth_crcf_mix_block_up_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3) {
+void _wrap_SynthCrcfMixBlockUp_liquid_7b08cc538ffcb585(synth_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3) {
   synth_crcf arg1 = (synth_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -27507,7 +27494,7 @@ void _wrap_synth_crcf_mix_block_up_liquid_24d78331e3228d7c(synth_crcf_s *_swig_g
 }
 
 
-void _wrap_synth_crcf_mix_block_down_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3) {
+void _wrap_SynthCrcfMixBlockDown_liquid_7b08cc538ffcb585(synth_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3) {
   synth_crcf arg1 = (synth_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -27523,7 +27510,7 @@ void _wrap_synth_crcf_mix_block_down_liquid_24d78331e3228d7c(synth_crcf_s *_swig
 }
 
 
-void _wrap_synth_crcf_spread_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_SynthCrcfSpread_liquid_7b08cc538ffcb585(synth_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   synth_crcf arg1 = (synth_crcf) 0 ;
   liquid_float_complex arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -27544,7 +27531,7 @@ void _wrap_synth_crcf_spread_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0, l
 }
 
 
-void _wrap_synth_crcf_despread_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_SynthCrcfDespread_liquid_7b08cc538ffcb585(synth_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2) {
   synth_crcf arg1 = (synth_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -27558,7 +27545,7 @@ void _wrap_synth_crcf_despread_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0,
 }
 
 
-void _wrap_synth_crcf_despread_triple_liquid_24d78331e3228d7c(synth_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3, liquid_float_complex *_swig_go_4) {
+void _wrap_SynthCrcfDespreadTriple_liquid_7b08cc538ffcb585(synth_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3, liquid_float_complex *_swig_go_4) {
   synth_crcf arg1 = (synth_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -27576,7 +27563,7 @@ void _wrap_synth_crcf_despread_triple_liquid_24d78331e3228d7c(synth_crcf_s *_swi
 }
 
 
-float _wrap_liquid_rosenbrock_liquid_24d78331e3228d7c(void *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+float _wrap_LiquidRosenbrock_liquid_7b08cc538ffcb585(void *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   void *arg1 = (void *) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -27593,7 +27580,7 @@ float _wrap_liquid_rosenbrock_liquid_24d78331e3228d7c(void *_swig_go_0, float *_
 }
 
 
-float _wrap_liquid_invgauss_liquid_24d78331e3228d7c(void *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+float _wrap_LiquidInvgauss_liquid_7b08cc538ffcb585(void *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   void *arg1 = (void *) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -27610,7 +27597,7 @@ float _wrap_liquid_invgauss_liquid_24d78331e3228d7c(void *_swig_go_0, float *_sw
 }
 
 
-float _wrap_liquid_multimodal_liquid_24d78331e3228d7c(void *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+float _wrap_LiquidMultimodal_liquid_7b08cc538ffcb585(void *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   void *arg1 = (void *) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -27627,7 +27614,7 @@ float _wrap_liquid_multimodal_liquid_24d78331e3228d7c(void *_swig_go_0, float *_
 }
 
 
-float _wrap_liquid_spiral_liquid_24d78331e3228d7c(void *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+float _wrap_LiquidSpiral_liquid_7b08cc538ffcb585(void *_swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   void *arg1 = (void *) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -27644,7 +27631,7 @@ float _wrap_liquid_spiral_liquid_24d78331e3228d7c(void *_swig_go_0, float *_swig
 }
 
 
-intgo _wrap_LIQUID_OPTIM_MINIMIZE_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDOPTIMMINIMIZE_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -27655,7 +27642,7 @@ intgo _wrap_LIQUID_OPTIM_MINIMIZE_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_OPTIM_MAXIMIZE_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDOPTIMMAXIMIZE_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -27666,7 +27653,7 @@ intgo _wrap_LIQUID_OPTIM_MAXIMIZE_liquid_24d78331e3228d7c() {
 }
 
 
-gradsearch_s *_wrap_gradsearch_create_liquid_24d78331e3228d7c(void *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, void* _swig_go_3, intgo _swig_go_4) {
+gradsearch_s *_wrap_GradsearchCreate_liquid_7b08cc538ffcb585(void *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, void* _swig_go_3, intgo _swig_go_4) {
   void *arg1 = (void *) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -27687,7 +27674,7 @@ gradsearch_s *_wrap_gradsearch_create_liquid_24d78331e3228d7c(void *_swig_go_0, 
 }
 
 
-void _wrap_gradsearch_destroy_liquid_24d78331e3228d7c(gradsearch_s *_swig_go_0) {
+void _wrap_GradsearchDestroy_liquid_7b08cc538ffcb585(gradsearch_s *_swig_go_0) {
   gradsearch arg1 = (gradsearch) 0 ;
   
   arg1 = *(gradsearch *)&_swig_go_0; 
@@ -27697,7 +27684,7 @@ void _wrap_gradsearch_destroy_liquid_24d78331e3228d7c(gradsearch_s *_swig_go_0) 
 }
 
 
-void _wrap_gradsearch_print_liquid_24d78331e3228d7c(gradsearch_s *_swig_go_0) {
+void _wrap_GradsearchPrint_liquid_7b08cc538ffcb585(gradsearch_s *_swig_go_0) {
   gradsearch arg1 = (gradsearch) 0 ;
   
   arg1 = *(gradsearch *)&_swig_go_0; 
@@ -27707,7 +27694,7 @@ void _wrap_gradsearch_print_liquid_24d78331e3228d7c(gradsearch_s *_swig_go_0) {
 }
 
 
-float _wrap_gradsearch_step_liquid_24d78331e3228d7c(gradsearch_s *_swig_go_0) {
+float _wrap_GradsearchStep_liquid_7b08cc538ffcb585(gradsearch_s *_swig_go_0) {
   gradsearch arg1 = (gradsearch) 0 ;
   float result;
   float _swig_go_result;
@@ -27720,7 +27707,7 @@ float _wrap_gradsearch_step_liquid_24d78331e3228d7c(gradsearch_s *_swig_go_0) {
 }
 
 
-float _wrap_gradsearch_execute_liquid_24d78331e3228d7c(gradsearch_s *_swig_go_0, intgo _swig_go_1, float _swig_go_2) {
+float _wrap_GradsearchExecute_liquid_7b08cc538ffcb585(gradsearch_s *_swig_go_0, intgo _swig_go_1, float _swig_go_2) {
   gradsearch arg1 = (gradsearch) 0 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -27737,7 +27724,7 @@ float _wrap_gradsearch_execute_liquid_24d78331e3228d7c(gradsearch_s *_swig_go_0,
 }
 
 
-qnsearch_s *_wrap_qnsearch_create_liquid_24d78331e3228d7c(void *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, void* _swig_go_3, intgo _swig_go_4) {
+qnsearch_s *_wrap_QnsearchCreate_liquid_7b08cc538ffcb585(void *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, void* _swig_go_3, intgo _swig_go_4) {
   void *arg1 = (void *) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -27758,7 +27745,7 @@ qnsearch_s *_wrap_qnsearch_create_liquid_24d78331e3228d7c(void *_swig_go_0, floa
 }
 
 
-void _wrap_qnsearch_destroy_liquid_24d78331e3228d7c(qnsearch_s *_swig_go_0) {
+void _wrap_QnsearchDestroy_liquid_7b08cc538ffcb585(qnsearch_s *_swig_go_0) {
   qnsearch arg1 = (qnsearch) 0 ;
   
   arg1 = *(qnsearch *)&_swig_go_0; 
@@ -27768,7 +27755,7 @@ void _wrap_qnsearch_destroy_liquid_24d78331e3228d7c(qnsearch_s *_swig_go_0) {
 }
 
 
-void _wrap_qnsearch_print_liquid_24d78331e3228d7c(qnsearch_s *_swig_go_0) {
+void _wrap_QnsearchPrint_liquid_7b08cc538ffcb585(qnsearch_s *_swig_go_0) {
   qnsearch arg1 = (qnsearch) 0 ;
   
   arg1 = *(qnsearch *)&_swig_go_0; 
@@ -27778,7 +27765,7 @@ void _wrap_qnsearch_print_liquid_24d78331e3228d7c(qnsearch_s *_swig_go_0) {
 }
 
 
-void _wrap_qnsearch_reset_liquid_24d78331e3228d7c(qnsearch_s *_swig_go_0) {
+void _wrap_QnsearchReset_liquid_7b08cc538ffcb585(qnsearch_s *_swig_go_0) {
   qnsearch arg1 = (qnsearch) 0 ;
   
   arg1 = *(qnsearch *)&_swig_go_0; 
@@ -27788,7 +27775,7 @@ void _wrap_qnsearch_reset_liquid_24d78331e3228d7c(qnsearch_s *_swig_go_0) {
 }
 
 
-void _wrap_qnsearch_step_liquid_24d78331e3228d7c(qnsearch_s *_swig_go_0) {
+void _wrap_QnsearchStep_liquid_7b08cc538ffcb585(qnsearch_s *_swig_go_0) {
   qnsearch arg1 = (qnsearch) 0 ;
   
   arg1 = *(qnsearch *)&_swig_go_0; 
@@ -27798,7 +27785,7 @@ void _wrap_qnsearch_step_liquid_24d78331e3228d7c(qnsearch_s *_swig_go_0) {
 }
 
 
-chromosome_s *_wrap_chromosome_create_liquid_24d78331e3228d7c(intgo *_swig_go_0, intgo _swig_go_1) {
+chromosome_s *_wrap_ChromosomeCreate_liquid_7b08cc538ffcb585(intgo *_swig_go_0, intgo _swig_go_1) {
   unsigned int *arg1 = (unsigned int *) 0 ;
   unsigned int arg2 ;
   chromosome result;
@@ -27813,7 +27800,7 @@ chromosome_s *_wrap_chromosome_create_liquid_24d78331e3228d7c(intgo *_swig_go_0,
 }
 
 
-chromosome_s *_wrap_chromosome_create_basic_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+chromosome_s *_wrap_ChromosomeCreateBasic_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   chromosome result;
@@ -27828,7 +27815,7 @@ chromosome_s *_wrap_chromosome_create_basic_liquid_24d78331e3228d7c(intgo _swig_
 }
 
 
-chromosome_s *_wrap_chromosome_create_clone_liquid_24d78331e3228d7c(chromosome_s *_swig_go_0) {
+chromosome_s *_wrap_ChromosomeCreateClone_liquid_7b08cc538ffcb585(chromosome_s *_swig_go_0) {
   chromosome arg1 = (chromosome) 0 ;
   chromosome result;
   chromosome_s *_swig_go_result;
@@ -27841,7 +27828,7 @@ chromosome_s *_wrap_chromosome_create_clone_liquid_24d78331e3228d7c(chromosome_s
 }
 
 
-void _wrap_chromosome_copy_liquid_24d78331e3228d7c(chromosome_s *_swig_go_0, chromosome_s *_swig_go_1) {
+void _wrap_ChromosomeCopy_liquid_7b08cc538ffcb585(chromosome_s *_swig_go_0, chromosome_s *_swig_go_1) {
   chromosome arg1 = (chromosome) 0 ;
   chromosome arg2 = (chromosome) 0 ;
   
@@ -27853,7 +27840,7 @@ void _wrap_chromosome_copy_liquid_24d78331e3228d7c(chromosome_s *_swig_go_0, chr
 }
 
 
-void _wrap_chromosome_destroy_liquid_24d78331e3228d7c(chromosome_s *_swig_go_0) {
+void _wrap_ChromosomeDestroy_liquid_7b08cc538ffcb585(chromosome_s *_swig_go_0) {
   chromosome arg1 = (chromosome) 0 ;
   
   arg1 = *(chromosome *)&_swig_go_0; 
@@ -27863,7 +27850,7 @@ void _wrap_chromosome_destroy_liquid_24d78331e3228d7c(chromosome_s *_swig_go_0) 
 }
 
 
-intgo _wrap_chromosome_get_num_traits_liquid_24d78331e3228d7c(chromosome_s *_swig_go_0) {
+intgo _wrap_ChromosomeGetNumTraits_liquid_7b08cc538ffcb585(chromosome_s *_swig_go_0) {
   chromosome arg1 = (chromosome) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -27876,7 +27863,7 @@ intgo _wrap_chromosome_get_num_traits_liquid_24d78331e3228d7c(chromosome_s *_swi
 }
 
 
-void _wrap_chromosome_print_liquid_24d78331e3228d7c(chromosome_s *_swig_go_0) {
+void _wrap_ChromosomePrint_liquid_7b08cc538ffcb585(chromosome_s *_swig_go_0) {
   chromosome arg1 = (chromosome) 0 ;
   
   arg1 = *(chromosome *)&_swig_go_0; 
@@ -27886,7 +27873,7 @@ void _wrap_chromosome_print_liquid_24d78331e3228d7c(chromosome_s *_swig_go_0) {
 }
 
 
-void _wrap_chromosome_printf_liquid_24d78331e3228d7c(chromosome_s *_swig_go_0) {
+void _wrap_ChromosomePrintf_liquid_7b08cc538ffcb585(chromosome_s *_swig_go_0) {
   chromosome arg1 = (chromosome) 0 ;
   
   arg1 = *(chromosome *)&_swig_go_0; 
@@ -27896,7 +27883,7 @@ void _wrap_chromosome_printf_liquid_24d78331e3228d7c(chromosome_s *_swig_go_0) {
 }
 
 
-void _wrap_chromosome_reset_liquid_24d78331e3228d7c(chromosome_s *_swig_go_0) {
+void _wrap_ChromosomeReset_liquid_7b08cc538ffcb585(chromosome_s *_swig_go_0) {
   chromosome arg1 = (chromosome) 0 ;
   
   arg1 = *(chromosome *)&_swig_go_0; 
@@ -27906,7 +27893,7 @@ void _wrap_chromosome_reset_liquid_24d78331e3228d7c(chromosome_s *_swig_go_0) {
 }
 
 
-void _wrap_chromosome_init_liquid_24d78331e3228d7c(chromosome_s *_swig_go_0, intgo *_swig_go_1) {
+void _wrap_ChromosomeInit_liquid_7b08cc538ffcb585(chromosome_s *_swig_go_0, intgo *_swig_go_1) {
   chromosome arg1 = (chromosome) 0 ;
   unsigned int *arg2 = (unsigned int *) 0 ;
   
@@ -27918,7 +27905,7 @@ void _wrap_chromosome_init_liquid_24d78331e3228d7c(chromosome_s *_swig_go_0, int
 }
 
 
-void _wrap_chromosome_initf_liquid_24d78331e3228d7c(chromosome_s *_swig_go_0, float *_swig_go_1) {
+void _wrap_ChromosomeInitf_liquid_7b08cc538ffcb585(chromosome_s *_swig_go_0, float *_swig_go_1) {
   chromosome arg1 = (chromosome) 0 ;
   float *arg2 = (float *) 0 ;
   
@@ -27930,7 +27917,7 @@ void _wrap_chromosome_initf_liquid_24d78331e3228d7c(chromosome_s *_swig_go_0, fl
 }
 
 
-void _wrap_chromosome_mutate_liquid_24d78331e3228d7c(chromosome_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_ChromosomeMutate_liquid_7b08cc538ffcb585(chromosome_s *_swig_go_0, intgo _swig_go_1) {
   chromosome arg1 = (chromosome) 0 ;
   unsigned int arg2 ;
   
@@ -27942,7 +27929,7 @@ void _wrap_chromosome_mutate_liquid_24d78331e3228d7c(chromosome_s *_swig_go_0, i
 }
 
 
-void _wrap_chromosome_crossover_liquid_24d78331e3228d7c(chromosome_s *_swig_go_0, chromosome_s *_swig_go_1, chromosome_s *_swig_go_2, intgo _swig_go_3) {
+void _wrap_ChromosomeCrossover_liquid_7b08cc538ffcb585(chromosome_s *_swig_go_0, chromosome_s *_swig_go_1, chromosome_s *_swig_go_2, intgo _swig_go_3) {
   chromosome arg1 = (chromosome) 0 ;
   chromosome arg2 = (chromosome) 0 ;
   chromosome arg3 = (chromosome) 0 ;
@@ -27958,7 +27945,7 @@ void _wrap_chromosome_crossover_liquid_24d78331e3228d7c(chromosome_s *_swig_go_0
 }
 
 
-void _wrap_chromosome_init_random_liquid_24d78331e3228d7c(chromosome_s *_swig_go_0) {
+void _wrap_ChromosomeInitRandom_liquid_7b08cc538ffcb585(chromosome_s *_swig_go_0) {
   chromosome arg1 = (chromosome) 0 ;
   
   arg1 = *(chromosome *)&_swig_go_0; 
@@ -27968,7 +27955,7 @@ void _wrap_chromosome_init_random_liquid_24d78331e3228d7c(chromosome_s *_swig_go
 }
 
 
-intgo _wrap_chromosome_value_liquid_24d78331e3228d7c(chromosome_s *_swig_go_0, intgo _swig_go_1) {
+intgo _wrap_ChromosomeValue_liquid_7b08cc538ffcb585(chromosome_s *_swig_go_0, intgo _swig_go_1) {
   chromosome arg1 = (chromosome) 0 ;
   unsigned int arg2 ;
   unsigned int result;
@@ -27983,7 +27970,7 @@ intgo _wrap_chromosome_value_liquid_24d78331e3228d7c(chromosome_s *_swig_go_0, i
 }
 
 
-float _wrap_chromosome_valuef_liquid_24d78331e3228d7c(chromosome_s *_swig_go_0, intgo _swig_go_1) {
+float _wrap_ChromosomeValuef_liquid_7b08cc538ffcb585(chromosome_s *_swig_go_0, intgo _swig_go_1) {
   chromosome arg1 = (chromosome) 0 ;
   unsigned int arg2 ;
   float result;
@@ -27998,7 +27985,7 @@ float _wrap_chromosome_valuef_liquid_24d78331e3228d7c(chromosome_s *_swig_go_0, 
 }
 
 
-gasearch_s *_wrap_gasearch_create_liquid_24d78331e3228d7c(void* _swig_go_0, void *_swig_go_1, chromosome_s *_swig_go_2, intgo _swig_go_3) {
+gasearch_s *_wrap_GasearchCreate_liquid_7b08cc538ffcb585(void* _swig_go_0, void *_swig_go_1, chromosome_s *_swig_go_2, intgo _swig_go_3) {
   gasearch_utility arg1 = (gasearch_utility) 0 ;
   void *arg2 = (void *) 0 ;
   chromosome arg3 = (chromosome) 0 ;
@@ -28017,7 +28004,7 @@ gasearch_s *_wrap_gasearch_create_liquid_24d78331e3228d7c(void* _swig_go_0, void
 }
 
 
-gasearch_s *_wrap_gasearch_create_advanced_liquid_24d78331e3228d7c(void* _swig_go_0, void *_swig_go_1, chromosome_s *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4, float _swig_go_5) {
+gasearch_s *_wrap_GasearchCreateAdvanced_liquid_7b08cc538ffcb585(void* _swig_go_0, void *_swig_go_1, chromosome_s *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4, float _swig_go_5) {
   gasearch_utility arg1 = (gasearch_utility) 0 ;
   void *arg2 = (void *) 0 ;
   chromosome arg3 = (chromosome) 0 ;
@@ -28040,7 +28027,7 @@ gasearch_s *_wrap_gasearch_create_advanced_liquid_24d78331e3228d7c(void* _swig_g
 }
 
 
-void _wrap_gasearch_destroy_liquid_24d78331e3228d7c(gasearch_s *_swig_go_0) {
+void _wrap_GasearchDestroy_liquid_7b08cc538ffcb585(gasearch_s *_swig_go_0) {
   gasearch arg1 = (gasearch) 0 ;
   
   arg1 = *(gasearch *)&_swig_go_0; 
@@ -28050,7 +28037,7 @@ void _wrap_gasearch_destroy_liquid_24d78331e3228d7c(gasearch_s *_swig_go_0) {
 }
 
 
-void _wrap_gasearch_print_liquid_24d78331e3228d7c(gasearch_s *_swig_go_0) {
+void _wrap_GasearchPrint_liquid_7b08cc538ffcb585(gasearch_s *_swig_go_0) {
   gasearch arg1 = (gasearch) 0 ;
   
   arg1 = *(gasearch *)&_swig_go_0; 
@@ -28060,7 +28047,7 @@ void _wrap_gasearch_print_liquid_24d78331e3228d7c(gasearch_s *_swig_go_0) {
 }
 
 
-void _wrap_gasearch_set_mutation_rate_liquid_24d78331e3228d7c(gasearch_s *_swig_go_0, float _swig_go_1) {
+void _wrap_GasearchSetMutationRate_liquid_7b08cc538ffcb585(gasearch_s *_swig_go_0, float _swig_go_1) {
   gasearch arg1 = (gasearch) 0 ;
   float arg2 ;
   
@@ -28072,7 +28059,7 @@ void _wrap_gasearch_set_mutation_rate_liquid_24d78331e3228d7c(gasearch_s *_swig_
 }
 
 
-void _wrap_gasearch_set_population_size_liquid_24d78331e3228d7c(gasearch_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_GasearchSetPopulationSize_liquid_7b08cc538ffcb585(gasearch_s *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   gasearch arg1 = (gasearch) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -28086,7 +28073,7 @@ void _wrap_gasearch_set_population_size_liquid_24d78331e3228d7c(gasearch_s *_swi
 }
 
 
-float _wrap_gasearch_run_liquid_24d78331e3228d7c(gasearch_s *_swig_go_0, intgo _swig_go_1, float _swig_go_2) {
+float _wrap_GasearchRun_liquid_7b08cc538ffcb585(gasearch_s *_swig_go_0, intgo _swig_go_1, float _swig_go_2) {
   gasearch arg1 = (gasearch) 0 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -28103,7 +28090,7 @@ float _wrap_gasearch_run_liquid_24d78331e3228d7c(gasearch_s *_swig_go_0, intgo _
 }
 
 
-void _wrap_gasearch_evolve_liquid_24d78331e3228d7c(gasearch_s *_swig_go_0) {
+void _wrap_GasearchEvolve_liquid_7b08cc538ffcb585(gasearch_s *_swig_go_0) {
   gasearch arg1 = (gasearch) 0 ;
   
   arg1 = *(gasearch *)&_swig_go_0; 
@@ -28113,7 +28100,7 @@ void _wrap_gasearch_evolve_liquid_24d78331e3228d7c(gasearch_s *_swig_go_0) {
 }
 
 
-void _wrap_gasearch_getopt_liquid_24d78331e3228d7c(gasearch_s *_swig_go_0, chromosome_s *_swig_go_1, float *_swig_go_2) {
+void _wrap_GasearchGetopt_liquid_7b08cc538ffcb585(gasearch_s *_swig_go_0, chromosome_s *_swig_go_1, float *_swig_go_2) {
   gasearch arg1 = (gasearch) 0 ;
   chromosome arg2 = (chromosome) 0 ;
   float *arg3 = (float *) 0 ;
@@ -28127,7 +28114,7 @@ void _wrap_gasearch_getopt_liquid_24d78331e3228d7c(gasearch_s *_swig_go_0, chrom
 }
 
 
-float _wrap_compress_mulaw_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1) {
+float _wrap_CompressMulaw_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1) {
   float arg1 ;
   float arg2 ;
   float result;
@@ -28142,7 +28129,7 @@ float _wrap_compress_mulaw_liquid_24d78331e3228d7c(float _swig_go_0, float _swig
 }
 
 
-float _wrap_expand_mulaw_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1) {
+float _wrap_ExpandMulaw_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1) {
   float arg1 ;
   float arg2 ;
   float result;
@@ -28157,7 +28144,7 @@ float _wrap_expand_mulaw_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_g
 }
 
 
-void _wrap_compress_cf_mulaw_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_CompressCfMulaw_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
   liquid_float_complex arg1 ;
   float arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -28178,7 +28165,7 @@ void _wrap_compress_cf_mulaw_liquid_24d78331e3228d7c(liquid_float_complex *_swig
 }
 
 
-void _wrap_expand_cf_mulaw_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_ExpandCfMulaw_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, float _swig_go_1, liquid_float_complex *_swig_go_2) {
   liquid_float_complex arg1 ;
   float arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -28199,7 +28186,7 @@ void _wrap_expand_cf_mulaw_liquid_24d78331e3228d7c(liquid_float_complex *_swig_g
 }
 
 
-intgo _wrap_quantize_adc_liquid_24d78331e3228d7c(float _swig_go_0, intgo _swig_go_1) {
+intgo _wrap_QuantizeAdc_liquid_7b08cc538ffcb585(float _swig_go_0, intgo _swig_go_1) {
   float arg1 ;
   unsigned int arg2 ;
   unsigned int result;
@@ -28214,7 +28201,7 @@ intgo _wrap_quantize_adc_liquid_24d78331e3228d7c(float _swig_go_0, intgo _swig_g
 }
 
 
-float _wrap_quantize_dac_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+float _wrap_QuantizeDac_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   float result;
@@ -28229,7 +28216,7 @@ float _wrap_quantize_dac_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_g
 }
 
 
-intgo _wrap_LIQUID_COMPANDER_NONE_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDCOMPANDERNONE_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -28241,7 +28228,7 @@ intgo _wrap_LIQUID_COMPANDER_NONE_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_COMPANDER_LINEAR_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDCOMPANDERLINEAR_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -28253,7 +28240,7 @@ intgo _wrap_LIQUID_COMPANDER_LINEAR_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_COMPANDER_MULAW_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDCOMPANDERMULAW_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -28265,7 +28252,7 @@ intgo _wrap_LIQUID_COMPANDER_MULAW_liquid_24d78331e3228d7c() {
 }
 
 
-intgo _wrap_LIQUID_COMPANDER_ALAW_liquid_24d78331e3228d7c() {
+intgo _wrap_LIQUIDCOMPANDERALAW_liquid_7b08cc538ffcb585() {
   int result;
   intgo _swig_go_result;
   
@@ -28277,7 +28264,7 @@ intgo _wrap_LIQUID_COMPANDER_ALAW_liquid_24d78331e3228d7c() {
 }
 
 
-quantizerf_s *_wrap_quantizerf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1, intgo _swig_go_2) {
+quantizerf_s *_wrap_QuantizerfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1, intgo _swig_go_2) {
   liquid_compander_type arg1 ;
   float arg2 ;
   unsigned int arg3 ;
@@ -28294,7 +28281,7 @@ quantizerf_s *_wrap_quantizerf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, 
 }
 
 
-void _wrap_quantizerf_destroy_liquid_24d78331e3228d7c(quantizerf_s *_swig_go_0) {
+void _wrap_QuantizerfDestroy_liquid_7b08cc538ffcb585(quantizerf_s *_swig_go_0) {
   quantizerf arg1 = (quantizerf) 0 ;
   
   arg1 = *(quantizerf *)&_swig_go_0; 
@@ -28304,7 +28291,7 @@ void _wrap_quantizerf_destroy_liquid_24d78331e3228d7c(quantizerf_s *_swig_go_0) 
 }
 
 
-void _wrap_quantizerf_print_liquid_24d78331e3228d7c(quantizerf_s *_swig_go_0) {
+void _wrap_QuantizerfPrint_liquid_7b08cc538ffcb585(quantizerf_s *_swig_go_0) {
   quantizerf arg1 = (quantizerf) 0 ;
   
   arg1 = *(quantizerf *)&_swig_go_0; 
@@ -28314,7 +28301,7 @@ void _wrap_quantizerf_print_liquid_24d78331e3228d7c(quantizerf_s *_swig_go_0) {
 }
 
 
-void _wrap_quantizerf_execute_adc_liquid_24d78331e3228d7c(quantizerf_s *_swig_go_0, float _swig_go_1, intgo *_swig_go_2) {
+void _wrap_QuantizerfExecuteAdc_liquid_7b08cc538ffcb585(quantizerf_s *_swig_go_0, float _swig_go_1, intgo *_swig_go_2) {
   quantizerf arg1 = (quantizerf) 0 ;
   float arg2 ;
   unsigned int *arg3 = (unsigned int *) 0 ;
@@ -28328,7 +28315,7 @@ void _wrap_quantizerf_execute_adc_liquid_24d78331e3228d7c(quantizerf_s *_swig_go
 }
 
 
-void _wrap_quantizerf_execute_dac_liquid_24d78331e3228d7c(quantizerf_s *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
+void _wrap_QuantizerfExecuteDac_liquid_7b08cc538ffcb585(quantizerf_s *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
   quantizerf arg1 = (quantizerf) 0 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -28342,7 +28329,7 @@ void _wrap_quantizerf_execute_dac_liquid_24d78331e3228d7c(quantizerf_s *_swig_go
 }
 
 
-quantizercf_s *_wrap_quantizercf_create_liquid_24d78331e3228d7c(intgo _swig_go_0, float _swig_go_1, intgo _swig_go_2) {
+quantizercf_s *_wrap_QuantizercfCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, float _swig_go_1, intgo _swig_go_2) {
   liquid_compander_type arg1 ;
   float arg2 ;
   unsigned int arg3 ;
@@ -28359,7 +28346,7 @@ quantizercf_s *_wrap_quantizercf_create_liquid_24d78331e3228d7c(intgo _swig_go_0
 }
 
 
-void _wrap_quantizercf_destroy_liquid_24d78331e3228d7c(quantizercf_s *_swig_go_0) {
+void _wrap_QuantizercfDestroy_liquid_7b08cc538ffcb585(quantizercf_s *_swig_go_0) {
   quantizercf arg1 = (quantizercf) 0 ;
   
   arg1 = *(quantizercf *)&_swig_go_0; 
@@ -28369,7 +28356,7 @@ void _wrap_quantizercf_destroy_liquid_24d78331e3228d7c(quantizercf_s *_swig_go_0
 }
 
 
-void _wrap_quantizercf_print_liquid_24d78331e3228d7c(quantizercf_s *_swig_go_0) {
+void _wrap_QuantizercfPrint_liquid_7b08cc538ffcb585(quantizercf_s *_swig_go_0) {
   quantizercf arg1 = (quantizercf) 0 ;
   
   arg1 = *(quantizercf *)&_swig_go_0; 
@@ -28379,7 +28366,7 @@ void _wrap_quantizercf_print_liquid_24d78331e3228d7c(quantizercf_s *_swig_go_0) 
 }
 
 
-void _wrap_quantizercf_execute_adc_liquid_24d78331e3228d7c(quantizercf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo *_swig_go_2) {
+void _wrap_QuantizercfExecuteAdc_liquid_7b08cc538ffcb585(quantizercf_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo *_swig_go_2) {
   quantizercf arg1 = (quantizercf) 0 ;
   liquid_float_complex arg2 ;
   unsigned int *arg3 = (unsigned int *) 0 ;
@@ -28400,7 +28387,7 @@ void _wrap_quantizercf_execute_adc_liquid_24d78331e3228d7c(quantizercf_s *_swig_
 }
 
 
-void _wrap_quantizercf_execute_dac_liquid_24d78331e3228d7c(quantizercf_s *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_QuantizercfExecuteDac_liquid_7b08cc538ffcb585(quantizercf_s *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
   quantizercf arg1 = (quantizercf) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -28414,7 +28401,7 @@ void _wrap_quantizercf_execute_dac_liquid_24d78331e3228d7c(quantizercf_s *_swig_
 }
 
 
-float _wrap_randf_liquid_24d78331e3228d7c() {
+float _wrap_Randf_liquid_7b08cc538ffcb585() {
   float result;
   float _swig_go_result;
   
@@ -28425,7 +28412,7 @@ float _wrap_randf_liquid_24d78331e3228d7c() {
 }
 
 
-float _wrap_randf_pdf_liquid_24d78331e3228d7c(float _swig_go_0) {
+float _wrap_RandfPdf_liquid_7b08cc538ffcb585(float _swig_go_0) {
   float arg1 ;
   float result;
   float _swig_go_result;
@@ -28438,7 +28425,7 @@ float _wrap_randf_pdf_liquid_24d78331e3228d7c(float _swig_go_0) {
 }
 
 
-float _wrap_randf_cdf_liquid_24d78331e3228d7c(float _swig_go_0) {
+float _wrap_RandfCdf_liquid_7b08cc538ffcb585(float _swig_go_0) {
   float arg1 ;
   float result;
   float _swig_go_result;
@@ -28451,7 +28438,7 @@ float _wrap_randf_cdf_liquid_24d78331e3228d7c(float _swig_go_0) {
 }
 
 
-float _wrap_randuf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1) {
+float _wrap_Randuf_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1) {
   float arg1 ;
   float arg2 ;
   float result;
@@ -28466,7 +28453,7 @@ float _wrap_randuf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1) {
 }
 
 
-float _wrap_randuf_pdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
+float _wrap_RandufPdf_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
   float arg1 ;
   float arg2 ;
   float arg3 ;
@@ -28483,7 +28470,7 @@ float _wrap_randuf_pdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_
 }
 
 
-float _wrap_randuf_cdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
+float _wrap_RandufCdf_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
   float arg1 ;
   float arg2 ;
   float arg3 ;
@@ -28500,7 +28487,7 @@ float _wrap_randuf_cdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_
 }
 
 
-float _wrap_randnf_liquid_24d78331e3228d7c() {
+float _wrap_Randnf_liquid_7b08cc538ffcb585() {
   float result;
   float _swig_go_result;
   
@@ -28511,7 +28498,7 @@ float _wrap_randnf_liquid_24d78331e3228d7c() {
 }
 
 
-void _wrap_awgn_liquid_24d78331e3228d7c(float *_swig_go_0, float _swig_go_1) {
+void _wrap_Awgn_liquid_7b08cc538ffcb585(float *_swig_go_0, float _swig_go_1) {
   float *arg1 = (float *) 0 ;
   float arg2 ;
   
@@ -28523,7 +28510,7 @@ void _wrap_awgn_liquid_24d78331e3228d7c(float *_swig_go_0, float _swig_go_1) {
 }
 
 
-void _wrap_crandnf_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0) {
+void _wrap_Crandnf_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   
   arg1 = *(liquid_float_complex **)&_swig_go_0; 
@@ -28533,7 +28520,7 @@ void _wrap_crandnf_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0) {
 }
 
 
-void _wrap_cawgn_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, float _swig_go_1) {
+void _wrap_Cawgn_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, float _swig_go_1) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   float arg2 ;
   
@@ -28545,7 +28532,7 @@ void _wrap_cawgn_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, float
 }
 
 
-float _wrap_randnf_pdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
+float _wrap_RandnfPdf_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
   float arg1 ;
   float arg2 ;
   float arg3 ;
@@ -28562,7 +28549,7 @@ float _wrap_randnf_pdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_
 }
 
 
-float _wrap_randnf_cdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
+float _wrap_RandnfCdf_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
   float arg1 ;
   float arg2 ;
   float arg3 ;
@@ -28579,7 +28566,7 @@ float _wrap_randnf_cdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_
 }
 
 
-float _wrap_randexpf_liquid_24d78331e3228d7c(float _swig_go_0) {
+float _wrap_Randexpf_liquid_7b08cc538ffcb585(float _swig_go_0) {
   float arg1 ;
   float result;
   float _swig_go_result;
@@ -28592,7 +28579,7 @@ float _wrap_randexpf_liquid_24d78331e3228d7c(float _swig_go_0) {
 }
 
 
-float _wrap_randexpf_pdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1) {
+float _wrap_RandexpfPdf_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1) {
   float arg1 ;
   float arg2 ;
   float result;
@@ -28607,7 +28594,7 @@ float _wrap_randexpf_pdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_g
 }
 
 
-float _wrap_randexpf_cdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1) {
+float _wrap_RandexpfCdf_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1) {
   float arg1 ;
   float arg2 ;
   float result;
@@ -28622,7 +28609,7 @@ float _wrap_randexpf_cdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_g
 }
 
 
-float _wrap_randweibf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
+float _wrap_Randweibf_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
   float arg1 ;
   float arg2 ;
   float arg3 ;
@@ -28639,7 +28626,7 @@ float _wrap_randweibf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1
 }
 
 
-float _wrap_randweibf_pdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
+float _wrap_RandweibfPdf_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
   float arg1 ;
   float arg2 ;
   float arg3 ;
@@ -28658,7 +28645,7 @@ float _wrap_randweibf_pdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_
 }
 
 
-float _wrap_randweibf_cdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
+float _wrap_RandweibfCdf_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
   float arg1 ;
   float arg2 ;
   float arg3 ;
@@ -28677,7 +28664,7 @@ float _wrap_randweibf_cdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_
 }
 
 
-float _wrap_randgammaf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1) {
+float _wrap_Randgammaf_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1) {
   float arg1 ;
   float arg2 ;
   float result;
@@ -28692,7 +28679,7 @@ float _wrap_randgammaf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_
 }
 
 
-float _wrap_randgammaf_pdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
+float _wrap_RandgammafPdf_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
   float arg1 ;
   float arg2 ;
   float arg3 ;
@@ -28709,7 +28696,7 @@ float _wrap_randgammaf_pdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig
 }
 
 
-float _wrap_randgammaf_cdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
+float _wrap_RandgammafCdf_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
   float arg1 ;
   float arg2 ;
   float arg3 ;
@@ -28726,7 +28713,7 @@ float _wrap_randgammaf_cdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig
 }
 
 
-float _wrap_randnakmf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1) {
+float _wrap_Randnakmf_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1) {
   float arg1 ;
   float arg2 ;
   float result;
@@ -28741,7 +28728,7 @@ float _wrap_randnakmf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1
 }
 
 
-float _wrap_randnakmf_pdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
+float _wrap_RandnakmfPdf_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
   float arg1 ;
   float arg2 ;
   float arg3 ;
@@ -28758,7 +28745,7 @@ float _wrap_randnakmf_pdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_
 }
 
 
-float _wrap_randnakmf_cdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
+float _wrap_RandnakmfCdf_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
   float arg1 ;
   float arg2 ;
   float arg3 ;
@@ -28775,7 +28762,7 @@ float _wrap_randnakmf_cdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_
 }
 
 
-float _wrap_randricekf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1) {
+float _wrap_Randricekf_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1) {
   float arg1 ;
   float arg2 ;
   float result;
@@ -28790,7 +28777,7 @@ float _wrap_randricekf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_
 }
 
 
-float _wrap_randricekf_cdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
+float _wrap_RandricekfCdf_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
   float arg1 ;
   float arg2 ;
   float arg3 ;
@@ -28807,7 +28794,7 @@ float _wrap_randricekf_cdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig
 }
 
 
-float _wrap_randricekf_pdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
+float _wrap_RandricekfPdf_liquid_7b08cc538ffcb585(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
   float arg1 ;
   float arg2 ;
   float arg3 ;
@@ -28824,7 +28811,7 @@ float _wrap_randricekf_pdf_liquid_24d78331e3228d7c(float _swig_go_0, float _swig
 }
 
 
-void _wrap_scramble_data_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_go_1) {
+void _wrap_ScrambleData_liquid_7b08cc538ffcb585(char *_swig_go_0, intgo _swig_go_1) {
   unsigned char *arg1 = (unsigned char *) 0 ;
   unsigned int arg2 ;
   
@@ -28836,7 +28823,7 @@ void _wrap_scramble_data_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_g
 }
 
 
-void _wrap_unscramble_data_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_go_1) {
+void _wrap_UnscrambleData_liquid_7b08cc538ffcb585(char *_swig_go_0, intgo _swig_go_1) {
   unsigned char *arg1 = (unsigned char *) 0 ;
   unsigned int arg2 ;
   
@@ -28848,7 +28835,7 @@ void _wrap_unscramble_data_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig
 }
 
 
-void _wrap_unscramble_data_soft_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_go_1) {
+void _wrap_UnscrambleDataSoft_liquid_7b08cc538ffcb585(char *_swig_go_0, intgo _swig_go_1) {
   unsigned char *arg1 = (unsigned char *) 0 ;
   unsigned int arg2 ;
   
@@ -28860,7 +28847,7 @@ void _wrap_unscramble_data_soft_liquid_24d78331e3228d7c(char *_swig_go_0, intgo 
 }
 
 
-bsequence_s *_wrap_bsequence_create_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+bsequence_s *_wrap_BsequenceCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   bsequence result;
   bsequence_s *_swig_go_result;
@@ -28873,7 +28860,7 @@ bsequence_s *_wrap_bsequence_create_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-void _wrap_bsequence_destroy_liquid_24d78331e3228d7c(bsequence_s *_swig_go_0) {
+void _wrap_BsequenceDestroy_liquid_7b08cc538ffcb585(bsequence_s *_swig_go_0) {
   bsequence arg1 = (bsequence) 0 ;
   
   arg1 = *(bsequence *)&_swig_go_0; 
@@ -28883,7 +28870,7 @@ void _wrap_bsequence_destroy_liquid_24d78331e3228d7c(bsequence_s *_swig_go_0) {
 }
 
 
-void _wrap_bsequence_reset_liquid_24d78331e3228d7c(bsequence_s *_swig_go_0) {
+void _wrap_BsequenceReset_liquid_7b08cc538ffcb585(bsequence_s *_swig_go_0) {
   bsequence arg1 = (bsequence) 0 ;
   
   arg1 = *(bsequence *)&_swig_go_0; 
@@ -28893,7 +28880,7 @@ void _wrap_bsequence_reset_liquid_24d78331e3228d7c(bsequence_s *_swig_go_0) {
 }
 
 
-void _wrap_bsequence_init_liquid_24d78331e3228d7c(bsequence_s *_swig_go_0, char *_swig_go_1) {
+void _wrap_BsequenceInit_liquid_7b08cc538ffcb585(bsequence_s *_swig_go_0, char *_swig_go_1) {
   bsequence arg1 = (bsequence) 0 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   
@@ -28905,7 +28892,7 @@ void _wrap_bsequence_init_liquid_24d78331e3228d7c(bsequence_s *_swig_go_0, char 
 }
 
 
-void _wrap_bsequence_print_liquid_24d78331e3228d7c(bsequence_s *_swig_go_0) {
+void _wrap_BsequencePrint_liquid_7b08cc538ffcb585(bsequence_s *_swig_go_0) {
   bsequence arg1 = (bsequence) 0 ;
   
   arg1 = *(bsequence *)&_swig_go_0; 
@@ -28915,7 +28902,7 @@ void _wrap_bsequence_print_liquid_24d78331e3228d7c(bsequence_s *_swig_go_0) {
 }
 
 
-void _wrap_bsequence_push_liquid_24d78331e3228d7c(bsequence_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_BsequencePush_liquid_7b08cc538ffcb585(bsequence_s *_swig_go_0, intgo _swig_go_1) {
   bsequence arg1 = (bsequence) 0 ;
   unsigned int arg2 ;
   
@@ -28927,7 +28914,7 @@ void _wrap_bsequence_push_liquid_24d78331e3228d7c(bsequence_s *_swig_go_0, intgo
 }
 
 
-void _wrap_bsequence_circshift_liquid_24d78331e3228d7c(bsequence_s *_swig_go_0) {
+void _wrap_BsequenceCircshift_liquid_7b08cc538ffcb585(bsequence_s *_swig_go_0) {
   bsequence arg1 = (bsequence) 0 ;
   
   arg1 = *(bsequence *)&_swig_go_0; 
@@ -28937,7 +28924,7 @@ void _wrap_bsequence_circshift_liquid_24d78331e3228d7c(bsequence_s *_swig_go_0) 
 }
 
 
-intgo _wrap_bsequence_correlate_liquid_24d78331e3228d7c(bsequence_s *_swig_go_0, bsequence_s *_swig_go_1) {
+intgo _wrap_BsequenceCorrelate_liquid_7b08cc538ffcb585(bsequence_s *_swig_go_0, bsequence_s *_swig_go_1) {
   bsequence arg1 = (bsequence) 0 ;
   bsequence arg2 = (bsequence) 0 ;
   int result;
@@ -28952,7 +28939,7 @@ intgo _wrap_bsequence_correlate_liquid_24d78331e3228d7c(bsequence_s *_swig_go_0,
 }
 
 
-void _wrap_bsequence_add_liquid_24d78331e3228d7c(bsequence_s *_swig_go_0, bsequence_s *_swig_go_1, bsequence_s *_swig_go_2) {
+void _wrap_BsequenceAdd_liquid_7b08cc538ffcb585(bsequence_s *_swig_go_0, bsequence_s *_swig_go_1, bsequence_s *_swig_go_2) {
   bsequence arg1 = (bsequence) 0 ;
   bsequence arg2 = (bsequence) 0 ;
   bsequence arg3 = (bsequence) 0 ;
@@ -28966,7 +28953,7 @@ void _wrap_bsequence_add_liquid_24d78331e3228d7c(bsequence_s *_swig_go_0, bseque
 }
 
 
-void _wrap_bsequence_mul_liquid_24d78331e3228d7c(bsequence_s *_swig_go_0, bsequence_s *_swig_go_1, bsequence_s *_swig_go_2) {
+void _wrap_BsequenceMul_liquid_7b08cc538ffcb585(bsequence_s *_swig_go_0, bsequence_s *_swig_go_1, bsequence_s *_swig_go_2) {
   bsequence arg1 = (bsequence) 0 ;
   bsequence arg2 = (bsequence) 0 ;
   bsequence arg3 = (bsequence) 0 ;
@@ -28980,7 +28967,7 @@ void _wrap_bsequence_mul_liquid_24d78331e3228d7c(bsequence_s *_swig_go_0, bseque
 }
 
 
-intgo _wrap_bsequence_accumulate_liquid_24d78331e3228d7c(bsequence_s *_swig_go_0) {
+intgo _wrap_BsequenceAccumulate_liquid_7b08cc538ffcb585(bsequence_s *_swig_go_0) {
   bsequence arg1 = (bsequence) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -28993,7 +28980,7 @@ intgo _wrap_bsequence_accumulate_liquid_24d78331e3228d7c(bsequence_s *_swig_go_0
 }
 
 
-intgo _wrap_bsequence_get_length_liquid_24d78331e3228d7c(bsequence_s *_swig_go_0) {
+intgo _wrap_BsequenceGetLength_liquid_7b08cc538ffcb585(bsequence_s *_swig_go_0) {
   bsequence arg1 = (bsequence) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -29006,7 +28993,7 @@ intgo _wrap_bsequence_get_length_liquid_24d78331e3228d7c(bsequence_s *_swig_go_0
 }
 
 
-intgo _wrap_bsequence_index_liquid_24d78331e3228d7c(bsequence_s *_swig_go_0, intgo _swig_go_1) {
+intgo _wrap_BsequenceIndex_liquid_7b08cc538ffcb585(bsequence_s *_swig_go_0, intgo _swig_go_1) {
   bsequence arg1 = (bsequence) 0 ;
   unsigned int arg2 ;
   unsigned int result;
@@ -29021,7 +29008,7 @@ intgo _wrap_bsequence_index_liquid_24d78331e3228d7c(bsequence_s *_swig_go_0, int
 }
 
 
-void _wrap_bsequence_create_ccodes_liquid_24d78331e3228d7c(bsequence_s *_swig_go_0, bsequence_s *_swig_go_1) {
+void _wrap_BsequenceCreateCcodes_liquid_7b08cc538ffcb585(bsequence_s *_swig_go_0, bsequence_s *_swig_go_1) {
   bsequence arg1 = (bsequence) 0 ;
   bsequence arg2 = (bsequence) 0 ;
   
@@ -29033,7 +29020,7 @@ void _wrap_bsequence_create_ccodes_liquid_24d78331e3228d7c(bsequence_s *_swig_go
 }
 
 
-msequence_s *_wrap_msequence_create_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+msequence_s *_wrap_MsequenceCreate_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -29050,7 +29037,7 @@ msequence_s *_wrap_msequence_create_liquid_24d78331e3228d7c(intgo _swig_go_0, in
 }
 
 
-msequence_s *_wrap_msequence_create_genpoly_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+msequence_s *_wrap_MsequenceCreateGenpoly_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   msequence result;
   msequence_s *_swig_go_result;
@@ -29063,7 +29050,7 @@ msequence_s *_wrap_msequence_create_genpoly_liquid_24d78331e3228d7c(intgo _swig_
 }
 
 
-msequence_s *_wrap_msequence_create_default_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+msequence_s *_wrap_MsequenceCreateDefault_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   msequence result;
   msequence_s *_swig_go_result;
@@ -29076,7 +29063,7 @@ msequence_s *_wrap_msequence_create_default_liquid_24d78331e3228d7c(intgo _swig_
 }
 
 
-void _wrap_msequence_destroy_liquid_24d78331e3228d7c(msequence_s *_swig_go_0) {
+void _wrap_MsequenceDestroy_liquid_7b08cc538ffcb585(msequence_s *_swig_go_0) {
   msequence arg1 = (msequence) 0 ;
   
   arg1 = *(msequence *)&_swig_go_0; 
@@ -29086,7 +29073,7 @@ void _wrap_msequence_destroy_liquid_24d78331e3228d7c(msequence_s *_swig_go_0) {
 }
 
 
-void _wrap_msequence_print_liquid_24d78331e3228d7c(msequence_s *_swig_go_0) {
+void _wrap_MsequencePrint_liquid_7b08cc538ffcb585(msequence_s *_swig_go_0) {
   msequence arg1 = (msequence) 0 ;
   
   arg1 = *(msequence *)&_swig_go_0; 
@@ -29096,7 +29083,7 @@ void _wrap_msequence_print_liquid_24d78331e3228d7c(msequence_s *_swig_go_0) {
 }
 
 
-intgo _wrap_msequence_advance_liquid_24d78331e3228d7c(msequence_s *_swig_go_0) {
+intgo _wrap_MsequenceAdvance_liquid_7b08cc538ffcb585(msequence_s *_swig_go_0) {
   msequence arg1 = (msequence) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -29109,7 +29096,7 @@ intgo _wrap_msequence_advance_liquid_24d78331e3228d7c(msequence_s *_swig_go_0) {
 }
 
 
-intgo _wrap_msequence_generate_symbol_liquid_24d78331e3228d7c(msequence_s *_swig_go_0, intgo _swig_go_1) {
+intgo _wrap_MsequenceGenerateSymbol_liquid_7b08cc538ffcb585(msequence_s *_swig_go_0, intgo _swig_go_1) {
   msequence arg1 = (msequence) 0 ;
   unsigned int arg2 ;
   unsigned int result;
@@ -29124,7 +29111,7 @@ intgo _wrap_msequence_generate_symbol_liquid_24d78331e3228d7c(msequence_s *_swig
 }
 
 
-void _wrap_msequence_reset_liquid_24d78331e3228d7c(msequence_s *_swig_go_0) {
+void _wrap_MsequenceReset_liquid_7b08cc538ffcb585(msequence_s *_swig_go_0) {
   msequence arg1 = (msequence) 0 ;
   
   arg1 = *(msequence *)&_swig_go_0; 
@@ -29134,7 +29121,7 @@ void _wrap_msequence_reset_liquid_24d78331e3228d7c(msequence_s *_swig_go_0) {
 }
 
 
-void _wrap_bsequence_init_msequence_liquid_24d78331e3228d7c(bsequence_s *_swig_go_0, msequence_s *_swig_go_1) {
+void _wrap_BsequenceInitMsequence_liquid_7b08cc538ffcb585(bsequence_s *_swig_go_0, msequence_s *_swig_go_1) {
   bsequence arg1 = (bsequence) 0 ;
   msequence arg2 = (msequence) 0 ;
   
@@ -29146,7 +29133,7 @@ void _wrap_bsequence_init_msequence_liquid_24d78331e3228d7c(bsequence_s *_swig_g
 }
 
 
-intgo _wrap_msequence_get_length_liquid_24d78331e3228d7c(msequence_s *_swig_go_0) {
+intgo _wrap_MsequenceGetLength_liquid_7b08cc538ffcb585(msequence_s *_swig_go_0) {
   msequence arg1 = (msequence) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -29159,7 +29146,7 @@ intgo _wrap_msequence_get_length_liquid_24d78331e3228d7c(msequence_s *_swig_go_0
 }
 
 
-intgo _wrap_msequence_get_state_liquid_24d78331e3228d7c(msequence_s *_swig_go_0) {
+intgo _wrap_MsequenceGetState_liquid_7b08cc538ffcb585(msequence_s *_swig_go_0) {
   msequence arg1 = (msequence) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -29172,7 +29159,7 @@ intgo _wrap_msequence_get_state_liquid_24d78331e3228d7c(msequence_s *_swig_go_0)
 }
 
 
-void _wrap_msequence_set_state_liquid_24d78331e3228d7c(msequence_s *_swig_go_0, intgo _swig_go_1) {
+void _wrap_MsequenceSetState_liquid_7b08cc538ffcb585(msequence_s *_swig_go_0, intgo _swig_go_1) {
   msequence arg1 = (msequence) 0 ;
   unsigned int arg2 ;
   
@@ -29184,7 +29171,7 @@ void _wrap_msequence_set_state_liquid_24d78331e3228d7c(msequence_s *_swig_go_0, 
 }
 
 
-void _wrap_liquid_pack_array_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, char _swig_go_4) {
+void _wrap_LiquidPackArray_liquid_7b08cc538ffcb585(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, char _swig_go_4) {
   unsigned char *arg1 = (unsigned char *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -29202,7 +29189,7 @@ void _wrap_liquid_pack_array_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _sw
 }
 
 
-void _wrap_liquid_unpack_array_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, char *_swig_go_4) {
+void _wrap_LiquidUnpackArray_liquid_7b08cc538ffcb585(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3, char *_swig_go_4) {
   unsigned char *arg1 = (unsigned char *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -29220,7 +29207,7 @@ void _wrap_liquid_unpack_array_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _
 }
 
 
-void _wrap_liquid_pack_bytes_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_go_1, char *_swig_go_2, intgo _swig_go_3, intgo *_swig_go_4) {
+void _wrap_LiquidPackBytes_liquid_7b08cc538ffcb585(char *_swig_go_0, intgo _swig_go_1, char *_swig_go_2, intgo _swig_go_3, intgo *_swig_go_4) {
   unsigned char *arg1 = (unsigned char *) 0 ;
   unsigned int arg2 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -29238,7 +29225,7 @@ void _wrap_liquid_pack_bytes_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _sw
 }
 
 
-void _wrap_liquid_unpack_bytes_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_go_1, char *_swig_go_2, intgo _swig_go_3, intgo *_swig_go_4) {
+void _wrap_LiquidUnpackBytes_liquid_7b08cc538ffcb585(char *_swig_go_0, intgo _swig_go_1, char *_swig_go_2, intgo _swig_go_3, intgo *_swig_go_4) {
   unsigned char *arg1 = (unsigned char *) 0 ;
   unsigned int arg2 ;
   unsigned char *arg3 = (unsigned char *) 0 ;
@@ -29256,7 +29243,7 @@ void _wrap_liquid_unpack_bytes_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _
 }
 
 
-void _wrap_liquid_repack_bytes_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, char *_swig_go_3, intgo _swig_go_4, intgo _swig_go_5, intgo *_swig_go_6) {
+void _wrap_LiquidRepackBytes_liquid_7b08cc538ffcb585(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, char *_swig_go_3, intgo _swig_go_4, intgo _swig_go_5, intgo *_swig_go_6) {
   unsigned char *arg1 = (unsigned char *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -29278,7 +29265,7 @@ void _wrap_liquid_repack_bytes_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _
 }
 
 
-void _wrap_liquid_lbshift_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_LiquidLbshift_liquid_7b08cc538ffcb585(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   unsigned char *arg1 = (unsigned char *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -29292,7 +29279,7 @@ void _wrap_liquid_lbshift_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_
 }
 
 
-void _wrap_liquid_rbshift_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_LiquidRbshift_liquid_7b08cc538ffcb585(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   unsigned char *arg1 = (unsigned char *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -29306,7 +29293,7 @@ void _wrap_liquid_rbshift_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_
 }
 
 
-void _wrap_liquid_lbcircshift_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_LiquidLbcircshift_liquid_7b08cc538ffcb585(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   unsigned char *arg1 = (unsigned char *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -29320,7 +29307,7 @@ void _wrap_liquid_lbcircshift_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _s
 }
 
 
-void _wrap_liquid_rbcircshift_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_LiquidRbcircshift_liquid_7b08cc538ffcb585(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   unsigned char *arg1 = (unsigned char *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -29334,7 +29321,7 @@ void _wrap_liquid_rbcircshift_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _s
 }
 
 
-void _wrap_liquid_lshift_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_LiquidLshift_liquid_7b08cc538ffcb585(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   unsigned char *arg1 = (unsigned char *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -29348,7 +29335,7 @@ void _wrap_liquid_lshift_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_g
 }
 
 
-void _wrap_liquid_rshift_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_LiquidRshift_liquid_7b08cc538ffcb585(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   unsigned char *arg1 = (unsigned char *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -29362,7 +29349,7 @@ void _wrap_liquid_rshift_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_g
 }
 
 
-void _wrap_liquid_lcircshift_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_LiquidLcircshift_liquid_7b08cc538ffcb585(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   unsigned char *arg1 = (unsigned char *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -29376,7 +29363,7 @@ void _wrap_liquid_lcircshift_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _sw
 }
 
 
-void _wrap_liquid_rcircshift_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_LiquidRcircshift_liquid_7b08cc538ffcb585(char *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   unsigned char *arg1 = (unsigned char *) 0 ;
   unsigned int arg2 ;
   unsigned int arg3 ;
@@ -29390,7 +29377,7 @@ void _wrap_liquid_rcircshift_liquid_24d78331e3228d7c(char *_swig_go_0, intgo _sw
 }
 
 
-intgo _wrap_liquid_count_ones_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+intgo _wrap_LiquidCountOnes_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -29403,7 +29390,7 @@ intgo _wrap_liquid_count_ones_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-intgo _wrap_liquid_count_ones_mod2_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+intgo _wrap_LiquidCountOnesMod2_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -29416,7 +29403,7 @@ intgo _wrap_liquid_count_ones_mod2_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-intgo _wrap_liquid_bdotprod_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+intgo _wrap_LiquidBdotprod_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   unsigned int result;
@@ -29431,7 +29418,7 @@ intgo _wrap_liquid_bdotprod_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swi
 }
 
 
-intgo _wrap_liquid_count_leading_zeros_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+intgo _wrap_LiquidCountLeadingZeros_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -29444,7 +29431,7 @@ intgo _wrap_liquid_count_leading_zeros_liquid_24d78331e3228d7c(intgo _swig_go_0)
 }
 
 
-intgo _wrap_liquid_msb_index_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+intgo _wrap_LiquidMsbIndex_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -29457,7 +29444,7 @@ intgo _wrap_liquid_msb_index_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-void _wrap_liquid_print_bitstring_liquid_24d78331e3228d7c(intgo _swig_go_0, intgo _swig_go_1) {
+void _wrap_LiquidPrintBitstring_liquid_7b08cc538ffcb585(intgo _swig_go_0, intgo _swig_go_1) {
   unsigned int arg1 ;
   unsigned int arg2 ;
   
@@ -29469,7 +29456,7 @@ void _wrap_liquid_print_bitstring_liquid_24d78331e3228d7c(intgo _swig_go_0, intg
 }
 
 
-char _wrap_liquid_reverse_byte_liquid_24d78331e3228d7c(char _swig_go_0) {
+char _wrap_LiquidReverseByte_liquid_7b08cc538ffcb585(char _swig_go_0) {
   unsigned char arg1 ;
   unsigned char result;
   char _swig_go_result;
@@ -29482,7 +29469,7 @@ char _wrap_liquid_reverse_byte_liquid_24d78331e3228d7c(char _swig_go_0) {
 }
 
 
-intgo _wrap_liquid_reverse_uint16_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+intgo _wrap_LiquidReverseUint16_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -29495,7 +29482,7 @@ intgo _wrap_liquid_reverse_uint16_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-intgo _wrap_liquid_reverse_uint24_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+intgo _wrap_LiquidReverseUint24_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -29508,7 +29495,7 @@ intgo _wrap_liquid_reverse_uint24_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-intgo _wrap_liquid_reverse_uint32_liquid_24d78331e3228d7c(intgo _swig_go_0) {
+intgo _wrap_LiquidReverseUint32_liquid_7b08cc538ffcb585(intgo _swig_go_0) {
   unsigned int arg1 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -29521,7 +29508,7 @@ intgo _wrap_liquid_reverse_uint32_liquid_24d78331e3228d7c(intgo _swig_go_0) {
 }
 
 
-void _wrap_liquid_get_scale_liquid_24d78331e3228d7c(float _swig_go_0, _gostring_ _swig_go_1, float *_swig_go_2) {
+void _wrap_LiquidGetScale_liquid_7b08cc538ffcb585(float _swig_go_0, _gostring_ _swig_go_1, float *_swig_go_2) {
   float arg1 ;
   char *arg2 = (char *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -29540,7 +29527,7 @@ void _wrap_liquid_get_scale_liquid_24d78331e3228d7c(float _swig_go_0, _gostring_
 }
 
 
-void _wrap_liquid_vectorf_add_liquid_24d78331e3228d7c(float *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_LiquidVectorfAdd_liquid_7b08cc538ffcb585(float *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   float *arg1 = (float *) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -29556,7 +29543,7 @@ void _wrap_liquid_vectorf_add_liquid_24d78331e3228d7c(float *_swig_go_0, float *
 }
 
 
-void _wrap_liquid_vectorf_addscalar_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, float _swig_go_2, float *_swig_go_3) {
+void _wrap_LiquidVectorfAddscalar_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, float _swig_go_2, float *_swig_go_3) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -29572,7 +29559,7 @@ void _wrap_liquid_vectorf_addscalar_liquid_24d78331e3228d7c(float *_swig_go_0, i
 }
 
 
-void _wrap_liquid_vectorf_mul_liquid_24d78331e3228d7c(float *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_LiquidVectorfMul_liquid_7b08cc538ffcb585(float *_swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   float *arg1 = (float *) 0 ;
   float *arg2 = (float *) 0 ;
   unsigned int arg3 ;
@@ -29588,7 +29575,7 @@ void _wrap_liquid_vectorf_mul_liquid_24d78331e3228d7c(float *_swig_go_0, float *
 }
 
 
-void _wrap_liquid_vectorf_mulscalar_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, float _swig_go_2, float *_swig_go_3) {
+void _wrap_LiquidVectorfMulscalar_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, float _swig_go_2, float *_swig_go_3) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   float arg3 ;
@@ -29604,7 +29591,7 @@ void _wrap_liquid_vectorf_mulscalar_liquid_24d78331e3228d7c(float *_swig_go_0, i
 }
 
 
-void _wrap_liquid_vectorf_cexpj_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
+void _wrap_LiquidVectorfCexpj_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -29618,7 +29605,7 @@ void _wrap_liquid_vectorf_cexpj_liquid_24d78331e3228d7c(float *_swig_go_0, intgo
 }
 
 
-void _wrap_liquid_vectorf_carg_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
+void _wrap_LiquidVectorfCarg_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -29632,7 +29619,7 @@ void _wrap_liquid_vectorf_carg_liquid_24d78331e3228d7c(float *_swig_go_0, intgo 
 }
 
 
-void _wrap_liquid_vectorf_abs_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
+void _wrap_LiquidVectorfAbs_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -29646,7 +29633,7 @@ void _wrap_liquid_vectorf_abs_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _
 }
 
 
-float _wrap_liquid_vectorf_norm_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1) {
+float _wrap_LiquidVectorfNorm_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   float result;
@@ -29661,7 +29648,7 @@ float _wrap_liquid_vectorf_norm_liquid_24d78331e3228d7c(float *_swig_go_0, intgo
 }
 
 
-void _wrap_liquid_vectorf_normalize_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
+void _wrap_LiquidVectorfNormalize_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -29675,7 +29662,7 @@ void _wrap_liquid_vectorf_normalize_liquid_24d78331e3228d7c(float *_swig_go_0, i
 }
 
 
-void _wrap_liquid_vectorcf_add_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_LiquidVectorcfAdd_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -29691,7 +29678,7 @@ void _wrap_liquid_vectorcf_add_liquid_24d78331e3228d7c(liquid_float_complex *_sw
 }
 
 
-void _wrap_liquid_vectorcf_addscalar_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_LiquidVectorcfAddscalar_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   liquid_float_complex arg3 ;
@@ -29714,7 +29701,7 @@ void _wrap_liquid_vectorcf_addscalar_liquid_24d78331e3228d7c(liquid_float_comple
 }
 
 
-void _wrap_liquid_vectorcf_mul_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_LiquidVectorcfMul_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, liquid_float_complex *_swig_go_3) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -29730,7 +29717,7 @@ void _wrap_liquid_vectorcf_mul_liquid_24d78331e3228d7c(liquid_float_complex *_sw
 }
 
 
-void _wrap_liquid_vectorcf_mulscalar_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3) {
+void _wrap_LiquidVectorcfMulscalar_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2, liquid_float_complex *_swig_go_3) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   liquid_float_complex arg3 ;
@@ -29753,7 +29740,7 @@ void _wrap_liquid_vectorcf_mulscalar_liquid_24d78331e3228d7c(liquid_float_comple
 }
 
 
-void _wrap_liquid_vectorcf_cexpj_liquid_24d78331e3228d7c(float *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_LiquidVectorcfCexpj_liquid_7b08cc538ffcb585(float *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
   float *arg1 = (float *) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
@@ -29767,7 +29754,7 @@ void _wrap_liquid_vectorcf_cexpj_liquid_24d78331e3228d7c(float *_swig_go_0, intg
 }
 
 
-void _wrap_liquid_vectorcf_carg_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
+void _wrap_LiquidVectorcfCarg_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -29781,7 +29768,7 @@ void _wrap_liquid_vectorcf_carg_liquid_24d78331e3228d7c(liquid_float_complex *_s
 }
 
 
-void _wrap_liquid_vectorcf_abs_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
+void _wrap_LiquidVectorcfAbs_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, float *_swig_go_2) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   float *arg3 = (float *) 0 ;
@@ -29795,7 +29782,7 @@ void _wrap_liquid_vectorcf_abs_liquid_24d78331e3228d7c(liquid_float_complex *_sw
 }
 
 
-float _wrap_liquid_vectorcf_norm_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1) {
+float _wrap_LiquidVectorcfNorm_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   float result;
@@ -29810,7 +29797,7 @@ float _wrap_liquid_vectorcf_norm_liquid_24d78331e3228d7c(liquid_float_complex *_
 }
 
 
-void _wrap_liquid_vectorcf_normalize_liquid_24d78331e3228d7c(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
+void _wrap_LiquidVectorcfNormalize_liquid_7b08cc538ffcb585(liquid_float_complex *_swig_go_0, intgo _swig_go_1, liquid_float_complex *_swig_go_2) {
   liquid_float_complex *arg1 = (liquid_float_complex *) 0 ;
   unsigned int arg2 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;

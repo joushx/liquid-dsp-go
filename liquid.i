@@ -23,6 +23,8 @@
 %ignore liquid_vectorcf_sumsq;
 %ignore liquid_vectorcf_pnorm;
 
+%rename("%(camelcase)s") "";
+
 %include "liquid/liquid.h"
 
 %insert(cgo_comment_typedefs) %{
