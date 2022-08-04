@@ -1,1 +1,0 @@
-swig -go -intgosize 64 -I/usr/include -c++ -cgo liquid.i
