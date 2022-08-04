@@ -25,6 +25,7 @@
 
 %rename("%(camelcase)s") "";
 
+typedef liquid_float_complex complex<float>;
 %include "liquid/liquid.h"
 
 %insert(cgo_comment_typedefs) %{
