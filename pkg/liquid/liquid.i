@@ -39,6 +39,10 @@
 %typemap(goin) liquid_float_complex* {
   $result = (*C.complexfloat)(&$1[0])
 }
+%typemap(imtype) float* "*C.float"
+%typemap(goin) float* {
+  $result = (*C.float)(&$1[0])
+}
 
 %include "liquid/liquid.h";
 
