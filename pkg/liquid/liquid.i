@@ -26,20 +26,21 @@
 
 %rename("%s") get_liquid_version;
 %rename("%s") freqdem_create;
-%rename("wrapped_%s") freqdem_demodulate;
+//%rename("%s") freqdem_demodulate;
+%rename("%s") freqdem_demodulate_block;
 %rename("%s") liquid_float_complex;
 %rename("%s") complexfloat;
 
-%insert(go_wrapper) %{
-func Freqdem_demodulate(instance Freqdem_s, data []complex64, result []float32) {
-  Cdata := (Liquid_float_complex)(data[0])
-  Cresult := &result[0]
-
-  Wrapped_freqdem_demodulate(instance, Cdata, Cresult)
+%include "typemaps.i";
+%typemap(gotype) liquid_float_complex* "[]complex64"
+%typemap(gotype) liquid_float_complex "complex64"
+%typemap(gotype) float* "[]float32"
+%typemap(imtype) liquid_float_complex* "*C.complexfloat"
+%typemap(goin) liquid_float_complex* {
+  $result = (*C.complexfloat)(&$1[0])
 }
-%}
 
-%include "liquid/liquid.h"
+%include "liquid/liquid.h";
 
 %insert(cgo_comment_typedefs) %{
 #cgo LDFLAGS: -L ./usr/include -lliquid -lm

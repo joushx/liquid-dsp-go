@@ -246,7 +246,7 @@ static void* Swig_malloc(int c) {
 extern "C" {
 #endif
 
-void _wrap_Swig_free_liquid_3775c8a7af8e2374(void *_swig_go_0) {
+void _wrap_Swig_free_liquid_1d6da49e4668d890(void *_swig_go_0) {
   void *arg1 = (void *) 0 ;
   
   arg1 = *(void **)&_swig_go_0; 
@@ -256,7 +256,7 @@ void _wrap_Swig_free_liquid_3775c8a7af8e2374(void *_swig_go_0) {
 }
 
 
-void *_wrap_Swig_malloc_liquid_3775c8a7af8e2374(intgo _swig_go_0) {
+void *_wrap_Swig_malloc_liquid_1d6da49e4668d890(intgo _swig_go_0) {
   int arg1 ;
   void *result = 0 ;
   void *_swig_go_result;
@@ -269,7 +269,7 @@ void *_wrap_Swig_malloc_liquid_3775c8a7af8e2374(intgo _swig_go_0) {
 }
 
 
-liquid_float_complex *_wrap_new_liquid_float_complex_liquid_3775c8a7af8e2374() {
+liquid_float_complex *_wrap_new_liquid_float_complex_liquid_1d6da49e4668d890() {
   liquid_float_complex *result = 0 ;
   liquid_float_complex *_swig_go_result;
   
@@ -280,7 +280,7 @@ liquid_float_complex *_wrap_new_liquid_float_complex_liquid_3775c8a7af8e2374() {
 }
 
 
-freqdem_s *_wrap_freqdem_create_liquid_3775c8a7af8e2374(float _swig_go_0) {
+freqdem_s *_wrap_freqdem_create_liquid_1d6da49e4668d890(float _swig_go_0) {
   float arg1 ;
   freqdem result;
   freqdem_s *_swig_go_result;
@@ -293,23 +293,18 @@ freqdem_s *_wrap_freqdem_create_liquid_3775c8a7af8e2374(float _swig_go_0) {
 }
 
 
-void _wrap_wrapped_freqdem_demodulate_liquid_3775c8a7af8e2374(freqdem_s *_swig_go_0, liquid_float_complex *_swig_go_1, float *_swig_go_2) {
+void _wrap_freqdem_demodulate_block_liquid_1d6da49e4668d890(freqdem_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, _goslice_ _swig_go_3) {
   freqdem arg1 = (freqdem) 0 ;
-  liquid_float_complex arg2 ;
-  float *arg3 = (float *) 0 ;
-  liquid_float_complex *argp2 ;
+  liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
+  unsigned int arg3 ;
+  float *arg4 = (float *) 0 ;
   
   arg1 = *(freqdem *)&_swig_go_0; 
+  arg2 = *(liquid_float_complex **)&_swig_go_1; 
+  arg3 = (unsigned int)_swig_go_2; 
+  arg4 = *(float **)&_swig_go_3; 
   
-  argp2 = (liquid_float_complex *)_swig_go_1;
-  if (argp2 == NULL) {
-    _swig_gopanic("Attempt to dereference null liquid_float_complex");
-  }
-  arg2 = (liquid_float_complex)*argp2;
-  
-  arg3 = *(float **)&_swig_go_2; 
-  
-  freqdem_demodulate(arg1,arg2,arg3);
+  freqdem_demodulate_block(arg1,arg2,arg3,arg4);
   
 }
 
