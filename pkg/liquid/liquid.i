@@ -37,6 +37,8 @@
 %rename("%(camelcase)s") iirfilt_crcf_execute_block;
 %rename("%(camelcase)s") firfilt_rrrf_create;
 %rename("%(camelcase)s") firfilt_rrrf_execute_block;
+%rename("%(camelcase)s") msresamp_crcf_create;
+%rename("%(camelcase)s") msresamp_crcf_execute;
 %rename("%s") complexfloat;
 
 %include "typemaps.i";
