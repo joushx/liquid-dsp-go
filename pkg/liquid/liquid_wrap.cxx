@@ -246,7 +246,7 @@ static void* Swig_malloc(int c) {
 extern "C" {
 #endif
 
-void _wrap_Swig_free_liquid_c5390aa3a583a473(void *_swig_go_0) {
+void _wrap_Swig_free_liquid_52d8476b114316ff(void *_swig_go_0) {
   void *arg1 = (void *) 0 ;
   
   arg1 = *(void **)&_swig_go_0; 
@@ -256,7 +256,7 @@ void _wrap_Swig_free_liquid_c5390aa3a583a473(void *_swig_go_0) {
 }
 
 
-void *_wrap_Swig_malloc_liquid_c5390aa3a583a473(intgo _swig_go_0) {
+void *_wrap_Swig_malloc_liquid_52d8476b114316ff(intgo _swig_go_0) {
   int arg1 ;
   void *result = 0 ;
   void *_swig_go_result;
@@ -269,7 +269,7 @@ void *_wrap_Swig_malloc_liquid_c5390aa3a583a473(intgo _swig_go_0) {
 }
 
 
-freqdem_s *_wrap_FreqdemCreate_liquid_c5390aa3a583a473(float _swig_go_0) {
+freqdem_s *_wrap_FreqdemCreate_liquid_52d8476b114316ff(float _swig_go_0) {
   float arg1 ;
   freqdem result;
   freqdem_s *_swig_go_result;
@@ -282,7 +282,7 @@ freqdem_s *_wrap_FreqdemCreate_liquid_c5390aa3a583a473(float _swig_go_0) {
 }
 
 
-void _wrap_FreqdemDemodulateBlock_liquid_c5390aa3a583a473(freqdem_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_FreqdemDemodulateBlock_liquid_52d8476b114316ff(freqdem_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   freqdem arg1 = (freqdem) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -298,7 +298,7 @@ void _wrap_FreqdemDemodulateBlock_liquid_c5390aa3a583a473(freqdem_s *_swig_go_0,
 }
 
 
-nco_crcf_s *_wrap_NcoCrcfCreate_liquid_c5390aa3a583a473(intgo _swig_go_0) {
+nco_crcf_s *_wrap_NcoCrcfCreate_liquid_52d8476b114316ff(intgo _swig_go_0) {
   liquid_ncotype arg1 ;
   nco_crcf result;
   nco_crcf_s *_swig_go_result;
@@ -311,7 +311,7 @@ nco_crcf_s *_wrap_NcoCrcfCreate_liquid_c5390aa3a583a473(intgo _swig_go_0) {
 }
 
 
-void _wrap_NcoCrcfSetFrequency_liquid_c5390aa3a583a473(nco_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_NcoCrcfSetFrequency_liquid_52d8476b114316ff(nco_crcf_s *_swig_go_0, float _swig_go_1) {
   nco_crcf arg1 = (nco_crcf) 0 ;
   float arg2 ;
   
@@ -323,7 +323,7 @@ void _wrap_NcoCrcfSetFrequency_liquid_c5390aa3a583a473(nco_crcf_s *_swig_go_0, f
 }
 
 
-void _wrap_NcoCrcfSetPhase_liquid_c5390aa3a583a473(nco_crcf_s *_swig_go_0, float _swig_go_1) {
+void _wrap_NcoCrcfSetPhase_liquid_52d8476b114316ff(nco_crcf_s *_swig_go_0, float _swig_go_1) {
   nco_crcf arg1 = (nco_crcf) 0 ;
   float arg2 ;
   
@@ -335,7 +335,7 @@ void _wrap_NcoCrcfSetPhase_liquid_c5390aa3a583a473(nco_crcf_s *_swig_go_0, float
 }
 
 
-void _wrap_NcoCrcfMixBlockUp_liquid_c5390aa3a583a473(nco_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3) {
+void _wrap_NcoCrcfMixBlockUp_liquid_52d8476b114316ff(nco_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3) {
   nco_crcf arg1 = (nco_crcf) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
