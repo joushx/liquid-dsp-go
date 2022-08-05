@@ -26,14 +26,14 @@
 
 %rename("%s") get_liquid_version;
 %rename("%s") freqdem_create;
-//%rename("%s") freqdem_demodulate;
-%rename("%s") freqdem_demodulate_block;
+%rename("%s") freqdem_demodulate;
+%rename("%(camelcase)s") freqdem_demodulate_block;
 %rename("%s") liquid_float_complex;
 %rename("%s") complexfloat;
 
 %include "typemaps.i";
 %typemap(gotype) liquid_float_complex* "[]complex64"
-%typemap(gotype) liquid_float_complex "complex64"
+//%typemap(gotype) liquid_float_complex "complex64"
 %typemap(gotype) float* "[]float32"
 %typemap(imtype) liquid_float_complex* "*C.complexfloat"
 %typemap(goin) liquid_float_complex* {
