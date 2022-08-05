@@ -33,6 +33,13 @@
 
 %include "typemaps.i";
 
+// complex number
+%typemap(imtype) liquid_float_complex "C.complexfloat"
+%typemap(gotype) liquid_float_complex "complex64"
+%typemap(goin) liquid_float_complex {
+  $result = C.complexfloat($1)
+}
+
 // complex array
 %typemap(gotype) liquid_float_complex* "[]complex64"
 %typemap(imtype) liquid_float_complex* "*C.complexfloat"
@@ -47,12 +54,6 @@
   $result = (*C.float)(&$1[0])
 }
 
-// complex number
-%typemap(imtype) liquid_float_complex "C.complexfloat"
-%typemap(gotype) liquid_float_complex "complex64"
-%typemap(goin) liquid_float_complex {
-  $result = C.complexfloat($1)
-}
 
 %include "liquid/liquid.h";
 
