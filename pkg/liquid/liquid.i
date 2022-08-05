@@ -33,6 +33,10 @@
 %rename("%(camelcase)s") nco_crcf_set_frequency;
 %rename("%(camelcase)s") nco_crcf_set_phase;
 %rename("%(camelcase)s") liquid_ncotype;
+%rename("%(camelcase)s") iirfilt_crcf_create_prototype;
+%rename("%(camelcase)s") iirfilt_crcf_execute_block;
+%rename("%(camelcase)s") firfilt_rrrf_create;
+%rename("%(camelcase)s") firfilt_rrrf_execute_block;
 %rename("%s") complexfloat;
 
 %include "typemaps.i";
