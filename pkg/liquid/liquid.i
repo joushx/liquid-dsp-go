@@ -28,7 +28,6 @@
 %rename("%(camelcase)s") freqdem_create;
 //%rename("%(camelcase)s") freqdem_demodulate;
 %rename("%(camelcase)s") freqdem_demodulate_block;
-//%rename("%s") liquid_float_complex;
 %rename("%s") complexfloat;
 
 %include "typemaps.i";
@@ -41,8 +40,8 @@
 }
 
 // complex array
-%typemap(gotype) liquid_float_complex* "[]complex64"
 %typemap(imtype) liquid_float_complex* "*C.complexfloat"
+%typemap(gotype) liquid_float_complex* "[]complex64"
 %typemap(goin) liquid_float_complex* {
   $result = (*C.complexfloat)(&$1[0])
 }
@@ -53,7 +52,6 @@
 %typemap(goin) float* {
   $result = (*C.float)(&$1[0])
 }
-
 
 %include "liquid/liquid.h";
 
