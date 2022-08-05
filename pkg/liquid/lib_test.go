@@ -4,7 +4,7 @@ import (
 	"testing"
 )
 
-func TestFreqDem(t *testing.T) {
+func TestFreqDemDemodulate(t *testing.T) {
 	var modulationFactor float32 = 0.1
 	instance := FreqdemCreate(modulationFactor)
 
@@ -16,5 +16,8 @@ func TestFreqDem(t *testing.T) {
 
         if out[1] == 0.0 {
                 t.Fail()
-        } 
+        }
+
+        var input complex64 = 1+0.2i
+        FreqdemDemodulate(instance, input, out)
 }
