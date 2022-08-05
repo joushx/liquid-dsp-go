@@ -30,6 +30,8 @@
 %rename("%(camelcase)s") freqdem_demodulate_block;
 %rename("%(camelcase)s") nco_crcf_mix_block_up;
 %rename("%(camelcase)s") nco_crcf_create;
+%rename("%(camelcase)s") nco_crcf_set_frequency;
+%rename("%(camelcase)s") nco_crcf_set_phase;
 %rename("%s") complexfloat;
 
 %include "typemaps.i";
