@@ -246,7 +246,7 @@ static void* Swig_malloc(int c) {
 extern "C" {
 #endif
 
-void _wrap_Swig_free_liquid_5fad0dde78c2ea5c(void *_swig_go_0) {
+void _wrap_Swig_free_liquid_55854ee3a3d0f6cc(void *_swig_go_0) {
   void *arg1 = (void *) 0 ;
   
   arg1 = *(void **)&_swig_go_0; 
@@ -256,7 +256,7 @@ void _wrap_Swig_free_liquid_5fad0dde78c2ea5c(void *_swig_go_0) {
 }
 
 
-void *_wrap_Swig_malloc_liquid_5fad0dde78c2ea5c(intgo _swig_go_0) {
+void *_wrap_Swig_malloc_liquid_55854ee3a3d0f6cc(intgo _swig_go_0) {
   int arg1 ;
   void *result = 0 ;
   void *_swig_go_result;
@@ -269,7 +269,7 @@ void *_wrap_Swig_malloc_liquid_5fad0dde78c2ea5c(intgo _swig_go_0) {
 }
 
 
-freqdem_s *_wrap_FreqdemCreate_liquid_5fad0dde78c2ea5c(float _swig_go_0) {
+freqdem_s *_wrap_FreqdemCreate_liquid_55854ee3a3d0f6cc(float _swig_go_0) {
   float arg1 ;
   freqdem result;
   freqdem_s *_swig_go_result;
@@ -282,7 +282,7 @@ freqdem_s *_wrap_FreqdemCreate_liquid_5fad0dde78c2ea5c(float _swig_go_0) {
 }
 
 
-void _wrap_FreqdemDemodulateBlock_liquid_5fad0dde78c2ea5c(freqdem_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_FreqdemDemodulateBlock_liquid_55854ee3a3d0f6cc(freqdem_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   freqdem arg1 = (freqdem) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;
@@ -294,6 +294,35 @@ void _wrap_FreqdemDemodulateBlock_liquid_5fad0dde78c2ea5c(freqdem_s *_swig_go_0,
   arg4 = *(float **)&_swig_go_3; 
   
   freqdem_demodulate_block(arg1,arg2,arg3,arg4);
+  
+}
+
+
+nco_crcf_s *_wrap_NcoCrcfCreate_liquid_55854ee3a3d0f6cc(intgo _swig_go_0) {
+  liquid_ncotype arg1 ;
+  nco_crcf result;
+  nco_crcf_s *_swig_go_result;
+  
+  arg1 = (liquid_ncotype)_swig_go_0; 
+  
+  result = (nco_crcf)nco_crcf_create(arg1);
+  *(nco_crcf *)&_swig_go_result = (nco_crcf)result; 
+  return _swig_go_result;
+}
+
+
+void _wrap_NcoCrcfMixBlockUp_liquid_55854ee3a3d0f6cc(nco_crcf_s *_swig_go_0, liquid_float_complex *_swig_go_1, liquid_float_complex *_swig_go_2, intgo _swig_go_3) {
+  nco_crcf arg1 = (nco_crcf) 0 ;
+  liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
+  liquid_float_complex *arg3 = (liquid_float_complex *) 0 ;
+  unsigned int arg4 ;
+  
+  arg1 = *(nco_crcf *)&_swig_go_0; 
+  arg2 = *(liquid_float_complex **)&_swig_go_1; 
+  arg3 = *(liquid_float_complex **)&_swig_go_2; 
+  arg4 = (unsigned int)_swig_go_3; 
+  
+  nco_crcf_mix_block_up(arg1,arg2,arg3,arg4);
   
 }
 

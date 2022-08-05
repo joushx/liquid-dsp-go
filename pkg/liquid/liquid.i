@@ -28,6 +28,8 @@
 %rename("%(camelcase)s") freqdem_create;
 //%rename("%(camelcase)s") freqdem_demodulate;
 %rename("%(camelcase)s") freqdem_demodulate_block;
+%rename("%(camelcase)s") nco_crcf_mix_block_up;
+%rename("%(camelcase)s") nco_crcf_create;
 %rename("%s") complexfloat;
 
 %include "typemaps.i";
