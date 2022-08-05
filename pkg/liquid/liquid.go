@@ -31,11 +31,11 @@ typedef struct { void* array; intgo len; intgo cap; } _goslice_;
 
 #cgo LDFLAGS: -L ./usr/include -lliquid -lm
 
-extern void _wrap_Swig_free_liquid_4e929a293718a982(uintptr_t arg1);
-extern uintptr_t _wrap_Swig_malloc_liquid_4e929a293718a982(swig_intgo arg1);
-extern swig_voidp _wrap_new_liquid_float_complex_liquid_4e929a293718a982(void);
-extern uintptr_t _wrap_freqdem_create_liquid_4e929a293718a982(float arg1);
-extern void _wrap_freqdem_demodulate_block_liquid_4e929a293718a982(uintptr_t arg1, swig_voidp arg2, swig_intgo arg3, swig_voidp arg4);
+extern void _wrap_Swig_free_liquid_0be5a883c381e297(uintptr_t arg1);
+extern uintptr_t _wrap_Swig_malloc_liquid_0be5a883c381e297(swig_intgo arg1);
+extern swig_voidp _wrap_new_liquid_float_complex_liquid_0be5a883c381e297(void);
+extern uintptr_t _wrap_freqdem_create_liquid_0be5a883c381e297(float arg1);
+extern void _wrap_freqdem_demodulate_block_liquid_0be5a883c381e297(uintptr_t arg1, swig_voidp arg2, swig_intgo arg3, swig_voidp arg4);
 #undef intgo
 */
 import "C"
@@ -61,13 +61,13 @@ type _ sync.Mutex
 
 func Swig_free(arg1 uintptr) {
 	_swig_i_0 := arg1
-	C._wrap_Swig_free_liquid_4e929a293718a982(C.uintptr_t(_swig_i_0))
+	C._wrap_Swig_free_liquid_0be5a883c381e297(C.uintptr_t(_swig_i_0))
 }
 
 func Swig_malloc(arg1 int) (_swig_ret uintptr) {
 	var swig_r uintptr
 	_swig_i_0 := arg1
-	swig_r = (uintptr)(C._wrap_Swig_malloc_liquid_4e929a293718a982(C.swig_intgo(_swig_i_0)))
+	swig_r = (uintptr)(C._wrap_Swig_malloc_liquid_0be5a883c381e297(C.swig_intgo(_swig_i_0)))
 	return swig_r
 }
 
@@ -82,7 +82,7 @@ func (p SwigcptrLiquid_float_complex) SwigIsLiquid_float_complex() {
 
 func NewLiquid_float_complex() (_swig_ret Liquid_float_complex) {
 	var swig_r Liquid_float_complex
-	swig_r = (Liquid_float_complex)(SwigcptrLiquid_float_complex(C._wrap_new_liquid_float_complex_liquid_4e929a293718a982()))
+	swig_r = (Liquid_float_complex)(SwigcptrLiquid_float_complex(C._wrap_new_liquid_float_complex_liquid_0be5a883c381e297()))
 	return swig_r
 }
 
@@ -94,7 +94,7 @@ type Liquid_float_complex interface {
 func Freqdem_create(arg1 float32) (_swig_ret Freqdem_s) {
 	var swig_r Freqdem_s
 	_swig_i_0 := arg1
-	swig_r = (Freqdem_s)(SwigcptrFreqdem_s(C._wrap_freqdem_create_liquid_4e929a293718a982(C.float(_swig_i_0))))
+	swig_r = (Freqdem_s)(SwigcptrFreqdem_s(C._wrap_freqdem_create_liquid_0be5a883c381e297(C.float(_swig_i_0))))
 	return swig_r
 }
 
@@ -109,7 +109,7 @@ func Freqdem_demodulate_block(arg1 Freqdem_s, arg2 []complex64, arg3 uint, arg4 
 {
   _swig_i_3 = (*C.float)(&arg4[0])
 }
-	C._wrap_freqdem_demodulate_block_liquid_4e929a293718a982(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2), C.swig_voidp(_swig_i_3))
+	C._wrap_freqdem_demodulate_block_liquid_0be5a883c381e297(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2), C.swig_voidp(_swig_i_3))
 }
 
 

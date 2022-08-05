@@ -44,6 +44,11 @@
   $result = (*C.float)(&$1[0])
 }
 
+%typemap(in) (SWIGTYPE q, liquid_float_complex* s, uint n, float* m) {
+    $1 = $input;
+    $2 = NULL;
+}
+
 %include "liquid/liquid.h";
 
 %insert(cgo_comment_typedefs) %{
