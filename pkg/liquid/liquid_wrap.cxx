@@ -246,7 +246,7 @@ static void* Swig_malloc(int c) {
 extern "C" {
 #endif
 
-void _wrap_Swig_free_liquid_aae64a201f68daac(void *_swig_go_0) {
+void _wrap_Swig_free_liquid_5c602faf8f134dcf(void *_swig_go_0) {
   void *arg1 = (void *) 0 ;
   
   arg1 = *(void **)&_swig_go_0; 
@@ -256,7 +256,7 @@ void _wrap_Swig_free_liquid_aae64a201f68daac(void *_swig_go_0) {
 }
 
 
-void *_wrap_Swig_malloc_liquid_aae64a201f68daac(intgo _swig_go_0) {
+void *_wrap_Swig_malloc_liquid_5c602faf8f134dcf(intgo _swig_go_0) {
   int arg1 ;
   void *result = 0 ;
   void *_swig_go_result;
@@ -269,7 +269,7 @@ void *_wrap_Swig_malloc_liquid_aae64a201f68daac(intgo _swig_go_0) {
 }
 
 
-liquid_float_complex *_wrap_new_LiquidFloatComplex_liquid_aae64a201f68daac() {
+liquid_float_complex *_wrap_new_liquid_float_complex_liquid_5c602faf8f134dcf() {
   liquid_float_complex *result = 0 ;
   liquid_float_complex *_swig_go_result;
   
@@ -280,7 +280,7 @@ liquid_float_complex *_wrap_new_LiquidFloatComplex_liquid_aae64a201f68daac() {
 }
 
 
-freqdem_s *_wrap_FreqdemCreate_liquid_aae64a201f68daac(float _swig_go_0) {
+freqdem_s *_wrap_FreqdemCreate_liquid_5c602faf8f134dcf(float _swig_go_0) {
   float arg1 ;
   freqdem result;
   freqdem_s *_swig_go_result;
@@ -293,7 +293,7 @@ freqdem_s *_wrap_FreqdemCreate_liquid_aae64a201f68daac(float _swig_go_0) {
 }
 
 
-void _wrap_FreqdemDemodulate_liquid_aae64a201f68daac(freqdem_s *_swig_go_0, liquid_float_complex _swig_go_1, float *_swig_go_2) {
+void _wrap_FreqdemDemodulate_liquid_5c602faf8f134dcf(freqdem_s *_swig_go_0, liquid_float_complex _swig_go_1, float *_swig_go_2) {
   freqdem arg1 = (freqdem) 0 ;
   liquid_float_complex arg2 ;
   float *arg3 = (float *) 0 ;
@@ -314,7 +314,7 @@ void _wrap_FreqdemDemodulate_liquid_aae64a201f68daac(freqdem_s *_swig_go_0, liqu
 }
 
 
-void _wrap_FreqdemDemodulateBlock_liquid_aae64a201f68daac(freqdem_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+void _wrap_FreqdemDemodulateBlock_liquid_5c602faf8f134dcf(freqdem_s *_swig_go_0, liquid_float_complex *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   freqdem arg1 = (freqdem) 0 ;
   liquid_float_complex *arg2 = (liquid_float_complex *) 0 ;
   unsigned int arg3 ;

@@ -28,7 +28,7 @@
 %rename("%(camelcase)s") freqdem_create;
 %rename("%(camelcase)s") freqdem_demodulate;
 %rename("%(camelcase)s") freqdem_demodulate_block;
-%rename("%(camelcase)s") liquid_float_complex;
+%rename("%s") liquid_float_complex;
 %rename("%s") complexfloat;
 
 %include "typemaps.i";
