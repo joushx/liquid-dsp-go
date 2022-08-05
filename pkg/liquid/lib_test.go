@@ -18,6 +18,6 @@ func TestFreqDemDemodulate(t *testing.T) {
                 t.Fail()
         }
 
-        var input complex64 = 1+0.2i
-        FreqdemDemodulate(instance, input, out)
+        //var input complex64 = 1+0.2i
+        //FreqdemDemodulate(instance, input, out)
 }
