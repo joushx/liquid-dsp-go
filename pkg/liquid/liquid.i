@@ -44,8 +44,7 @@
   $1 = $input;
 }
 %typemap(goout) liquid_float_complex {
-  fmt.Printf("Warning: This function does not return anything! %v", $1)
-  $result = 0+0i;  // is there no way to get the convert to complex64? :(
+  $result = complex64($1)
 }
 
 // complex array
