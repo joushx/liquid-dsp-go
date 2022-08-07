@@ -53,6 +53,9 @@
 %rename("%(camelcase)s") LIQUID_IIRDES_TF;
 %rename("%(camelcase)s") liquid_iirdes_bandtype;
 %rename("%(camelcase)s") liquid_iirdes_format;
+%rename("%(camelcase)s") liquid_ncotype;
+%rename("%(camelcase)s") LIQUID_NCO;
+%rename("%(camelcase)s") LIQUID_VCO;
 
 %rename("%s") complexfloat;
 
