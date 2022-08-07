@@ -51,6 +51,9 @@
 %rename("%(camelcase)s") LIQUID_IIRDES_BANDSTOP;
 %rename("%(camelcase)s") LIQUID_IIRDES_SOS;
 %rename("%(camelcase)s") LIQUID_IIRDES_TF;
+%rename("%(camelcase)s") liquid_iirdes_bandtype;
+%rename("%(camelcase)s") liquid_iirdes_format;
+
 %rename("%s") complexfloat;
 
 %include "typemaps.i";

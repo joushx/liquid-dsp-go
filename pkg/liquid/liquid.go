@@ -31,25 +31,31 @@ typedef struct { void* array; intgo len; intgo cap; } _goslice_;
 
 #cgo LDFLAGS: -L ./usr/include -lliquid -lm
 
-extern void _wrap_Swig_free_liquid_a485eb49052674ea(uintptr_t arg1);
-extern uintptr_t _wrap_Swig_malloc_liquid_a485eb49052674ea(swig_intgo arg1);
-extern swig_intgo _wrap_LIQUIDIIRDESBUTTER_liquid_a485eb49052674ea(void);
-extern swig_intgo _wrap_LIQUIDIIRDESCHEBY1_liquid_a485eb49052674ea(void);
-extern swig_intgo _wrap_LIQUIDIIRDESCHEBY2_liquid_a485eb49052674ea(void);
-extern swig_intgo _wrap_LIQUIDIIRDESELLIP_liquid_a485eb49052674ea(void);
-extern swig_intgo _wrap_LIQUIDIIRDESBESSEL_liquid_a485eb49052674ea(void);
-extern uintptr_t _wrap_FirfiltRrrfCreate_liquid_a485eb49052674ea(swig_voidp arg1, swig_intgo arg2);
-extern void _wrap_FirfiltRrrfExecuteBlock_liquid_a485eb49052674ea(uintptr_t arg1, swig_voidp arg2, swig_intgo arg3, swig_voidp arg4);
-extern uintptr_t _wrap_IirfiltCrcfCreatePrototype_liquid_a485eb49052674ea(swig_intgo arg1, swig_intgo arg2, swig_intgo arg3, swig_intgo arg4, float arg5, float arg6, float arg7, float arg8);
-extern void _wrap_IirfiltCrcfExecuteBlock_liquid_a485eb49052674ea(uintptr_t arg1, swig_voidp arg2, swig_intgo arg3, swig_voidp arg4);
-extern uintptr_t _wrap_MsresampCrcfCreate_liquid_a485eb49052674ea(float arg1, float arg2);
-extern void _wrap_MsresampCrcfExecute_liquid_a485eb49052674ea(uintptr_t arg1, swig_voidp arg2, swig_intgo arg3, swig_voidp arg4, swig_voidp arg5);
-extern uintptr_t _wrap_FreqdemCreate_liquid_a485eb49052674ea(float arg1);
-extern void _wrap_FreqdemDemodulateBlock_liquid_a485eb49052674ea(uintptr_t arg1, swig_voidp arg2, swig_intgo arg3, swig_voidp arg4);
-extern uintptr_t _wrap_NcoCrcfCreate_liquid_a485eb49052674ea(swig_intgo arg1);
-extern void _wrap_NcoCrcfSetFrequency_liquid_a485eb49052674ea(uintptr_t arg1, float arg2);
-extern void _wrap_NcoCrcfSetPhase_liquid_a485eb49052674ea(uintptr_t arg1, float arg2);
-extern void _wrap_NcoCrcfMixBlockUp_liquid_a485eb49052674ea(uintptr_t arg1, swig_voidp arg2, swig_voidp arg3, swig_intgo arg4);
+extern void _wrap_Swig_free_liquid_6882c95e60b8a88d(uintptr_t arg1);
+extern uintptr_t _wrap_Swig_malloc_liquid_6882c95e60b8a88d(swig_intgo arg1);
+extern swig_intgo _wrap_LIQUIDIIRDESBUTTER_liquid_6882c95e60b8a88d(void);
+extern swig_intgo _wrap_LIQUIDIIRDESCHEBY1_liquid_6882c95e60b8a88d(void);
+extern swig_intgo _wrap_LIQUIDIIRDESCHEBY2_liquid_6882c95e60b8a88d(void);
+extern swig_intgo _wrap_LIQUIDIIRDESELLIP_liquid_6882c95e60b8a88d(void);
+extern swig_intgo _wrap_LIQUIDIIRDESBESSEL_liquid_6882c95e60b8a88d(void);
+extern swig_intgo _wrap_LIQUIDIIRDESLOWPASS_liquid_6882c95e60b8a88d(void);
+extern swig_intgo _wrap_LIQUIDIIRDESHIGHPASS_liquid_6882c95e60b8a88d(void);
+extern swig_intgo _wrap_LIQUIDIIRDESBANDPASS_liquid_6882c95e60b8a88d(void);
+extern swig_intgo _wrap_LIQUIDIIRDESBANDSTOP_liquid_6882c95e60b8a88d(void);
+extern swig_intgo _wrap_LIQUIDIIRDESSOS_liquid_6882c95e60b8a88d(void);
+extern swig_intgo _wrap_LIQUIDIIRDESTF_liquid_6882c95e60b8a88d(void);
+extern uintptr_t _wrap_FirfiltRrrfCreate_liquid_6882c95e60b8a88d(swig_voidp arg1, swig_intgo arg2);
+extern void _wrap_FirfiltRrrfExecuteBlock_liquid_6882c95e60b8a88d(uintptr_t arg1, swig_voidp arg2, swig_intgo arg3, swig_voidp arg4);
+extern uintptr_t _wrap_IirfiltCrcfCreatePrototype_liquid_6882c95e60b8a88d(swig_intgo arg1, swig_intgo arg2, swig_intgo arg3, swig_intgo arg4, float arg5, float arg6, float arg7, float arg8);
+extern void _wrap_IirfiltCrcfExecuteBlock_liquid_6882c95e60b8a88d(uintptr_t arg1, swig_voidp arg2, swig_intgo arg3, swig_voidp arg4);
+extern uintptr_t _wrap_MsresampCrcfCreate_liquid_6882c95e60b8a88d(float arg1, float arg2);
+extern void _wrap_MsresampCrcfExecute_liquid_6882c95e60b8a88d(uintptr_t arg1, swig_voidp arg2, swig_intgo arg3, swig_voidp arg4, swig_voidp arg5);
+extern uintptr_t _wrap_FreqdemCreate_liquid_6882c95e60b8a88d(float arg1);
+extern void _wrap_FreqdemDemodulateBlock_liquid_6882c95e60b8a88d(uintptr_t arg1, swig_voidp arg2, swig_intgo arg3, swig_voidp arg4);
+extern uintptr_t _wrap_NcoCrcfCreate_liquid_6882c95e60b8a88d(swig_intgo arg1);
+extern void _wrap_NcoCrcfSetFrequency_liquid_6882c95e60b8a88d(uintptr_t arg1, float arg2);
+extern void _wrap_NcoCrcfSetPhase_liquid_6882c95e60b8a88d(uintptr_t arg1, float arg2);
+extern void _wrap_NcoCrcfMixBlockUp_liquid_6882c95e60b8a88d(uintptr_t arg1, swig_voidp arg2, swig_voidp arg3, swig_intgo arg4);
 #undef intgo
 */
 import "C"
@@ -75,52 +81,96 @@ type _ sync.Mutex
 
 func Swig_free(arg1 uintptr) {
 	_swig_i_0 := arg1
-	C._wrap_Swig_free_liquid_a485eb49052674ea(C.uintptr_t(_swig_i_0))
+	C._wrap_Swig_free_liquid_6882c95e60b8a88d(C.uintptr_t(_swig_i_0))
 }
 
 func Swig_malloc(arg1 int) (_swig_ret uintptr) {
 	var swig_r uintptr
 	_swig_i_0 := arg1
-	swig_r = (uintptr)(C._wrap_Swig_malloc_liquid_a485eb49052674ea(C.swig_intgo(_swig_i_0)))
+	swig_r = (uintptr)(C._wrap_Swig_malloc_liquid_6882c95e60b8a88d(C.swig_intgo(_swig_i_0)))
 	return swig_r
 }
 
 type Liquid_iirdes_filtertype int
 func _swig_getLIQUIDIIRDESBUTTER() (_swig_ret int) {
 	var swig_r int
-	swig_r = (int)(C._wrap_LIQUIDIIRDESBUTTER_liquid_a485eb49052674ea())
+	swig_r = (int)(C._wrap_LIQUIDIIRDESBUTTER_liquid_6882c95e60b8a88d())
 	return swig_r
 }
 
 var LIQUIDIIRDESBUTTER int = _swig_getLIQUIDIIRDESBUTTER()
 func _swig_getLIQUIDIIRDESCHEBY1() (_swig_ret int) {
 	var swig_r int
-	swig_r = (int)(C._wrap_LIQUIDIIRDESCHEBY1_liquid_a485eb49052674ea())
+	swig_r = (int)(C._wrap_LIQUIDIIRDESCHEBY1_liquid_6882c95e60b8a88d())
 	return swig_r
 }
 
 var LIQUIDIIRDESCHEBY1 int = _swig_getLIQUIDIIRDESCHEBY1()
 func _swig_getLIQUIDIIRDESCHEBY2() (_swig_ret int) {
 	var swig_r int
-	swig_r = (int)(C._wrap_LIQUIDIIRDESCHEBY2_liquid_a485eb49052674ea())
+	swig_r = (int)(C._wrap_LIQUIDIIRDESCHEBY2_liquid_6882c95e60b8a88d())
 	return swig_r
 }
 
 var LIQUIDIIRDESCHEBY2 int = _swig_getLIQUIDIIRDESCHEBY2()
 func _swig_getLIQUIDIIRDESELLIP() (_swig_ret int) {
 	var swig_r int
-	swig_r = (int)(C._wrap_LIQUIDIIRDESELLIP_liquid_a485eb49052674ea())
+	swig_r = (int)(C._wrap_LIQUIDIIRDESELLIP_liquid_6882c95e60b8a88d())
 	return swig_r
 }
 
 var LIQUIDIIRDESELLIP int = _swig_getLIQUIDIIRDESELLIP()
 func _swig_getLIQUIDIIRDESBESSEL() (_swig_ret int) {
 	var swig_r int
-	swig_r = (int)(C._wrap_LIQUIDIIRDESBESSEL_liquid_a485eb49052674ea())
+	swig_r = (int)(C._wrap_LIQUIDIIRDESBESSEL_liquid_6882c95e60b8a88d())
 	return swig_r
 }
 
 var LIQUIDIIRDESBESSEL int = _swig_getLIQUIDIIRDESBESSEL()
+type Liquid_iirdes_bandtype int
+func _swig_getLIQUIDIIRDESLOWPASS() (_swig_ret int) {
+	var swig_r int
+	swig_r = (int)(C._wrap_LIQUIDIIRDESLOWPASS_liquid_6882c95e60b8a88d())
+	return swig_r
+}
+
+var LIQUIDIIRDESLOWPASS int = _swig_getLIQUIDIIRDESLOWPASS()
+func _swig_getLIQUIDIIRDESHIGHPASS() (_swig_ret int) {
+	var swig_r int
+	swig_r = (int)(C._wrap_LIQUIDIIRDESHIGHPASS_liquid_6882c95e60b8a88d())
+	return swig_r
+}
+
+var LIQUIDIIRDESHIGHPASS int = _swig_getLIQUIDIIRDESHIGHPASS()
+func _swig_getLIQUIDIIRDESBANDPASS() (_swig_ret int) {
+	var swig_r int
+	swig_r = (int)(C._wrap_LIQUIDIIRDESBANDPASS_liquid_6882c95e60b8a88d())
+	return swig_r
+}
+
+var LIQUIDIIRDESBANDPASS int = _swig_getLIQUIDIIRDESBANDPASS()
+func _swig_getLIQUIDIIRDESBANDSTOP() (_swig_ret int) {
+	var swig_r int
+	swig_r = (int)(C._wrap_LIQUIDIIRDESBANDSTOP_liquid_6882c95e60b8a88d())
+	return swig_r
+}
+
+var LIQUIDIIRDESBANDSTOP int = _swig_getLIQUIDIIRDESBANDSTOP()
+type Liquid_iirdes_format int
+func _swig_getLIQUIDIIRDESSOS() (_swig_ret int) {
+	var swig_r int
+	swig_r = (int)(C._wrap_LIQUIDIIRDESSOS_liquid_6882c95e60b8a88d())
+	return swig_r
+}
+
+var LIQUIDIIRDESSOS int = _swig_getLIQUIDIIRDESSOS()
+func _swig_getLIQUIDIIRDESTF() (_swig_ret int) {
+	var swig_r int
+	swig_r = (int)(C._wrap_LIQUIDIIRDESTF_liquid_6882c95e60b8a88d())
+	return swig_r
+}
+
+var LIQUIDIIRDESTF int = _swig_getLIQUIDIIRDESTF()
 func FirfiltRrrfCreate(arg1 []float32, arg2 uint) (_swig_ret Firfilt_rrrf_s) {
 	var swig_r Firfilt_rrrf_s
 	var _swig_i_0 *C.float
@@ -128,7 +178,7 @@ func FirfiltRrrfCreate(arg1 []float32, arg2 uint) (_swig_ret Firfilt_rrrf_s) {
   _swig_i_0 = (*C.float)(&arg1[0])
 }
 	_swig_i_1 := arg2
-	swig_r = (Firfilt_rrrf_s)(SwigcptrFirfilt_rrrf_s(C._wrap_FirfiltRrrfCreate_liquid_a485eb49052674ea(C.swig_voidp(_swig_i_0), C.swig_intgo(_swig_i_1))))
+	swig_r = (Firfilt_rrrf_s)(SwigcptrFirfilt_rrrf_s(C._wrap_FirfiltRrrfCreate_liquid_6882c95e60b8a88d(C.swig_voidp(_swig_i_0), C.swig_intgo(_swig_i_1))))
 	return swig_r
 }
 
@@ -143,7 +193,7 @@ func FirfiltRrrfExecuteBlock(arg1 Firfilt_rrrf_s, arg2 []float32, arg3 uint, arg
 {
   _swig_i_3 = (*C.float)(&arg4[0])
 }
-	C._wrap_FirfiltRrrfExecuteBlock_liquid_a485eb49052674ea(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2), C.swig_voidp(_swig_i_3))
+	C._wrap_FirfiltRrrfExecuteBlock_liquid_6882c95e60b8a88d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2), C.swig_voidp(_swig_i_3))
 }
 
 func IirfiltCrcfCreatePrototype(arg1 Liquid_iirdes_filtertype, arg2 Liquid_iirdes_bandtype, arg3 Liquid_iirdes_format, arg4 uint, arg5 float32, arg6 float32, arg7 float32, arg8 float32) (_swig_ret Iirfilt_crcf_s) {
@@ -156,7 +206,7 @@ func IirfiltCrcfCreatePrototype(arg1 Liquid_iirdes_filtertype, arg2 Liquid_iirde
 	_swig_i_5 := arg6
 	_swig_i_6 := arg7
 	_swig_i_7 := arg8
-	swig_r = (Iirfilt_crcf_s)(SwigcptrIirfilt_crcf_s(C._wrap_IirfiltCrcfCreatePrototype_liquid_a485eb49052674ea(C.swig_intgo(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.float(_swig_i_4), C.float(_swig_i_5), C.float(_swig_i_6), C.float(_swig_i_7))))
+	swig_r = (Iirfilt_crcf_s)(SwigcptrIirfilt_crcf_s(C._wrap_IirfiltCrcfCreatePrototype_liquid_6882c95e60b8a88d(C.swig_intgo(_swig_i_0), C.swig_intgo(_swig_i_1), C.swig_intgo(_swig_i_2), C.swig_intgo(_swig_i_3), C.float(_swig_i_4), C.float(_swig_i_5), C.float(_swig_i_6), C.float(_swig_i_7))))
 	return swig_r
 }
 
@@ -171,14 +221,14 @@ func IirfiltCrcfExecuteBlock(arg1 Iirfilt_crcf_s, arg2 []complex64, arg3 uint, a
 {
   _swig_i_3 = (*C.complexfloat)(&arg4[0])
 }
-	C._wrap_IirfiltCrcfExecuteBlock_liquid_a485eb49052674ea(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2), C.swig_voidp(_swig_i_3))
+	C._wrap_IirfiltCrcfExecuteBlock_liquid_6882c95e60b8a88d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2), C.swig_voidp(_swig_i_3))
 }
 
 func MsresampCrcfCreate(arg1 float32, arg2 float32) (_swig_ret Msresamp_crcf_s) {
 	var swig_r Msresamp_crcf_s
 	_swig_i_0 := arg1
 	_swig_i_1 := arg2
-	swig_r = (Msresamp_crcf_s)(SwigcptrMsresamp_crcf_s(C._wrap_MsresampCrcfCreate_liquid_a485eb49052674ea(C.float(_swig_i_0), C.float(_swig_i_1))))
+	swig_r = (Msresamp_crcf_s)(SwigcptrMsresamp_crcf_s(C._wrap_MsresampCrcfCreate_liquid_6882c95e60b8a88d(C.float(_swig_i_0), C.float(_swig_i_1))))
 	return swig_r
 }
 
@@ -194,13 +244,13 @@ func MsresampCrcfExecute(arg1 Msresamp_crcf_s, arg2 []complex64, arg3 uint, arg4
   _swig_i_3 = (*C.complexfloat)(&arg4[0])
 }
 	_swig_i_4 := arg5
-	C._wrap_MsresampCrcfExecute_liquid_a485eb49052674ea(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2), C.swig_voidp(_swig_i_3), C.swig_voidp(_swig_i_4))
+	C._wrap_MsresampCrcfExecute_liquid_6882c95e60b8a88d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2), C.swig_voidp(_swig_i_3), C.swig_voidp(_swig_i_4))
 }
 
 func FreqdemCreate(arg1 float32) (_swig_ret Freqdem_s) {
 	var swig_r Freqdem_s
 	_swig_i_0 := arg1
-	swig_r = (Freqdem_s)(SwigcptrFreqdem_s(C._wrap_FreqdemCreate_liquid_a485eb49052674ea(C.float(_swig_i_0))))
+	swig_r = (Freqdem_s)(SwigcptrFreqdem_s(C._wrap_FreqdemCreate_liquid_6882c95e60b8a88d(C.float(_swig_i_0))))
 	return swig_r
 }
 
@@ -215,27 +265,27 @@ func FreqdemDemodulateBlock(arg1 Freqdem_s, arg2 []complex64, arg3 uint, arg4 []
 {
   _swig_i_3 = (*C.float)(&arg4[0])
 }
-	C._wrap_FreqdemDemodulateBlock_liquid_a485eb49052674ea(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2), C.swig_voidp(_swig_i_3))
+	C._wrap_FreqdemDemodulateBlock_liquid_6882c95e60b8a88d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_intgo(_swig_i_2), C.swig_voidp(_swig_i_3))
 }
 
 type Liquid_ncotype int
 func NcoCrcfCreate(arg1 Liquid_ncotype) (_swig_ret Nco_crcf_s) {
 	var swig_r Nco_crcf_s
 	_swig_i_0 := arg1
-	swig_r = (Nco_crcf_s)(SwigcptrNco_crcf_s(C._wrap_NcoCrcfCreate_liquid_a485eb49052674ea(C.swig_intgo(_swig_i_0))))
+	swig_r = (Nco_crcf_s)(SwigcptrNco_crcf_s(C._wrap_NcoCrcfCreate_liquid_6882c95e60b8a88d(C.swig_intgo(_swig_i_0))))
 	return swig_r
 }
 
 func NcoCrcfSetFrequency(arg1 Nco_crcf_s, arg2 float32) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
-	C._wrap_NcoCrcfSetFrequency_liquid_a485eb49052674ea(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
+	C._wrap_NcoCrcfSetFrequency_liquid_6882c95e60b8a88d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
 }
 
 func NcoCrcfSetPhase(arg1 Nco_crcf_s, arg2 float32) {
 	_swig_i_0 := arg1.Swigcptr()
 	_swig_i_1 := arg2
-	C._wrap_NcoCrcfSetPhase_liquid_a485eb49052674ea(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
+	C._wrap_NcoCrcfSetPhase_liquid_6882c95e60b8a88d(C.uintptr_t(_swig_i_0), C.float(_swig_i_1))
 }
 
 func NcoCrcfMixBlockUp(arg1 Nco_crcf_s, arg2 []complex64, arg3 []complex64, arg4 uint) {
@@ -249,12 +299,9 @@ func NcoCrcfMixBlockUp(arg1 Nco_crcf_s, arg2 []complex64, arg3 []complex64, arg4
   _swig_i_2 = (*C.complexfloat)(&arg3[0])
 }
 	_swig_i_3 := arg4
-	C._wrap_NcoCrcfMixBlockUp_liquid_a485eb49052674ea(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_voidp(_swig_i_2), C.swig_intgo(_swig_i_3))
+	C._wrap_NcoCrcfMixBlockUp_liquid_6882c95e60b8a88d(C.uintptr_t(_swig_i_0), C.swig_voidp(_swig_i_1), C.swig_voidp(_swig_i_2), C.swig_intgo(_swig_i_3))
 }
 
-
-type Liquid_iirdes_format int
-type Liquid_iirdes_bandtype int
 
 type SwigcptrIirfilt_crcf_s uintptr
 type Iirfilt_crcf_s interface {
