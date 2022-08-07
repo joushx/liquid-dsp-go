@@ -55,7 +55,7 @@
 }
 %typemap(goout) liquid_float_complex* {
   fmt.Printf("Warning: This function does not return anything! %v", $1)
-  $result = []complex64{} // is there no way to get the array length? :(
+  $result = []complex64{} // TODO: take length from somewhere
 }
 
 // float array
@@ -66,7 +66,7 @@
 }
 %typemap(goout) float* {
   fmt.Printf("Warning: This function does not return anything! %v", $1)
-  $result = []float32{} // is there no way to get the array length? :(
+  $result = []float32{} // TODO: take length from somewhere
 }
 
 %include "liquid/liquid.h";
