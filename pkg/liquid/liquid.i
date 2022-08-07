@@ -39,6 +39,18 @@
 %rename("%(camelcase)s") firfilt_rrrf_execute_block;
 %rename("%(camelcase)s") msresamp_crcf_create;
 %rename("%(camelcase)s") msresamp_crcf_execute;
+%rename("%(camelcase)s") liquid_iirdes_filtertype;
+%rename("%(camelcase)s") LIQUID_IIRDES_BUTTER;
+%rename("%(camelcase)s") LIQUID_IIRDES_CHEBY1;
+%rename("%(camelcase)s") LIQUID_IIRDES_CHEBY2;
+%rename("%(camelcase)s") LIQUID_IIRDES_ELLIP;
+%rename("%(camelcase)s") LIQUID_IIRDES_BESSEL;
+%rename("%(camelcase)s") LIQUID_IIRDES_LOWPASS;
+%rename("%(camelcase)s") LIQUID_IIRDES_HIGHPASS;
+%rename("%(camelcase)s") LIQUID_IIRDES_BANDPASS;
+%rename("%(camelcase)s") LIQUID_IIRDES_BANDSTOP;
+%rename("%(camelcase)s") LIQUID_IIRDES_SOS;
+%rename("%(camelcase)s") LIQUID_IIRDES_TF;
 %rename("%s") complexfloat;
 
 %include "typemaps.i";
