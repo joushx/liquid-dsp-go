@@ -29,6 +29,7 @@
 %ignore set_imag;
 %ignore get_imag;
 %ignore liquid_float_complex;
+%ignore liquid_double_complex;
 
 %rename("%(camelcase)s") "";
 
